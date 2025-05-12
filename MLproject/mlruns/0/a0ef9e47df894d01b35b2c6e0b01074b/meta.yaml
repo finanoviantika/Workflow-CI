@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a0ef9e47df894d01b35b2c6e0b01074b/artifacts
+end_time: 1747053042798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0ef9e47df894d01b35b2c6e0b01074b
+run_name: clean-ape-297
+run_uuid: a0ef9e47df894d01b35b2c6e0b01074b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747053036461
+status: 3
+tags: []
+user_id: runner
