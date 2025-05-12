@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef0cb0d1e26a47caa610db862daeabfe/artifacts
+end_time: 1747075173019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef0cb0d1e26a47caa610db862daeabfe
+run_name: sneaky-wren-602
+run_uuid: ef0cb0d1e26a47caa610db862daeabfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747075166743
+status: 3
+tags: []
+user_id: runner
