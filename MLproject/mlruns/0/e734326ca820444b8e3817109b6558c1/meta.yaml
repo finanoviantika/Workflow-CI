@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e734326ca820444b8e3817109b6558c1/artifacts
+end_time: 1747073681415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e734326ca820444b8e3817109b6558c1
+run_name: hilarious-skunk-591
+run_uuid: e734326ca820444b8e3817109b6558c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747073674998
+status: 3
+tags: []
+user_id: runner
