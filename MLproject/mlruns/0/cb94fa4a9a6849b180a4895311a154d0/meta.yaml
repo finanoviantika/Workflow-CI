@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cb94fa4a9a6849b180a4895311a154d0/artifacts
+end_time: 1747055484702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb94fa4a9a6849b180a4895311a154d0
+run_name: intelligent-carp-426
+run_uuid: cb94fa4a9a6849b180a4895311a154d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055478114
+status: 3
+tags: []
+user_id: runner
