@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90f10d5064464d569eae672e47d0bbb2/artifacts
+end_time: 1747070344051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90f10d5064464d569eae672e47d0bbb2
+run_name: thundering-deer-749
+run_uuid: 90f10d5064464d569eae672e47d0bbb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747070337684
+status: 3
+tags: []
+user_id: runner
