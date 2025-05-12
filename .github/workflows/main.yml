@@ -70,7 +70,7 @@ jobs:
       # Build Docker Model
       - name: Build Docker Model
         run: |
-          docker build -t ml-model:latest .
+          mlflow models build-docker --model-uri "runs:/$RUN_ID/model" --name "ml-model"
 
       # Login to Docker Hub
       - name: Log in to Docker Hub
@@ -82,7 +82,7 @@ jobs:
       # Tag Docker Image
       - name: Tag Docker Image
         run: |
-          docker tag ml-model:latest ${{ secrets.DOCKER_HUB_USERNAME }}/ml-model:latest
+          docker tag ml-model ${{ secrets.DOCKER_HUB_USERNAME }}/ml-model:latest
 
       # Push Docker Image
       - name: Push Docker Image
