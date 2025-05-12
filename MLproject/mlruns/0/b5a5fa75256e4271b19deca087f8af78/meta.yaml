@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b5a5fa75256e4271b19deca087f8af78/artifacts
+end_time: 1747080854341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a5fa75256e4271b19deca087f8af78
+run_name: handsome-ape-681
+run_uuid: b5a5fa75256e4271b19deca087f8af78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747080848062
+status: 3
+tags: []
+user_id: runner
