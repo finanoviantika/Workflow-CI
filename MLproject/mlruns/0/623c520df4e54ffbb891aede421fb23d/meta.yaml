@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/623c520df4e54ffbb891aede421fb23d/artifacts
+end_time: 1747088267037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623c520df4e54ffbb891aede421fb23d
+run_name: efficient-mink-187
+run_uuid: 623c520df4e54ffbb891aede421fb23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747088260725
+status: 3
+tags: []
+user_id: runner
