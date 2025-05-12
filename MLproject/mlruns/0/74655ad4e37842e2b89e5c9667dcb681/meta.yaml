@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/74655ad4e37842e2b89e5c9667dcb681/artifacts
+end_time: 1747056095459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74655ad4e37842e2b89e5c9667dcb681
+run_name: nosy-deer-502
+run_uuid: 74655ad4e37842e2b89e5c9667dcb681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747056088936
+status: 3
+tags: []
+user_id: runner
