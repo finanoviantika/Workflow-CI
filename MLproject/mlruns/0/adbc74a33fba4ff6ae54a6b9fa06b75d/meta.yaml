@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/adbc74a33fba4ff6ae54a6b9fa06b75d/artifacts
+end_time: 1747063248445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adbc74a33fba4ff6ae54a6b9fa06b75d
+run_name: spiffy-snake-451
+run_uuid: adbc74a33fba4ff6ae54a6b9fa06b75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747063242196
+status: 3
+tags: []
+user_id: runner
