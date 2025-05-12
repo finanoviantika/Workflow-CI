@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db8ca1e262fb4bd7bfc5bc19669d7657/artifacts
+end_time: 1747056535976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db8ca1e262fb4bd7bfc5bc19669d7657
+run_name: nervous-loon-809
+run_uuid: db8ca1e262fb4bd7bfc5bc19669d7657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747056529619
+status: 3
+tags: []
+user_id: runner
