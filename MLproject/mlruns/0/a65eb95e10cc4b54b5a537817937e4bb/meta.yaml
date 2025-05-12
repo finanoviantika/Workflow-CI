@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a65eb95e10cc4b54b5a537817937e4bb/artifacts
+end_time: 1747092611495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a65eb95e10cc4b54b5a537817937e4bb
+run_name: traveling-trout-42
+run_uuid: a65eb95e10cc4b54b5a537817937e4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092605304
+status: 3
+tags: []
+user_id: runner
