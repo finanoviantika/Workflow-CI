@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7cd26c2f04a944f6ab8bb79f4e235bc0/artifacts
+end_time: 1747068260749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cd26c2f04a944f6ab8bb79f4e235bc0
+run_name: resilient-croc-579
+run_uuid: 7cd26c2f04a944f6ab8bb79f4e235bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747068254533
+status: 3
+tags: []
+user_id: runner
