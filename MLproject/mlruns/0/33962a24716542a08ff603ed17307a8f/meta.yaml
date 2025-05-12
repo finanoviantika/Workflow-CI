@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/33962a24716542a08ff603ed17307a8f/artifacts
+end_time: 1747056009450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33962a24716542a08ff603ed17307a8f
+run_name: agreeable-carp-382
+run_uuid: 33962a24716542a08ff603ed17307a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747056003170
+status: 3
+tags: []
+user_id: runner
