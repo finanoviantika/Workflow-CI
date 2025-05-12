@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/96a0fc86bbde4a1fb436361e27dcf77b/artifacts
+end_time: 1747087482453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96a0fc86bbde4a1fb436361e27dcf77b
+run_name: casual-fly-565
+run_uuid: 96a0fc86bbde4a1fb436361e27dcf77b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747087476224
+status: 3
+tags: []
+user_id: runner
