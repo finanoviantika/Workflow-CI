@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6a0271fe968c43dd944e18efcc95d1ed/artifacts
+end_time: 1747060200214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a0271fe968c43dd944e18efcc95d1ed
+run_name: placid-perch-38
+run_uuid: 6a0271fe968c43dd944e18efcc95d1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747060193507
+status: 3
+tags: []
+user_id: runner
