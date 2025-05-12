@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eeeb581d586a4efc949bf5bd6d227f2e/artifacts
+end_time: 1747090344613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeeb581d586a4efc949bf5bd6d227f2e
+run_name: nervous-donkey-76
+run_uuid: eeeb581d586a4efc949bf5bd6d227f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090338255
+status: 3
+tags: []
+user_id: runner
