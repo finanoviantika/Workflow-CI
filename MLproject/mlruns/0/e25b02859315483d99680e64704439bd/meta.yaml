@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e25b02859315483d99680e64704439bd/artifacts
+end_time: 1747073509751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e25b02859315483d99680e64704439bd
+run_name: bittersweet-duck-150
+run_uuid: e25b02859315483d99680e64704439bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747073503011
+status: 3
+tags: []
+user_id: runner
