@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ec8b616fe91544e2aa1dc03930c96a37/artifacts
+end_time: 1747076642290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec8b616fe91544e2aa1dc03930c96a37
+run_name: popular-shad-676
+run_uuid: ec8b616fe91544e2aa1dc03930c96a37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076635618
+status: 3
+tags: []
+user_id: runner
