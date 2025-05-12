@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7a58cf35ae11434d9f726088f4ad59fc/artifacts
+end_time: 1747062449753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a58cf35ae11434d9f726088f4ad59fc
+run_name: painted-snake-368
+run_uuid: 7a58cf35ae11434d9f726088f4ad59fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062443431
+status: 3
+tags: []
+user_id: runner
