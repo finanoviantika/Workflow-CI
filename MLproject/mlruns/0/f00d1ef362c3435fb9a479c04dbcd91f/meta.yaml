@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f00d1ef362c3435fb9a479c04dbcd91f/artifacts
+end_time: 1747079792273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f00d1ef362c3435fb9a479c04dbcd91f
+run_name: valuable-dove-854
+run_uuid: f00d1ef362c3435fb9a479c04dbcd91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747079785654
+status: 3
+tags: []
+user_id: runner
