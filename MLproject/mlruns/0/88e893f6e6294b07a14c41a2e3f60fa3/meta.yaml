@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/88e893f6e6294b07a14c41a2e3f60fa3/artifacts
+end_time: 1747060284020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88e893f6e6294b07a14c41a2e3f60fa3
+run_name: amazing-crow-274
+run_uuid: 88e893f6e6294b07a14c41a2e3f60fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747060277601
+status: 3
+tags: []
+user_id: runner
