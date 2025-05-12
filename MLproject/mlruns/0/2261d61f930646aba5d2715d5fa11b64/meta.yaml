@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2261d61f930646aba5d2715d5fa11b64/artifacts
+end_time: 1747076552388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2261d61f930646aba5d2715d5fa11b64
+run_name: nosy-mare-394
+run_uuid: 2261d61f930646aba5d2715d5fa11b64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076546017
+status: 3
+tags: []
+user_id: runner
