@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a9b15e8cf49f4561b356f1013612bc93/artifacts
+end_time: 1747052596787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9b15e8cf49f4561b356f1013612bc93
+run_name: capricious-kit-137
+run_uuid: a9b15e8cf49f4561b356f1013612bc93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747052590449
+status: 3
+tags: []
+user_id: runner
