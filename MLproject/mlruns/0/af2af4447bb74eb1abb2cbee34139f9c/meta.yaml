@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af2af4447bb74eb1abb2cbee34139f9c/artifacts
+end_time: 1747062100753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af2af4447bb74eb1abb2cbee34139f9c
+run_name: illustrious-jay-766
+run_uuid: af2af4447bb74eb1abb2cbee34139f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062093693
+status: 3
+tags: []
+user_id: runner
