@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/64e6d87061244662ab68b802f2ad2544/artifacts
+end_time: 1747055753888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e6d87061244662ab68b802f2ad2544
+run_name: rumbling-duck-647
+run_uuid: 64e6d87061244662ab68b802f2ad2544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055746938
+status: 3
+tags: []
+user_id: runner
