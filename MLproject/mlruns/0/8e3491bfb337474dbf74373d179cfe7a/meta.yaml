@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8e3491bfb337474dbf74373d179cfe7a/artifacts
+end_time: 1747083189621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e3491bfb337474dbf74373d179cfe7a
+run_name: sincere-worm-386
+run_uuid: 8e3491bfb337474dbf74373d179cfe7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747083183204
+status: 3
+tags: []
+user_id: runner
