@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/830251bb0de24ca0a41238d5688b096c/artifacts
+end_time: 1747069909472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 830251bb0de24ca0a41238d5688b096c
+run_name: dapper-shrew-558
+run_uuid: 830251bb0de24ca0a41238d5688b096c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069902843
+status: 3
+tags: []
+user_id: runner
