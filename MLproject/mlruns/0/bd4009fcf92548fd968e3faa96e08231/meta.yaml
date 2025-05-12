@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd4009fcf92548fd968e3faa96e08231/artifacts
+end_time: 1747069302569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd4009fcf92548fd968e3faa96e08231
+run_name: powerful-jay-663
+run_uuid: bd4009fcf92548fd968e3faa96e08231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069296334
+status: 3
+tags: []
+user_id: runner
