@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7ffb459ddeae4366a54fc10020567f4e/artifacts
+end_time: 1747058363409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ffb459ddeae4366a54fc10020567f4e
+run_name: suave-crab-900
+run_uuid: 7ffb459ddeae4366a54fc10020567f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747058357072
+status: 3
+tags: []
+user_id: runner
