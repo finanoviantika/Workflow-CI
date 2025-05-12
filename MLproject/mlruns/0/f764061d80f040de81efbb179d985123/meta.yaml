@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f764061d80f040de81efbb179d985123/artifacts
+end_time: 1747070083525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f764061d80f040de81efbb179d985123
+run_name: omniscient-robin-69
+run_uuid: f764061d80f040de81efbb179d985123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747070077259
+status: 3
+tags: []
+user_id: runner
