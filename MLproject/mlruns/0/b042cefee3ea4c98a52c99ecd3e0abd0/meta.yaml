@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b042cefee3ea4c98a52c99ecd3e0abd0/artifacts
+end_time: 1747058006685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b042cefee3ea4c98a52c99ecd3e0abd0
+run_name: gaudy-squid-222
+run_uuid: b042cefee3ea4c98a52c99ecd3e0abd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747058000263
+status: 3
+tags: []
+user_id: runner
