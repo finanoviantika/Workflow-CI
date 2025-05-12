@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3aee85845b124469ac2022c730c349eb/artifacts
+end_time: 1747093149411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aee85845b124469ac2022c730c349eb
+run_name: resilient-gnat-655
+run_uuid: 3aee85845b124469ac2022c730c349eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747093143078
+status: 3
+tags: []
+user_id: runner
