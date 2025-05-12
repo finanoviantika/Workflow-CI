@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a88f33e5d6424ab6874e61b12a4569c7/artifacts
+end_time: 1747080502410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a88f33e5d6424ab6874e61b12a4569c7
+run_name: melodic-hen-648
+run_uuid: a88f33e5d6424ab6874e61b12a4569c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747080496120
+status: 3
+tags: []
+user_id: runner
