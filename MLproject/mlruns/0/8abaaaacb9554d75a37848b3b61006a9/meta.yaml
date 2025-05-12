@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8abaaaacb9554d75a37848b3b61006a9/artifacts
+end_time: 1747082773336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8abaaaacb9554d75a37848b3b61006a9
+run_name: efficient-vole-516
+run_uuid: 8abaaaacb9554d75a37848b3b61006a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082767111
+status: 3
+tags: []
+user_id: runner
