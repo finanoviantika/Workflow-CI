@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6155dc63c454155be2259f900c9a03a/artifacts
+end_time: 1747055145443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6155dc63c454155be2259f900c9a03a
+run_name: enchanting-eel-3
+run_uuid: a6155dc63c454155be2259f900c9a03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055139183
+status: 3
+tags: []
+user_id: runner
