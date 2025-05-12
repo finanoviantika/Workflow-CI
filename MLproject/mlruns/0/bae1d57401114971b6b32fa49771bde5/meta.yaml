@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bae1d57401114971b6b32fa49771bde5/artifacts
+end_time: 1747059758677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bae1d57401114971b6b32fa49771bde5
+run_name: handsome-snake-738
+run_uuid: bae1d57401114971b6b32fa49771bde5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747059752477
+status: 3
+tags: []
+user_id: runner
