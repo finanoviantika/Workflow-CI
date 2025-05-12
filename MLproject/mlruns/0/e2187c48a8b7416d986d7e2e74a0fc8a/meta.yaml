@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2187c48a8b7416d986d7e2e74a0fc8a/artifacts
+end_time: 1747076901457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2187c48a8b7416d986d7e2e74a0fc8a
+run_name: clumsy-smelt-139
+run_uuid: e2187c48a8b7416d986d7e2e74a0fc8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076895170
+status: 3
+tags: []
+user_id: runner
