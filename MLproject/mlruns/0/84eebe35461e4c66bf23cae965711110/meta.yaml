@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/84eebe35461e4c66bf23cae965711110/artifacts
+end_time: 1747083807265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84eebe35461e4c66bf23cae965711110
+run_name: nosy-sloth-44
+run_uuid: 84eebe35461e4c66bf23cae965711110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747083800982
+status: 3
+tags: []
+user_id: runner
