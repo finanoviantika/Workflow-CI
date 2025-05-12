@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/190f49827efc4d1fba9c26c3f52c334e/artifacts
+end_time: 1747077864595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 190f49827efc4d1fba9c26c3f52c334e
+run_name: sneaky-zebra-495
+run_uuid: 190f49827efc4d1fba9c26c3f52c334e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077858326
+status: 3
+tags: []
+user_id: runner
