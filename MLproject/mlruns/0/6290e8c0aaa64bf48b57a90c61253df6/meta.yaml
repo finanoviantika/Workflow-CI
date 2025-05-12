@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6290e8c0aaa64bf48b57a90c61253df6/artifacts
+end_time: 1747077429132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6290e8c0aaa64bf48b57a90c61253df6
+run_name: unique-snipe-289
+run_uuid: 6290e8c0aaa64bf48b57a90c61253df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077422282
+status: 3
+tags: []
+user_id: runner
