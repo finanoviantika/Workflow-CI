@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a2790921921e4521b74efa48e9e46f03/artifacts
+end_time: 1747054043541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2790921921e4521b74efa48e9e46f03
+run_name: redolent-shark-67
+run_uuid: a2790921921e4521b74efa48e9e46f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054037260
+status: 3
+tags: []
+user_id: runner
