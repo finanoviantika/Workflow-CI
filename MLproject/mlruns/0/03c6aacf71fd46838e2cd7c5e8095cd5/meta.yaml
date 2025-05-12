@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/03c6aacf71fd46838e2cd7c5e8095cd5/artifacts
+end_time: 1747082331077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03c6aacf71fd46838e2cd7c5e8095cd5
+run_name: carefree-skunk-137
+run_uuid: 03c6aacf71fd46838e2cd7c5e8095cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082324603
+status: 3
+tags: []
+user_id: runner
