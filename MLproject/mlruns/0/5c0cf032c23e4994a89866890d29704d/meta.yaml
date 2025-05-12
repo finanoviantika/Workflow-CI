@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c0cf032c23e4994a89866890d29704d/artifacts
+end_time: 1747082154008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0cf032c23e4994a89866890d29704d
+run_name: welcoming-pig-979
+run_uuid: 5c0cf032c23e4994a89866890d29704d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082147606
+status: 3
+tags: []
+user_id: runner
