@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1526e9835fad4d4397758a53e5a3e905/artifacts
+end_time: 1747056789561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1526e9835fad4d4397758a53e5a3e905
+run_name: receptive-grouse-675
+run_uuid: 1526e9835fad4d4397758a53e5a3e905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747056783274
+status: 3
+tags: []
+user_id: runner
