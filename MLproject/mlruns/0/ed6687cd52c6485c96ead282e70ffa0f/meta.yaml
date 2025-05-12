@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed6687cd52c6485c96ead282e70ffa0f/artifacts
+end_time: 1747082244558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed6687cd52c6485c96ead282e70ffa0f
+run_name: unruly-sponge-836
+run_uuid: ed6687cd52c6485c96ead282e70ffa0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082238050
+status: 3
+tags: []
+user_id: runner
