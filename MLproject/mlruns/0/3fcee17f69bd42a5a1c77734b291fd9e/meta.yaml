@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3fcee17f69bd42a5a1c77734b291fd9e/artifacts
+end_time: 1747094297545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fcee17f69bd42a5a1c77734b291fd9e
+run_name: valuable-bird-738
+run_uuid: 3fcee17f69bd42a5a1c77734b291fd9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747094291241
+status: 3
+tags: []
+user_id: runner
