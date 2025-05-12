@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fc9b451f140c46d59c2a51d77013455c/artifacts
+end_time: 1747066331105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9b451f140c46d59c2a51d77013455c
+run_name: smiling-grub-667
+run_uuid: fc9b451f140c46d59c2a51d77013455c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066324590
+status: 3
+tags: []
+user_id: runner
