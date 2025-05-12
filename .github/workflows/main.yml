@@ -61,14 +61,6 @@ jobs:
             echo "No mlruns directory found, skipping."
           fi
 
-      - name: Upload MLflow artifacts to GitHub Actions
-        uses: actions/upload-artifact@v4
-        with:
-          name: mlflow-artifacts
-          path: |
-            MLproject/mlruns/
-          if-no-files-found: warn
-
       - name: Build Docker image from ML model
         run: |
           mlflow models build-docker --model-uri "runs:/${{ env.RUN_ID }}/model" --name "ml-model"
