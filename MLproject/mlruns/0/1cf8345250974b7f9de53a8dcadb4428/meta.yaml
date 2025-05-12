@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1cf8345250974b7f9de53a8dcadb4428/artifacts
+end_time: 1747077081386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf8345250974b7f9de53a8dcadb4428
+run_name: polite-ox-524
+run_uuid: 1cf8345250974b7f9de53a8dcadb4428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077074808
+status: 3
+tags: []
+user_id: runner
