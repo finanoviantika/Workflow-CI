@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1df7014646842bbbd2f42cd517dafff/artifacts
+end_time: 1747051721478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1df7014646842bbbd2f42cd517dafff
+run_name: legendary-slug-583
+run_uuid: f1df7014646842bbbd2f42cd517dafff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747051715176
+status: 3
+tags: []
+user_id: runner
