@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6cbae839527a46b583cf57d240a2cee1/artifacts
+end_time: 1747054401227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cbae839527a46b583cf57d240a2cee1
+run_name: intelligent-fly-341
+run_uuid: 6cbae839527a46b583cf57d240a2cee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054394733
+status: 3
+tags: []
+user_id: runner
