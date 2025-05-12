@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/08f6221eb6e44678a6f09055c160408b/artifacts
+end_time: 1747065451595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08f6221eb6e44678a6f09055c160408b
+run_name: gentle-donkey-359
+run_uuid: 08f6221eb6e44678a6f09055c160408b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747065445034
+status: 3
+tags: []
+user_id: runner
