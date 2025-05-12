@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2621d6279c5c45e98ea147c51d06b150/artifacts
+end_time: 1747069649701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2621d6279c5c45e98ea147c51d06b150
+run_name: vaunted-finch-11
+run_uuid: 2621d6279c5c45e98ea147c51d06b150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069643359
+status: 3
+tags: []
+user_id: runner
