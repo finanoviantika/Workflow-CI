@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f9604311e618406389acee56d5f23ffb/artifacts
+end_time: 1747089483459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9604311e618406389acee56d5f23ffb
+run_name: likeable-dog-338
+run_uuid: f9604311e618406389acee56d5f23ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089476996
+status: 3
+tags: []
+user_id: runner
