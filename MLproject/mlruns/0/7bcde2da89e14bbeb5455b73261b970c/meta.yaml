@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7bcde2da89e14bbeb5455b73261b970c/artifacts
+end_time: 1747084861743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bcde2da89e14bbeb5455b73261b970c
+run_name: clumsy-trout-870
+run_uuid: 7bcde2da89e14bbeb5455b73261b970c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747084855278
+status: 3
+tags: []
+user_id: runner
