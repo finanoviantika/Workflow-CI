@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/68f9d6101f5f437fa2e20c68a03490e8/artifacts
+end_time: 1747063430032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68f9d6101f5f437fa2e20c68a03490e8
+run_name: delightful-doe-160
+run_uuid: 68f9d6101f5f437fa2e20c68a03490e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747063423519
+status: 3
+tags: []
+user_id: runner
