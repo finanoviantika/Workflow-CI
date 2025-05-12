@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9d676ff5d3dc4bbfa7d602e7966fb059/artifacts
+end_time: 1747066691072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d676ff5d3dc4bbfa7d602e7966fb059
+run_name: awesome-hen-670
+run_uuid: 9d676ff5d3dc4bbfa7d602e7966fb059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066684133
+status: 3
+tags: []
+user_id: runner
