@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/69f10873ed28483b9bdab7548755f8ab/artifacts
+end_time: 1747055056132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69f10873ed28483b9bdab7548755f8ab
+run_name: nervous-whale-42
+run_uuid: 69f10873ed28483b9bdab7548755f8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055049806
+status: 3
+tags: []
+user_id: runner
