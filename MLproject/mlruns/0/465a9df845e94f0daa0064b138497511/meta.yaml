@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/465a9df845e94f0daa0064b138497511/artifacts
+end_time: 1747055659566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 465a9df845e94f0daa0064b138497511
+run_name: orderly-asp-495
+run_uuid: 465a9df845e94f0daa0064b138497511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055652987
+status: 3
+tags: []
+user_id: runner
