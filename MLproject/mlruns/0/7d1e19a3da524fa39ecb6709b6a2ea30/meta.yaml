@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d1e19a3da524fa39ecb6709b6a2ea30/artifacts
+end_time: 1747082062568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1e19a3da524fa39ecb6709b6a2ea30
+run_name: trusting-colt-79
+run_uuid: 7d1e19a3da524fa39ecb6709b6a2ea30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082056132
+status: 3
+tags: []
+user_id: runner
