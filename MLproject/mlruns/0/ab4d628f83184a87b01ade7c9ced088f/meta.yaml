@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab4d628f83184a87b01ade7c9ced088f/artifacts
+end_time: 1747078120917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab4d628f83184a87b01ade7c9ced088f
+run_name: popular-yak-161
+run_uuid: ab4d628f83184a87b01ade7c9ced088f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078114590
+status: 3
+tags: []
+user_id: runner
