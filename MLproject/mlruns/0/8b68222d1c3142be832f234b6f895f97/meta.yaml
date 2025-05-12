@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8b68222d1c3142be832f234b6f895f97/artifacts
+end_time: 1747093586069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b68222d1c3142be832f234b6f895f97
+run_name: judicious-finch-753
+run_uuid: 8b68222d1c3142be832f234b6f895f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747093579771
+status: 3
+tags: []
+user_id: runner
