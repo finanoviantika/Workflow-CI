@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/913bb25729b14a03b22b905d0f05b133/artifacts
+end_time: 1747086621405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 913bb25729b14a03b22b905d0f05b133
+run_name: debonair-mouse-916
+run_uuid: 913bb25729b14a03b22b905d0f05b133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086615162
+status: 3
+tags: []
+user_id: runner
