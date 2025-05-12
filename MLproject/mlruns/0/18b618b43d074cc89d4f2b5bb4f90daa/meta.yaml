@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/18b618b43d074cc89d4f2b5bb4f90daa/artifacts
+end_time: 1747053127140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18b618b43d074cc89d4f2b5bb4f90daa
+run_name: smiling-skunk-491
+run_uuid: 18b618b43d074cc89d4f2b5bb4f90daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747053120901
+status: 3
+tags: []
+user_id: runner
