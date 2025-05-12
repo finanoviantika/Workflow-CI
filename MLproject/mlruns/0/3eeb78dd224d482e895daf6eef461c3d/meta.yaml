@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3eeb78dd224d482e895daf6eef461c3d/artifacts
+end_time: 1747071132613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eeb78dd224d482e895daf6eef461c3d
+run_name: peaceful-mule-654
+run_uuid: 3eeb78dd224d482e895daf6eef461c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071126212
+status: 3
+tags: []
+user_id: runner
