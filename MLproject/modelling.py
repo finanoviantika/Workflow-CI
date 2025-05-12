@@ -26,9 +26,9 @@ if __name__ == "__main__":
     )
 
     #Log Parameters
-        n_estimators = int(sys.argv[1]) if len(sys.argv) > 1 else 100
-        max_depth = int(sys.argv[2]) if len(sys.argv) > 2 else 5
-        # mlflow.autolog()
+    n_estimators = int(sys.argv[1]) if len(sys.argv) > 1 else 100
+    max_depth = int(sys.argv[2]) if len(sys.argv) > 2 else 5
+    # mlflow.autolog()
     
     with mlflow.start_run():
            
