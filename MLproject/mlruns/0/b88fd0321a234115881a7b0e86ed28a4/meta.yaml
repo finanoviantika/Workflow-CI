@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b88fd0321a234115881a7b0e86ed28a4/artifacts
+end_time: 1747071218610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b88fd0321a234115881a7b0e86ed28a4
+run_name: wistful-elk-466
+run_uuid: b88fd0321a234115881a7b0e86ed28a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071212066
+status: 3
+tags: []
+user_id: runner
