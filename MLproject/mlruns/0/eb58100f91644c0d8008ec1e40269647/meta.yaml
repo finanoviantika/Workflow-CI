@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eb58100f91644c0d8008ec1e40269647/artifacts
+end_time: 1747088089204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb58100f91644c0d8008ec1e40269647
+run_name: receptive-stag-159
+run_uuid: eb58100f91644c0d8008ec1e40269647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747088083201
+status: 3
+tags: []
+user_id: runner
