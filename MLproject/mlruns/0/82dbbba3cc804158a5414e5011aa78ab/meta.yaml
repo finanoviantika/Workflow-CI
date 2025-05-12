@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82dbbba3cc804158a5414e5011aa78ab/artifacts
+end_time: 1747065024778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82dbbba3cc804158a5414e5011aa78ab
+run_name: awesome-sow-466
+run_uuid: 82dbbba3cc804158a5414e5011aa78ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747065018335
+status: 3
+tags: []
+user_id: runner
