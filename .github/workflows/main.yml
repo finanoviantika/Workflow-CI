@@ -31,6 +31,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install mlflow[extras] pandas scikit-learn
 
+      - name: Set MLflow tracking URI
+        run: echo "MLFLOW_TRACKING_URI=file://$GITHUB_WORKSPACE/MLproject/mlruns" >> $GITHUB_ENV
+
       - name: Run MLflow project
         run: |
           mlflow run ./MLproject --env-manager=local
