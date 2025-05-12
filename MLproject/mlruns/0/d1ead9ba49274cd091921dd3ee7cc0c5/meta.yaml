@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d1ead9ba49274cd091921dd3ee7cc0c5/artifacts
+end_time: 1747088357669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ead9ba49274cd091921dd3ee7cc0c5
+run_name: rare-sponge-257
+run_uuid: d1ead9ba49274cd091921dd3ee7cc0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747088351317
+status: 3
+tags: []
+user_id: runner
