@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6aeb827aa9949c68eb78f7fa2e9cbee/artifacts
+end_time: 1747071669365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6aeb827aa9949c68eb78f7fa2e9cbee
+run_name: merciful-frog-623
+run_uuid: a6aeb827aa9949c68eb78f7fa2e9cbee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071663095
+status: 3
+tags: []
+user_id: runner
