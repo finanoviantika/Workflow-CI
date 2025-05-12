@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72bc679807cf4892a4d2a112dd7f3269/artifacts
+end_time: 1747090952427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72bc679807cf4892a4d2a112dd7f3269
+run_name: traveling-conch-190
+run_uuid: 72bc679807cf4892a4d2a112dd7f3269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090946038
+status: 3
+tags: []
+user_id: runner
