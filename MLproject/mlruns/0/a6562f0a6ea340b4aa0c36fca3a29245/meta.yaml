@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6562f0a6ea340b4aa0c36fca3a29245/artifacts
+end_time: 1747054225385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6562f0a6ea340b4aa0c36fca3a29245
+run_name: glamorous-ram-464
+run_uuid: a6562f0a6ea340b4aa0c36fca3a29245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054219045
+status: 3
+tags: []
+user_id: runner
