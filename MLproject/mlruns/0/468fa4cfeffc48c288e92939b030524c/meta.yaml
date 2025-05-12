@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/468fa4cfeffc48c288e92939b030524c/artifacts
+end_time: 1747073416845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 468fa4cfeffc48c288e92939b030524c
+run_name: adaptable-mole-480
+run_uuid: 468fa4cfeffc48c288e92939b030524c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747073410288
+status: 3
+tags: []
+user_id: runner
