@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2f551c9d01eb420589c7c8bb11f354d0/artifacts
+end_time: 1747078374497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f551c9d01eb420589c7c8bb11f354d0
+run_name: enthused-tern-236
+run_uuid: 2f551c9d01eb420589c7c8bb11f354d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078367848
+status: 3
+tags: []
+user_id: runner
