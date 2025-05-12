@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9927f36e05be40a49d9d49223d460f0f/artifacts
+end_time: 1747059843117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9927f36e05be40a49d9d49223d460f0f
+run_name: debonair-gull-179
+run_uuid: 9927f36e05be40a49d9d49223d460f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747059836779
+status: 3
+tags: []
+user_id: runner
