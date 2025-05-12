@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/16eae9e5e413497ebdd34c998cc6b9fb/artifacts
+end_time: 1747068002943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16eae9e5e413497ebdd34c998cc6b9fb
+run_name: bouncy-crane-977
+run_uuid: 16eae9e5e413497ebdd34c998cc6b9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747067996454
+status: 3
+tags: []
+user_id: runner
