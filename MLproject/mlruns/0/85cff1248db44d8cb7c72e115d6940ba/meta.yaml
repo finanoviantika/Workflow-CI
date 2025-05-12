@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/85cff1248db44d8cb7c72e115d6940ba/artifacts
+end_time: 1747054795650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85cff1248db44d8cb7c72e115d6940ba
+run_name: secretive-fly-726
+run_uuid: 85cff1248db44d8cb7c72e115d6940ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054789197
+status: 3
+tags: []
+user_id: runner
