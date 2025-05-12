@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0c5a3031d41d4288a4c320b659308606/artifacts
+end_time: 1747081455080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c5a3031d41d4288a4c320b659308606
+run_name: wise-bug-641
+run_uuid: 0c5a3031d41d4288a4c320b659308606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747081448397
+status: 3
+tags: []
+user_id: runner
