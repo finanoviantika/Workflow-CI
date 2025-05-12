@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd9d720576d547c39c631dc2a55bfbea/artifacts
+end_time: 1747066156028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd9d720576d547c39c631dc2a55bfbea
+run_name: spiffy-mole-123
+run_uuid: dd9d720576d547c39c631dc2a55bfbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066149168
+status: 3
+tags: []
+user_id: runner
