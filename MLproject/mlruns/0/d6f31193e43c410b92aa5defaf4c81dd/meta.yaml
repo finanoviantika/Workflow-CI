@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d6f31193e43c410b92aa5defaf4c81dd/artifacts
+end_time: 1747073324199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6f31193e43c410b92aa5defaf4c81dd
+run_name: chill-colt-237
+run_uuid: d6f31193e43c410b92aa5defaf4c81dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747073317777
+status: 3
+tags: []
+user_id: runner
