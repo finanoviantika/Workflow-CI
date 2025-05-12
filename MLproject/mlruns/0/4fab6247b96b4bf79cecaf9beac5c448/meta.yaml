@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4fab6247b96b4bf79cecaf9beac5c448/artifacts
+end_time: 1747087311113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fab6247b96b4bf79cecaf9beac5c448
+run_name: silent-finch-329
+run_uuid: 4fab6247b96b4bf79cecaf9beac5c448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747087304803
+status: 3
+tags: []
+user_id: runner
