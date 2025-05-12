@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/29b91192a3dd4774a0d9c451520be094/artifacts
+end_time: 1747078810897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b91192a3dd4774a0d9c451520be094
+run_name: persistent-mule-229
+run_uuid: 29b91192a3dd4774a0d9c451520be094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078804487
+status: 3
+tags: []
+user_id: runner
