@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3348693ccaf545b2a6cabe28639b2ac2/artifacts
+end_time: 1747067740984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3348693ccaf545b2a6cabe28639b2ac2
+run_name: shivering-snipe-523
+run_uuid: 3348693ccaf545b2a6cabe28639b2ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747067734666
+status: 3
+tags: []
+user_id: runner
