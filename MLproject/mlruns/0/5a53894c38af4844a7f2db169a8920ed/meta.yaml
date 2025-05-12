@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5a53894c38af4844a7f2db169a8920ed/artifacts
+end_time: 1747058638551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a53894c38af4844a7f2db169a8920ed
+run_name: useful-snake-950
+run_uuid: 5a53894c38af4844a7f2db169a8920ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747058631911
+status: 3
+tags: []
+user_id: runner
