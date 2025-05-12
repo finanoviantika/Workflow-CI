@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aac8bfe2f5c04a7dbdc431a19c0667e3/artifacts
+end_time: 1747069565712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aac8bfe2f5c04a7dbdc431a19c0667e3
+run_name: nimble-shad-440
+run_uuid: aac8bfe2f5c04a7dbdc431a19c0667e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069559375
+status: 3
+tags: []
+user_id: runner
