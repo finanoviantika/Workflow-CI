@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3cb4b3bee17749be9b6ec18d8e9179de/artifacts
+end_time: 1747076815433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb4b3bee17749be9b6ec18d8e9179de
+run_name: beautiful-foal-603
+run_uuid: 3cb4b3bee17749be9b6ec18d8e9179de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076808998
+status: 3
+tags: []
+user_id: runner
