@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/60bcb78d69a34353b8fa2c6f38ab26c8/artifacts
+end_time: 1747055311309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60bcb78d69a34353b8fa2c6f38ab26c8
+run_name: brawny-midge-912
+run_uuid: 60bcb78d69a34353b8fa2c6f38ab26c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055304999
+status: 3
+tags: []
+user_id: runner
