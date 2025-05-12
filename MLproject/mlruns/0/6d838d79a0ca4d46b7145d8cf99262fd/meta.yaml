@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6d838d79a0ca4d46b7145d8cf99262fd/artifacts
+end_time: 1747074291807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d838d79a0ca4d46b7145d8cf99262fd
+run_name: bald-grub-618
+run_uuid: 6d838d79a0ca4d46b7145d8cf99262fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747074285270
+status: 3
+tags: []
+user_id: runner
