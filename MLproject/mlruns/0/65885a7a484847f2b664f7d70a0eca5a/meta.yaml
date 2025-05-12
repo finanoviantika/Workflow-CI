@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/65885a7a484847f2b664f7d70a0eca5a/artifacts
+end_time: 1747051810572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65885a7a484847f2b664f7d70a0eca5a
+run_name: bold-carp-339
+run_uuid: 65885a7a484847f2b664f7d70a0eca5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747051803888
+status: 3
+tags: []
+user_id: runner
