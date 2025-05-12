@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a5f7667489134ec692616763fa212e23/artifacts
+end_time: 1747070783306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5f7667489134ec692616763fa212e23
+run_name: capricious-shad-965
+run_uuid: a5f7667489134ec692616763fa212e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747070776802
+status: 3
+tags: []
+user_id: runner
