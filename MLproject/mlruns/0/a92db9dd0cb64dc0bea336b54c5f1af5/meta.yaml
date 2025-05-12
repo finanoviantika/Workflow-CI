@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a92db9dd0cb64dc0bea336b54c5f1af5/artifacts
+end_time: 1747052162742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a92db9dd0cb64dc0bea336b54c5f1af5
+run_name: bald-squid-985
+run_uuid: a92db9dd0cb64dc0bea336b54c5f1af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747052156447
+status: 3
+tags: []
+user_id: runner
