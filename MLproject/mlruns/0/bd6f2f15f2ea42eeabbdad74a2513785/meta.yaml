@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd6f2f15f2ea42eeabbdad74a2513785/artifacts
+end_time: 1747089392318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd6f2f15f2ea42eeabbdad74a2513785
+run_name: fun-zebra-951
+run_uuid: bd6f2f15f2ea42eeabbdad74a2513785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089385926
+status: 3
+tags: []
+user_id: runner
