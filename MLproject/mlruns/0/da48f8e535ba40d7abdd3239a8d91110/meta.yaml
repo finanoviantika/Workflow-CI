@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da48f8e535ba40d7abdd3239a8d91110/artifacts
+end_time: 1747066603355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da48f8e535ba40d7abdd3239a8d91110
+run_name: able-moth-332
+run_uuid: da48f8e535ba40d7abdd3239a8d91110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066596662
+status: 3
+tags: []
+user_id: runner
