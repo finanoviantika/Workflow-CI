@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8ef8aac7d00f48aebaa1435b07d6abe9/artifacts
+end_time: 1747083633976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef8aac7d00f48aebaa1435b07d6abe9
+run_name: merciful-pig-688
+run_uuid: 8ef8aac7d00f48aebaa1435b07d6abe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747083627633
+status: 3
+tags: []
+user_id: runner
