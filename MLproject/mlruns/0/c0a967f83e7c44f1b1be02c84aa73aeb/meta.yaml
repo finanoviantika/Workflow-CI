@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c0a967f83e7c44f1b1be02c84aa73aeb/artifacts
+end_time: 1747086790711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0a967f83e7c44f1b1be02c84aa73aeb
+run_name: nervous-sloth-773
+run_uuid: c0a967f83e7c44f1b1be02c84aa73aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086784386
+status: 3
+tags: []
+user_id: runner
