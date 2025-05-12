@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/98e1f8ddd406436a8b9e79ff17a98f10/artifacts
+end_time: 1747068872399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e1f8ddd406436a8b9e79ff17a98f10
+run_name: youthful-slug-788
+run_uuid: 98e1f8ddd406436a8b9e79ff17a98f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747068865757
+status: 3
+tags: []
+user_id: runner
