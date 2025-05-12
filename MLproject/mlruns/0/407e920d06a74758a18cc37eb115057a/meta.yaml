@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/407e920d06a74758a18cc37eb115057a/artifacts
+end_time: 1747055395244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 407e920d06a74758a18cc37eb115057a
+run_name: incongruous-pug-270
+run_uuid: 407e920d06a74758a18cc37eb115057a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055388960
+status: 3
+tags: []
+user_id: runner
