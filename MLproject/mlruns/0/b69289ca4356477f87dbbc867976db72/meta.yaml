@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b69289ca4356477f87dbbc867976db72/artifacts
+end_time: 1747081193480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b69289ca4356477f87dbbc867976db72
+run_name: polite-squirrel-225
+run_uuid: b69289ca4356477f87dbbc867976db72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747081187258
+status: 3
+tags: []
+user_id: runner
