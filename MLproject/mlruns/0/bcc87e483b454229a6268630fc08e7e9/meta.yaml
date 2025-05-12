@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bcc87e483b454229a6268630fc08e7e9/artifacts
+end_time: 1747078720673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcc87e483b454229a6268630fc08e7e9
+run_name: intrigued-shrew-4
+run_uuid: bcc87e483b454229a6268630fc08e7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078714323
+status: 3
+tags: []
+user_id: runner
