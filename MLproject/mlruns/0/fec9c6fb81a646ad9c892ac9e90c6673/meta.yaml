@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fec9c6fb81a646ad9c892ac9e90c6673/artifacts
+end_time: 1747053959904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fec9c6fb81a646ad9c892ac9e90c6673
+run_name: sassy-robin-531
+run_uuid: fec9c6fb81a646ad9c892ac9e90c6673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747053953521
+status: 3
+tags: []
+user_id: runner
