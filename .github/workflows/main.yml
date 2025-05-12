@@ -42,6 +42,12 @@ jobs:
           echo "RUN_ID=$RUN_ID" >> $GITHUB_ENV
           echo "Latest run_id: $RUN_ID"
 
+      - name: Ensure mlruns directory is tracked
+        run: |
+          mkdir -p MLproject/mlruns/.placeholder
+          touch MLproject/mlruns/.placeholder/.gitkeep
+          git add MLproject/mlruns/.placeholder/.gitkeep
+
       - name: Save artifacts to GitHub repo
         run: |
           git config --global user.name "${{ secrets.USERNAME }}"
@@ -58,7 +64,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: mlflow-artifacts
-          path: MLproject/mlruns/
+          path: |
+            MLproject/mlruns/
           if-no-files-found: warn
 
       - name: Build Docker image from ML model
