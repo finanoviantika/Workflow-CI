@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5267c3409db542a695dcc8abb4ff617f/artifacts
+end_time: 1747084510914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5267c3409db542a695dcc8abb4ff617f
+run_name: caring-zebra-653
+run_uuid: 5267c3409db542a695dcc8abb4ff617f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747084504352
+status: 3
+tags: []
+user_id: runner
