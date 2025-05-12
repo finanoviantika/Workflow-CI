@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c7c1638858b8451f8bb4107808fa4a1d/artifacts
+end_time: 1747060622863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7c1638858b8451f8bb4107808fa4a1d
+run_name: learned-snipe-359
+run_uuid: c7c1638858b8451f8bb4107808fa4a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747060616615
+status: 3
+tags: []
+user_id: runner
