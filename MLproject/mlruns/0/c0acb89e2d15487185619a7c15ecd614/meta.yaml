@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c0acb89e2d15487185619a7c15ecd614/artifacts
+end_time: 1747073237261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0acb89e2d15487185619a7c15ecd614
+run_name: marvelous-gnat-979
+run_uuid: c0acb89e2d15487185619a7c15ecd614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747073230803
+status: 3
+tags: []
+user_id: runner
