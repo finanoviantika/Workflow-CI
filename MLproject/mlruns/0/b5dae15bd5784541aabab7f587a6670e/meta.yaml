@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b5dae15bd5784541aabab7f587a6670e/artifacts
+end_time: 1747055838734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5dae15bd5784541aabab7f587a6670e
+run_name: burly-sponge-206
+run_uuid: b5dae15bd5784541aabab7f587a6670e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055832460
+status: 3
+tags: []
+user_id: runner
