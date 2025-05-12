@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7a905aa7b94340b6b95251b733369997/artifacts
+end_time: 1747077949156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a905aa7b94340b6b95251b733369997
+run_name: omniscient-swan-858
+run_uuid: 7a905aa7b94340b6b95251b733369997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747077942892
+status: 3
+tags: []
+user_id: runner
