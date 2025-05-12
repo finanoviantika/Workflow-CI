@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5e07784bf5c948239bfbaa22795f2123/artifacts
+end_time: 1747090259604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e07784bf5c948239bfbaa22795f2123
+run_name: legendary-sloth-407
+run_uuid: 5e07784bf5c948239bfbaa22795f2123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090253228
+status: 3
+tags: []
+user_id: runner
