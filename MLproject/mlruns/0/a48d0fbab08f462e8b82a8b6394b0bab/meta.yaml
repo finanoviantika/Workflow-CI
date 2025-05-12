@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a48d0fbab08f462e8b82a8b6394b0bab/artifacts
+end_time: 1747074113057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a48d0fbab08f462e8b82a8b6394b0bab
+run_name: dazzling-rook-133
+run_uuid: a48d0fbab08f462e8b82a8b6394b0bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747074106493
+status: 3
+tags: []
+user_id: runner
