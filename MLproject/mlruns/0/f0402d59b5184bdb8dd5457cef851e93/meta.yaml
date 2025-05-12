@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f0402d59b5184bdb8dd5457cef851e93/artifacts
+end_time: 1747061145369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0402d59b5184bdb8dd5457cef851e93
+run_name: bright-stag-855
+run_uuid: f0402d59b5184bdb8dd5457cef851e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747061139049
+status: 3
+tags: []
+user_id: runner
