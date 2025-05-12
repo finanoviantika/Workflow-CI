@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9a2fbbf77ada40f195134a5298a3ec56/artifacts
+end_time: 1747092974337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a2fbbf77ada40f195134a5298a3ec56
+run_name: carefree-dog-829
+run_uuid: 9a2fbbf77ada40f195134a5298a3ec56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092967998
+status: 3
+tags: []
+user_id: runner
