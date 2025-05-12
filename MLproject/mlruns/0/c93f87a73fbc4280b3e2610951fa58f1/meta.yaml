@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c93f87a73fbc4280b3e2610951fa58f1/artifacts
+end_time: 1747057747486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c93f87a73fbc4280b3e2610951fa58f1
+run_name: peaceful-vole-376
+run_uuid: c93f87a73fbc4280b3e2610951fa58f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747057741030
+status: 3
+tags: []
+user_id: runner
