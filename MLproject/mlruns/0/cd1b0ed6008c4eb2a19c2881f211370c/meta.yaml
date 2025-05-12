@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd1b0ed6008c4eb2a19c2881f211370c/artifacts
+end_time: 1747084242296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd1b0ed6008c4eb2a19c2881f211370c
+run_name: ambitious-horse-991
+run_uuid: cd1b0ed6008c4eb2a19c2881f211370c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747084235819
+status: 3
+tags: []
+user_id: runner
