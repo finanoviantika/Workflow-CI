@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9269a58e349a4ff09a4f6c3593bb4e09/artifacts
+end_time: 1747092351556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9269a58e349a4ff09a4f6c3593bb4e09
+run_name: fearless-kit-815
+run_uuid: 9269a58e349a4ff09a4f6c3593bb4e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092345036
+status: 3
+tags: []
+user_id: runner
