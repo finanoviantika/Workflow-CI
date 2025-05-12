@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ebea5ab7e1574ccba04ca8990e85077c/artifacts
+end_time: 1747091652799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebea5ab7e1574ccba04ca8990e85077c
+run_name: classy-skunk-271
+run_uuid: ebea5ab7e1574ccba04ca8990e85077c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747091646544
+status: 3
+tags: []
+user_id: runner
