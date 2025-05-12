@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8f83dcec9cea4171afd8e3cef7f01eba/artifacts
+end_time: 1747085123117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f83dcec9cea4171afd8e3cef7f01eba
+run_name: magnificent-tern-178
+run_uuid: 8f83dcec9cea4171afd8e3cef7f01eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747085116738
+status: 3
+tags: []
+user_id: runner
