@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bdc259beeaf3406497b3787c4976f751/artifacts
+end_time: 1747052508222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdc259beeaf3406497b3787c4976f751
+run_name: righteous-whale-970
+run_uuid: bdc259beeaf3406497b3787c4976f751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747052501718
+status: 3
+tags: []
+user_id: runner
