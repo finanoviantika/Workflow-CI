@@ -6,7 +6,7 @@ import warnings
 import sys
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error, max_error
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")
@@ -39,6 +39,10 @@ if __name__ == "__main__":
         
         r2_Score = r2_score(y_test, y_pred)
         rmse = mean_squared_error(y_test, y_pred)
+        mae = mean_absolute_error(y_test, y_pred)
+        maxerr = max_error(y_test, y_pred)
         
         mlflow.log_metric("r2_score", r2_Score)
         mlflow.log_metric("rmse", rmse)
+        mlflow.log_metric("mae", mae)
+        mlflow.log_metric("max_error", maxerr)
