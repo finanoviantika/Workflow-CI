@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/48e59491500b465888a1d2ef73c6271b/artifacts
+end_time: 1747054967954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48e59491500b465888a1d2ef73c6271b
+run_name: calm-conch-204
+run_uuid: 48e59491500b465888a1d2ef73c6271b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054961623
+status: 3
+tags: []
+user_id: runner
