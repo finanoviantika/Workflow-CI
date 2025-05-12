@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8a5ffedca5c84283ad87dd68d2fc9008/artifacts
+end_time: 1747062190940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a5ffedca5c84283ad87dd68d2fc9008
+run_name: learned-deer-250
+run_uuid: 8a5ffedca5c84283ad87dd68d2fc9008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062184119
+status: 3
+tags: []
+user_id: runner
