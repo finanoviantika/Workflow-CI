@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f14a0ba05152463dab2162dbdedbcd5c/artifacts
+end_time: 1747053788113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f14a0ba05152463dab2162dbdedbcd5c
+run_name: victorious-vole-755
+run_uuid: f14a0ba05152463dab2162dbdedbcd5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747053781175
+status: 3
+tags: []
+user_id: runner
