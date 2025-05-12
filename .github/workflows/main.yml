@@ -57,14 +57,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas scikit-learn
 
-      # Upload models to GITHUB Repository
+      # Upload artifacts to GitHub
       - name: Upload to Github
-        run: |
-          git config --global user.name "${{ secrets.USERNAME }}"
-          git config --global user.email "${{ secrets.EMAIL }}"
-          git add MLproject/mlruns/
-          git commit -m "Upload mlruns from CI run" || echo "No changes to commit"
-          git push origin main || echo "No changes to push"
+        uses: actions/upload-artifact@v3
+        with:
+          name: mlflow-artifacts
+          path: |
+            mlruns/
+            MLproject/
+          if-no-files-found: error
 
       # Build Docker Model
       - name: Build Docker Model
