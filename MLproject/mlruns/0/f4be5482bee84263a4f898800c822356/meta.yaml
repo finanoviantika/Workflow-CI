@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4be5482bee84263a4f898800c822356/artifacts
+end_time: 1747079968338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4be5482bee84263a4f898800c822356
+run_name: righteous-frog-104
+run_uuid: f4be5482bee84263a4f898800c822356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747079961746
+status: 3
+tags: []
+user_id: runner
