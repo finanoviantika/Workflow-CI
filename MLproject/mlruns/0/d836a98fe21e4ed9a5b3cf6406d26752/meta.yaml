@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d836a98fe21e4ed9a5b3cf6406d26752/artifacts
+end_time: 1747089912307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d836a98fe21e4ed9a5b3cf6406d26752
+run_name: dapper-mole-516
+run_uuid: d836a98fe21e4ed9a5b3cf6406d26752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089906045
+status: 3
+tags: []
+user_id: runner
