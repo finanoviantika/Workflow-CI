@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af284cf8c02c49e0b96b1a37746591ad/artifacts
+end_time: 1747076115443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af284cf8c02c49e0b96b1a37746591ad
+run_name: calm-cod-538
+run_uuid: af284cf8c02c49e0b96b1a37746591ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076109177
+status: 3
+tags: []
+user_id: runner
