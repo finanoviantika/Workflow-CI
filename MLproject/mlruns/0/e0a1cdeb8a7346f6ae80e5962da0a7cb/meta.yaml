@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0a1cdeb8a7346f6ae80e5962da0a7cb/artifacts
+end_time: 1747076465279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0a1cdeb8a7346f6ae80e5962da0a7cb
+run_name: amazing-crane-934
+run_uuid: e0a1cdeb8a7346f6ae80e5962da0a7cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076459041
+status: 3
+tags: []
+user_id: runner
