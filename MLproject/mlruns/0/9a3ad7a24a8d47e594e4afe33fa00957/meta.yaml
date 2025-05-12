@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9a3ad7a24a8d47e594e4afe33fa00957/artifacts
+end_time: 1747072017083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a3ad7a24a8d47e594e4afe33fa00957
+run_name: clean-auk-862
+run_uuid: 9a3ad7a24a8d47e594e4afe33fa00957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747072010881
+status: 3
+tags: []
+user_id: runner
