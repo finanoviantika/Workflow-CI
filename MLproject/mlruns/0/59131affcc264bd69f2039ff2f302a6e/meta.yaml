@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/59131affcc264bd69f2039ff2f302a6e/artifacts
+end_time: 1747061747074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59131affcc264bd69f2039ff2f302a6e
+run_name: enchanting-toad-357
+run_uuid: 59131affcc264bd69f2039ff2f302a6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747061740578
+status: 3
+tags: []
+user_id: runner
