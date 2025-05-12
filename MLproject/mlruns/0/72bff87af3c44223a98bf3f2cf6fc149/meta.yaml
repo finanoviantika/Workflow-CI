@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72bff87af3c44223a98bf3f2cf6fc149/artifacts
+end_time: 1747075518669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72bff87af3c44223a98bf3f2cf6fc149
+run_name: sedate-panda-967
+run_uuid: 72bff87af3c44223a98bf3f2cf6fc149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747075512274
+status: 3
+tags: []
+user_id: runner
