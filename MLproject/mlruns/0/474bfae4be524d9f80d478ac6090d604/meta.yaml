@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/474bfae4be524d9f80d478ac6090d604/artifacts
+end_time: 1747084774362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 474bfae4be524d9f80d478ac6090d604
+run_name: upbeat-owl-627
+run_uuid: 474bfae4be524d9f80d478ac6090d604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747084767954
+status: 3
+tags: []
+user_id: runner
