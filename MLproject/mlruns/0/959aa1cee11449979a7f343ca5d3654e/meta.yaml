@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/959aa1cee11449979a7f343ca5d3654e/artifacts
+end_time: 1747063953612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 959aa1cee11449979a7f343ca5d3654e
+run_name: abrasive-skunk-954
+run_uuid: 959aa1cee11449979a7f343ca5d3654e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747063947038
+status: 3
+tags: []
+user_id: runner
