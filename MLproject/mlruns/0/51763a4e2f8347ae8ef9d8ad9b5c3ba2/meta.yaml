@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/51763a4e2f8347ae8ef9d8ad9b5c3ba2/artifacts
+end_time: 1747069047549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51763a4e2f8347ae8ef9d8ad9b5c3ba2
+run_name: loud-worm-218
+run_uuid: 51763a4e2f8347ae8ef9d8ad9b5c3ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069040959
+status: 3
+tags: []
+user_id: runner
