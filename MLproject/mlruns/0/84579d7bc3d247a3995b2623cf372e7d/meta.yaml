@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/84579d7bc3d247a3995b2623cf372e7d/artifacts
+end_time: 1747052871947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84579d7bc3d247a3995b2623cf372e7d
+run_name: awesome-calf-191
+run_uuid: 84579d7bc3d247a3995b2623cf372e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747052865187
+status: 3
+tags: []
+user_id: runner
