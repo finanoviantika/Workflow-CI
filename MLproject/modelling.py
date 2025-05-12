@@ -11,10 +11,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
-
-    mlflow.set_tracking_uri("http://127.0.0.1:5000/")
-    
-    # mlflow.set_experiment("Students Habit Performance")
     
     file_path = sys.argv[3] if len(sys.argv) > 3 else os.path.join(os.path.dirname(os.path.abspath(__file__)), "dataset_preprocessing.csv")
     data = pd.read_csv(file_path)
@@ -29,11 +25,8 @@ if __name__ == "__main__":
     #Log Parameters
     n_estimators = int(sys.argv[1]) if len(sys.argv) > 1 else 100
     max_depth = int(sys.argv[2]) if len(sys.argv) > 2 else 5
-    # mlflow.autolog()
     
     with mlflow.start_run():
-           
-        #Train Model
         model = RandomForestRegressor(n_estimators=n_estimators, max_depth=max_depth)
         model.fit(X_train, y_train)
         
@@ -44,9 +37,8 @@ if __name__ == "__main__":
             artifact_path = "model",
         )
         
-        #Log Metrics
         r2_Score = r2_score(y_test, y_pred)
         rmse = mean_squared_error(y_test, y_pred)
         
         mlflow.log_metric("r2_score", r2_Score)
-        mlflow.log_metric("rmse", r2_Score)
+        mlflow.log_metric("rmse", rmse)
