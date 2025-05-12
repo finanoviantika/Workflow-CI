@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afca2b38effc40278dab5aa918b5fe2b/artifacts
+end_time: 1747086194053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afca2b38effc40278dab5aa918b5fe2b
+run_name: loud-shrimp-658
+run_uuid: afca2b38effc40278dab5aa918b5fe2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086187418
+status: 3
+tags: []
+user_id: runner
