@@ -16,10 +16,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Set up job
-      - name: Set up job
-        run: echo "Starting ML workflow..."
-
       # Checks-out your repository
       - name: Run actions/checkout@v3
         uses: actions/checkout@v3
@@ -96,15 +92,3 @@ jobs:
       - name: Post Log in to Docker Hub
         run: |
           echo "Docker logout completed"
-
-      - name: Post Set up Python 3.12.7
-        run: |
-          echo "Python setup completed"
-
-      - name: Post Run actions/checkout@v3
-        run: |
-          echo "Cleaning up repository after checkout"
-          git clean -ffdx
-
-      - name: Complete job
-        run: echo "Workflow completed successfully"
