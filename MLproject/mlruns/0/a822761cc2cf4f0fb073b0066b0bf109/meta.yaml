@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a822761cc2cf4f0fb073b0066b0bf109/artifacts
+end_time: 1747092176726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a822761cc2cf4f0fb073b0066b0bf109
+run_name: thoughtful-stag-124
+run_uuid: a822761cc2cf4f0fb073b0066b0bf109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092170455
+status: 3
+tags: []
+user_id: runner
