@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f9b7d7734db43f29b4a9ab850f7a945/artifacts
+end_time: 1747074728644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9b7d7734db43f29b4a9ab850f7a945
+run_name: legendary-shoat-203
+run_uuid: 1f9b7d7734db43f29b4a9ab850f7a945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747074722281
+status: 3
+tags: []
+user_id: runner
