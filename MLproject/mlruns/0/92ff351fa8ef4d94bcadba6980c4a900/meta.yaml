@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92ff351fa8ef4d94bcadba6980c4a900/artifacts
+end_time: 1747087138847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ff351fa8ef4d94bcadba6980c4a900
+run_name: smiling-hare-24
+run_uuid: 92ff351fa8ef4d94bcadba6980c4a900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747087132516
+status: 3
+tags: []
+user_id: runner
