@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/abd75a425641401d8251e8d9c6cf5770/artifacts
+end_time: 1747091126304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd75a425641401d8251e8d9c6cf5770
+run_name: omniscient-finch-585
+run_uuid: abd75a425641401d8251e8d9c6cf5770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747091119842
+status: 3
+tags: []
+user_id: runner
