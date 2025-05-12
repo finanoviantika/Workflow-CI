@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/153a76ac8b6e4a4d86ceb139f35f7a15/artifacts
+end_time: 1747064565805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 153a76ac8b6e4a4d86ceb139f35f7a15
+run_name: nimble-bat-854
+run_uuid: 153a76ac8b6e4a4d86ceb139f35f7a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064559254
+status: 3
+tags: []
+user_id: runner
