@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4664b54d82764d73a601687fc5d5558f/artifacts
+end_time: 1747090865031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4664b54d82764d73a601687fc5d5558f
+run_name: skillful-zebra-896
+run_uuid: 4664b54d82764d73a601687fc5d5558f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090858895
+status: 3
+tags: []
+user_id: runner
