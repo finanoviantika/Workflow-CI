@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8908fb6c3c8d48f4a18478aa18d1ef97/artifacts
+end_time: 1747076287987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8908fb6c3c8d48f4a18478aa18d1ef97
+run_name: hilarious-mule-524
+run_uuid: 8908fb6c3c8d48f4a18478aa18d1ef97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747076281477
+status: 3
+tags: []
+user_id: runner
