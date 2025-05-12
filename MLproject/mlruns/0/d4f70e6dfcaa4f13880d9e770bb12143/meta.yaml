@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d4f70e6dfcaa4f13880d9e770bb12143/artifacts
+end_time: 1747089744027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4f70e6dfcaa4f13880d9e770bb12143
+run_name: bemused-bird-733
+run_uuid: d4f70e6dfcaa4f13880d9e770bb12143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089737586
+status: 3
+tags: []
+user_id: runner
