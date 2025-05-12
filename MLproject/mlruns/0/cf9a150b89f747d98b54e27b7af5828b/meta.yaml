@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf9a150b89f747d98b54e27b7af5828b/artifacts
+end_time: 1747083894102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf9a150b89f747d98b54e27b7af5828b
+run_name: salty-cow-281
+run_uuid: cf9a150b89f747d98b54e27b7af5828b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747083887508
+status: 3
+tags: []
+user_id: runner
