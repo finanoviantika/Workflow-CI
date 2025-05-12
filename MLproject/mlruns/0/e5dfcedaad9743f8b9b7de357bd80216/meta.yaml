@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e5dfcedaad9743f8b9b7de357bd80216/artifacts
+end_time: 1747086278976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5dfcedaad9743f8b9b7de357bd80216
+run_name: debonair-ram-135
+run_uuid: e5dfcedaad9743f8b9b7de357bd80216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747086272685
+status: 3
+tags: []
+user_id: runner
