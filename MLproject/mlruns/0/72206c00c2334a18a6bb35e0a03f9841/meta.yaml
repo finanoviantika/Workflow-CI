@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72206c00c2334a18a6bb35e0a03f9841/artifacts
+end_time: 1747088531939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72206c00c2334a18a6bb35e0a03f9841
+run_name: whimsical-ram-299
+run_uuid: 72206c00c2334a18a6bb35e0a03f9841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747088525753
+status: 3
+tags: []
+user_id: runner
