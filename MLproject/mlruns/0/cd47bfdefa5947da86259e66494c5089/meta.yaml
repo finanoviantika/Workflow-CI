@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd47bfdefa5947da86259e66494c5089/artifacts
+end_time: 1747085569202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd47bfdefa5947da86259e66494c5089
+run_name: casual-mink-828
+run_uuid: cd47bfdefa5947da86259e66494c5089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747085562304
+status: 3
+tags: []
+user_id: runner
