@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a33a8967581f4cf893dc5d6b205c73ce/artifacts
+end_time: 1747053385509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33a8967581f4cf893dc5d6b205c73ce
+run_name: victorious-grub-118
+run_uuid: a33a8967581f4cf893dc5d6b205c73ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747053378719
+status: 3
+tags: []
+user_id: runner
