@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22e73363bdb64f5ebe259d400b305861/artifacts
+end_time: 1747064745756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e73363bdb64f5ebe259d400b305861
+run_name: thundering-jay-166
+run_uuid: 22e73363bdb64f5ebe259d400b305861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064739243
+status: 3
+tags: []
+user_id: runner
