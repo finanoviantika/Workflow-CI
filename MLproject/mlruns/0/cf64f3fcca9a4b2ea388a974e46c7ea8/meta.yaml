@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf64f3fcca9a4b2ea388a974e46c7ea8/artifacts
+end_time: 1747087741271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf64f3fcca9a4b2ea388a974e46c7ea8
+run_name: placid-dolphin-161
+run_uuid: cf64f3fcca9a4b2ea388a974e46c7ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747087734650
+status: 3
+tags: []
+user_id: runner
