@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95ee6af603e94bceaff6667d909b0e8f/artifacts
+end_time: 1747091482114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ee6af603e94bceaff6667d909b0e8f
+run_name: peaceful-gnat-678
+run_uuid: 95ee6af603e94bceaff6667d909b0e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747091475585
+status: 3
+tags: []
+user_id: runner
