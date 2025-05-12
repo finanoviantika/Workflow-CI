@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8553192fdc245508fc21d393807e878/artifacts
+end_time: 1747072366063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8553192fdc245508fc21d393807e878
+run_name: delicate-snipe-301
+run_uuid: d8553192fdc245508fc21d393807e878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747072359719
+status: 3
+tags: []
+user_id: runner
