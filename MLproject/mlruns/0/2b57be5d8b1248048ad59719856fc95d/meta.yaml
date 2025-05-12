@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2b57be5d8b1248048ad59719856fc95d/artifacts
+end_time: 1747091299020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b57be5d8b1248048ad59719856fc95d
+run_name: melodic-vole-620
+run_uuid: 2b57be5d8b1248048ad59719856fc95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747091292882
+status: 3
+tags: []
+user_id: runner
