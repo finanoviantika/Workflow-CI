@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3a1173ef5ac94c9683c87b66d5a80315/artifacts
+end_time: 1747092439810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a1173ef5ac94c9683c87b66d5a80315
+run_name: dashing-bird-432
+run_uuid: 3a1173ef5ac94c9683c87b66d5a80315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092433487
+status: 3
+tags: []
+user_id: runner
