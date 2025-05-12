@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c81525cd1a684d4dba62123408b589db/artifacts
+end_time: 1747072108867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c81525cd1a684d4dba62123408b589db
+run_name: caring-stag-373
+run_uuid: c81525cd1a684d4dba62123408b589db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747072102544
+status: 3
+tags: []
+user_id: runner
