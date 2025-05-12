@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0723018bc5bd4cd1b9269e6ea7a7f7bd/artifacts
+end_time: 1747092085667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0723018bc5bd4cd1b9269e6ea7a7f7bd
+run_name: luminous-tern-782
+run_uuid: 0723018bc5bd4cd1b9269e6ea7a7f7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092079038
+status: 3
+tags: []
+user_id: runner
