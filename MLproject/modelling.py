@@ -24,23 +24,25 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42
     )
-    
-    with mlflow.start_run():
-        #Log Parameters
+
+    #Log Parameters
         n_estimators = int(sys.argv[1]) if len(sys.argv) > 1 else 100
         max_depth = int(sys.argv[2]) if len(sys.argv) > 2 else 5
-        mlflow.autolog()
+        # mlflow.autolog()
     
+    with mlflow.start_run():
+           
         #Train Model
         model = RandomForestRegressor(n_estimators=n_estimators, max_depth=max_depth)
+        model.fit(X_train, y_train)
+        
+        y_pred = model.predict(X_test)
+        
         mlflow.sklearn.log_model(
             sk_model=model,
             artifact_path = "model",
         )
-    
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
-    
+        
         #Log Metrics
         r2_Score = r2_score(y_test, y_pred)
         rmse = mean_squared_error(y_test, y_pred)
