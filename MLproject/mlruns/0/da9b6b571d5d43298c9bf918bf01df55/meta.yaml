@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da9b6b571d5d43298c9bf918bf01df55/artifacts
+end_time: 1747078989628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9b6b571d5d43298c9bf918bf01df55
+run_name: powerful-foal-724
+run_uuid: da9b6b571d5d43298c9bf918bf01df55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747078983389
+status: 3
+tags: []
+user_id: runner
