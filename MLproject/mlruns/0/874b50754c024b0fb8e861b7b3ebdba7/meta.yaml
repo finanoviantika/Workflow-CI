@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/874b50754c024b0fb8e861b7b3ebdba7/artifacts
+end_time: 1747089828960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 874b50754c024b0fb8e861b7b3ebdba7
+run_name: burly-kite-286
+run_uuid: 874b50754c024b0fb8e861b7b3ebdba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089822502
+status: 3
+tags: []
+user_id: runner
