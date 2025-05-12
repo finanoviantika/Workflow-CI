@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/06f8190382bf48aea80d11a20f7f3a03/artifacts
+end_time: 1747065536901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06f8190382bf48aea80d11a20f7f3a03
+run_name: classy-rat-258
+run_uuid: 06f8190382bf48aea80d11a20f7f3a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747065530652
+status: 3
+tags: []
+user_id: runner
