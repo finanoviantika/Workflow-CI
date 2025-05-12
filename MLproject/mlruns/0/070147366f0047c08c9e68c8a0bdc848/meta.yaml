@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/070147366f0047c08c9e68c8a0bdc848/artifacts
+end_time: 1747057918149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 070147366f0047c08c9e68c8a0bdc848
+run_name: unruly-fox-566
+run_uuid: 070147366f0047c08c9e68c8a0bdc848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747057911695
+status: 3
+tags: []
+user_id: runner
