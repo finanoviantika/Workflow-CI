@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1d2dcab2ba484f2fb4344453ed379a3b/artifacts
+end_time: 1747081026049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d2dcab2ba484f2fb4344453ed379a3b
+run_name: nosy-shark-958
+run_uuid: 1d2dcab2ba484f2fb4344453ed379a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747081019146
+status: 3
+tags: []
+user_id: runner
