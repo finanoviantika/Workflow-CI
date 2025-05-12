@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d23fdaf89c4241b69e4e5827409d39f3/artifacts
+end_time: 1747059336043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d23fdaf89c4241b69e4e5827409d39f3
+run_name: victorious-stork-653
+run_uuid: d23fdaf89c4241b69e4e5827409d39f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747059329196
+status: 3
+tags: []
+user_id: runner
