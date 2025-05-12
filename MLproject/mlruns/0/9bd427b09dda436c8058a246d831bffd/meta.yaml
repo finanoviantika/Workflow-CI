@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9bd427b09dda436c8058a246d831bffd/artifacts
+end_time: 1747069737511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd427b09dda436c8058a246d831bffd
+run_name: debonair-rook-557
+run_uuid: 9bd427b09dda436c8058a246d831bffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069731265
+status: 3
+tags: []
+user_id: runner
