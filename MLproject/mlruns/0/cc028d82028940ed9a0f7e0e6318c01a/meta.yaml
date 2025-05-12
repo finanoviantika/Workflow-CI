@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc028d82028940ed9a0f7e0e6318c01a/artifacts
+end_time: 1747068781417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc028d82028940ed9a0f7e0e6318c01a
+run_name: efficient-sponge-680
+run_uuid: cc028d82028940ed9a0f7e0e6318c01a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747068775051
+status: 3
+tags: []
+user_id: runner
