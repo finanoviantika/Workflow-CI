@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/28305542e87e4de28dc62c7b28a4e05e/artifacts
+end_time: 1747094212561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28305542e87e4de28dc62c7b28a4e05e
+run_name: polite-worm-355
+run_uuid: 28305542e87e4de28dc62c7b28a4e05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747094206123
+status: 3
+tags: []
+user_id: runner
