@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0dcfd12d2a94f5096680a3a988f0352/artifacts
+end_time: 1747064306327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0dcfd12d2a94f5096680a3a988f0352
+run_name: colorful-mouse-425
+run_uuid: e0dcfd12d2a94f5096680a3a988f0352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064300052
+status: 3
+tags: []
+user_id: runner
