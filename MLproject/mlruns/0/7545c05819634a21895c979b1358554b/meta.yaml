@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7545c05819634a21895c979b1358554b/artifacts
+end_time: 1747062536664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7545c05819634a21895c979b1358554b
+run_name: funny-asp-879
+run_uuid: 7545c05819634a21895c979b1358554b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062530309
+status: 3
+tags: []
+user_id: runner
