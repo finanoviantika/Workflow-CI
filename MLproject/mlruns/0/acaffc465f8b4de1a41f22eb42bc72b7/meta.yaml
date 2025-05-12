@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/acaffc465f8b4de1a41f22eb42bc72b7/artifacts
+end_time: 1747071396981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acaffc465f8b4de1a41f22eb42bc72b7
+run_name: bedecked-penguin-832
+run_uuid: acaffc465f8b4de1a41f22eb42bc72b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747071390456
+status: 3
+tags: []
+user_id: runner
