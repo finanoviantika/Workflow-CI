@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e6130d6da1664c84bed0b6d9b18b92fb/artifacts
+end_time: 1747051901181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6130d6da1664c84bed0b6d9b18b92fb
+run_name: worried-kite-427
+run_uuid: e6130d6da1664c84bed0b6d9b18b92fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747051894500
+status: 3
+tags: []
+user_id: runner
