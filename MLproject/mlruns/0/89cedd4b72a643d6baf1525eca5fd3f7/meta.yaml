@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89cedd4b72a643d6baf1525eca5fd3f7/artifacts
+end_time: 1747072195658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89cedd4b72a643d6baf1525eca5fd3f7
+run_name: funny-fox-824
+run_uuid: 89cedd4b72a643d6baf1525eca5fd3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747072189073
+status: 3
+tags: []
+user_id: runner
