@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f57b850a1f2400c88796edb6e971802/artifacts
+end_time: 1747062804674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f57b850a1f2400c88796edb6e971802
+run_name: entertaining-hen-510
+run_uuid: 1f57b850a1f2400c88796edb6e971802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062797819
+status: 3
+tags: []
+user_id: runner
