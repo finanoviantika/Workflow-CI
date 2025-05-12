@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1d68aea3ea0446c09cf72b0f79f79299/artifacts
+end_time: 1747063516727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d68aea3ea0446c09cf72b0f79f79299
+run_name: intrigued-pug-616
+run_uuid: 1d68aea3ea0446c09cf72b0f79f79299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747063509898
+status: 3
+tags: []
+user_id: runner
