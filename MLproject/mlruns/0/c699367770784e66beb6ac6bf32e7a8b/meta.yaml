@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c699367770784e66beb6ac6bf32e7a8b/artifacts
+end_time: 1747069387289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c699367770784e66beb6ac6bf32e7a8b
+run_name: bald-sloth-895
+run_uuid: c699367770784e66beb6ac6bf32e7a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069381011
+status: 3
+tags: []
+user_id: runner
