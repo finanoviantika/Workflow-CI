@@ -22,7 +22,6 @@ if __name__ == "__main__":
         X, y, test_size=0.2, random_state=42
     )
 
-    #Log Parameters
     n_estimators = int(sys.argv[1]) if len(sys.argv) > 1 else 100
     max_depth = int(sys.argv[2]) if len(sys.argv) > 2 else 5
     
