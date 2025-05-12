@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/03ee88d1ceac493d9122517cf369120d/artifacts
+end_time: 1747087224306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ee88d1ceac493d9122517cf369120d
+run_name: bouncy-mink-555
+run_uuid: 03ee88d1ceac493d9122517cf369120d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747087217962
+status: 3
+tags: []
+user_id: runner
