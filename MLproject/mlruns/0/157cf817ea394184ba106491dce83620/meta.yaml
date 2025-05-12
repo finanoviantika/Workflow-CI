@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/157cf817ea394184ba106491dce83620/artifacts
+end_time: 1747090002743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 157cf817ea394184ba106491dce83620
+run_name: useful-doe-405
+run_uuid: 157cf817ea394184ba106491dce83620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089995977
+status: 3
+tags: []
+user_id: runner
