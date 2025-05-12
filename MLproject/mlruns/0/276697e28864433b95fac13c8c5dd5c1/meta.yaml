@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/276697e28864433b95fac13c8c5dd5c1/artifacts
+end_time: 1747092528817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 276697e28864433b95fac13c8c5dd5c1
+run_name: fearless-mare-965
+run_uuid: 276697e28864433b95fac13c8c5dd5c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747092522050
+status: 3
+tags: []
+user_id: runner
