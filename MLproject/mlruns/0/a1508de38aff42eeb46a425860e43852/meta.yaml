@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a1508de38aff42eeb46a425860e43852/artifacts
+end_time: 1747090780483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1508de38aff42eeb46a425860e43852
+run_name: persistent-shark-557
+run_uuid: a1508de38aff42eeb46a425860e43852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090774212
+status: 3
+tags: []
+user_id: runner
