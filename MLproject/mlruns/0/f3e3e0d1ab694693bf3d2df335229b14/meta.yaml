@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f3e3e0d1ab694693bf3d2df335229b14/artifacts
+end_time: 1747083377342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3e3e0d1ab694693bf3d2df335229b14
+run_name: resilient-perch-384
+run_uuid: f3e3e0d1ab694693bf3d2df335229b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747083370992
+status: 3
+tags: []
+user_id: runner
