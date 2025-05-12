@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b08fba4e08554d7497cb791b6a04a806/artifacts
+end_time: 1747067569108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b08fba4e08554d7497cb791b6a04a806
+run_name: crawling-hog-133
+run_uuid: b08fba4e08554d7497cb791b6a04a806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747067562642
+status: 3
+tags: []
+user_id: runner
