@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4d3db8093ab4417baf1c2b8bae73c06d/artifacts
+end_time: 1747089052625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d3db8093ab4417baf1c2b8bae73c06d
+run_name: zealous-smelt-105
+run_uuid: 4d3db8093ab4417baf1c2b8bae73c06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747089046385
+status: 3
+tags: []
+user_id: runner
