@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d91edd5868d046c8a2c675de42a40281/artifacts
+end_time: 1747057398448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d91edd5868d046c8a2c675de42a40281
+run_name: dapper-yak-546
+run_uuid: d91edd5868d046c8a2c675de42a40281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747057392204
+status: 3
+tags: []
+user_id: runner
