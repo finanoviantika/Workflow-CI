@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6e88b17a84054f2986a1450a0f4e4c03/artifacts
+end_time: 1747068344931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e88b17a84054f2986a1450a0f4e4c03
+run_name: able-finch-893
+run_uuid: 6e88b17a84054f2986a1450a0f4e4c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747068338526
+status: 3
+tags: []
+user_id: runner
