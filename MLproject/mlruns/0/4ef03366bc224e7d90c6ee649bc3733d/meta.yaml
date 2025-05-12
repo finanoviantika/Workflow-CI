@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ef03366bc224e7d90c6ee649bc3733d/artifacts
+end_time: 1747090436019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef03366bc224e7d90c6ee649bc3733d
+run_name: colorful-dolphin-300
+run_uuid: 4ef03366bc224e7d90c6ee649bc3733d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747090429757
+status: 3
+tags: []
+user_id: runner
