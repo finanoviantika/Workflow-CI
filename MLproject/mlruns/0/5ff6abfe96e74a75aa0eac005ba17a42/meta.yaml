@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5ff6abfe96e74a75aa0eac005ba17a42/artifacts
+end_time: 1747062366669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff6abfe96e74a75aa0eac005ba17a42
+run_name: abundant-bat-21
+run_uuid: 5ff6abfe96e74a75aa0eac005ba17a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747062360307
+status: 3
+tags: []
+user_id: runner
