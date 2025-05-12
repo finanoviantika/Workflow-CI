@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/40c9d8639a454bc894fdd809c9bee6d9/artifacts
+end_time: 1747066243302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c9d8639a454bc894fdd809c9bee6d9
+run_name: caring-ape-73
+run_uuid: 40c9d8639a454bc894fdd809c9bee6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066236836
+status: 3
+tags: []
+user_id: runner
