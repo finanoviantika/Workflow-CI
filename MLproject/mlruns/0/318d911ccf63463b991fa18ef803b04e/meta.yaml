@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/318d911ccf63463b991fa18ef803b04e/artifacts
+end_time: 1747066954251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 318d911ccf63463b991fa18ef803b04e
+run_name: nosy-quail-46
+run_uuid: 318d911ccf63463b991fa18ef803b04e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066947846
+status: 3
+tags: []
+user_id: runner
