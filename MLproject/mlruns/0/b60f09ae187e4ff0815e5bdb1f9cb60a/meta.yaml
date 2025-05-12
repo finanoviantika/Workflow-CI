@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b60f09ae187e4ff0815e5bdb1f9cb60a/artifacts
+end_time: 1747085744900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b60f09ae187e4ff0815e5bdb1f9cb60a
+run_name: bright-loon-365
+run_uuid: b60f09ae187e4ff0815e5bdb1f9cb60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747085738630
+status: 3
+tags: []
+user_id: runner
