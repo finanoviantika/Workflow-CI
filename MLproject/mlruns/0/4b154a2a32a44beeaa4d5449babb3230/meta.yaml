@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4b154a2a32a44beeaa4d5449babb3230/artifacts
+end_time: 1747065274060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b154a2a32a44beeaa4d5449babb3230
+run_name: bemused-turtle-923
+run_uuid: 4b154a2a32a44beeaa4d5449babb3230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747065267787
+status: 3
+tags: []
+user_id: runner
