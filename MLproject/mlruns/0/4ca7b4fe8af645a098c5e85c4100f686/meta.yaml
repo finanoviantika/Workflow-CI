@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ca7b4fe8af645a098c5e85c4100f686/artifacts
+end_time: 1747104431214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ca7b4fe8af645a098c5e85c4100f686
+run_name: inquisitive-wolf-802
+run_uuid: 4ca7b4fe8af645a098c5e85c4100f686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747104424999
+status: 3
+tags: []
+user_id: runner
