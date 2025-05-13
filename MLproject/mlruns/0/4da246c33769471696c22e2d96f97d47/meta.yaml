@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4da246c33769471696c22e2d96f97d47/artifacts
+end_time: 1747101949411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4da246c33769471696c22e2d96f97d47
+run_name: luxuriant-bug-460
+run_uuid: 4da246c33769471696c22e2d96f97d47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747101943129
+status: 3
+tags: []
+user_id: runner
