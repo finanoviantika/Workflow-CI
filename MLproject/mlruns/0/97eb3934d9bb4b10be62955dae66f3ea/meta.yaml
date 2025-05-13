@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/97eb3934d9bb4b10be62955dae66f3ea/artifacts
+end_time: 1747140516037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97eb3934d9bb4b10be62955dae66f3ea
+run_name: painted-penguin-830
+run_uuid: 97eb3934d9bb4b10be62955dae66f3ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140509348
+status: 3
+tags: []
+user_id: runner
