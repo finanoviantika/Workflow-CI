@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8c5a464fd9a4d0fb15a42ace821520c/artifacts
+end_time: 1747146493764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c5a464fd9a4d0fb15a42ace821520c
+run_name: painted-ant-117
+run_uuid: d8c5a464fd9a4d0fb15a42ace821520c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747146487203
+status: 3
+tags: []
+user_id: runner
