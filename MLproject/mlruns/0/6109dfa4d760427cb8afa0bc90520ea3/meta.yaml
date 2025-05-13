@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6109dfa4d760427cb8afa0bc90520ea3/artifacts
+end_time: 1747094833858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6109dfa4d760427cb8afa0bc90520ea3
+run_name: handsome-panda-66
+run_uuid: 6109dfa4d760427cb8afa0bc90520ea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747094827553
+status: 3
+tags: []
+user_id: runner
