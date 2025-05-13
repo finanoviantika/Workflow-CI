@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/707e44e6995f4d97b3850e03752e69bc/artifacts
+end_time: 1747171264177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 707e44e6995f4d97b3850e03752e69bc
+run_name: aged-hen-17
+run_uuid: 707e44e6995f4d97b3850e03752e69bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747171257848
+status: 3
+tags: []
+user_id: runner
