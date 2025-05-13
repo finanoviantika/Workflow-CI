@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a0fdd2a6986a4153a3d7b2c58d103777/artifacts
+end_time: 1747148739090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0fdd2a6986a4153a3d7b2c58d103777
+run_name: persistent-deer-87
+run_uuid: a0fdd2a6986a4153a3d7b2c58d103777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148732749
+status: 3
+tags: []
+user_id: runner
