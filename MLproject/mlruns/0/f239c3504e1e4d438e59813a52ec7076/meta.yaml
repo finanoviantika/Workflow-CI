@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f239c3504e1e4d438e59813a52ec7076/artifacts
+end_time: 1747134539719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f239c3504e1e4d438e59813a52ec7076
+run_name: sedate-mule-984
+run_uuid: f239c3504e1e4d438e59813a52ec7076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134533389
+status: 3
+tags: []
+user_id: runner
