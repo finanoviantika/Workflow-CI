@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9aa4dbc0f3a34be885d053c97e0801e5/artifacts
+end_time: 1747123240942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa4dbc0f3a34be885d053c97e0801e5
+run_name: lyrical-snake-812
+run_uuid: 9aa4dbc0f3a34be885d053c97e0801e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747123234686
+status: 3
+tags: []
+user_id: runner
