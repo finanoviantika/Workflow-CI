@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ca62f90a6a83489ea63576fe79445c76/artifacts
+end_time: 1747116769137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca62f90a6a83489ea63576fe79445c76
+run_name: gentle-kite-581
+run_uuid: ca62f90a6a83489ea63576fe79445c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747116762492
+status: 3
+tags: []
+user_id: runner
