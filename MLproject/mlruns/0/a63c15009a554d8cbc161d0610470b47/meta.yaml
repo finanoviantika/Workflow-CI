@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a63c15009a554d8cbc161d0610470b47/artifacts
+end_time: 1747124512119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a63c15009a554d8cbc161d0610470b47
+run_name: awesome-bat-520
+run_uuid: a63c15009a554d8cbc161d0610470b47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124505718
+status: 3
+tags: []
+user_id: runner
