@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95627b54fce343e685b2cacb206041fe/artifacts
+end_time: 1747180090331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95627b54fce343e685b2cacb206041fe
+run_name: capricious-finch-405
+run_uuid: 95627b54fce343e685b2cacb206041fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180084029
+status: 3
+tags: []
+user_id: runner
