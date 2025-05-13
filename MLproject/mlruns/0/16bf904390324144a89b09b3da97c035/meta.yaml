@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/16bf904390324144a89b09b3da97c035/artifacts
+end_time: 1747129844985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16bf904390324144a89b09b3da97c035
+run_name: amusing-wasp-572
+run_uuid: 16bf904390324144a89b09b3da97c035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129838554
+status: 3
+tags: []
+user_id: runner
