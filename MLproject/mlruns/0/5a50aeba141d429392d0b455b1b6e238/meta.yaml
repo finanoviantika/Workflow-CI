@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5a50aeba141d429392d0b455b1b6e238/artifacts
+end_time: 1747146270526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a50aeba141d429392d0b455b1b6e238
+run_name: amazing-sponge-316
+run_uuid: 5a50aeba141d429392d0b455b1b6e238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747146264201
+status: 3
+tags: []
+user_id: runner
