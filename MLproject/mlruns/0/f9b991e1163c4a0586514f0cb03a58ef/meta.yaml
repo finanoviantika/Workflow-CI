@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f9b991e1163c4a0586514f0cb03a58ef/artifacts
+end_time: 1747106618935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9b991e1163c4a0586514f0cb03a58ef
+run_name: suave-moth-154
+run_uuid: f9b991e1163c4a0586514f0cb03a58ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747106612509
+status: 3
+tags: []
+user_id: runner
