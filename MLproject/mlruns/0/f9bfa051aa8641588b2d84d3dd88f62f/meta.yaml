@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f9bfa051aa8641588b2d84d3dd88f62f/artifacts
+end_time: 1747173514512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9bfa051aa8641588b2d84d3dd88f62f
+run_name: carefree-kite-972
+run_uuid: f9bfa051aa8641588b2d84d3dd88f62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173508199
+status: 3
+tags: []
+user_id: runner
