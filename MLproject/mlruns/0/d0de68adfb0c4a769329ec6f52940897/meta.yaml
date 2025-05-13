@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d0de68adfb0c4a769329ec6f52940897/artifacts
+end_time: 1747178834162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0de68adfb0c4a769329ec6f52940897
+run_name: nervous-jay-215
+run_uuid: d0de68adfb0c4a769329ec6f52940897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747178827853
+status: 3
+tags: []
+user_id: runner
