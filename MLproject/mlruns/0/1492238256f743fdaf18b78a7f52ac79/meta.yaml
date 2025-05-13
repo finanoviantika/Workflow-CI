@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1492238256f743fdaf18b78a7f52ac79/artifacts
+end_time: 1747096592677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1492238256f743fdaf18b78a7f52ac79
+run_name: resilient-lamb-63
+run_uuid: 1492238256f743fdaf18b78a7f52ac79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096586420
+status: 3
+tags: []
+user_id: runner
