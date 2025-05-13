@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5db3dea97d0a4662acdb7a5e05645f6a/artifacts
+end_time: 1747177654774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5db3dea97d0a4662acdb7a5e05645f6a
+run_name: enchanting-flea-643
+run_uuid: 5db3dea97d0a4662acdb7a5e05645f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177648259
+status: 3
+tags: []
+user_id: runner
