@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f5e2ca72141c44258e4fe8653a428493/artifacts
+end_time: 1747130126649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5e2ca72141c44258e4fe8653a428493
+run_name: amazing-gnu-572
+run_uuid: f5e2ca72141c44258e4fe8653a428493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747130120211
+status: 3
+tags: []
+user_id: runner
