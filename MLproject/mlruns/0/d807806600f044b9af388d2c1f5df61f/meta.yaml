@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d807806600f044b9af388d2c1f5df61f/artifacts
+end_time: 1747115805281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d807806600f044b9af388d2c1f5df61f
+run_name: clumsy-sow-936
+run_uuid: d807806600f044b9af388d2c1f5df61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747115799036
+status: 3
+tags: []
+user_id: runner
