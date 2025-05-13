@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5aa0503727f84debbd01b6163c750db5/artifacts
+end_time: 1747149459860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5aa0503727f84debbd01b6163c750db5
+run_name: bouncy-bat-214
+run_uuid: 5aa0503727f84debbd01b6163c750db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747149453040
+status: 3
+tags: []
+user_id: runner
