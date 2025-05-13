@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d2114e88a3f9494ea6351b3f555bd364/artifacts
+end_time: 1747140134757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2114e88a3f9494ea6351b3f555bd364
+run_name: peaceful-sloth-66
+run_uuid: d2114e88a3f9494ea6351b3f555bd364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140128008
+status: 3
+tags: []
+user_id: runner
