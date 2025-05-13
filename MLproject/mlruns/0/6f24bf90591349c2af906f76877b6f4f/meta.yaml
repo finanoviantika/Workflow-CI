@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6f24bf90591349c2af906f76877b6f4f/artifacts
+end_time: 1747169425181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f24bf90591349c2af906f76877b6f4f
+run_name: flawless-panda-553
+run_uuid: 6f24bf90591349c2af906f76877b6f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747169418033
+status: 3
+tags: []
+user_id: runner
