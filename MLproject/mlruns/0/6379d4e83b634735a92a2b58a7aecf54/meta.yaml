@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6379d4e83b634735a92a2b58a7aecf54/artifacts
+end_time: 1747135167238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6379d4e83b634735a92a2b58a7aecf54
+run_name: silent-sheep-517
+run_uuid: 6379d4e83b634735a92a2b58a7aecf54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135160855
+status: 3
+tags: []
+user_id: runner
