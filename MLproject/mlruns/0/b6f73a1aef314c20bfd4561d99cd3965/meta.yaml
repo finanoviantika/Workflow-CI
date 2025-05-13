@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b6f73a1aef314c20bfd4561d99cd3965/artifacts
+end_time: 1747153441513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6f73a1aef314c20bfd4561d99cd3965
+run_name: languid-swan-758
+run_uuid: b6f73a1aef314c20bfd4561d99cd3965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747153435212
+status: 3
+tags: []
+user_id: runner
