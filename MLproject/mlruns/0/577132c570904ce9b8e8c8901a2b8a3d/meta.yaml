@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/577132c570904ce9b8e8c8901a2b8a3d/artifacts
+end_time: 1747141958050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 577132c570904ce9b8e8c8901a2b8a3d
+run_name: colorful-duck-31
+run_uuid: 577132c570904ce9b8e8c8901a2b8a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141951779
+status: 3
+tags: []
+user_id: runner
