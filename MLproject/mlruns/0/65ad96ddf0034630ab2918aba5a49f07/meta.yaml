@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/65ad96ddf0034630ab2918aba5a49f07/artifacts
+end_time: 1747158294729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ad96ddf0034630ab2918aba5a49f07
+run_name: useful-mule-92
+run_uuid: 65ad96ddf0034630ab2918aba5a49f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747158288437
+status: 3
+tags: []
+user_id: runner
