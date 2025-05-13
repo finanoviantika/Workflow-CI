@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d10e4f59c2294eb69916111cb6c62eea/artifacts
+end_time: 1747124244198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d10e4f59c2294eb69916111cb6c62eea
+run_name: gaudy-slug-807
+run_uuid: d10e4f59c2294eb69916111cb6c62eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124237789
+status: 3
+tags: []
+user_id: runner
