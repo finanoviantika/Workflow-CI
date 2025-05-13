@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae2654ba07e44a0e8e035aadb977add4/artifacts
+end_time: 1747174228344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2654ba07e44a0e8e035aadb977add4
+run_name: delicate-calf-691
+run_uuid: ae2654ba07e44a0e8e035aadb977add4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747174222091
+status: 3
+tags: []
+user_id: runner
