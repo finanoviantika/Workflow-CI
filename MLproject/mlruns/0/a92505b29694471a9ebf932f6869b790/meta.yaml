@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a92505b29694471a9ebf932f6869b790/artifacts
+end_time: 1747166433718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a92505b29694471a9ebf932f6869b790
+run_name: peaceful-perch-784
+run_uuid: a92505b29694471a9ebf932f6869b790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166427367
+status: 3
+tags: []
+user_id: runner
