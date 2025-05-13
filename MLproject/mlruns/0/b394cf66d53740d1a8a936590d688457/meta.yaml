@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b394cf66d53740d1a8a936590d688457/artifacts
+end_time: 1747106889903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b394cf66d53740d1a8a936590d688457
+run_name: adorable-boar-868
+run_uuid: b394cf66d53740d1a8a936590d688457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747106883093
+status: 3
+tags: []
+user_id: runner
