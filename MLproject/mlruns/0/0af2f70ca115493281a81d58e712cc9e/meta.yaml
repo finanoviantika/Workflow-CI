@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0af2f70ca115493281a81d58e712cc9e/artifacts
+end_time: 1747104255563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af2f70ca115493281a81d58e712cc9e
+run_name: valuable-turtle-598
+run_uuid: 0af2f70ca115493281a81d58e712cc9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747104249193
+status: 3
+tags: []
+user_id: runner
