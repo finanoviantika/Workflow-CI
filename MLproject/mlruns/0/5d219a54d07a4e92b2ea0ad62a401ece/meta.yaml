@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5d219a54d07a4e92b2ea0ad62a401ece/artifacts
+end_time: 1747135253788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d219a54d07a4e92b2ea0ad62a401ece
+run_name: orderly-squirrel-755
+run_uuid: 5d219a54d07a4e92b2ea0ad62a401ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135247455
+status: 3
+tags: []
+user_id: runner
