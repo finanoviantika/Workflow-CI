@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d57c924b9720458bafe5029916248282/artifacts
+end_time: 1747129045351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d57c924b9720458bafe5029916248282
+run_name: clean-mink-312
+run_uuid: d57c924b9720458bafe5029916248282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129038895
+status: 3
+tags: []
+user_id: runner
