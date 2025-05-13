@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c25fd5d6f4a400c826fade4be8ed67e/artifacts
+end_time: 1747126828355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c25fd5d6f4a400c826fade4be8ed67e
+run_name: powerful-ram-395
+run_uuid: 5c25fd5d6f4a400c826fade4be8ed67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126821971
+status: 3
+tags: []
+user_id: runner
