@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d2855d3e61f34e74a7007b1bb7dc6bf3/artifacts
+end_time: 1747177747716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2855d3e61f34e74a7007b1bb7dc6bf3
+run_name: flawless-grouse-333
+run_uuid: d2855d3e61f34e74a7007b1bb7dc6bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177741095
+status: 3
+tags: []
+user_id: runner
