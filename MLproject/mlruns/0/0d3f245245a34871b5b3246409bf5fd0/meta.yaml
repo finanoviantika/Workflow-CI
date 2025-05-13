@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d3f245245a34871b5b3246409bf5fd0/artifacts
+end_time: 1747102217655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d3f245245a34871b5b3246409bf5fd0
+run_name: powerful-hawk-356
+run_uuid: 0d3f245245a34871b5b3246409bf5fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102211419
+status: 3
+tags: []
+user_id: runner
