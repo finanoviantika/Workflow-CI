@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c77660737b334d87a5018228c9e458b6/artifacts
+end_time: 1747147050184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c77660737b334d87a5018228c9e458b6
+run_name: mercurial-wasp-387
+run_uuid: c77660737b334d87a5018228c9e458b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747147043627
+status: 3
+tags: []
+user_id: runner
