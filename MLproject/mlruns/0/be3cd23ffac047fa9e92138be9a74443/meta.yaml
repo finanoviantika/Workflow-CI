@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be3cd23ffac047fa9e92138be9a74443/artifacts
+end_time: 1747177927573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be3cd23ffac047fa9e92138be9a74443
+run_name: gregarious-slug-213
+run_uuid: be3cd23ffac047fa9e92138be9a74443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177921339
+status: 3
+tags: []
+user_id: runner
