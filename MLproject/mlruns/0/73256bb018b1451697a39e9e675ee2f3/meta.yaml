@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/73256bb018b1451697a39e9e675ee2f3/artifacts
+end_time: 1747171078819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73256bb018b1451697a39e9e675ee2f3
+run_name: classy-snail-625
+run_uuid: 73256bb018b1451697a39e9e675ee2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747171072560
+status: 3
+tags: []
+user_id: runner
