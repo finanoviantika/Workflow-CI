@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72e5216567d24017a3db321cb95736f2/artifacts
+end_time: 1747100882569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72e5216567d24017a3db321cb95736f2
+run_name: mysterious-ray-664
+run_uuid: 72e5216567d24017a3db321cb95736f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747100876145
+status: 3
+tags: []
+user_id: runner
