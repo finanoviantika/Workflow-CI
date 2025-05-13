@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/57b1999d85084e9d85d7dff83b37475c/artifacts
+end_time: 1747168335421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b1999d85084e9d85d7dff83b37475c
+run_name: whimsical-auk-388
+run_uuid: 57b1999d85084e9d85d7dff83b37475c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747168329261
+status: 3
+tags: []
+user_id: runner
