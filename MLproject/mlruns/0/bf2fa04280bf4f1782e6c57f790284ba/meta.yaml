@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bf2fa04280bf4f1782e6c57f790284ba/artifacts
+end_time: 1747125318297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf2fa04280bf4f1782e6c57f790284ba
+run_name: nosy-ray-886
+run_uuid: bf2fa04280bf4f1782e6c57f790284ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747125311336
+status: 3
+tags: []
+user_id: runner
