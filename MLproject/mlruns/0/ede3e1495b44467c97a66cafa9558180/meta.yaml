@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ede3e1495b44467c97a66cafa9558180/artifacts
+end_time: 1747113624391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ede3e1495b44467c97a66cafa9558180
+run_name: omniscient-eel-419
+run_uuid: ede3e1495b44467c97a66cafa9558180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747113618089
+status: 3
+tags: []
+user_id: runner
