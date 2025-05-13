@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be57f5e45e1b41d8ae32d979c62e747a/artifacts
+end_time: 1747153348044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be57f5e45e1b41d8ae32d979c62e747a
+run_name: caring-penguin-689
+run_uuid: be57f5e45e1b41d8ae32d979c62e747a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747153341655
+status: 3
+tags: []
+user_id: runner
