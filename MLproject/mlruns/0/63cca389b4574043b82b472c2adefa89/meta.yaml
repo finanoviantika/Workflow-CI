@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/63cca389b4574043b82b472c2adefa89/artifacts
+end_time: 1747129133779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63cca389b4574043b82b472c2adefa89
+run_name: dashing-colt-740
+run_uuid: 63cca389b4574043b82b472c2adefa89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129127484
+status: 3
+tags: []
+user_id: runner
