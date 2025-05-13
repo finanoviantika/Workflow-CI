@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c25e43fd2d65415f97b587fb9687c6bc/artifacts
+end_time: 1747119527983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c25e43fd2d65415f97b587fb9687c6bc
+run_name: silent-perch-668
+run_uuid: c25e43fd2d65415f97b587fb9687c6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119521480
+status: 3
+tags: []
+user_id: runner
