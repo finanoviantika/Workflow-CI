@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/54e7ed3db3014d50a88c98a1f35fc021/artifacts
+end_time: 1747109809320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54e7ed3db3014d50a88c98a1f35fc021
+run_name: glamorous-sponge-882
+run_uuid: 54e7ed3db3014d50a88c98a1f35fc021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747109803074
+status: 3
+tags: []
+user_id: runner
