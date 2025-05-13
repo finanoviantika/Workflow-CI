@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4f63f4dbd9f74612ac49bf1a84042cf7/artifacts
+end_time: 1747148462609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f63f4dbd9f74612ac49bf1a84042cf7
+run_name: silent-rook-949
+run_uuid: 4f63f4dbd9f74612ac49bf1a84042cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148455758
+status: 3
+tags: []
+user_id: runner
