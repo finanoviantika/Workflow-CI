@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/efbe1a69701c40bb86d09154d72ffd59/artifacts
+end_time: 1747147513347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efbe1a69701c40bb86d09154d72ffd59
+run_name: bustling-doe-753
+run_uuid: efbe1a69701c40bb86d09154d72ffd59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747147506522
+status: 3
+tags: []
+user_id: runner
