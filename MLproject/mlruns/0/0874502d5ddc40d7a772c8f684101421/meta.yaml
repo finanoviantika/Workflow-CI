@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0874502d5ddc40d7a772c8f684101421/artifacts
+end_time: 1747122279845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0874502d5ddc40d7a772c8f684101421
+run_name: monumental-deer-114
+run_uuid: 0874502d5ddc40d7a772c8f684101421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122273548
+status: 3
+tags: []
+user_id: runner
