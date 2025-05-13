@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14343b8716bb4c37b4006a9bc73726c8/artifacts
+end_time: 1747118537938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14343b8716bb4c37b4006a9bc73726c8
+run_name: funny-gull-941
+run_uuid: 14343b8716bb4c37b4006a9bc73726c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118531689
+status: 3
+tags: []
+user_id: runner
