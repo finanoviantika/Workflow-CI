@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f2f75c4ca7944f57b839c8b7953cf482/artifacts
+end_time: 1747098473132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2f75c4ca7944f57b839c8b7953cf482
+run_name: judicious-deer-743
+run_uuid: f2f75c4ca7944f57b839c8b7953cf482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747098466925
+status: 3
+tags: []
+user_id: runner
