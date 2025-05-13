@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/133a63c4d58d4592a545054254cae3eb/artifacts
+end_time: 1747122459203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 133a63c4d58d4592a545054254cae3eb
+run_name: ambitious-midge-904
+run_uuid: 133a63c4d58d4592a545054254cae3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122452791
+status: 3
+tags: []
+user_id: runner
