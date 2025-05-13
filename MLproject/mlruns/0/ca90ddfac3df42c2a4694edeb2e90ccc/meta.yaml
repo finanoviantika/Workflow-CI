@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ca90ddfac3df42c2a4694edeb2e90ccc/artifacts
+end_time: 1747139289473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca90ddfac3df42c2a4694edeb2e90ccc
+run_name: clean-yak-164
+run_uuid: ca90ddfac3df42c2a4694edeb2e90ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747139282741
+status: 3
+tags: []
+user_id: runner
