@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4a86436def3d4f55849aede92b33ed49/artifacts
+end_time: 1747126024177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a86436def3d4f55849aede92b33ed49
+run_name: welcoming-shrike-3
+run_uuid: 4a86436def3d4f55849aede92b33ed49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126017615
+status: 3
+tags: []
+user_id: runner
