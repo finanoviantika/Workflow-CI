@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7e4261e56ab44b3692ce64c25c85f362/artifacts
+end_time: 1747105030920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e4261e56ab44b3692ce64c25c85f362
+run_name: auspicious-bat-6
+run_uuid: 7e4261e56ab44b3692ce64c25c85f362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105024727
+status: 3
+tags: []
+user_id: runner
