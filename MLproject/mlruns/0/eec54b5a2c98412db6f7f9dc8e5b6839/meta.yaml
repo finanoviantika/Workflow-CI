@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eec54b5a2c98412db6f7f9dc8e5b6839/artifacts
+end_time: 1747152392156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eec54b5a2c98412db6f7f9dc8e5b6839
+run_name: thoughtful-flea-766
+run_uuid: eec54b5a2c98412db6f7f9dc8e5b6839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152385706
+status: 3
+tags: []
+user_id: runner
