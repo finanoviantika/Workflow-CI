@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/320dc362132e4c28bff246020f12c13c/artifacts
+end_time: 1747172347627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 320dc362132e4c28bff246020f12c13c
+run_name: unruly-yak-461
+run_uuid: 320dc362132e4c28bff246020f12c13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747172341266
+status: 3
+tags: []
+user_id: runner
