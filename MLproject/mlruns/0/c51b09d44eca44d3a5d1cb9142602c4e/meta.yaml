@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c51b09d44eca44d3a5d1cb9142602c4e/artifacts
+end_time: 1747155272522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c51b09d44eca44d3a5d1cb9142602c4e
+run_name: capricious-dog-62
+run_uuid: c51b09d44eca44d3a5d1cb9142602c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155265972
+status: 3
+tags: []
+user_id: runner
