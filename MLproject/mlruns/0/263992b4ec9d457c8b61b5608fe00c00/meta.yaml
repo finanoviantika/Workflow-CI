@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/263992b4ec9d457c8b61b5608fe00c00/artifacts
+end_time: 1747169785588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 263992b4ec9d457c8b61b5608fe00c00
+run_name: worried-fawn-459
+run_uuid: 263992b4ec9d457c8b61b5608fe00c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747169779308
+status: 3
+tags: []
+user_id: runner
