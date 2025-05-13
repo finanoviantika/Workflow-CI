@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7a02b646dc914f0aa80b7ad94efed142/artifacts
+end_time: 1747144406463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a02b646dc914f0aa80b7ad94efed142
+run_name: wistful-penguin-586
+run_uuid: 7a02b646dc914f0aa80b7ad94efed142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747144399845
+status: 3
+tags: []
+user_id: runner
