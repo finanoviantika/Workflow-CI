@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b0058fbe7e35496082744d2a198e4c79/artifacts
+end_time: 1747143958255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0058fbe7e35496082744d2a198e4c79
+run_name: fortunate-colt-18
+run_uuid: b0058fbe7e35496082744d2a198e4c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747143951556
+status: 3
+tags: []
+user_id: runner
