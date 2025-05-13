@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e517882b131c4c71943e6dbbbb54a97d/artifacts
+end_time: 1747118012407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e517882b131c4c71943e6dbbbb54a97d
+run_name: chill-trout-583
+run_uuid: e517882b131c4c71943e6dbbbb54a97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118006025
+status: 3
+tags: []
+user_id: runner
