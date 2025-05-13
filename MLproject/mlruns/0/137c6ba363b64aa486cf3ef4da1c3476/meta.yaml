@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/137c6ba363b64aa486cf3ef4da1c3476/artifacts
+end_time: 1747157474375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137c6ba363b64aa486cf3ef4da1c3476
+run_name: amusing-fish-114
+run_uuid: 137c6ba363b64aa486cf3ef4da1c3476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747157468046
+status: 3
+tags: []
+user_id: runner
