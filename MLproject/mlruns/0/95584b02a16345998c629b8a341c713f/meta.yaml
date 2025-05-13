@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95584b02a16345998c629b8a341c713f/artifacts
+end_time: 1747102308477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95584b02a16345998c629b8a341c713f
+run_name: colorful-sloth-579
+run_uuid: 95584b02a16345998c629b8a341c713f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102301877
+status: 3
+tags: []
+user_id: runner
