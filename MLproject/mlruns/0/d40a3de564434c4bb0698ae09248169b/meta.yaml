@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d40a3de564434c4bb0698ae09248169b/artifacts
+end_time: 1747148824971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40a3de564434c4bb0698ae09248169b
+run_name: mercurial-hen-346
+run_uuid: d40a3de564434c4bb0698ae09248169b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148818753
+status: 3
+tags: []
+user_id: runner
