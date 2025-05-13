@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6d7a17b5e38f4c5a98dff5542e5c7ebb/artifacts
+end_time: 1747145554699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d7a17b5e38f4c5a98dff5542e5c7ebb
+run_name: rebellious-conch-480
+run_uuid: 6d7a17b5e38f4c5a98dff5542e5c7ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747145548369
+status: 3
+tags: []
+user_id: runner
