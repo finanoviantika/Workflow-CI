@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e200b6ccbe494ad6b5443b4f5c96ce5e/artifacts
+end_time: 1747100004705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e200b6ccbe494ad6b5443b4f5c96ce5e
+run_name: likeable-stag-269
+run_uuid: e200b6ccbe494ad6b5443b4f5c96ce5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099998067
+status: 3
+tags: []
+user_id: runner
