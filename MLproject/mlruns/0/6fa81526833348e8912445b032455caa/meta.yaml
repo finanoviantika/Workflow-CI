@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6fa81526833348e8912445b032455caa/artifacts
+end_time: 1747117925284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fa81526833348e8912445b032455caa
+run_name: likeable-bug-870
+run_uuid: 6fa81526833348e8912445b032455caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117918975
+status: 3
+tags: []
+user_id: runner
