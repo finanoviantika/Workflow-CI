@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/137c4f1e7af44f93a248a9985d261071/artifacts
+end_time: 1747160963649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137c4f1e7af44f93a248a9985d261071
+run_name: rumbling-midge-425
+run_uuid: 137c4f1e7af44f93a248a9985d261071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747160957181
+status: 3
+tags: []
+user_id: runner
