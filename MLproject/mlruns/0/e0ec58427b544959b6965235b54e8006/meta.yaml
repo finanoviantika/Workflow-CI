@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0ec58427b544959b6965235b54e8006/artifacts
+end_time: 1747096858762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0ec58427b544959b6965235b54e8006
+run_name: abundant-boar-697
+run_uuid: e0ec58427b544959b6965235b54e8006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096852496
+status: 3
+tags: []
+user_id: runner
