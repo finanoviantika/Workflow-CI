@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4477baaf189344d29a89e228b897b561/artifacts
+end_time: 1747113446760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4477baaf189344d29a89e228b897b561
+run_name: amusing-gull-30
+run_uuid: 4477baaf189344d29a89e228b897b561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747113440483
+status: 3
+tags: []
+user_id: runner
