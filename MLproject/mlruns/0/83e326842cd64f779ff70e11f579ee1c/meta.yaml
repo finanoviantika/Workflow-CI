@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/83e326842cd64f779ff70e11f579ee1c/artifacts
+end_time: 1747107783978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83e326842cd64f779ff70e11f579ee1c
+run_name: receptive-tern-560
+run_uuid: 83e326842cd64f779ff70e11f579ee1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747107777469
+status: 3
+tags: []
+user_id: runner
