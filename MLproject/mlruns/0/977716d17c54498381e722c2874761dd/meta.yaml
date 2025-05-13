@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/977716d17c54498381e722c2874761dd/artifacts
+end_time: 1747162320329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 977716d17c54498381e722c2874761dd
+run_name: monumental-frog-42
+run_uuid: 977716d17c54498381e722c2874761dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747162314096
+status: 3
+tags: []
+user_id: runner
