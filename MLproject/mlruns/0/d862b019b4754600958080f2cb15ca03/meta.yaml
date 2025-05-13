@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d862b019b4754600958080f2cb15ca03/artifacts
+end_time: 1747151379414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d862b019b4754600958080f2cb15ca03
+run_name: stately-vole-220
+run_uuid: d862b019b4754600958080f2cb15ca03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151372972
+status: 3
+tags: []
+user_id: runner
