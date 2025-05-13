@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/acf51c111ab947ff83f31f20e64f65eb/artifacts
+end_time: 1747170901808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acf51c111ab947ff83f31f20e64f65eb
+run_name: sneaky-lark-320
+run_uuid: acf51c111ab947ff83f31f20e64f65eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170895325
+status: 3
+tags: []
+user_id: runner
