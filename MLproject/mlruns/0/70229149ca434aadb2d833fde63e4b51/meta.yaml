@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/70229149ca434aadb2d833fde63e4b51/artifacts
+end_time: 1747167427734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70229149ca434aadb2d833fde63e4b51
+run_name: puzzled-ram-677
+run_uuid: 70229149ca434aadb2d833fde63e4b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747167421132
+status: 3
+tags: []
+user_id: runner
