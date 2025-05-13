@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/59c7ce61ab554761973eaec759bb4d05/artifacts
+end_time: 1747175747425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59c7ce61ab554761973eaec759bb4d05
+run_name: amusing-whale-159
+run_uuid: 59c7ce61ab554761973eaec759bb4d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175741142
+status: 3
+tags: []
+user_id: runner
