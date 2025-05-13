@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ad90966b0afd421d89e73cb40dda00b3/artifacts
+end_time: 1747120061004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad90966b0afd421d89e73cb40dda00b3
+run_name: thoughtful-vole-178
+run_uuid: ad90966b0afd421d89e73cb40dda00b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120054583
+status: 3
+tags: []
+user_id: runner
