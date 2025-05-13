@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1657e8e12367425d9c7fae0a64256268/artifacts
+end_time: 1747166164938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1657e8e12367425d9c7fae0a64256268
+run_name: puzzled-cod-21
+run_uuid: 1657e8e12367425d9c7fae0a64256268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166158380
+status: 3
+tags: []
+user_id: runner
