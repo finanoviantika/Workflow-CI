@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86e5a4ffb21d46c281b7efc49fc62c69/artifacts
+end_time: 1747173603042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86e5a4ffb21d46c281b7efc49fc62c69
+run_name: zealous-perch-335
+run_uuid: 86e5a4ffb21d46c281b7efc49fc62c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173596522
+status: 3
+tags: []
+user_id: runner
