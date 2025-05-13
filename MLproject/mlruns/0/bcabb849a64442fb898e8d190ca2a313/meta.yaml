@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bcabb849a64442fb898e8d190ca2a313/artifacts
+end_time: 1747096768394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcabb849a64442fb898e8d190ca2a313
+run_name: painted-carp-68
+run_uuid: bcabb849a64442fb898e8d190ca2a313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096762111
+status: 3
+tags: []
+user_id: runner
