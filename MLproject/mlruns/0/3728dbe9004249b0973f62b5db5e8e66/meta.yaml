@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3728dbe9004249b0973f62b5db5e8e66/artifacts
+end_time: 1747095970345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3728dbe9004249b0973f62b5db5e8e66
+run_name: amazing-whale-686
+run_uuid: 3728dbe9004249b0973f62b5db5e8e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747095963978
+status: 3
+tags: []
+user_id: runner
