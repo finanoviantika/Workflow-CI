@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f218e7adb18d4b089e59e1ed4564cd90/artifacts
+end_time: 1747105382617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f218e7adb18d4b089e59e1ed4564cd90
+run_name: colorful-stoat-111
+run_uuid: f218e7adb18d4b089e59e1ed4564cd90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105376369
+status: 3
+tags: []
+user_id: runner
