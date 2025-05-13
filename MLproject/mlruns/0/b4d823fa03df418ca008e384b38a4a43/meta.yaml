@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b4d823fa03df418ca008e384b38a4a43/artifacts
+end_time: 1747127434656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d823fa03df418ca008e384b38a4a43
+run_name: beautiful-kit-646
+run_uuid: b4d823fa03df418ca008e384b38a4a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747127428211
+status: 3
+tags: []
+user_id: runner
