@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/77e84554aa3d480d9efd890f89ac6208/artifacts
+end_time: 1747114515945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e84554aa3d480d9efd890f89ac6208
+run_name: likeable-pig-364
+run_uuid: 77e84554aa3d480d9efd890f89ac6208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747114509656
+status: 3
+tags: []
+user_id: runner
