@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a08182190e434c0c854a0ff8026d6cec/artifacts
+end_time: 1747105746009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a08182190e434c0c854a0ff8026d6cec
+run_name: smiling-horse-41
+run_uuid: a08182190e434c0c854a0ff8026d6cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105739680
+status: 3
+tags: []
+user_id: runner
