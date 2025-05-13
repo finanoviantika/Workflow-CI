@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0bbc7e5a4b6f4eb59c4b0e82d308ec5d/artifacts
+end_time: 1747156015921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bbc7e5a4b6f4eb59c4b0e82d308ec5d
+run_name: merciful-ant-873
+run_uuid: 0bbc7e5a4b6f4eb59c4b0e82d308ec5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747156009494
+status: 3
+tags: []
+user_id: runner
