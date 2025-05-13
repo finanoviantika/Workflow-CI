@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6f52b392807a42009a52044d4d5ca570/artifacts
+end_time: 1747097039607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f52b392807a42009a52044d4d5ca570
+run_name: caring-shrike-517
+run_uuid: 6f52b392807a42009a52044d4d5ca570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747097033294
+status: 3
+tags: []
+user_id: runner
