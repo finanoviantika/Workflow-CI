@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/041023062c1f4d1fa2139fed971f387c/artifacts
+end_time: 1747101685395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 041023062c1f4d1fa2139fed971f387c
+run_name: legendary-stag-603
+run_uuid: 041023062c1f4d1fa2139fed971f387c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747101678815
+status: 3
+tags: []
+user_id: runner
