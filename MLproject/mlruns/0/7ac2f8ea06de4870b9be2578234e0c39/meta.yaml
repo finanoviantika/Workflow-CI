@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7ac2f8ea06de4870b9be2578234e0c39/artifacts
+end_time: 1747126289224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ac2f8ea06de4870b9be2578234e0c39
+run_name: thoughtful-frog-137
+run_uuid: 7ac2f8ea06de4870b9be2578234e0c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126283210
+status: 3
+tags: []
+user_id: runner
