@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d75fdce00fb4c42bf61222823537d37/artifacts
+end_time: 1747106531367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d75fdce00fb4c42bf61222823537d37
+run_name: marvelous-sponge-74
+run_uuid: 0d75fdce00fb4c42bf61222823537d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747106525063
+status: 3
+tags: []
+user_id: runner
