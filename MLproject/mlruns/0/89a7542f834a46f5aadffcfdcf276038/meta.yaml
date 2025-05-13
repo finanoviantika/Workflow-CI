@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89a7542f834a46f5aadffcfdcf276038/artifacts
+end_time: 1747158847485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89a7542f834a46f5aadffcfdcf276038
+run_name: bold-calf-194
+run_uuid: 89a7542f834a46f5aadffcfdcf276038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747158840763
+status: 3
+tags: []
+user_id: runner
