@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2ec8cb50f0d74816844150d2fbf99c1f/artifacts
+end_time: 1747116681815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ec8cb50f0d74816844150d2fbf99c1f
+run_name: blushing-stork-309
+run_uuid: 2ec8cb50f0d74816844150d2fbf99c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747116675360
+status: 3
+tags: []
+user_id: runner
