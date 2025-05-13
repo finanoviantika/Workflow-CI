@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f814b7398903475986d8f29be08c82f5/artifacts
+end_time: 1747097759707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f814b7398903475986d8f29be08c82f5
+run_name: casual-crane-750
+run_uuid: f814b7398903475986d8f29be08c82f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747097753282
+status: 3
+tags: []
+user_id: runner
