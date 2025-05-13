@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c48241ca7934c16b5804bdb52a1918b/artifacts
+end_time: 1747145017051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c48241ca7934c16b5804bdb52a1918b
+run_name: capable-horse-373
+run_uuid: 8c48241ca7934c16b5804bdb52a1918b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747145010774
+status: 3
+tags: []
+user_id: runner
