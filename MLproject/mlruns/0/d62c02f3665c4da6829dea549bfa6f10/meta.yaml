@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d62c02f3665c4da6829dea549bfa6f10/artifacts
+end_time: 1747102925287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d62c02f3665c4da6829dea549bfa6f10
+run_name: suave-snail-97
+run_uuid: d62c02f3665c4da6829dea549bfa6f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102919041
+status: 3
+tags: []
+user_id: runner
