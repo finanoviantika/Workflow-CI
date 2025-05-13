@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/106b908320394cc88239b06dcda67fca/artifacts
+end_time: 1747104603014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 106b908320394cc88239b06dcda67fca
+run_name: dazzling-shrew-691
+run_uuid: 106b908320394cc88239b06dcda67fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747104596488
+status: 3
+tags: []
+user_id: runner
