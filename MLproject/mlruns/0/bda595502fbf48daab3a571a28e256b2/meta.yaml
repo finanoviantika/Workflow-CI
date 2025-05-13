@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bda595502fbf48daab3a571a28e256b2/artifacts
+end_time: 1747111675754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda595502fbf48daab3a571a28e256b2
+run_name: fun-roo-639
+run_uuid: bda595502fbf48daab3a571a28e256b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747111669423
+status: 3
+tags: []
+user_id: runner
