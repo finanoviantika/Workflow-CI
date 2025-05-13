@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/786575080a904b979efe9e6d10824e3b/artifacts
+end_time: 1747150650719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 786575080a904b979efe9e6d10824e3b
+run_name: unequaled-owl-349
+run_uuid: 786575080a904b979efe9e6d10824e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747150644473
+status: 3
+tags: []
+user_id: runner
