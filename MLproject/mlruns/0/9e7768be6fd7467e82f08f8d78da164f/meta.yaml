@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e7768be6fd7467e82f08f8d78da164f/artifacts
+end_time: 1747110257160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e7768be6fd7467e82f08f8d78da164f
+run_name: bouncy-fox-203
+run_uuid: 9e7768be6fd7467e82f08f8d78da164f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110250835
+status: 3
+tags: []
+user_id: runner
