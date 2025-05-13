@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc7070ec381f455da7588202c98fa910/artifacts
+end_time: 1747101420537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc7070ec381f455da7588202c98fa910
+run_name: amusing-crab-940
+run_uuid: cc7070ec381f455da7588202c98fa910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747101414188
+status: 3
+tags: []
+user_id: runner
