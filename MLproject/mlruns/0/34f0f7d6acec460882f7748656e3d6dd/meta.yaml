@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34f0f7d6acec460882f7748656e3d6dd/artifacts
+end_time: 1747114154031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34f0f7d6acec460882f7748656e3d6dd
+run_name: peaceful-mink-91
+run_uuid: 34f0f7d6acec460882f7748656e3d6dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747114147399
+status: 3
+tags: []
+user_id: runner
