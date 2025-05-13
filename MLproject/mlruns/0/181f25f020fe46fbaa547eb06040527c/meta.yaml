@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/181f25f020fe46fbaa547eb06040527c/artifacts
+end_time: 1747177019880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181f25f020fe46fbaa547eb06040527c
+run_name: lyrical-colt-817
+run_uuid: 181f25f020fe46fbaa547eb06040527c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177013486
+status: 3
+tags: []
+user_id: runner
