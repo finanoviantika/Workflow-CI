@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/94a294707c5b46d5b1916dcc7883d3c4/artifacts
+end_time: 1747152662686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94a294707c5b46d5b1916dcc7883d3c4
+run_name: melodic-cod-583
+run_uuid: 94a294707c5b46d5b1916dcc7883d3c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152656134
+status: 3
+tags: []
+user_id: runner
