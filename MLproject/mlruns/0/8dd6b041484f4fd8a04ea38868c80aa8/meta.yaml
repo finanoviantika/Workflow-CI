@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8dd6b041484f4fd8a04ea38868c80aa8/artifacts
+end_time: 1747155364608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd6b041484f4fd8a04ea38868c80aa8
+run_name: unique-ram-530
+run_uuid: 8dd6b041484f4fd8a04ea38868c80aa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155358008
+status: 3
+tags: []
+user_id: runner
