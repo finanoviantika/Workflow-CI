@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af85c0f621764df2a9abeae04a6eb2a6/artifacts
+end_time: 1747150097693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af85c0f621764df2a9abeae04a6eb2a6
+run_name: loud-goose-350
+run_uuid: af85c0f621764df2a9abeae04a6eb2a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747150091488
+status: 3
+tags: []
+user_id: runner
