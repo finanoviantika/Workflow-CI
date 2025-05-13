@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/40786bf4ab9d49ada0a0587021810f5f/artifacts
+end_time: 1747116864028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40786bf4ab9d49ada0a0587021810f5f
+run_name: receptive-eel-217
+run_uuid: 40786bf4ab9d49ada0a0587021810f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747116857223
+status: 3
+tags: []
+user_id: runner
