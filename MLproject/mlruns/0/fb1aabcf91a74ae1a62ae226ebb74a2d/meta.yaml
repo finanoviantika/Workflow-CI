@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fb1aabcf91a74ae1a62ae226ebb74a2d/artifacts
+end_time: 1747174410122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb1aabcf91a74ae1a62ae226ebb74a2d
+run_name: peaceful-shad-557
+run_uuid: fb1aabcf91a74ae1a62ae226ebb74a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747174403730
+status: 3
+tags: []
+user_id: runner
