@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6e9d72c255744aaab7cbeabd41fb401c/artifacts
+end_time: 1747120686058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9d72c255744aaab7cbeabd41fb401c
+run_name: amazing-gull-998
+run_uuid: 6e9d72c255744aaab7cbeabd41fb401c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120679784
+status: 3
+tags: []
+user_id: runner
