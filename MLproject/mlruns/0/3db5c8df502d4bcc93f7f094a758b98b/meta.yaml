@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3db5c8df502d4bcc93f7f094a758b98b/artifacts
+end_time: 1747131662296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db5c8df502d4bcc93f7f094a758b98b
+run_name: dashing-conch-89
+run_uuid: 3db5c8df502d4bcc93f7f094a758b98b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747131655865
+status: 3
+tags: []
+user_id: runner
