@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d77bf272d594496da01ea78dc5d99091/artifacts
+end_time: 1747135876150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d77bf272d594496da01ea78dc5d99091
+run_name: gentle-finch-341
+run_uuid: d77bf272d594496da01ea78dc5d99091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135869352
+status: 3
+tags: []
+user_id: runner
