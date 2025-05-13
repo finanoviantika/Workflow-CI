@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ffa633a59af7477e8c920aaea45d60e4/artifacts
+end_time: 1747140041668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa633a59af7477e8c920aaea45d60e4
+run_name: unleashed-smelt-11
+run_uuid: ffa633a59af7477e8c920aaea45d60e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140035246
+status: 3
+tags: []
+user_id: runner
