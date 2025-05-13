@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b323678212a8416fac0ef5582d2dd35c/artifacts
+end_time: 1747123885868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b323678212a8416fac0ef5582d2dd35c
+run_name: aged-turtle-753
+run_uuid: b323678212a8416fac0ef5582d2dd35c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747123879594
+status: 3
+tags: []
+user_id: runner
