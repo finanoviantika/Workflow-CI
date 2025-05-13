@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/481979eb013b4389b4b613707a267032/artifacts
+end_time: 1747178652319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 481979eb013b4389b4b613707a267032
+run_name: charming-bear-120
+run_uuid: 481979eb013b4389b4b613707a267032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747178646034
+status: 3
+tags: []
+user_id: runner
