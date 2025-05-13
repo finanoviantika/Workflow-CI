@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5e77fbf83aa4401bb4bc8bb48ff13291/artifacts
+end_time: 1747152122372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e77fbf83aa4401bb4bc8bb48ff13291
+run_name: beautiful-tern-75
+run_uuid: 5e77fbf83aa4401bb4bc8bb48ff13291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152116005
+status: 3
+tags: []
+user_id: runner
