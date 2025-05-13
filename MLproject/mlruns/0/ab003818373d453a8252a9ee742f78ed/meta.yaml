@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab003818373d453a8252a9ee742f78ed/artifacts
+end_time: 1747099183143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab003818373d453a8252a9ee742f78ed
+run_name: orderly-bass-484
+run_uuid: ab003818373d453a8252a9ee742f78ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099176854
+status: 3
+tags: []
+user_id: runner
