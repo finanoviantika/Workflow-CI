@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/585c669c545f46b4bfbf1578c8344418/artifacts
+end_time: 1747172621413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585c669c545f46b4bfbf1578c8344418
+run_name: caring-kite-404
+run_uuid: 585c669c545f46b4bfbf1578c8344418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747172615078
+status: 3
+tags: []
+user_id: runner
