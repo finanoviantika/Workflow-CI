@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b2603f64b51d42d6b0e62a1da211a057/artifacts
+end_time: 1747135611210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2603f64b51d42d6b0e62a1da211a057
+run_name: popular-deer-820
+run_uuid: b2603f64b51d42d6b0e62a1da211a057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135604964
+status: 3
+tags: []
+user_id: runner
