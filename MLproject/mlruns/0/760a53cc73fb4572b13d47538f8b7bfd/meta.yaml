@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/760a53cc73fb4572b13d47538f8b7bfd/artifacts
+end_time: 1747178374012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 760a53cc73fb4572b13d47538f8b7bfd
+run_name: amazing-mouse-721
+run_uuid: 760a53cc73fb4572b13d47538f8b7bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747178367766
+status: 3
+tags: []
+user_id: runner
