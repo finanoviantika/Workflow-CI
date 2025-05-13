@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f3bf4790a3564890b790a173536ca78d/artifacts
+end_time: 1747124779704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3bf4790a3564890b790a173536ca78d
+run_name: gregarious-colt-578
+run_uuid: f3bf4790a3564890b790a173536ca78d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124773513
+status: 3
+tags: []
+user_id: runner
