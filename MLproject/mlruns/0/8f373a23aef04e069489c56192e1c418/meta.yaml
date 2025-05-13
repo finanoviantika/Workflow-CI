@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8f373a23aef04e069489c56192e1c418/artifacts
+end_time: 1747172531657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f373a23aef04e069489c56192e1c418
+run_name: welcoming-horse-554
+run_uuid: 8f373a23aef04e069489c56192e1c418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747172525333
+status: 3
+tags: []
+user_id: runner
