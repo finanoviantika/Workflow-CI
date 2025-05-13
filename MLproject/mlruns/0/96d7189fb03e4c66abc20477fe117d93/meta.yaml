@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/96d7189fb03e4c66abc20477fe117d93/artifacts
+end_time: 1747134897921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96d7189fb03e4c66abc20477fe117d93
+run_name: angry-hen-911
+run_uuid: 96d7189fb03e4c66abc20477fe117d93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134891621
+status: 3
+tags: []
+user_id: runner
