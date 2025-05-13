@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d06914ca72f45708f624c17c81d14e3/artifacts
+end_time: 1747110168556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d06914ca72f45708f624c17c81d14e3
+run_name: whimsical-duck-479
+run_uuid: 7d06914ca72f45708f624c17c81d14e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110161807
+status: 3
+tags: []
+user_id: runner
