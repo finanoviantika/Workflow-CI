@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e1bd91752b114569a4e29eb94f80b100/artifacts
+end_time: 1747137500174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1bd91752b114569a4e29eb94f80b100
+run_name: enthused-perch-351
+run_uuid: e1bd91752b114569a4e29eb94f80b100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747137493810
+status: 3
+tags: []
+user_id: runner
