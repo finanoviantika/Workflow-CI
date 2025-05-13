@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0f2b332509141eb9b24398e3e9d8be5/artifacts
+end_time: 1747154718210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0f2b332509141eb9b24398e3e9d8be5
+run_name: omniscient-shad-998
+run_uuid: e0f2b332509141eb9b24398e3e9d8be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747154711770
+status: 3
+tags: []
+user_id: runner
