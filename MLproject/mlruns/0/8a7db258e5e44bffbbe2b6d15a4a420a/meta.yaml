@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8a7db258e5e44bffbbe2b6d15a4a420a/artifacts
+end_time: 1747110612550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a7db258e5e44bffbbe2b6d15a4a420a
+run_name: fun-mare-714
+run_uuid: 8a7db258e5e44bffbbe2b6d15a4a420a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110606161
+status: 3
+tags: []
+user_id: runner
