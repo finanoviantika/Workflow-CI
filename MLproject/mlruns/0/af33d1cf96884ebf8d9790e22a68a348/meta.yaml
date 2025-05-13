@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af33d1cf96884ebf8d9790e22a68a348/artifacts
+end_time: 1747143212127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af33d1cf96884ebf8d9790e22a68a348
+run_name: amazing-shrimp-215
+run_uuid: af33d1cf96884ebf8d9790e22a68a348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747143205588
+status: 3
+tags: []
+user_id: runner
