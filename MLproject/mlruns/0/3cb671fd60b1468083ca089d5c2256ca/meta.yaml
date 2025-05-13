@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3cb671fd60b1468083ca089d5c2256ca/artifacts
+end_time: 1747098824815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb671fd60b1468083ca089d5c2256ca
+run_name: nebulous-bee-675
+run_uuid: 3cb671fd60b1468083ca089d5c2256ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747098818453
+status: 3
+tags: []
+user_id: runner
