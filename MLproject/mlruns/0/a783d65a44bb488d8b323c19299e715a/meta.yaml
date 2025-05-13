@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a783d65a44bb488d8b323c19299e715a/artifacts
+end_time: 1747112297033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a783d65a44bb488d8b323c19299e715a
+run_name: bittersweet-snipe-63
+run_uuid: a783d65a44bb488d8b323c19299e715a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747112290570
+status: 3
+tags: []
+user_id: runner
