@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86faba2819814db081c830b4f3af0236/artifacts
+end_time: 1747179998045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86faba2819814db081c830b4f3af0236
+run_name: luminous-fly-344
+run_uuid: 86faba2819814db081c830b4f3af0236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179991367
+status: 3
+tags: []
+user_id: runner
