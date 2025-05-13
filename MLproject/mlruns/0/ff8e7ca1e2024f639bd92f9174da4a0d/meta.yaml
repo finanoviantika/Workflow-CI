@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff8e7ca1e2024f639bd92f9174da4a0d/artifacts
+end_time: 1747152987774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8e7ca1e2024f639bd92f9174da4a0d
+run_name: melodic-sloth-835
+run_uuid: ff8e7ca1e2024f639bd92f9174da4a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152981419
+status: 3
+tags: []
+user_id: runner
