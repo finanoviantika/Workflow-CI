@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c9c667b6f60d47909141ea1c6bdc4cd7/artifacts
+end_time: 1747152300290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9c667b6f60d47909141ea1c6bdc4cd7
+run_name: useful-stork-690
+run_uuid: c9c667b6f60d47909141ea1c6bdc4cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152294013
+status: 3
+tags: []
+user_id: runner
