@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e480c72357a41cf8a26fb00f48f0438/artifacts
+end_time: 1747150560509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e480c72357a41cf8a26fb00f48f0438
+run_name: classy-wasp-421
+run_uuid: 9e480c72357a41cf8a26fb00f48f0438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747150554002
+status: 3
+tags: []
+user_id: runner
