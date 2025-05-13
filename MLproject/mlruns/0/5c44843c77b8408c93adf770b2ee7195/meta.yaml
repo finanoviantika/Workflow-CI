@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c44843c77b8408c93adf770b2ee7195/artifacts
+end_time: 1747132468699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c44843c77b8408c93adf770b2ee7195
+run_name: gentle-ape-397
+run_uuid: 5c44843c77b8408c93adf770b2ee7195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132462460
+status: 3
+tags: []
+user_id: runner
