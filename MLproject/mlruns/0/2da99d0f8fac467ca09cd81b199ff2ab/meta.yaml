@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2da99d0f8fac467ca09cd81b199ff2ab/artifacts
+end_time: 1747166702522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2da99d0f8fac467ca09cd81b199ff2ab
+run_name: flawless-mink-845
+run_uuid: 2da99d0f8fac467ca09cd81b199ff2ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166696125
+status: 3
+tags: []
+user_id: runner
