@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7eb964c6da024fad9af5ee6b5a5ca269/artifacts
+end_time: 1747136508554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb964c6da024fad9af5ee6b5a5ca269
+run_name: clean-dog-670
+run_uuid: 7eb964c6da024fad9af5ee6b5a5ca269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747136502249
+status: 3
+tags: []
+user_id: runner
