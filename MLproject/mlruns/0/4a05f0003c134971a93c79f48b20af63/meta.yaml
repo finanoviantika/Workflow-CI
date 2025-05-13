@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4a05f0003c134971a93c79f48b20af63/artifacts
+end_time: 1747108673203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a05f0003c134971a93c79f48b20af63
+run_name: clumsy-yak-66
+run_uuid: 4a05f0003c134971a93c79f48b20af63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108666977
+status: 3
+tags: []
+user_id: runner
