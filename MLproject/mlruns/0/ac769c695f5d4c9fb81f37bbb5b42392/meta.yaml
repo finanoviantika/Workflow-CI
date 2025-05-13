@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac769c695f5d4c9fb81f37bbb5b42392/artifacts
+end_time: 1747177112594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac769c695f5d4c9fb81f37bbb5b42392
+run_name: sassy-bug-44
+run_uuid: ac769c695f5d4c9fb81f37bbb5b42392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177106246
+status: 3
+tags: []
+user_id: runner
