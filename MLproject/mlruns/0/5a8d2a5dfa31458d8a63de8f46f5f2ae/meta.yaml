@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5a8d2a5dfa31458d8a63de8f46f5f2ae/artifacts
+end_time: 1747176101200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a8d2a5dfa31458d8a63de8f46f5f2ae
+run_name: melodic-bat-780
+run_uuid: 5a8d2a5dfa31458d8a63de8f46f5f2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747176094416
+status: 3
+tags: []
+user_id: runner
