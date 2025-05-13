@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/07dafaece4c74ba39e40958552cbe97b/artifacts
+end_time: 1747113973724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07dafaece4c74ba39e40958552cbe97b
+run_name: orderly-yak-57
+run_uuid: 07dafaece4c74ba39e40958552cbe97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747113967530
+status: 3
+tags: []
+user_id: runner
