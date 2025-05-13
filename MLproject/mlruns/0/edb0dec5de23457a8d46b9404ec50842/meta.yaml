@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/edb0dec5de23457a8d46b9404ec50842/artifacts
+end_time: 1747150832124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb0dec5de23457a8d46b9404ec50842
+run_name: puzzled-vole-78
+run_uuid: edb0dec5de23457a8d46b9404ec50842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747150825678
+status: 3
+tags: []
+user_id: runner
