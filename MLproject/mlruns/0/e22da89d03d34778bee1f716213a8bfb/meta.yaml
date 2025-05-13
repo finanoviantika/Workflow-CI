@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e22da89d03d34778bee1f716213a8bfb/artifacts
+end_time: 1747161242398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22da89d03d34778bee1f716213a8bfb
+run_name: omniscient-toad-687
+run_uuid: e22da89d03d34778bee1f716213a8bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747161235660
+status: 3
+tags: []
+user_id: runner
