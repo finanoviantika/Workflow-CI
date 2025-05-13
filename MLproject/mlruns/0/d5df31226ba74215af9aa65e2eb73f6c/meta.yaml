@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d5df31226ba74215af9aa65e2eb73f6c/artifacts
+end_time: 1747122014100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5df31226ba74215af9aa65e2eb73f6c
+run_name: exultant-gnat-66
+run_uuid: d5df31226ba74215af9aa65e2eb73f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122007184
+status: 3
+tags: []
+user_id: runner
