@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e76782de72b14cc499c1f75b6f465f92/artifacts
+end_time: 1747161507285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e76782de72b14cc499c1f75b6f465f92
+run_name: overjoyed-sow-501
+run_uuid: e76782de72b14cc499c1f75b6f465f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747161500959
+status: 3
+tags: []
+user_id: runner
