@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7c5c32cd69b240578769f638f761c228/artifacts
+end_time: 1747155087939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c5c32cd69b240578769f638f761c228
+run_name: casual-shoat-99
+run_uuid: 7c5c32cd69b240578769f638f761c228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155081339
+status: 3
+tags: []
+user_id: runner
