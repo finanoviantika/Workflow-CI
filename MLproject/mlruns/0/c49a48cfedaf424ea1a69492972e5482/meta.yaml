@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c49a48cfedaf424ea1a69492972e5482/artifacts
+end_time: 1747155178773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c49a48cfedaf424ea1a69492972e5482
+run_name: resilient-dove-500
+run_uuid: c49a48cfedaf424ea1a69492972e5482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155172230
+status: 3
+tags: []
+user_id: runner
