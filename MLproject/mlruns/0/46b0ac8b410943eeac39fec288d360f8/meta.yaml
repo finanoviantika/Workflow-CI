@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/46b0ac8b410943eeac39fec288d360f8/artifacts
+end_time: 1747175922525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46b0ac8b410943eeac39fec288d360f8
+run_name: orderly-turtle-725
+run_uuid: 46b0ac8b410943eeac39fec288d360f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175916218
+status: 3
+tags: []
+user_id: runner
