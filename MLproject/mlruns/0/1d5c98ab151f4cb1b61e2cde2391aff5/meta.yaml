@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1d5c98ab151f4cb1b61e2cde2391aff5/artifacts
+end_time: 1747117487956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d5c98ab151f4cb1b61e2cde2391aff5
+run_name: inquisitive-ox-596
+run_uuid: 1d5c98ab151f4cb1b61e2cde2391aff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117481413
+status: 3
+tags: []
+user_id: runner
