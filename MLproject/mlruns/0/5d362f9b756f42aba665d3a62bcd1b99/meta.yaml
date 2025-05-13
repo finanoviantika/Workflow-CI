@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5d362f9b756f42aba665d3a62bcd1b99/artifacts
+end_time: 1747163222341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d362f9b756f42aba665d3a62bcd1b99
+run_name: thoughtful-loon-478
+run_uuid: 5d362f9b756f42aba665d3a62bcd1b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163216035
+status: 3
+tags: []
+user_id: runner
