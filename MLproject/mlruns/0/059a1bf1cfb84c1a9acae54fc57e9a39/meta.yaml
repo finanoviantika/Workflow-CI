@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/059a1bf1cfb84c1a9acae54fc57e9a39/artifacts
+end_time: 1747163773047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 059a1bf1cfb84c1a9acae54fc57e9a39
+run_name: fortunate-koi-779
+run_uuid: 059a1bf1cfb84c1a9acae54fc57e9a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163766212
+status: 3
+tags: []
+user_id: runner
