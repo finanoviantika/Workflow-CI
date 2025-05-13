@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5239f89d6b214f4d86de508db3f9c756/artifacts
+end_time: 1747155546285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5239f89d6b214f4d86de508db3f9c756
+run_name: stylish-hare-227
+run_uuid: 5239f89d6b214f4d86de508db3f9c756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155540026
+status: 3
+tags: []
+user_id: runner
