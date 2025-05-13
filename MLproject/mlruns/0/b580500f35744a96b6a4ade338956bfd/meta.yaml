@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b580500f35744a96b6a4ade338956bfd/artifacts
+end_time: 1747109628328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b580500f35744a96b6a4ade338956bfd
+run_name: handsome-crane-248
+run_uuid: b580500f35744a96b6a4ade338956bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747109621942
+status: 3
+tags: []
+user_id: runner
