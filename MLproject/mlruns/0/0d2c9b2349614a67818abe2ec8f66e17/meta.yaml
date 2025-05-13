@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d2c9b2349614a67818abe2ec8f66e17/artifacts
+end_time: 1747128235095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d2c9b2349614a67818abe2ec8f66e17
+run_name: agreeable-fawn-320
+run_uuid: 0d2c9b2349614a67818abe2ec8f66e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747128228635
+status: 3
+tags: []
+user_id: runner
