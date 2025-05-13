@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ef4ab25debc4e2fb7f04a8edc34a6df/artifacts
+end_time: 1747127261007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ef4ab25debc4e2fb7f04a8edc34a6df
+run_name: casual-crow-274
+run_uuid: 4ef4ab25debc4e2fb7f04a8edc34a6df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747127254653
+status: 3
+tags: []
+user_id: runner
