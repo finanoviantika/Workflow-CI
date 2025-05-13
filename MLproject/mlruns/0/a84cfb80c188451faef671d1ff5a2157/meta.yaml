@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a84cfb80c188451faef671d1ff5a2157/artifacts
+end_time: 1747175836295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a84cfb80c188451faef671d1ff5a2157
+run_name: selective-hound-290
+run_uuid: a84cfb80c188451faef671d1ff5a2157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175830030
+status: 3
+tags: []
+user_id: runner
