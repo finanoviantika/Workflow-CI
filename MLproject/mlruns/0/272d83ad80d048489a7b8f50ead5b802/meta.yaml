@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/272d83ad80d048489a7b8f50ead5b802/artifacts
+end_time: 1747126648074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 272d83ad80d048489a7b8f50ead5b802
+run_name: nimble-dolphin-257
+run_uuid: 272d83ad80d048489a7b8f50ead5b802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126641551
+status: 3
+tags: []
+user_id: runner
