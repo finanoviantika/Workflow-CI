@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/07f1b1c6ae3a49f68c247444e9042830/artifacts
+end_time: 1747160240450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f1b1c6ae3a49f68c247444e9042830
+run_name: nervous-gnu-869
+run_uuid: 07f1b1c6ae3a49f68c247444e9042830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747160234174
+status: 3
+tags: []
+user_id: runner
