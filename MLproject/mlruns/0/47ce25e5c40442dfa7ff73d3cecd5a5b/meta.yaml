@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/47ce25e5c40442dfa7ff73d3cecd5a5b/artifacts
+end_time: 1747141775688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47ce25e5c40442dfa7ff73d3cecd5a5b
+run_name: indecisive-snail-450
+run_uuid: 47ce25e5c40442dfa7ff73d3cecd5a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141769351
+status: 3
+tags: []
+user_id: runner
