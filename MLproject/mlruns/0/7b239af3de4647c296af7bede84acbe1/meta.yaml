@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7b239af3de4647c296af7bede84acbe1/artifacts
+end_time: 1747100532316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b239af3de4647c296af7bede84acbe1
+run_name: enthused-vole-761
+run_uuid: 7b239af3de4647c296af7bede84acbe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747100525602
+status: 3
+tags: []
+user_id: runner
