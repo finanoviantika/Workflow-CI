@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/71d9b18bc4b74296966733616e12ec54/artifacts
+end_time: 1747180647974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71d9b18bc4b74296966733616e12ec54
+run_name: unleashed-mule-596
+run_uuid: 71d9b18bc4b74296966733616e12ec54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180641533
+status: 3
+tags: []
+user_id: runner
