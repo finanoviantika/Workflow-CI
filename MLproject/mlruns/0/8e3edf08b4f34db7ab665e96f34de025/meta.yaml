@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8e3edf08b4f34db7ab665e96f34de025/artifacts
+end_time: 1747166980355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e3edf08b4f34db7ab665e96f34de025
+run_name: persistent-fish-696
+run_uuid: 8e3edf08b4f34db7ab665e96f34de025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166973579
+status: 3
+tags: []
+user_id: runner
