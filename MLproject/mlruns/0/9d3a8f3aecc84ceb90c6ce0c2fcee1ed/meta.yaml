@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9d3a8f3aecc84ceb90c6ce0c2fcee1ed/artifacts
+end_time: 1747143408445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d3a8f3aecc84ceb90c6ce0c2fcee1ed
+run_name: enchanting-pug-98
+run_uuid: 9d3a8f3aecc84ceb90c6ce0c2fcee1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747143401700
+status: 3
+tags: []
+user_id: runner
