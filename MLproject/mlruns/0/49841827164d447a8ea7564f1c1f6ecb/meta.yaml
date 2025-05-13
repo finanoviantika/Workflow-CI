@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/49841827164d447a8ea7564f1c1f6ecb/artifacts
+end_time: 1747159028252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49841827164d447a8ea7564f1c1f6ecb
+run_name: placid-jay-413
+run_uuid: 49841827164d447a8ea7564f1c1f6ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747159021873
+status: 3
+tags: []
+user_id: runner
