@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2abbbcc31af04a4e8bd0462c391ab5fb/artifacts
+end_time: 1747120419796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2abbbcc31af04a4e8bd0462c391ab5fb
+run_name: exultant-slug-426
+run_uuid: 2abbbcc31af04a4e8bd0462c391ab5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120413454
+status: 3
+tags: []
+user_id: runner
