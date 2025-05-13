@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2609d91b11854c0bb2fb09c5a035d834/artifacts
+end_time: 1747102396122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2609d91b11854c0bb2fb09c5a035d834
+run_name: bedecked-lamb-278
+run_uuid: 2609d91b11854c0bb2fb09c5a035d834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102389762
+status: 3
+tags: []
+user_id: runner
