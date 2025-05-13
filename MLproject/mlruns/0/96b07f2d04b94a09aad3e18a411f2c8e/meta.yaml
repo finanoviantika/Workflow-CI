@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/96b07f2d04b94a09aad3e18a411f2c8e/artifacts
+end_time: 1747110967610
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96b07f2d04b94a09aad3e18a411f2c8e
+run_name: capable-crane-235
+run_uuid: 96b07f2d04b94a09aad3e18a411f2c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110960992
+status: 3
+tags: []
+user_id: runner
