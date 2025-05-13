@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9a32ccac14c4437898f377e9090e0c25/artifacts
+end_time: 1747173785167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a32ccac14c4437898f377e9090e0c25
+run_name: rogue-goat-111
+run_uuid: 9a32ccac14c4437898f377e9090e0c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173778480
+status: 3
+tags: []
+user_id: runner
