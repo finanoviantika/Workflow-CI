@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fe03f97090b14d14a729ab54d3bdb443/artifacts
+end_time: 1747144579293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe03f97090b14d14a729ab54d3bdb443
+run_name: able-skink-190
+run_uuid: fe03f97090b14d14a729ab54d3bdb443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747144572816
+status: 3
+tags: []
+user_id: runner
