@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/05131d595d1d46c4b4184be2233a2a87/artifacts
+end_time: 1747146002212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05131d595d1d46c4b4184be2233a2a87
+run_name: funny-snipe-507
+run_uuid: 05131d595d1d46c4b4184be2233a2a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747145995773
+status: 3
+tags: []
+user_id: runner
