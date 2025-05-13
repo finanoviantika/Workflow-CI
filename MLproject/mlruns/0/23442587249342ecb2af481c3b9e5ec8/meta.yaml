@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/23442587249342ecb2af481c3b9e5ec8/artifacts
+end_time: 1747159208236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23442587249342ecb2af481c3b9e5ec8
+run_name: smiling-cub-874
+run_uuid: 23442587249342ecb2af481c3b9e5ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747159201740
+status: 3
+tags: []
+user_id: runner
