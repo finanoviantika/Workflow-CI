@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8f123f777a8e4b94aac757817dc62372/artifacts
+end_time: 1747098022976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f123f777a8e4b94aac757817dc62372
+run_name: sassy-doe-468
+run_uuid: 8f123f777a8e4b94aac757817dc62372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747098016608
+status: 3
+tags: []
+user_id: runner
