@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2c5162c64a6046d8862e99d95f139a3b/artifacts
+end_time: 1747114344210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5162c64a6046d8862e99d95f139a3b
+run_name: masked-hog-112
+run_uuid: 2c5162c64a6046d8862e99d95f139a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747114336787
+status: 3
+tags: []
+user_id: runner
