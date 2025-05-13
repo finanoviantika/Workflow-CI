@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86297e2746914a23b190fe0e98ee25ea/artifacts
+end_time: 1747132014979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86297e2746914a23b190fe0e98ee25ea
+run_name: gentle-grouse-674
+run_uuid: 86297e2746914a23b190fe0e98ee25ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132008710
+status: 3
+tags: []
+user_id: runner
