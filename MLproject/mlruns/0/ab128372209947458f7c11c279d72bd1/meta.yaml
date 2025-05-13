@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab128372209947458f7c11c279d72bd1/artifacts
+end_time: 1747166072753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab128372209947458f7c11c279d72bd1
+run_name: righteous-wren-385
+run_uuid: ab128372209947458f7c11c279d72bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166065869
+status: 3
+tags: []
+user_id: runner
