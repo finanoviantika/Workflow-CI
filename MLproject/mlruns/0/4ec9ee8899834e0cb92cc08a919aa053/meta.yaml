@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ec9ee8899834e0cb92cc08a919aa053/artifacts
+end_time: 1747129315151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ec9ee8899834e0cb92cc08a919aa053
+run_name: popular-fox-361
+run_uuid: 4ec9ee8899834e0cb92cc08a919aa053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129308686
+status: 3
+tags: []
+user_id: runner
