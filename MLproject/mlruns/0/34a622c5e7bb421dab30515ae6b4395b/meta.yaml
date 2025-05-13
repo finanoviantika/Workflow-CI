@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34a622c5e7bb421dab30515ae6b4395b/artifacts
+end_time: 1747108590902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34a622c5e7bb421dab30515ae6b4395b
+run_name: useful-gnat-194
+run_uuid: 34a622c5e7bb421dab30515ae6b4395b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108584467
+status: 3
+tags: []
+user_id: runner
