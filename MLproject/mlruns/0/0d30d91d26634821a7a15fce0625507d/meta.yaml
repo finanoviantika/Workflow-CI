@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d30d91d26634821a7a15fce0625507d/artifacts
+end_time: 1747162046458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d30d91d26634821a7a15fce0625507d
+run_name: honorable-goat-398
+run_uuid: 0d30d91d26634821a7a15fce0625507d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747162039436
+status: 3
+tags: []
+user_id: runner
