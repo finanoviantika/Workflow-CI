@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1c192d6eda764b63a7ee1c00b737ef46/artifacts
+end_time: 1747133747694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c192d6eda764b63a7ee1c00b737ef46
+run_name: enthused-sow-480
+run_uuid: 1c192d6eda764b63a7ee1c00b737ef46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747133741076
+status: 3
+tags: []
+user_id: runner
