@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be17710489184840bceefd896b63d973/artifacts
+end_time: 1747174764735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be17710489184840bceefd896b63d973
+run_name: receptive-rook-688
+run_uuid: be17710489184840bceefd896b63d973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747174758566
+status: 3
+tags: []
+user_id: runner
