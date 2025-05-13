@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/484f6c58b29f4e6db8f15c6f2c84ddc0/artifacts
+end_time: 1747119703130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 484f6c58b29f4e6db8f15c6f2c84ddc0
+run_name: trusting-gnat-66
+run_uuid: 484f6c58b29f4e6db8f15c6f2c84ddc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119696734
+status: 3
+tags: []
+user_id: runner
