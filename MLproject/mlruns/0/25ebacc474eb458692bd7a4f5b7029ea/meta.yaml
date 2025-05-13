@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25ebacc474eb458692bd7a4f5b7029ea/artifacts
+end_time: 1747108323968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ebacc474eb458692bd7a4f5b7029ea
+run_name: charming-wasp-815
+run_uuid: 25ebacc474eb458692bd7a4f5b7029ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108317610
+status: 3
+tags: []
+user_id: runner
