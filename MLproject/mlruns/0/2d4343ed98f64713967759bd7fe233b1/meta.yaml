@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2d4343ed98f64713967759bd7fe233b1/artifacts
+end_time: 1747149903808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d4343ed98f64713967759bd7fe233b1
+run_name: suave-shad-651
+run_uuid: 2d4343ed98f64713967759bd7fe233b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747149897276
+status: 3
+tags: []
+user_id: runner
