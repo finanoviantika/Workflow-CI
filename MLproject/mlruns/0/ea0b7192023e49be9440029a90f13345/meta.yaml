@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ea0b7192023e49be9440029a90f13345/artifacts
+end_time: 1747096947705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea0b7192023e49be9440029a90f13345
+run_name: bemused-hound-0
+run_uuid: ea0b7192023e49be9440029a90f13345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096941262
+status: 3
+tags: []
+user_id: runner
