@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a024398486d443eab7069d77a511764a/artifacts
+end_time: 1747109454145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a024398486d443eab7069d77a511764a
+run_name: worried-panda-32
+run_uuid: a024398486d443eab7069d77a511764a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747109447837
+status: 3
+tags: []
+user_id: runner
