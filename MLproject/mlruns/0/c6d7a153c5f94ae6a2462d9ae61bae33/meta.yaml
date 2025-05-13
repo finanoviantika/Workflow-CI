@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c6d7a153c5f94ae6a2462d9ae61bae33/artifacts
+end_time: 1747151746972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6d7a153c5f94ae6a2462d9ae61bae33
+run_name: rare-lamb-776
+run_uuid: c6d7a153c5f94ae6a2462d9ae61bae33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151740391
+status: 3
+tags: []
+user_id: runner
