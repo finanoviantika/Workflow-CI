@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c30df79b105f42e4931fd95370bab0fe/artifacts
+end_time: 1747171352065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30df79b105f42e4931fd95370bab0fe
+run_name: bold-cub-523
+run_uuid: c30df79b105f42e4931fd95370bab0fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747171345620
+status: 3
+tags: []
+user_id: runner
