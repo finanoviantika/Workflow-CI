@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fe225a6f334549eab0411eda4561a6f0/artifacts
+end_time: 1747176538374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe225a6f334549eab0411eda4561a6f0
+run_name: luxuriant-slug-194
+run_uuid: fe225a6f334549eab0411eda4561a6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747176532202
+status: 3
+tags: []
+user_id: runner
