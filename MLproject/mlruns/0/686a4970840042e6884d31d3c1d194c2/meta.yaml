@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/686a4970840042e6884d31d3c1d194c2/artifacts
+end_time: 1747133015891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 686a4970840042e6884d31d3c1d194c2
+run_name: tasteful-shrimp-644
+run_uuid: 686a4970840042e6884d31d3c1d194c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747133009499
+status: 3
+tags: []
+user_id: runner
