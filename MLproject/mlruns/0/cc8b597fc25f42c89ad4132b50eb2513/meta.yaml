@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc8b597fc25f42c89ad4132b50eb2513/artifacts
+end_time: 1747132838563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc8b597fc25f42c89ad4132b50eb2513
+run_name: rare-gnu-718
+run_uuid: cc8b597fc25f42c89ad4132b50eb2513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132832032
+status: 3
+tags: []
+user_id: runner
