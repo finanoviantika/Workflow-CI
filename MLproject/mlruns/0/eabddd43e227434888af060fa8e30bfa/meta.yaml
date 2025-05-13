@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eabddd43e227434888af060fa8e30bfa/artifacts
+end_time: 1747177563914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eabddd43e227434888af060fa8e30bfa
+run_name: rogue-owl-33
+run_uuid: eabddd43e227434888af060fa8e30bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177557349
+status: 3
+tags: []
+user_id: runner
