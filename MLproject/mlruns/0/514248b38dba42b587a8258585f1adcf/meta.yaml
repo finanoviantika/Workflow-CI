@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/514248b38dba42b587a8258585f1adcf/artifacts
+end_time: 1747130483272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 514248b38dba42b587a8258585f1adcf
+run_name: treasured-smelt-313
+run_uuid: 514248b38dba42b587a8258585f1adcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747130476700
+status: 3
+tags: []
+user_id: runner
