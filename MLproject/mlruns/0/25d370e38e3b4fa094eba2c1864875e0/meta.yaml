@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25d370e38e3b4fa094eba2c1864875e0/artifacts
+end_time: 1747125138928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25d370e38e3b4fa094eba2c1864875e0
+run_name: nervous-stork-977
+run_uuid: 25d370e38e3b4fa094eba2c1864875e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747125132522
+status: 3
+tags: []
+user_id: runner
