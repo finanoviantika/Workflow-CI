@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bcb2a124633f48cb9af8450e7f313a56/artifacts
+end_time: 1747172436340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcb2a124633f48cb9af8450e7f313a56
+run_name: bittersweet-dove-977
+run_uuid: bcb2a124633f48cb9af8450e7f313a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747172429793
+status: 3
+tags: []
+user_id: runner
