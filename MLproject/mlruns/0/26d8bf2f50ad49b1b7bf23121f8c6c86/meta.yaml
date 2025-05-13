@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/26d8bf2f50ad49b1b7bf23121f8c6c86/artifacts
+end_time: 1747142135062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26d8bf2f50ad49b1b7bf23121f8c6c86
+run_name: rare-bass-851
+run_uuid: 26d8bf2f50ad49b1b7bf23121f8c6c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747142128757
+status: 3
+tags: []
+user_id: runner
