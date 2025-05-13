@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22572b45e2e64ac1aa4062b49c7335ad/artifacts
+end_time: 1747132656000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22572b45e2e64ac1aa4062b49c7335ad
+run_name: legendary-quail-461
+run_uuid: 22572b45e2e64ac1aa4062b49c7335ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132649686
+status: 3
+tags: []
+user_id: runner
