@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6b1db22236d942a2ac5e412b6c717cb9/artifacts
+end_time: 1747140419611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b1db22236d942a2ac5e412b6c717cb9
+run_name: flawless-carp-722
+run_uuid: 6b1db22236d942a2ac5e412b6c717cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140413214
+status: 3
+tags: []
+user_id: runner
