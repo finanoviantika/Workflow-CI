@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/31bafd41bff14de5a71c9380c6f830dc/artifacts
+end_time: 1747111853649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31bafd41bff14de5a71c9380c6f830dc
+run_name: angry-eel-537
+run_uuid: 31bafd41bff14de5a71c9380c6f830dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747111847264
+status: 3
+tags: []
+user_id: runner
