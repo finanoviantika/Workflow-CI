@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/64b43fc6f96b410daca666d8651e95cc/artifacts
+end_time: 1747115518906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64b43fc6f96b410daca666d8651e95cc
+run_name: enchanting-yak-406
+run_uuid: 64b43fc6f96b410daca666d8651e95cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747115512204
+status: 3
+tags: []
+user_id: runner
