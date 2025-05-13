@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/00aea1d2abd241ffaf86568aa769dc50/artifacts
+end_time: 1747151021490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00aea1d2abd241ffaf86568aa769dc50
+run_name: bedecked-wasp-93
+run_uuid: 00aea1d2abd241ffaf86568aa769dc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151014706
+status: 3
+tags: []
+user_id: runner
