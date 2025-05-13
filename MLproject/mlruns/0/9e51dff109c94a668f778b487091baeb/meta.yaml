@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e51dff109c94a668f778b487091baeb/artifacts
+end_time: 1747152481330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e51dff109c94a668f778b487091baeb
+run_name: bustling-cod-208
+run_uuid: 9e51dff109c94a668f778b487091baeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152474899
+status: 3
+tags: []
+user_id: runner
