@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2f53d802f17e48cf9b55e829ee35acc9/artifacts
+end_time: 1747139678674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f53d802f17e48cf9b55e829ee35acc9
+run_name: fun-asp-151
+run_uuid: 2f53d802f17e48cf9b55e829ee35acc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747139671751
+status: 3
+tags: []
+user_id: runner
