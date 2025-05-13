@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6af9c84f73f54f839a5ac72dadfa04a2/artifacts
+end_time: 1747108935866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6af9c84f73f54f839a5ac72dadfa04a2
+run_name: whimsical-hen-525
+run_uuid: 6af9c84f73f54f839a5ac72dadfa04a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108929649
+status: 3
+tags: []
+user_id: runner
