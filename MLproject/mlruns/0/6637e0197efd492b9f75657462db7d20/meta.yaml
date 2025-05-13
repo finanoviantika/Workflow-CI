@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6637e0197efd492b9f75657462db7d20/artifacts
+end_time: 1747177839480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6637e0197efd492b9f75657462db7d20
+run_name: intrigued-grouse-868
+run_uuid: 6637e0197efd492b9f75657462db7d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747177833252
+status: 3
+tags: []
+user_id: runner
