@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ecfe516895d24d12bae47a0cdad36c34/artifacts
+end_time: 1747133107169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecfe516895d24d12bae47a0cdad36c34
+run_name: useful-cow-359
+run_uuid: ecfe516895d24d12bae47a0cdad36c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747133101142
+status: 3
+tags: []
+user_id: runner
