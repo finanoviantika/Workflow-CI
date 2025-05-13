@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92d5e2da30d6412f8766efde5a939362/artifacts
+end_time: 1747098558862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d5e2da30d6412f8766efde5a939362
+run_name: bald-flea-84
+run_uuid: 92d5e2da30d6412f8766efde5a939362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747098552446
+status: 3
+tags: []
+user_id: runner
