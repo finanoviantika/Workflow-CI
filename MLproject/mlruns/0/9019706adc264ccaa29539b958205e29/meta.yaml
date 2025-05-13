@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9019706adc264ccaa29539b958205e29/artifacts
+end_time: 1747122897695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9019706adc264ccaa29539b958205e29
+run_name: resilient-moth-833
+run_uuid: 9019706adc264ccaa29539b958205e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122891288
+status: 3
+tags: []
+user_id: runner
