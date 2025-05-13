@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed408ee09fc14af3a38ac1764f5be2cc/artifacts
+end_time: 1747130033788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed408ee09fc14af3a38ac1764f5be2cc
+run_name: fortunate-steed-461
+run_uuid: ed408ee09fc14af3a38ac1764f5be2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747130026492
+status: 3
+tags: []
+user_id: runner
