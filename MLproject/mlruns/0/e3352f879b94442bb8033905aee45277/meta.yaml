@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e3352f879b94442bb8033905aee45277/artifacts
+end_time: 1747157297859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3352f879b94442bb8033905aee45277
+run_name: righteous-sheep-944
+run_uuid: e3352f879b94442bb8033905aee45277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747157291423
+status: 3
+tags: []
+user_id: runner
