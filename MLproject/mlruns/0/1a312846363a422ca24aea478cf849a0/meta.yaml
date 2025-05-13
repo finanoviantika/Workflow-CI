@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1a312846363a422ca24aea478cf849a0/artifacts
+end_time: 1747170808767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a312846363a422ca24aea478cf849a0
+run_name: languid-gull-695
+run_uuid: 1a312846363a422ca24aea478cf849a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170802517
+status: 3
+tags: []
+user_id: runner
