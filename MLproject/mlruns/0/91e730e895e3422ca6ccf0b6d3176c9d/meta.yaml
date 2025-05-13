@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/91e730e895e3422ca6ccf0b6d3176c9d/artifacts
+end_time: 1747123073381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e730e895e3422ca6ccf0b6d3176c9d
+run_name: rebellious-doe-640
+run_uuid: 91e730e895e3422ca6ccf0b6d3176c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747123066546
+status: 3
+tags: []
+user_id: runner
