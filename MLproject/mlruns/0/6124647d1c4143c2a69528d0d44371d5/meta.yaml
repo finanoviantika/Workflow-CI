@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6124647d1c4143c2a69528d0d44371d5/artifacts
+end_time: 1747099818191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6124647d1c4143c2a69528d0d44371d5
+run_name: skillful-shoat-221
+run_uuid: 6124647d1c4143c2a69528d0d44371d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099811889
+status: 3
+tags: []
+user_id: runner
