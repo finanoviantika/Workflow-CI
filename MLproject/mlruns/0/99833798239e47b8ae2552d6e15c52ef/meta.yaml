@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/99833798239e47b8ae2552d6e15c52ef/artifacts
+end_time: 1747117575818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99833798239e47b8ae2552d6e15c52ef
+run_name: orderly-gnu-347
+run_uuid: 99833798239e47b8ae2552d6e15c52ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747117569318
+status: 3
+tags: []
+user_id: runner
