@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d1a6183a8ac4fd0afc9323b789abb09/artifacts
+end_time: 1747143311490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1a6183a8ac4fd0afc9323b789abb09
+run_name: orderly-dolphin-262
+run_uuid: 7d1a6183a8ac4fd0afc9323b789abb09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747143304649
+status: 3
+tags: []
+user_id: runner
