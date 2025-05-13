@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c38ee503a1104c1cad00ffdf5994e0ee/artifacts
+end_time: 1747155458336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c38ee503a1104c1cad00ffdf5994e0ee
+run_name: angry-rook-194
+run_uuid: c38ee503a1104c1cad00ffdf5994e0ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155451865
+status: 3
+tags: []
+user_id: runner
