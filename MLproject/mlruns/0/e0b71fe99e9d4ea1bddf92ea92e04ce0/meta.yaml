@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0b71fe99e9d4ea1bddf92ea92e04ce0/artifacts
+end_time: 1747142934996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b71fe99e9d4ea1bddf92ea92e04ce0
+run_name: sassy-sponge-971
+run_uuid: e0b71fe99e9d4ea1bddf92ea92e04ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747142928742
+status: 3
+tags: []
+user_id: runner
