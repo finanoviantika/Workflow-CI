@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5b5ff74e2ec44f9fae5bf9390c0c5c0e/artifacts
+end_time: 1747119874395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5ff74e2ec44f9fae5bf9390c0c5c0e
+run_name: unique-dog-843
+run_uuid: 5b5ff74e2ec44f9fae5bf9390c0c5c0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119868064
+status: 3
+tags: []
+user_id: runner
