@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/12438cecac16403ab099d221327a67eb/artifacts
+end_time: 1747113884560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12438cecac16403ab099d221327a67eb
+run_name: clean-snipe-213
+run_uuid: 12438cecac16403ab099d221327a67eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747113878230
+status: 3
+tags: []
+user_id: runner
