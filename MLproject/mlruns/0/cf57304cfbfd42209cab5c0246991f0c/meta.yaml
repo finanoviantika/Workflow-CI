@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf57304cfbfd42209cab5c0246991f0c/artifacts
+end_time: 1747167249380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf57304cfbfd42209cab5c0246991f0c
+run_name: judicious-wasp-676
+run_uuid: cf57304cfbfd42209cab5c0246991f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747167242744
+status: 3
+tags: []
+user_id: runner
