@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae2e7e663e8d410a9600f5ba5cc957b4/artifacts
+end_time: 1747123689098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2e7e663e8d410a9600f5ba5cc957b4
+run_name: gaudy-chimp-213
+run_uuid: ae2e7e663e8d410a9600f5ba5cc957b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747123682780
+status: 3
+tags: []
+user_id: runner
