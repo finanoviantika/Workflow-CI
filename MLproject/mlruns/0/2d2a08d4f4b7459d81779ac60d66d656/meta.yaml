@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2d2a08d4f4b7459d81779ac60d66d656/artifacts
+end_time: 1747134809329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d2a08d4f4b7459d81779ac60d66d656
+run_name: tasteful-grouse-91
+run_uuid: 2d2a08d4f4b7459d81779ac60d66d656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134802924
+status: 3
+tags: []
+user_id: runner
