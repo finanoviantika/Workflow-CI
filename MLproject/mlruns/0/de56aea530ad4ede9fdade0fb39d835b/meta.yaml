@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de56aea530ad4ede9fdade0fb39d835b/artifacts
+end_time: 1747169066257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de56aea530ad4ede9fdade0fb39d835b
+run_name: victorious-goat-601
+run_uuid: de56aea530ad4ede9fdade0fb39d835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747169059773
+status: 3
+tags: []
+user_id: runner
