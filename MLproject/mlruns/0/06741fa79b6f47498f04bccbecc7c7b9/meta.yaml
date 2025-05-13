@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/06741fa79b6f47498f04bccbecc7c7b9/artifacts
+end_time: 1747127004937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06741fa79b6f47498f04bccbecc7c7b9
+run_name: valuable-croc-491
+run_uuid: 06741fa79b6f47498f04bccbecc7c7b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126997889
+status: 3
+tags: []
+user_id: runner
