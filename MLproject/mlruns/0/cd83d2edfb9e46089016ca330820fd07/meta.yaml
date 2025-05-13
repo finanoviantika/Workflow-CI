@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd83d2edfb9e46089016ca330820fd07/artifacts
+end_time: 1747167338528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd83d2edfb9e46089016ca330820fd07
+run_name: adorable-shrew-461
+run_uuid: cd83d2edfb9e46089016ca330820fd07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747167332046
+status: 3
+tags: []
+user_id: runner
