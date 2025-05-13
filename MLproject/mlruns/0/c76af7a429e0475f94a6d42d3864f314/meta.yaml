@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c76af7a429e0475f94a6d42d3864f314/artifacts
+end_time: 1747168884655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c76af7a429e0475f94a6d42d3864f314
+run_name: righteous-eel-101
+run_uuid: c76af7a429e0475f94a6d42d3864f314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747168877861
+status: 3
+tags: []
+user_id: runner
