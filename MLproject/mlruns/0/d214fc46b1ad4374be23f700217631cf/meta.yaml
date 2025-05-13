@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d214fc46b1ad4374be23f700217631cf/artifacts
+end_time: 1747145825452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d214fc46b1ad4374be23f700217631cf
+run_name: sedate-swan-389
+run_uuid: d214fc46b1ad4374be23f700217631cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747145818897
+status: 3
+tags: []
+user_id: runner
