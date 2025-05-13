@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c66a7306521f4a45ba80bcf279f7ed50/artifacts
+end_time: 1747128598318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c66a7306521f4a45ba80bcf279f7ed50
+run_name: melodic-mouse-550
+run_uuid: c66a7306521f4a45ba80bcf279f7ed50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747128591709
+status: 3
+tags: []
+user_id: runner
