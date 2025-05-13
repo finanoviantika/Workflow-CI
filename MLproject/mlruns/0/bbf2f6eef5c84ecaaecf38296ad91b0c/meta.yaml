@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bbf2f6eef5c84ecaaecf38296ad91b0c/artifacts
+end_time: 1747139016940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbf2f6eef5c84ecaaecf38296ad91b0c
+run_name: caring-deer-920
+run_uuid: bbf2f6eef5c84ecaaecf38296ad91b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747139010563
+status: 3
+tags: []
+user_id: runner
