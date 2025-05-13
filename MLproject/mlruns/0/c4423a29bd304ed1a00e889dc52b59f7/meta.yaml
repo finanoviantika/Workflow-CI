@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c4423a29bd304ed1a00e889dc52b59f7/artifacts
+end_time: 1747149723419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4423a29bd304ed1a00e889dc52b59f7
+run_name: beautiful-finch-315
+run_uuid: c4423a29bd304ed1a00e889dc52b59f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747149717193
+status: 3
+tags: []
+user_id: runner
