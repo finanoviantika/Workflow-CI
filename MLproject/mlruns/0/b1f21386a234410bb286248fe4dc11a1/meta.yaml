@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b1f21386a234410bb286248fe4dc11a1/artifacts
+end_time: 1747162411799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1f21386a234410bb286248fe4dc11a1
+run_name: capable-doe-789
+run_uuid: b1f21386a234410bb286248fe4dc11a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747162405467
+status: 3
+tags: []
+user_id: runner
