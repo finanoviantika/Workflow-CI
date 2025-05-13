@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e28adb96277c4f04b0d02e1b017fd8d0/artifacts
+end_time: 1747161771468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e28adb96277c4f04b0d02e1b017fd8d0
+run_name: orderly-shark-628
+run_uuid: e28adb96277c4f04b0d02e1b017fd8d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747161764997
+status: 3
+tags: []
+user_id: runner
