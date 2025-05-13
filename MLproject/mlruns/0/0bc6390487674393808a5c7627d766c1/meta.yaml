@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0bc6390487674393808a5c7627d766c1/artifacts
+end_time: 1747129937764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bc6390487674393808a5c7627d766c1
+run_name: unruly-fawn-116
+run_uuid: 0bc6390487674393808a5c7627d766c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129931253
+status: 3
+tags: []
+user_id: runner
