@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e708c69dff7c4469a35aace4c803e424/artifacts
+end_time: 1747135343335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e708c69dff7c4469a35aace4c803e424
+run_name: persistent-wolf-716
+run_uuid: e708c69dff7c4469a35aace4c803e424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135337110
+status: 3
+tags: []
+user_id: runner
