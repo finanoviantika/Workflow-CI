@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/df318aeb87dc4eafa97ec13bd8aafbc4/artifacts
+end_time: 1747095708145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df318aeb87dc4eafa97ec13bd8aafbc4
+run_name: luminous-shrimp-376
+run_uuid: df318aeb87dc4eafa97ec13bd8aafbc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747095701559
+status: 3
+tags: []
+user_id: runner
