@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af93be81bb744b2a85c01e7d9241cf81/artifacts
+end_time: 1747134105095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af93be81bb744b2a85c01e7d9241cf81
+run_name: unleashed-crow-617
+run_uuid: af93be81bb744b2a85c01e7d9241cf81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134098749
+status: 3
+tags: []
+user_id: runner
