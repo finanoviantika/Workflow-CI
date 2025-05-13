@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9c9fa78874c649ee9e79059c8c51bb0f/artifacts
+end_time: 1747139198313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c9fa78874c649ee9e79059c8c51bb0f
+run_name: mysterious-jay-545
+run_uuid: 9c9fa78874c649ee9e79059c8c51bb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747139192024
+status: 3
+tags: []
+user_id: runner
