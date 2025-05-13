@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7e0950b75fb340139fc01b4e720650a1/artifacts
+end_time: 1747122636511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e0950b75fb340139fc01b4e720650a1
+run_name: unique-toad-281
+run_uuid: 7e0950b75fb340139fc01b4e720650a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122630013
+status: 3
+tags: []
+user_id: runner
