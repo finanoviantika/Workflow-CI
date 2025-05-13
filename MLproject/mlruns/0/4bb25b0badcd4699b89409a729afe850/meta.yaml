@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4bb25b0badcd4699b89409a729afe850/artifacts
+end_time: 1747112824327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bb25b0badcd4699b89409a729afe850
+run_name: tasteful-wasp-134
+run_uuid: 4bb25b0badcd4699b89409a729afe850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747112817775
+status: 3
+tags: []
+user_id: runner
