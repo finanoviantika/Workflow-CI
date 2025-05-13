@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5167cdebf020407bb3c5cff0e33f634b/artifacts
+end_time: 1747105116788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5167cdebf020407bb3c5cff0e33f634b
+run_name: chill-bird-451
+run_uuid: 5167cdebf020407bb3c5cff0e33f634b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105110405
+status: 3
+tags: []
+user_id: runner
