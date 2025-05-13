@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cb40c58a99264feb9554e52e5d03c939/artifacts
+end_time: 1747174941137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb40c58a99264feb9554e52e5d03c939
+run_name: wise-stork-158
+run_uuid: cb40c58a99264feb9554e52e5d03c939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747174934789
+status: 3
+tags: []
+user_id: runner
