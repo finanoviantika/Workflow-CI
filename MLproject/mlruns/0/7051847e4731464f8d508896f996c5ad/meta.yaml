@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7051847e4731464f8d508896f996c5ad/artifacts
+end_time: 1747134719766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7051847e4731464f8d508896f996c5ad
+run_name: calm-finch-469
+run_uuid: 7051847e4731464f8d508896f996c5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134713413
+status: 3
+tags: []
+user_id: runner
