@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14aa75c2779849b1ab4aefe2e66124ec/artifacts
+end_time: 1747137767329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14aa75c2779849b1ab4aefe2e66124ec
+run_name: gaudy-bird-575
+run_uuid: 14aa75c2779849b1ab4aefe2e66124ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747137761025
+status: 3
+tags: []
+user_id: runner
