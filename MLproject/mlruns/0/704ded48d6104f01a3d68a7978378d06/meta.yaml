@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/704ded48d6104f01a3d68a7978378d06/artifacts
+end_time: 1747127526897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 704ded48d6104f01a3d68a7978378d06
+run_name: gregarious-lynx-162
+run_uuid: 704ded48d6104f01a3d68a7978378d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747127520119
+status: 3
+tags: []
+user_id: runner
