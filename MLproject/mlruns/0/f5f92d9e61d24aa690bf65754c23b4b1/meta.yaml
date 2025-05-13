@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f5f92d9e61d24aa690bf65754c23b4b1/artifacts
+end_time: 1747129405439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5f92d9e61d24aa690bf65754c23b4b1
+run_name: intelligent-grub-837
+run_uuid: f5f92d9e61d24aa690bf65754c23b4b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129399111
+status: 3
+tags: []
+user_id: runner
