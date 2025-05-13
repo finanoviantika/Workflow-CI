@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee9ae875a5bf4a979dc2ee7cb1d9705a/artifacts
+end_time: 1747179460771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee9ae875a5bf4a979dc2ee7cb1d9705a
+run_name: stately-yak-188
+run_uuid: ee9ae875a5bf4a979dc2ee7cb1d9705a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179454376
+status: 3
+tags: []
+user_id: runner
