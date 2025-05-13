@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/422935ef815b440793fc442ff0ae7904/artifacts
+end_time: 1747127702092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 422935ef815b440793fc442ff0ae7904
+run_name: rebellious-deer-417
+run_uuid: 422935ef815b440793fc442ff0ae7904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747127695626
+status: 3
+tags: []
+user_id: runner
