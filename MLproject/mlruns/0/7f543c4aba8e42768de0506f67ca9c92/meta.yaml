@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f543c4aba8e42768de0506f67ca9c92/artifacts
+end_time: 1747163585364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f543c4aba8e42768de0506f67ca9c92
+run_name: auspicious-bee-687
+run_uuid: 7f543c4aba8e42768de0506f67ca9c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163579083
+status: 3
+tags: []
+user_id: runner
