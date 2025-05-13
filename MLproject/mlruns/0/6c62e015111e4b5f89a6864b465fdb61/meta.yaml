@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6c62e015111e4b5f89a6864b465fdb61/artifacts
+end_time: 1747108151652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c62e015111e4b5f89a6864b465fdb61
+run_name: big-moose-320
+run_uuid: 6c62e015111e4b5f89a6864b465fdb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747108145336
+status: 3
+tags: []
+user_id: runner
