@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f3259c584b044add83a798480e24e10c/artifacts
+end_time: 1747141509042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3259c584b044add83a798480e24e10c
+run_name: funny-perch-184
+run_uuid: f3259c584b044add83a798480e24e10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141502364
+status: 3
+tags: []
+user_id: runner
