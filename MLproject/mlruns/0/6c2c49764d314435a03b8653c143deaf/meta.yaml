@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6c2c49764d314435a03b8653c143deaf/artifacts
+end_time: 1747103904904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c2c49764d314435a03b8653c143deaf
+run_name: classy-lamb-729
+run_uuid: 6c2c49764d314435a03b8653c143deaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747103898563
+status: 3
+tags: []
+user_id: runner
