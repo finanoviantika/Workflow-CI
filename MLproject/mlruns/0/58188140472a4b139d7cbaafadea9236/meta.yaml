@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/58188140472a4b139d7cbaafadea9236/artifacts
+end_time: 1747141232810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58188140472a4b139d7cbaafadea9236
+run_name: clean-hare-683
+run_uuid: 58188140472a4b139d7cbaafadea9236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141226331
+status: 3
+tags: []
+user_id: runner
