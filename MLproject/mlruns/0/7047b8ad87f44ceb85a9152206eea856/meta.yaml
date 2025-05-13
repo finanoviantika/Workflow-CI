@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7047b8ad87f44ceb85a9152206eea856/artifacts
+end_time: 1747179009724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7047b8ad87f44ceb85a9152206eea856
+run_name: shivering-rat-147
+run_uuid: 7047b8ad87f44ceb85a9152206eea856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179003460
+status: 3
+tags: []
+user_id: runner
