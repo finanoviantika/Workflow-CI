@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/139b7db58536401a94e2b59f4c5f3286/artifacts
+end_time: 1747163318015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 139b7db58536401a94e2b59f4c5f3286
+run_name: blushing-robin-598
+run_uuid: 139b7db58536401a94e2b59f4c5f3286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163311583
+status: 3
+tags: []
+user_id: runner
