@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a4146e3307e843c9ac5e3acd6924ce4d/artifacts
+end_time: 1747137312475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4146e3307e843c9ac5e3acd6924ce4d
+run_name: likeable-snail-294
+run_uuid: a4146e3307e843c9ac5e3acd6924ce4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747137306083
+status: 3
+tags: []
+user_id: runner
