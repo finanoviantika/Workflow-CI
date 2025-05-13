@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82efd0fc3fc7463e866c365f06fa24ec/artifacts
+end_time: 1747141415054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82efd0fc3fc7463e866c365f06fa24ec
+run_name: chill-seal-94
+run_uuid: 82efd0fc3fc7463e866c365f06fa24ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141408524
+status: 3
+tags: []
+user_id: runner
