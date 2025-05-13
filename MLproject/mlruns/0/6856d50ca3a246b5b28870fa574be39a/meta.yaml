@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6856d50ca3a246b5b28870fa574be39a/artifacts
+end_time: 1747161953817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6856d50ca3a246b5b28870fa574be39a
+run_name: ambitious-perch-120
+run_uuid: 6856d50ca3a246b5b28870fa574be39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747161947439
+status: 3
+tags: []
+user_id: runner
