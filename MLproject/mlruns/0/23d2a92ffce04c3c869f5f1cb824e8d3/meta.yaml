@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/23d2a92ffce04c3c869f5f1cb824e8d3/artifacts
+end_time: 1747118815599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23d2a92ffce04c3c869f5f1cb824e8d3
+run_name: industrious-foal-316
+run_uuid: 23d2a92ffce04c3c869f5f1cb824e8d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747118809080
+status: 3
+tags: []
+user_id: runner
