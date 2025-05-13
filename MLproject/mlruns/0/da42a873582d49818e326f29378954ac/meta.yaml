@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da42a873582d49818e326f29378954ac/artifacts
+end_time: 1747106266612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da42a873582d49818e326f29378954ac
+run_name: rogue-elk-671
+run_uuid: da42a873582d49818e326f29378954ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747106260374
+status: 3
+tags: []
+user_id: runner
