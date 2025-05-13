@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a2760c30d88b46b6a8fde89880e77c5d/artifacts
+end_time: 1747137679933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2760c30d88b46b6a8fde89880e77c5d
+run_name: masked-foal-148
+run_uuid: a2760c30d88b46b6a8fde89880e77c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747137673671
+status: 3
+tags: []
+user_id: runner
