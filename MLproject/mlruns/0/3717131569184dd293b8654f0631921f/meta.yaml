@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3717131569184dd293b8654f0631921f/artifacts
+end_time: 1747170438943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3717131569184dd293b8654f0631921f
+run_name: bright-foal-19
+run_uuid: 3717131569184dd293b8654f0631921f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170432603
+status: 3
+tags: []
+user_id: runner
