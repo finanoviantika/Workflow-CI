@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c3404d16ce034549af1d5bd6a397d4bc/artifacts
+end_time: 1747102043378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3404d16ce034549af1d5bd6a397d4bc
+run_name: burly-koi-56
+run_uuid: c3404d16ce034549af1d5bd6a397d4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747102036276
+status: 3
+tags: []
+user_id: runner
