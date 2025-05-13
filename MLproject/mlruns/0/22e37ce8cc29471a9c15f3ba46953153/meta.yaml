@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22e37ce8cc29471a9c15f3ba46953153/artifacts
+end_time: 1747148913888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22e37ce8cc29471a9c15f3ba46953153
+run_name: victorious-asp-115
+run_uuid: 22e37ce8cc29471a9c15f3ba46953153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148907491
+status: 3
+tags: []
+user_id: runner
