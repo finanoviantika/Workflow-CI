@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be88b201cc4240fc91a3386c175f07d5/artifacts
+end_time: 1747136683615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be88b201cc4240fc91a3386c175f07d5
+run_name: traveling-gnat-974
+run_uuid: be88b201cc4240fc91a3386c175f07d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747136677151
+status: 3
+tags: []
+user_id: runner
