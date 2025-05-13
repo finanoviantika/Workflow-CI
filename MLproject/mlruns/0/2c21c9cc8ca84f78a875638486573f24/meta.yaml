@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2c21c9cc8ca84f78a875638486573f24/artifacts
+end_time: 1747121130246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c21c9cc8ca84f78a875638486573f24
+run_name: useful-stag-778
+run_uuid: 2c21c9cc8ca84f78a875638486573f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747121124045
+status: 3
+tags: []
+user_id: runner
