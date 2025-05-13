@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6714cb439b3149e0867fb3d0a9d4ba55/artifacts
+end_time: 1747107072111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6714cb439b3149e0867fb3d0a9d4ba55
+run_name: honorable-ape-685
+run_uuid: 6714cb439b3149e0867fb3d0a9d4ba55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747107065579
+status: 3
+tags: []
+user_id: runner
