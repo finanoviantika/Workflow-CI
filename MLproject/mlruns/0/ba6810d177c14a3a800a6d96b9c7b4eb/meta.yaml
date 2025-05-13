@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba6810d177c14a3a800a6d96b9c7b4eb/artifacts
+end_time: 1747137133963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6810d177c14a3a800a6d96b9c7b4eb
+run_name: hilarious-shrimp-411
+run_uuid: ba6810d177c14a3a800a6d96b9c7b4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747137127525
+status: 3
+tags: []
+user_id: runner
