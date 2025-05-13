@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6db38de1dd804f339519f16a9bb9728d/artifacts
+end_time: 1747180735125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db38de1dd804f339519f16a9bb9728d
+run_name: merciful-bass-535
+run_uuid: 6db38de1dd804f339519f16a9bb9728d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180728820
+status: 3
+tags: []
+user_id: runner
