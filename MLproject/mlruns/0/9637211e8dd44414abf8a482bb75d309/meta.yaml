@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9637211e8dd44414abf8a482bb75d309/artifacts
+end_time: 1747106180830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9637211e8dd44414abf8a482bb75d309
+run_name: salty-roo-161
+run_uuid: 9637211e8dd44414abf8a482bb75d309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747106174432
+status: 3
+tags: []
+user_id: runner
