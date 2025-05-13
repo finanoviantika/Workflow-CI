@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/658831d135e54ff19ae2ecc0655eb83d/artifacts
+end_time: 1747178923295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 658831d135e54ff19ae2ecc0655eb83d
+run_name: skittish-fly-510
+run_uuid: 658831d135e54ff19ae2ecc0655eb83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747178916848
+status: 3
+tags: []
+user_id: runner
