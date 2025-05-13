@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76da054e9e2f441393bdfd64febf15e4/artifacts
+end_time: 1747175565294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76da054e9e2f441393bdfd64febf15e4
+run_name: classy-fawn-326
+run_uuid: 76da054e9e2f441393bdfd64febf15e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175558755
+status: 3
+tags: []
+user_id: runner
