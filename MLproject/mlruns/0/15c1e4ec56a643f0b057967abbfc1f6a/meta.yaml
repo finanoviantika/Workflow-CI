@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/15c1e4ec56a643f0b057967abbfc1f6a/artifacts
+end_time: 1747149003950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15c1e4ec56a643f0b057967abbfc1f6a
+run_name: righteous-shoat-255
+run_uuid: 15c1e4ec56a643f0b057967abbfc1f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148997669
+status: 3
+tags: []
+user_id: runner
