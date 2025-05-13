@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/37fda7e6b45c411ea9e7b0cc1a2ae42a/artifacts
+end_time: 1747148554620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37fda7e6b45c411ea9e7b0cc1a2ae42a
+run_name: charming-fox-389
+run_uuid: 37fda7e6b45c411ea9e7b0cc1a2ae42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747148547980
+status: 3
+tags: []
+user_id: runner
