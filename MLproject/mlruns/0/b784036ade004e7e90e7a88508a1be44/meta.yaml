@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b784036ade004e7e90e7a88508a1be44/artifacts
+end_time: 1747129667563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b784036ade004e7e90e7a88508a1be44
+run_name: resilient-lark-597
+run_uuid: b784036ade004e7e90e7a88508a1be44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747129660839
+status: 3
+tags: []
+user_id: runner
