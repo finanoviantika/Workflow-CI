@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fdbb16d8ad994229af4d8d5e65936c8d/artifacts
+end_time: 1747119346492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdbb16d8ad994229af4d8d5e65936c8d
+run_name: blushing-steed-625
+run_uuid: fdbb16d8ad994229af4d8d5e65936c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119339872
+status: 3
+tags: []
+user_id: runner
