@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d959378ab6694db6af5160b58b92d1b1/artifacts
+end_time: 1747096418417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d959378ab6694db6af5160b58b92d1b1
+run_name: adaptable-chimp-439
+run_uuid: d959378ab6694db6af5160b58b92d1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096412115
+status: 3
+tags: []
+user_id: runner
