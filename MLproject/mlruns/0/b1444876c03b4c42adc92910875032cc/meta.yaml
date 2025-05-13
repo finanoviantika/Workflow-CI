@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b1444876c03b4c42adc92910875032cc/artifacts
+end_time: 1747112123944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1444876c03b4c42adc92910875032cc
+run_name: smiling-crab-131
+run_uuid: b1444876c03b4c42adc92910875032cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747112117540
+status: 3
+tags: []
+user_id: runner
