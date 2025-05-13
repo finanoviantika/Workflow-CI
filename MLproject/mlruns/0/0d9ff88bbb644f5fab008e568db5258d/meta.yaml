@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d9ff88bbb644f5fab008e568db5258d/artifacts
+end_time: 1747096681909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d9ff88bbb644f5fab008e568db5258d
+run_name: marvelous-auk-137
+run_uuid: 0d9ff88bbb644f5fab008e568db5258d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747096675580
+status: 3
+tags: []
+user_id: runner
