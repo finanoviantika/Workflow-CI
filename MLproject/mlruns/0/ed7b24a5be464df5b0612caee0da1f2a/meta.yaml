@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed7b24a5be464df5b0612caee0da1f2a/artifacts
+end_time: 1747114429240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed7b24a5be464df5b0612caee0da1f2a
+run_name: capable-whale-164
+run_uuid: ed7b24a5be464df5b0612caee0da1f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747114422922
+status: 3
+tags: []
+user_id: runner
