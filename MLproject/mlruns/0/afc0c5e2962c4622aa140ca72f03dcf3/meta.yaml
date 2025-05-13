@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afc0c5e2962c4622aa140ca72f03dcf3/artifacts
+end_time: 1747156206827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afc0c5e2962c4622aa140ca72f03dcf3
+run_name: big-doe-510
+run_uuid: afc0c5e2962c4622aa140ca72f03dcf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747156199897
+status: 3
+tags: []
+user_id: runner
