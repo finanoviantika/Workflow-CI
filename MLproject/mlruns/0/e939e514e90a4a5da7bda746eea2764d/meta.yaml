@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e939e514e90a4a5da7bda746eea2764d/artifacts
+end_time: 1747155731010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e939e514e90a4a5da7bda746eea2764d
+run_name: respected-finch-26
+run_uuid: e939e514e90a4a5da7bda746eea2764d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155724292
+status: 3
+tags: []
+user_id: runner
