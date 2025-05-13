@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1ad799193e294a5ebacc3325b944888e/artifacts
+end_time: 1747105207592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ad799193e294a5ebacc3325b944888e
+run_name: bouncy-eel-4
+run_uuid: 1ad799193e294a5ebacc3325b944888e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105201083
+status: 3
+tags: []
+user_id: runner
