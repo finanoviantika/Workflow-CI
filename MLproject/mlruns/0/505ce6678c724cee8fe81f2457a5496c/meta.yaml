@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/505ce6678c724cee8fe81f2457a5496c/artifacts
+end_time: 1747165884157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 505ce6678c724cee8fe81f2457a5496c
+run_name: trusting-rat-166
+run_uuid: 505ce6678c724cee8fe81f2457a5496c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747165877937
+status: 3
+tags: []
+user_id: runner
