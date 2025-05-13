@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/804c39e56def42c798da7c42cc2fc6b4/artifacts
+end_time: 1747110700821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 804c39e56def42c798da7c42cc2fc6b4
+run_name: marvelous-bass-56
+run_uuid: 804c39e56def42c798da7c42cc2fc6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747110694463
+status: 3
+tags: []
+user_id: runner
