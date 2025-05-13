@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3e9c0a9dd95a471f89c86116cbc80faf/artifacts
+end_time: 1747136946781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e9c0a9dd95a471f89c86116cbc80faf
+run_name: fun-finch-324
+run_uuid: 3e9c0a9dd95a471f89c86116cbc80faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747136940069
+status: 3
+tags: []
+user_id: runner
