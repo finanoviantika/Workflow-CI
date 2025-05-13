@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b58029c878f40409f98b23f2b198f3b/artifacts
+end_time: 1747094472000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b58029c878f40409f98b23f2b198f3b
+run_name: salty-ape-790
+run_uuid: 9b58029c878f40409f98b23f2b198f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747094465739
+status: 3
+tags: []
+user_id: runner
