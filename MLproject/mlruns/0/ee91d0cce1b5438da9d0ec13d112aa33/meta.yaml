@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee91d0cce1b5438da9d0ec13d112aa33/artifacts
+end_time: 1747125049946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee91d0cce1b5438da9d0ec13d112aa33
+run_name: judicious-lynx-968
+run_uuid: ee91d0cce1b5438da9d0ec13d112aa33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747125043568
+status: 3
+tags: []
+user_id: runner
