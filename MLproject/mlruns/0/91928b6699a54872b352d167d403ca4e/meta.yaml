@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/91928b6699a54872b352d167d403ca4e/artifacts
+end_time: 1747173249242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91928b6699a54872b352d167d403ca4e
+run_name: sneaky-smelt-123
+run_uuid: 91928b6699a54872b352d167d403ca4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173242758
+status: 3
+tags: []
+user_id: runner
