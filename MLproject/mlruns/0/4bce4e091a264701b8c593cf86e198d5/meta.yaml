@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4bce4e091a264701b8c593cf86e198d5/artifacts
+end_time: 1747170721157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bce4e091a264701b8c593cf86e198d5
+run_name: secretive-grub-414
+run_uuid: 4bce4e091a264701b8c593cf86e198d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747170714425
+status: 3
+tags: []
+user_id: runner
