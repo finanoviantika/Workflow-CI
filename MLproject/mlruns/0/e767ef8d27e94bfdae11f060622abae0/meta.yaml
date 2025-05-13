@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e767ef8d27e94bfdae11f060622abae0/artifacts
+end_time: 1747109194060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e767ef8d27e94bfdae11f060622abae0
+run_name: caring-frog-550
+run_uuid: e767ef8d27e94bfdae11f060622abae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747109187932
+status: 3
+tags: []
+user_id: runner
