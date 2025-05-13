@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8a7c90fc44a4926a396dde8cd01f847/artifacts
+end_time: 1747123420797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8a7c90fc44a4926a396dde8cd01f847
+run_name: auspicious-dove-108
+run_uuid: d8a7c90fc44a4926a396dde8cd01f847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747123414552
+status: 3
+tags: []
+user_id: runner
