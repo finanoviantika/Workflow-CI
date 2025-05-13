@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c7da77e56b0940cca7bc93e0209699f2/artifacts
+end_time: 1747126204156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7da77e56b0940cca7bc93e0209699f2
+run_name: worried-seal-802
+run_uuid: c7da77e56b0940cca7bc93e0209699f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126197664
+status: 3
+tags: []
+user_id: runner
