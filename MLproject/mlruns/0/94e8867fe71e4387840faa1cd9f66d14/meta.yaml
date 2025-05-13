@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/94e8867fe71e4387840faa1cd9f66d14/artifacts
+end_time: 1747138835608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94e8867fe71e4387840faa1cd9f66d14
+run_name: grandiose-fox-433
+run_uuid: 94e8867fe71e4387840faa1cd9f66d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747138829297
+status: 3
+tags: []
+user_id: runner
