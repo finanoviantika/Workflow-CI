@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4dfdb4a575b141ec805dce03fff20787/artifacts
+end_time: 1747105474860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dfdb4a575b141ec805dce03fff20787
+run_name: overjoyed-snake-822
+run_uuid: 4dfdb4a575b141ec805dce03fff20787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747105468493
+status: 3
+tags: []
+user_id: runner
