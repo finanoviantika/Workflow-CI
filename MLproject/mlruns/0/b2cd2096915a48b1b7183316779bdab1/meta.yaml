@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b2cd2096915a48b1b7183316779bdab1/artifacts
+end_time: 1747126739552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2cd2096915a48b1b7183316779bdab1
+run_name: bouncy-roo-266
+run_uuid: b2cd2096915a48b1b7183316779bdab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126732956
+status: 3
+tags: []
+user_id: runner
