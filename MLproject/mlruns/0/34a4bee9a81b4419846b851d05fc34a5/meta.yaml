@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34a4bee9a81b4419846b851d05fc34a5/artifacts
+end_time: 1747099006887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34a4bee9a81b4419846b851d05fc34a5
+run_name: flawless-stag-202
+run_uuid: 34a4bee9a81b4419846b851d05fc34a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099000727
+status: 3
+tags: []
+user_id: runner
