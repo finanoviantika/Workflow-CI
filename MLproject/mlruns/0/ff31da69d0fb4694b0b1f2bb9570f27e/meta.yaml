@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff31da69d0fb4694b0b1f2bb9570f27e/artifacts
+end_time: 1747179728036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff31da69d0fb4694b0b1f2bb9570f27e
+run_name: unruly-pig-39
+run_uuid: ff31da69d0fb4694b0b1f2bb9570f27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179721823
+status: 3
+tags: []
+user_id: runner
