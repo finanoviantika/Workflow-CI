@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67fcc241b40b4258adbdbccfda4a8fc6/artifacts
+end_time: 1747098738953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67fcc241b40b4258adbdbccfda4a8fc6
+run_name: sneaky-dog-837
+run_uuid: 67fcc241b40b4258adbdbccfda4a8fc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747098732570
+status: 3
+tags: []
+user_id: runner
