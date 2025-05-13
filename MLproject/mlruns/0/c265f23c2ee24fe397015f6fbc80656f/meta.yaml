@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c265f23c2ee24fe397015f6fbc80656f/artifacts
+end_time: 1747112031699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c265f23c2ee24fe397015f6fbc80656f
+run_name: orderly-newt-280
+run_uuid: c265f23c2ee24fe397015f6fbc80656f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747112025286
+status: 3
+tags: []
+user_id: runner
