@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90dfdb75799c49718dc9f17d90df9d69/artifacts
+end_time: 1747124426599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90dfdb75799c49718dc9f17d90df9d69
+run_name: inquisitive-cod-406
+run_uuid: 90dfdb75799c49718dc9f17d90df9d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124420273
+status: 3
+tags: []
+user_id: runner
