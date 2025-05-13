@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f0b1346269454ed3b09498e03fb18bbf/artifacts
+end_time: 1747141868288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b1346269454ed3b09498e03fb18bbf
+run_name: indecisive-fowl-153
+run_uuid: f0b1346269454ed3b09498e03fb18bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747141861756
+status: 3
+tags: []
+user_id: runner
