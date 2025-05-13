@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a65fd3e0e1a242e1927e0d7a06198c86/artifacts
+end_time: 1747095797551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a65fd3e0e1a242e1927e0d7a06198c86
+run_name: merciful-sponge-558
+run_uuid: a65fd3e0e1a242e1927e0d7a06198c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747095790722
+status: 3
+tags: []
+user_id: runner
