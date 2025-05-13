@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/081434bcfe744a28976ef9374bfe8947/artifacts
+end_time: 1747176720982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 081434bcfe744a28976ef9374bfe8947
+run_name: loud-lynx-979
+run_uuid: 081434bcfe744a28976ef9374bfe8947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747176714678
+status: 3
+tags: []
+user_id: runner
