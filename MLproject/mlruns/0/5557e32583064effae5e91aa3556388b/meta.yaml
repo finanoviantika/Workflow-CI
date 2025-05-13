@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5557e32583064effae5e91aa3556388b/artifacts
+end_time: 1747100796440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5557e32583064effae5e91aa3556388b
+run_name: enchanting-rat-70
+run_uuid: 5557e32583064effae5e91aa3556388b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747100790151
+status: 3
+tags: []
+user_id: runner
