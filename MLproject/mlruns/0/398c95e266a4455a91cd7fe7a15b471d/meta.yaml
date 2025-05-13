@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/398c95e266a4455a91cd7fe7a15b471d/artifacts
+end_time: 1747121044863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 398c95e266a4455a91cd7fe7a15b471d
+run_name: abrasive-elk-262
+run_uuid: 398c95e266a4455a91cd7fe7a15b471d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747121038226
+status: 3
+tags: []
+user_id: runner
