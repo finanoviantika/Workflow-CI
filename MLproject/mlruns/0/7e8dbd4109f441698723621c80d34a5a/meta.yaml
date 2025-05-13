@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7e8dbd4109f441698723621c80d34a5a/artifacts
+end_time: 1747109278947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e8dbd4109f441698723621c80d34a5a
+run_name: polite-skunk-366
+run_uuid: 7e8dbd4109f441698723621c80d34a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747109272662
+status: 3
+tags: []
+user_id: runner
