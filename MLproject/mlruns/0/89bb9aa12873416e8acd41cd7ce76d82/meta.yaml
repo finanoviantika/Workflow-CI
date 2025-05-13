@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89bb9aa12873416e8acd41cd7ce76d82/artifacts
+end_time: 1747179369721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89bb9aa12873416e8acd41cd7ce76d82
+run_name: judicious-whale-522
+run_uuid: 89bb9aa12873416e8acd41cd7ce76d82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179363109
+status: 3
+tags: []
+user_id: runner
