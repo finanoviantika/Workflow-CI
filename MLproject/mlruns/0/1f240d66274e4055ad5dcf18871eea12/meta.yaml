@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f240d66274e4055ad5dcf18871eea12/artifacts
+end_time: 1747122367333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f240d66274e4055ad5dcf18871eea12
+run_name: welcoming-chimp-888
+run_uuid: 1f240d66274e4055ad5dcf18871eea12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747122360916
+status: 3
+tags: []
+user_id: runner
