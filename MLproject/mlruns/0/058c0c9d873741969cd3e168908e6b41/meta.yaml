@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/058c0c9d873741969cd3e168908e6b41/artifacts
+end_time: 1747158385723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 058c0c9d873741969cd3e168908e6b41
+run_name: carefree-bug-279
+run_uuid: 058c0c9d873741969cd3e168908e6b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747158379263
+status: 3
+tags: []
+user_id: runner
