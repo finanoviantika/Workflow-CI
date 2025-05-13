@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db12488da8cc423d8fe6e32e76575e3a/artifacts
+end_time: 1747173965755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db12488da8cc423d8fe6e32e76575e3a
+run_name: vaunted-asp-421
+run_uuid: db12488da8cc423d8fe6e32e76575e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173959334
+status: 3
+tags: []
+user_id: runner
