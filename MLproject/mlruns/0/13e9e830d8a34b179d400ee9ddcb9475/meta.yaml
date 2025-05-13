@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/13e9e830d8a34b179d400ee9ddcb9475/artifacts
+end_time: 1747175655218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13e9e830d8a34b179d400ee9ddcb9475
+run_name: debonair-moose-133
+run_uuid: 13e9e830d8a34b179d400ee9ddcb9475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747175648671
+status: 3
+tags: []
+user_id: runner
