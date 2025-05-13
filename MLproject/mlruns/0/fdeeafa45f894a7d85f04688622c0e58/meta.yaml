@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fdeeafa45f894a7d85f04688622c0e58/artifacts
+end_time: 1747120246771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdeeafa45f894a7d85f04688622c0e58
+run_name: thoughtful-snake-298
+run_uuid: fdeeafa45f894a7d85f04688622c0e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120240073
+status: 3
+tags: []
+user_id: runner
