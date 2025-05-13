@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed7a5b38d0724425ad17598b8d781840/artifacts
+end_time: 1747095189603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed7a5b38d0724425ad17598b8d781840
+run_name: classy-stoat-864
+run_uuid: ed7a5b38d0724425ad17598b8d781840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747095182702
+status: 3
+tags: []
+user_id: runner
