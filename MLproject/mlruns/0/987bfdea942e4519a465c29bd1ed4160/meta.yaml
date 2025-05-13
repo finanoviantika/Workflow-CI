@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/987bfdea942e4519a465c29bd1ed4160/artifacts
+end_time: 1747151564668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987bfdea942e4519a465c29bd1ed4160
+run_name: upset-tern-71
+run_uuid: 987bfdea942e4519a465c29bd1ed4160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151558069
+status: 3
+tags: []
+user_id: runner
