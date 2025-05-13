@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7088143d39cd40408206d9893820e3ee/artifacts
+end_time: 1747152031925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7088143d39cd40408206d9893820e3ee
+run_name: puzzled-skunk-970
+run_uuid: 7088143d39cd40408206d9893820e3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747152025129
+status: 3
+tags: []
+user_id: runner
