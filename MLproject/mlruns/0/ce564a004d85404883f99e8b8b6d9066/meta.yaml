@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ce564a004d85404883f99e8b8b6d9066/artifacts
+end_time: 1747153170001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce564a004d85404883f99e8b8b6d9066
+run_name: gregarious-ape-103
+run_uuid: ce564a004d85404883f99e8b8b6d9066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747153163443
+status: 3
+tags: []
+user_id: runner
