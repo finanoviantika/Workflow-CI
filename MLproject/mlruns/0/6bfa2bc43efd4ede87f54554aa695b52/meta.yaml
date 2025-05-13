@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6bfa2bc43efd4ede87f54554aa695b52/artifacts
+end_time: 1747166882091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bfa2bc43efd4ede87f54554aa695b52
+run_name: auspicious-horse-49
+run_uuid: 6bfa2bc43efd4ede87f54554aa695b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166875568
+status: 3
+tags: []
+user_id: runner
