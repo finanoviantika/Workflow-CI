@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d3bce537f904485789d28ea8b13fa194/artifacts
+end_time: 1747158205951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3bce537f904485789d28ea8b13fa194
+run_name: nervous-goat-454
+run_uuid: d3bce537f904485789d28ea8b13fa194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747158199422
+status: 3
+tags: []
+user_id: runner
