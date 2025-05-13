@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7b400c82dd3a4f74a714c45fd6a7d823/artifacts
+end_time: 1747162231172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b400c82dd3a4f74a714c45fd6a7d823
+run_name: glamorous-snake-551
+run_uuid: 7b400c82dd3a4f74a714c45fd6a7d823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747162224482
+status: 3
+tags: []
+user_id: runner
