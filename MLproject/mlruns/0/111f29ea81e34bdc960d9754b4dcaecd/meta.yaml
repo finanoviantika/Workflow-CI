@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/111f29ea81e34bdc960d9754b4dcaecd/artifacts
+end_time: 1747140602723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 111f29ea81e34bdc960d9754b4dcaecd
+run_name: melodic-chimp-877
+run_uuid: 111f29ea81e34bdc960d9754b4dcaecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140595941
+status: 3
+tags: []
+user_id: runner
