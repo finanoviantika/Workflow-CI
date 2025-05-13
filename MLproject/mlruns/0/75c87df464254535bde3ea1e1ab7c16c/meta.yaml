@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/75c87df464254535bde3ea1e1ab7c16c/artifacts
+end_time: 1747167700384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c87df464254535bde3ea1e1ab7c16c
+run_name: angry-calf-490
+run_uuid: 75c87df464254535bde3ea1e1ab7c16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747167693912
+status: 3
+tags: []
+user_id: runner
