@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd5a92dca7ea48dc8e7e87375222e04f/artifacts
+end_time: 1747146092571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd5a92dca7ea48dc8e7e87375222e04f
+run_name: zealous-asp-176
+run_uuid: dd5a92dca7ea48dc8e7e87375222e04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747146085903
+status: 3
+tags: []
+user_id: runner
