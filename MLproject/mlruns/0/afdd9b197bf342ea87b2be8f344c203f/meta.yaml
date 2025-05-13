@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afdd9b197bf342ea87b2be8f344c203f/artifacts
+end_time: 1747140782792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afdd9b197bf342ea87b2be8f344c203f
+run_name: legendary-dog-465
+run_uuid: afdd9b197bf342ea87b2be8f344c203f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747140776498
+status: 3
+tags: []
+user_id: runner
