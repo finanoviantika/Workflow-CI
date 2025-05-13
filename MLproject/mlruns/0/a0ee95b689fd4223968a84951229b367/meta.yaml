@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a0ee95b689fd4223968a84951229b367/artifacts
+end_time: 1747172895202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0ee95b689fd4223968a84951229b367
+run_name: orderly-horse-897
+run_uuid: a0ee95b689fd4223968a84951229b367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747172888450
+status: 3
+tags: []
+user_id: runner
