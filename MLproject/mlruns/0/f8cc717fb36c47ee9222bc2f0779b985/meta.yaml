@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f8cc717fb36c47ee9222bc2f0779b985/artifacts
+end_time: 1747167609929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8cc717fb36c47ee9222bc2f0779b985
+run_name: rare-zebra-280
+run_uuid: f8cc717fb36c47ee9222bc2f0779b985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747167603169
+status: 3
+tags: []
+user_id: runner
