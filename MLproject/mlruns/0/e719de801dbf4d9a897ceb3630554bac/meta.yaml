@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e719de801dbf4d9a897ceb3630554bac/artifacts
+end_time: 1747179277072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e719de801dbf4d9a897ceb3630554bac
+run_name: chill-turtle-533
+run_uuid: e719de801dbf4d9a897ceb3630554bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747179270823
+status: 3
+tags: []
+user_id: runner
