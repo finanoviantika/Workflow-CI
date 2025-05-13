@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e59dae8ad77f4d0ca01fa69d472daaaa/artifacts
+end_time: 1747132108869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e59dae8ad77f4d0ca01fa69d472daaaa
+run_name: capricious-calf-719
+run_uuid: e59dae8ad77f4d0ca01fa69d472daaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132102391
+status: 3
+tags: []
+user_id: runner
