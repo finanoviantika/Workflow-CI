@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eaf8847f4ba74611a09755af3ccacc54/artifacts
+end_time: 1747178105871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf8847f4ba74611a09755af3ccacc54
+run_name: capable-calf-380
+run_uuid: eaf8847f4ba74611a09755af3ccacc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747178099511
+status: 3
+tags: []
+user_id: runner
