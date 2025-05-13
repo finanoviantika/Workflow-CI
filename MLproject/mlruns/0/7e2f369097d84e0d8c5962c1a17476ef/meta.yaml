@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7e2f369097d84e0d8c5962c1a17476ef/artifacts
+end_time: 1747161144733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e2f369097d84e0d8c5962c1a17476ef
+run_name: victorious-snail-413
+run_uuid: 7e2f369097d84e0d8c5962c1a17476ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747161137852
+status: 3
+tags: []
+user_id: runner
