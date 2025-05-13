@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/69497273b17844c39f01c3d5fc79c176/artifacts
+end_time: 1747173160650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69497273b17844c39f01c3d5fc79c176
+run_name: classy-goat-96
+run_uuid: 69497273b17844c39f01c3d5fc79c176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747173154219
+status: 3
+tags: []
+user_id: runner
