@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fdccab296a794cfb9c4f30f159dceefc/artifacts
+end_time: 1747132380740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdccab296a794cfb9c4f30f159dceefc
+run_name: bittersweet-loon-34
+run_uuid: fdccab296a794cfb9c4f30f159dceefc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132374331
+status: 3
+tags: []
+user_id: runner
