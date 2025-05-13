@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2ea1f486a1b046528d430885094a618b/artifacts
+end_time: 1747171171085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ea1f486a1b046528d430885094a618b
+run_name: fortunate-chimp-825
+run_uuid: 2ea1f486a1b046528d430885094a618b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747171164803
+status: 3
+tags: []
+user_id: runner
