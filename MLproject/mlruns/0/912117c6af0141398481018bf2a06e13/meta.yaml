@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/912117c6af0141398481018bf2a06e13/artifacts
+end_time: 1747165799505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 912117c6af0141398481018bf2a06e13
+run_name: mysterious-snake-812
+run_uuid: 912117c6af0141398481018bf2a06e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747165793271
+status: 3
+tags: []
+user_id: runner
