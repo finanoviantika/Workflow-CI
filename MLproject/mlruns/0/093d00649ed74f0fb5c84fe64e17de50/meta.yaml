@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/093d00649ed74f0fb5c84fe64e17de50/artifacts
+end_time: 1747143861981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 093d00649ed74f0fb5c84fe64e17de50
+run_name: capable-mare-681
+run_uuid: 093d00649ed74f0fb5c84fe64e17de50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747143855642
+status: 3
+tags: []
+user_id: runner
