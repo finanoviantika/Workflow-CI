@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/80fcf4d1ed7a46d1b728b19138578ff2/artifacts
+end_time: 1747097671077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80fcf4d1ed7a46d1b728b19138578ff2
+run_name: nervous-yak-699
+run_uuid: 80fcf4d1ed7a46d1b728b19138578ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747097664541
+status: 3
+tags: []
+user_id: runner
