@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d380692c75ce4ec9ba91b524fd93976d/artifacts
+end_time: 1747139486623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d380692c75ce4ec9ba91b524fd93976d
+run_name: persistent-shrew-573
+run_uuid: d380692c75ce4ec9ba91b524fd93976d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747139480259
+status: 3
+tags: []
+user_id: runner
