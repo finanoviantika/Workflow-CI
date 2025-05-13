@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c764596464e1444dafa4bc2cbcd49754/artifacts
+end_time: 1747160508851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c764596464e1444dafa4bc2cbcd49754
+run_name: vaunted-koi-531
+run_uuid: c764596464e1444dafa4bc2cbcd49754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747160502465
+status: 3
+tags: []
+user_id: runner
