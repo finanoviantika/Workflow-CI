@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/efee42f3837540a5b7a86ab004ed168f/artifacts
+end_time: 1747150281426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efee42f3837540a5b7a86ab004ed168f
+run_name: bright-goat-381
+run_uuid: efee42f3837540a5b7a86ab004ed168f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747150274911
+status: 3
+tags: []
+user_id: runner
