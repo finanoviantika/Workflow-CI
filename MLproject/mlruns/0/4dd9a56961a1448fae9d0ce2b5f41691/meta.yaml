@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4dd9a56961a1448fae9d0ce2b5f41691/artifacts
+end_time: 1747111403823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dd9a56961a1448fae9d0ce2b5f41691
+run_name: unequaled-auk-73
+run_uuid: 4dd9a56961a1448fae9d0ce2b5f41691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747111397455
+status: 3
+tags: []
+user_id: runner
