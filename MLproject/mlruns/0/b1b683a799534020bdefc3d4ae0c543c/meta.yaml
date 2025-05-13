@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b1b683a799534020bdefc3d4ae0c543c/artifacts
+end_time: 1747165980009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1b683a799534020bdefc3d4ae0c543c
+run_name: merciful-mule-616
+run_uuid: b1b683a799534020bdefc3d4ae0c543c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747165972863
+status: 3
+tags: []
+user_id: runner
