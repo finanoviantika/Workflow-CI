@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8acc3162a2724f0cacad7dccf233ef59/artifacts
+end_time: 1747160686639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8acc3162a2724f0cacad7dccf233ef59
+run_name: brawny-swan-112
+run_uuid: 8acc3162a2724f0cacad7dccf233ef59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747160680221
+status: 3
+tags: []
+user_id: runner
