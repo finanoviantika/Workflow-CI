@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2e8d434ceb084b75bfac322bb0263dfb/artifacts
+end_time: 1747151656949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e8d434ceb084b75bfac322bb0263dfb
+run_name: sedate-conch-850
+run_uuid: 2e8d434ceb084b75bfac322bb0263dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747151650325
+status: 3
+tags: []
+user_id: runner
