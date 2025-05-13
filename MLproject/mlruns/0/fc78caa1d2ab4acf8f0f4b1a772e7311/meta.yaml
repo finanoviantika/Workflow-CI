@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fc78caa1d2ab4acf8f0f4b1a772e7311/artifacts
+end_time: 1747138574025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc78caa1d2ab4acf8f0f4b1a772e7311
+run_name: gaudy-vole-146
+run_uuid: fc78caa1d2ab4acf8f0f4b1a772e7311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747138567730
+status: 3
+tags: []
+user_id: runner
