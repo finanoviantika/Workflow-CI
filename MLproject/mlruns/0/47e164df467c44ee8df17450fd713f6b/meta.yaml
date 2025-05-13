@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/47e164df467c44ee8df17450fd713f6b/artifacts
+end_time: 1747135785578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e164df467c44ee8df17450fd713f6b
+run_name: suave-ant-307
+run_uuid: 47e164df467c44ee8df17450fd713f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747135779280
+status: 3
+tags: []
+user_id: runner
