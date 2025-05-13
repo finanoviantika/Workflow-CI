@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/938966f59072466cba8c14ec7a465bc8/artifacts
+end_time: 1747155638358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938966f59072466cba8c14ec7a465bc8
+run_name: kindly-shrimp-149
+run_uuid: 938966f59072466cba8c14ec7a465bc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747155631641
+status: 3
+tags: []
+user_id: runner
