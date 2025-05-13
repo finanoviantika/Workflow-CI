@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9111abeec4de484480a6ccd91bd67eb3/artifacts
+end_time: 1747120774745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9111abeec4de484480a6ccd91bd67eb3
+run_name: industrious-fowl-80
+run_uuid: 9111abeec4de484480a6ccd91bd67eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747120768172
+status: 3
+tags: []
+user_id: runner
