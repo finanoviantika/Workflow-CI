@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34d892691ca740cc97e89012f2e2a15b/artifacts
+end_time: 1747134015588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d892691ca740cc97e89012f2e2a15b
+run_name: upset-newt-145
+run_uuid: 34d892691ca740cc97e89012f2e2a15b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747134009201
+status: 3
+tags: []
+user_id: runner
