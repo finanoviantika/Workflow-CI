@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/611c8f48ce924ccd921b64c5015dcf8b/artifacts
+end_time: 1747124338611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611c8f48ce924ccd921b64c5015dcf8b
+run_name: exultant-mare-391
+run_uuid: 611c8f48ce924ccd921b64c5015dcf8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124332285
+status: 3
+tags: []
+user_id: runner
