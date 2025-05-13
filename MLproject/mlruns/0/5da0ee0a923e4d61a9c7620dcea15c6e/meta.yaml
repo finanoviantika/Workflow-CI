@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5da0ee0a923e4d61a9c7620dcea15c6e/artifacts
+end_time: 1747168248085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da0ee0a923e4d61a9c7620dcea15c6e
+run_name: industrious-ant-363
+run_uuid: 5da0ee0a923e4d61a9c7620dcea15c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747168241568
+status: 3
+tags: []
+user_id: runner
