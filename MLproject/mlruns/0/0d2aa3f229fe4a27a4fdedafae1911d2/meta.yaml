@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d2aa3f229fe4a27a4fdedafae1911d2/artifacts
+end_time: 1747099730734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d2aa3f229fe4a27a4fdedafae1911d2
+run_name: honorable-snake-499
+run_uuid: 0d2aa3f229fe4a27a4fdedafae1911d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099723453
+status: 3
+tags: []
+user_id: runner
