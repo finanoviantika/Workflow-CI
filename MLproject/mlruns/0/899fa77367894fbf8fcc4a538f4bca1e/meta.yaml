@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/899fa77367894fbf8fcc4a538f4bca1e/artifacts
+end_time: 1747159775915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 899fa77367894fbf8fcc4a538f4bca1e
+run_name: worried-smelt-854
+run_uuid: 899fa77367894fbf8fcc4a538f4bca1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747159769062
+status: 3
+tags: []
+user_id: runner
