@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1706023b5f13433dba38220d3afdce6e/artifacts
+end_time: 1747119789837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1706023b5f13433dba38220d3afdce6e
+run_name: masked-bass-517
+run_uuid: 1706023b5f13433dba38220d3afdce6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119783410
+status: 3
+tags: []
+user_id: runner
