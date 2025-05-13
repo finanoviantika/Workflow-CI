@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/863aa67e472f43c09d33b07e159ad9e9/artifacts
+end_time: 1747114952785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 863aa67e472f43c09d33b07e159ad9e9
+run_name: abundant-goose-869
+run_uuid: 863aa67e472f43c09d33b07e159ad9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747114946281
+status: 3
+tags: []
+user_id: runner
