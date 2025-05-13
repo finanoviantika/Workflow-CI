@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bc0771df9a4e4078a0d8f0215fbce8cb/artifacts
+end_time: 1747132928983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc0771df9a4e4078a0d8f0215fbce8cb
+run_name: rare-mouse-282
+run_uuid: bc0771df9a4e4078a0d8f0215fbce8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747132922747
+status: 3
+tags: []
+user_id: runner
