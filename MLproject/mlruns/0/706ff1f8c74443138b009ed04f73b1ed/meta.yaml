@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/706ff1f8c74443138b009ed04f73b1ed/artifacts
+end_time: 1747252759335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706ff1f8c74443138b009ed04f73b1ed
+run_name: masked-grub-24
+run_uuid: 706ff1f8c74443138b009ed04f73b1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252752344
+status: 3
+tags: []
+user_id: runner
