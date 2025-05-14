@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0046dd77afce482989cc0e6ecd21d272/artifacts
+end_time: 1747186815388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0046dd77afce482989cc0e6ecd21d272
+run_name: clumsy-asp-89
+run_uuid: 0046dd77afce482989cc0e6ecd21d272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747186809188
+status: 3
+tags: []
+user_id: runner
