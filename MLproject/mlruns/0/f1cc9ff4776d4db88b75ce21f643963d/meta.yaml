@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1cc9ff4776d4db88b75ce21f643963d/artifacts
+end_time: 1747182189594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cc9ff4776d4db88b75ce21f643963d
+run_name: nosy-squid-462
+run_uuid: f1cc9ff4776d4db88b75ce21f643963d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182183390
+status: 3
+tags: []
+user_id: runner
