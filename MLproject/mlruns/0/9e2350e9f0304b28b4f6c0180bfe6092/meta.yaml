@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e2350e9f0304b28b4f6c0180bfe6092/artifacts
+end_time: 1747226658964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e2350e9f0304b28b4f6c0180bfe6092
+run_name: gaudy-pug-823
+run_uuid: 9e2350e9f0304b28b4f6c0180bfe6092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226652655
+status: 3
+tags: []
+user_id: runner
