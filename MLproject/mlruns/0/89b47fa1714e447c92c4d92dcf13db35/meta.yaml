@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89b47fa1714e447c92c4d92dcf13db35/artifacts
+end_time: 1747244213558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b47fa1714e447c92c4d92dcf13db35
+run_name: bold-auk-994
+run_uuid: 89b47fa1714e447c92c4d92dcf13db35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747244207139
+status: 3
+tags: []
+user_id: runner
