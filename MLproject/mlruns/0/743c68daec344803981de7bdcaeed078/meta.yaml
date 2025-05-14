@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/743c68daec344803981de7bdcaeed078/artifacts
+end_time: 1747235076460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 743c68daec344803981de7bdcaeed078
+run_name: placid-flea-581
+run_uuid: 743c68daec344803981de7bdcaeed078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235069918
+status: 3
+tags: []
+user_id: runner
