@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/04c57bf9ec1b4327b7d232b0586427c3/artifacts
+end_time: 1747219039446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04c57bf9ec1b4327b7d232b0586427c3
+run_name: bouncy-mouse-483
+run_uuid: 04c57bf9ec1b4327b7d232b0586427c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747219032738
+status: 3
+tags: []
+user_id: runner
