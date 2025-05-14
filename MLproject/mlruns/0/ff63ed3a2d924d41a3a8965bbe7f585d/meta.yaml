@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff63ed3a2d924d41a3a8965bbe7f585d/artifacts
+end_time: 1747261187766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff63ed3a2d924d41a3a8965bbe7f585d
+run_name: magnificent-seal-278
+run_uuid: ff63ed3a2d924d41a3a8965bbe7f585d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747261181503
+status: 3
+tags: []
+user_id: runner
