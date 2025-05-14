@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd515eb634f24a419b0e81a54f9a9acd/artifacts
+end_time: 1747245363302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd515eb634f24a419b0e81a54f9a9acd
+run_name: bittersweet-stag-58
+run_uuid: cd515eb634f24a419b0e81a54f9a9acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747245356793
+status: 3
+tags: []
+user_id: runner
