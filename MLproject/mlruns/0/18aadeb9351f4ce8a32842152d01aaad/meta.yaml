@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/18aadeb9351f4ce8a32842152d01aaad/artifacts
+end_time: 1747235825344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18aadeb9351f4ce8a32842152d01aaad
+run_name: industrious-pig-64
+run_uuid: 18aadeb9351f4ce8a32842152d01aaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235819032
+status: 3
+tags: []
+user_id: runner
