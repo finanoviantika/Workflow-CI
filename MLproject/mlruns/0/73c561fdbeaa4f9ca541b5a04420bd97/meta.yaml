@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/73c561fdbeaa4f9ca541b5a04420bd97/artifacts
+end_time: 1747180826303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73c561fdbeaa4f9ca541b5a04420bd97
+run_name: treasured-fawn-243
+run_uuid: 73c561fdbeaa4f9ca541b5a04420bd97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180819955
+status: 3
+tags: []
+user_id: runner
