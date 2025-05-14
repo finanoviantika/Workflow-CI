@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0b6abdb18cc843a5b53aae1960fbe4f4/artifacts
+end_time: 1747263502070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b6abdb18cc843a5b53aae1960fbe4f4
+run_name: rogue-fish-968
+run_uuid: 0b6abdb18cc843a5b53aae1960fbe4f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747263495694
+status: 3
+tags: []
+user_id: runner
