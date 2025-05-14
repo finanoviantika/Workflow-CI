@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc1f176c8f984a62b3d1edf10dd7bc0a/artifacts
+end_time: 1747249020579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc1f176c8f984a62b3d1edf10dd7bc0a
+run_name: bemused-shrew-316
+run_uuid: cc1f176c8f984a62b3d1edf10dd7bc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249013858
+status: 3
+tags: []
+user_id: runner
