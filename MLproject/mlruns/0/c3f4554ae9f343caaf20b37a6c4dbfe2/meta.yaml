@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c3f4554ae9f343caaf20b37a6c4dbfe2/artifacts
+end_time: 1747224133852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f4554ae9f343caaf20b37a6c4dbfe2
+run_name: whimsical-squid-180
+run_uuid: c3f4554ae9f343caaf20b37a6c4dbfe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747224127478
+status: 3
+tags: []
+user_id: runner
