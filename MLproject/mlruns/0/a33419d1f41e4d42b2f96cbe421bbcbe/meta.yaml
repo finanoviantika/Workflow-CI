@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a33419d1f41e4d42b2f96cbe421bbcbe/artifacts
+end_time: 1747252091376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33419d1f41e4d42b2f96cbe421bbcbe
+run_name: adaptable-loon-480
+run_uuid: a33419d1f41e4d42b2f96cbe421bbcbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252085051
+status: 3
+tags: []
+user_id: runner
