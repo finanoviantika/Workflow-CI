@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dccf45bba76f4b13a4e6f99f14b4a17f/artifacts
+end_time: 1747184882103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dccf45bba76f4b13a4e6f99f14b4a17f
+run_name: silent-lamb-131
+run_uuid: dccf45bba76f4b13a4e6f99f14b4a17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184875765
+status: 3
+tags: []
+user_id: runner
