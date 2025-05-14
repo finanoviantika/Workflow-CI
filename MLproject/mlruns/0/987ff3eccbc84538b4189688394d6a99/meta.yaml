@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/987ff3eccbc84538b4189688394d6a99/artifacts
+end_time: 1747183591476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987ff3eccbc84538b4189688394d6a99
+run_name: bemused-squirrel-294
+run_uuid: 987ff3eccbc84538b4189688394d6a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747183585247
+status: 3
+tags: []
+user_id: runner
