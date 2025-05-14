@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8d60d8de21d34ab8abb23e234408a332/artifacts
+end_time: 1747200291152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d60d8de21d34ab8abb23e234408a332
+run_name: redolent-dove-752
+run_uuid: 8d60d8de21d34ab8abb23e234408a332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200284926
+status: 3
+tags: []
+user_id: runner
