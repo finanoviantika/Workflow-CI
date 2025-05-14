@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ebbf158940d64b23a047c0983f5e2dc3/artifacts
+end_time: 1747193660058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebbf158940d64b23a047c0983f5e2dc3
+run_name: peaceful-cod-841
+run_uuid: ebbf158940d64b23a047c0983f5e2dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193653593
+status: 3
+tags: []
+user_id: runner
