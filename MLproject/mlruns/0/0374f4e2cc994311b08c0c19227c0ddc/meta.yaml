@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0374f4e2cc994311b08c0c19227c0ddc/artifacts
+end_time: 1747260532929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0374f4e2cc994311b08c0c19227c0ddc
+run_name: painted-doe-168
+run_uuid: 0374f4e2cc994311b08c0c19227c0ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260526375
+status: 3
+tags: []
+user_id: runner
