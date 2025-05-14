@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dfd2ea29130d47798862f8d77628424f/artifacts
+end_time: 1747204940536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfd2ea29130d47798862f8d77628424f
+run_name: victorious-bee-197
+run_uuid: dfd2ea29130d47798862f8d77628424f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204933955
+status: 3
+tags: []
+user_id: runner
