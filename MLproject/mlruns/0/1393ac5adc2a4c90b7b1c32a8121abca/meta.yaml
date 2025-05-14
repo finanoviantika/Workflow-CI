@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1393ac5adc2a4c90b7b1c32a8121abca/artifacts
+end_time: 1747253629841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1393ac5adc2a4c90b7b1c32a8121abca
+run_name: brawny-mink-908
+run_uuid: 1393ac5adc2a4c90b7b1c32a8121abca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253623400
+status: 3
+tags: []
+user_id: runner
