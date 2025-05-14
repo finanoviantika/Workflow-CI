@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6f6d7fd1fa50488a8179af12fd6d62aa/artifacts
+end_time: 1747260623530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f6d7fd1fa50488a8179af12fd6d62aa
+run_name: sincere-owl-210
+run_uuid: 6f6d7fd1fa50488a8179af12fd6d62aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260617026
+status: 3
+tags: []
+user_id: runner
