@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1740f012dd14f8fb0e63fd511268c34/artifacts
+end_time: 1747249117488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1740f012dd14f8fb0e63fd511268c34
+run_name: enchanting-conch-54
+run_uuid: f1740f012dd14f8fb0e63fd511268c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249111137
+status: 3
+tags: []
+user_id: runner
