@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f9861c0daa146da9b6624764bd1723e/artifacts
+end_time: 1747231832596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f9861c0daa146da9b6624764bd1723e
+run_name: magnificent-lamb-43
+run_uuid: 7f9861c0daa146da9b6624764bd1723e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231826047
+status: 3
+tags: []
+user_id: runner
