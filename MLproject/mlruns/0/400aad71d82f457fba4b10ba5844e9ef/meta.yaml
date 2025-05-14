@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/400aad71d82f457fba4b10ba5844e9ef/artifacts
+end_time: 1747250698845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 400aad71d82f457fba4b10ba5844e9ef
+run_name: capricious-loon-556
+run_uuid: 400aad71d82f457fba4b10ba5844e9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250692511
+status: 3
+tags: []
+user_id: runner
