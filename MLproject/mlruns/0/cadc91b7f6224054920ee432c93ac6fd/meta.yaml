@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cadc91b7f6224054920ee432c93ac6fd/artifacts
+end_time: 1747213201222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cadc91b7f6224054920ee432c93ac6fd
+run_name: mysterious-pig-91
+run_uuid: cadc91b7f6224054920ee432c93ac6fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213194938
+status: 3
+tags: []
+user_id: runner
