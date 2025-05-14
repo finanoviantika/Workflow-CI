@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2874f7f782f44297998c41dc62196bfa/artifacts
+end_time: 1747263136046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2874f7f782f44297998c41dc62196bfa
+run_name: clean-skunk-815
+run_uuid: 2874f7f782f44297998c41dc62196bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747263129657
+status: 3
+tags: []
+user_id: runner
