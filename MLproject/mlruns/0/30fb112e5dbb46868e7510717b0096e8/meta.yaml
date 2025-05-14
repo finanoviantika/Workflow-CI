@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/30fb112e5dbb46868e7510717b0096e8/artifacts
+end_time: 1747184050400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30fb112e5dbb46868e7510717b0096e8
+run_name: gentle-sow-836
+run_uuid: 30fb112e5dbb46868e7510717b0096e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184043352
+status: 3
+tags: []
+user_id: runner
