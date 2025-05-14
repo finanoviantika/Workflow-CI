@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5fba3f538a714673a1e632f02d5bd893/artifacts
+end_time: 1747247641664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fba3f538a714673a1e632f02d5bd893
+run_name: sincere-lark-35
+run_uuid: 5fba3f538a714673a1e632f02d5bd893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747247635302
+status: 3
+tags: []
+user_id: runner
