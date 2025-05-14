@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a7588826ff1a4476b6b0817d4a7d5b56/artifacts
+end_time: 1747189493861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7588826ff1a4476b6b0817d4a7d5b56
+run_name: secretive-turtle-18
+run_uuid: a7588826ff1a4476b6b0817d4a7d5b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747189487449
+status: 3
+tags: []
+user_id: runner
