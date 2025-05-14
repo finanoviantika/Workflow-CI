@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cbfaee8fd0db43c7906c50a3823cf1b0/artifacts
+end_time: 1747260442335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbfaee8fd0db43c7906c50a3823cf1b0
+run_name: popular-midge-721
+run_uuid: cbfaee8fd0db43c7906c50a3823cf1b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260435494
+status: 3
+tags: []
+user_id: runner
