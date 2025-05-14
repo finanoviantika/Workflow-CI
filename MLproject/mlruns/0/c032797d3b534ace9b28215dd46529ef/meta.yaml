@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c032797d3b534ace9b28215dd46529ef/artifacts
+end_time: 1747191144534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c032797d3b534ace9b28215dd46529ef
+run_name: nimble-moose-976
+run_uuid: c032797d3b534ace9b28215dd46529ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747191138183
+status: 3
+tags: []
+user_id: runner
