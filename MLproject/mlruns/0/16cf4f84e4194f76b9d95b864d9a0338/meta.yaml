@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/16cf4f84e4194f76b9d95b864d9a0338/artifacts
+end_time: 1747253538529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16cf4f84e4194f76b9d95b864d9a0338
+run_name: judicious-skunk-752
+run_uuid: 16cf4f84e4194f76b9d95b864d9a0338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253532080
+status: 3
+tags: []
+user_id: runner
