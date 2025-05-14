@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c3efbeb43fed465faf2efcc4799423a7/artifacts
+end_time: 1747260906074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3efbeb43fed465faf2efcc4799423a7
+run_name: traveling-roo-937
+run_uuid: c3efbeb43fed465faf2efcc4799423a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260899663
+status: 3
+tags: []
+user_id: runner
