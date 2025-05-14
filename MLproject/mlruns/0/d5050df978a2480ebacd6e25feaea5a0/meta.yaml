@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d5050df978a2480ebacd6e25feaea5a0/artifacts
+end_time: 1747264889723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5050df978a2480ebacd6e25feaea5a0
+run_name: trusting-skunk-736
+run_uuid: d5050df978a2480ebacd6e25feaea5a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747264883471
+status: 3
+tags: []
+user_id: runner
