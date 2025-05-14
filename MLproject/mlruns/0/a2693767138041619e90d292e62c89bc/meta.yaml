@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a2693767138041619e90d292e62c89bc/artifacts
+end_time: 1747223296863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2693767138041619e90d292e62c89bc
+run_name: shivering-dog-875
+run_uuid: a2693767138041619e90d292e62c89bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747223290212
+status: 3
+tags: []
+user_id: runner
