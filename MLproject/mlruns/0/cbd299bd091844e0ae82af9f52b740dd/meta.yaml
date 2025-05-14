@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cbd299bd091844e0ae82af9f52b740dd/artifacts
+end_time: 1747240667991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbd299bd091844e0ae82af9f52b740dd
+run_name: delicate-gnat-725
+run_uuid: cbd299bd091844e0ae82af9f52b740dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747240661349
+status: 3
+tags: []
+user_id: runner
