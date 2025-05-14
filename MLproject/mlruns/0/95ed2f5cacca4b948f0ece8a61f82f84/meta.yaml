@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95ed2f5cacca4b948f0ece8a61f82f84/artifacts
+end_time: 1747221343026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ed2f5cacca4b948f0ece8a61f82f84
+run_name: skillful-robin-608
+run_uuid: 95ed2f5cacca4b948f0ece8a61f82f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221336504
+status: 3
+tags: []
+user_id: runner
