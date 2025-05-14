@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8cc9e320e4634933befbd5deb854e67e/artifacts
+end_time: 1747201466007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc9e320e4634933befbd5deb854e67e
+run_name: unleashed-hare-500
+run_uuid: 8cc9e320e4634933befbd5deb854e67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747201459684
+status: 3
+tags: []
+user_id: runner
