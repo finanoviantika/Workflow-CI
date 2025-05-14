@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/52cc3dd033f34352a514c1a2805805f7/artifacts
+end_time: 1747184139902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52cc3dd033f34352a514c1a2805805f7
+run_name: brawny-mouse-213
+run_uuid: 52cc3dd033f34352a514c1a2805805f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184133742
+status: 3
+tags: []
+user_id: runner
