@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2f99d9f0e22e462cb8ba25512e14403b/artifacts
+end_time: 1747195749444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f99d9f0e22e462cb8ba25512e14403b
+run_name: stylish-quail-850
+run_uuid: 2f99d9f0e22e462cb8ba25512e14403b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195743115
+status: 3
+tags: []
+user_id: runner
