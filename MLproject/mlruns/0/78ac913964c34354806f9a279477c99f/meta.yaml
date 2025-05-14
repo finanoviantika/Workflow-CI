@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78ac913964c34354806f9a279477c99f/artifacts
+end_time: 1747199839716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78ac913964c34354806f9a279477c99f
+run_name: bedecked-whale-186
+run_uuid: 78ac913964c34354806f9a279477c99f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747199833080
+status: 3
+tags: []
+user_id: runner
