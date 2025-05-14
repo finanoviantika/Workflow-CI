@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95ceb0c1f9b646fe9b21e45d0119e782/artifacts
+end_time: 1747201644673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ceb0c1f9b646fe9b21e45d0119e782
+run_name: blushing-owl-187
+run_uuid: 95ceb0c1f9b646fe9b21e45d0119e782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747201638409
+status: 3
+tags: []
+user_id: runner
