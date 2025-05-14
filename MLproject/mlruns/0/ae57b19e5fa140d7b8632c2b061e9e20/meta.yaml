@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae57b19e5fa140d7b8632c2b061e9e20/artifacts
+end_time: 1747228251913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae57b19e5fa140d7b8632c2b061e9e20
+run_name: bold-eel-386
+run_uuid: ae57b19e5fa140d7b8632c2b061e9e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747228245572
+status: 3
+tags: []
+user_id: runner
