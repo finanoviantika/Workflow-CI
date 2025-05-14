@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2ba546d308147738f7e93f81b3036ce/artifacts
+end_time: 1747205218481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ba546d308147738f7e93f81b3036ce
+run_name: skittish-shark-941
+run_uuid: e2ba546d308147738f7e93f81b3036ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747205212076
+status: 3
+tags: []
+user_id: runner
