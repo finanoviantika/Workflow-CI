@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3715968cbcf748ce965a2f0839124c25/artifacts
+end_time: 1747190235027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3715968cbcf748ce965a2f0839124c25
+run_name: selective-cow-363
+run_uuid: 3715968cbcf748ce965a2f0839124c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190228902
+status: 3
+tags: []
+user_id: runner
