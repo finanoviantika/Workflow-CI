@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fd85aec0f4bc4fbab6d9c05a35a771c9/artifacts
+end_time: 1747241408723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd85aec0f4bc4fbab6d9c05a35a771c9
+run_name: treasured-donkey-49
+run_uuid: fd85aec0f4bc4fbab6d9c05a35a771c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241402152
+status: 3
+tags: []
+user_id: runner
