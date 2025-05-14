@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4b8c3388eb864c619bd220f1908d45b8/artifacts
+end_time: 1747226101999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b8c3388eb864c619bd220f1908d45b8
+run_name: likeable-conch-896
+run_uuid: 4b8c3388eb864c619bd220f1908d45b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226095150
+status: 3
+tags: []
+user_id: runner
