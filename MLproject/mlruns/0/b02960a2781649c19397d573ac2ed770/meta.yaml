@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b02960a2781649c19397d573ac2ed770/artifacts
+end_time: 1747232016764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b02960a2781649c19397d573ac2ed770
+run_name: righteous-wolf-358
+run_uuid: b02960a2781649c19397d573ac2ed770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232010379
+status: 3
+tags: []
+user_id: runner
