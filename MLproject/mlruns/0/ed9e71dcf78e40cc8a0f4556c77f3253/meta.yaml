@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed9e71dcf78e40cc8a0f4556c77f3253/artifacts
+end_time: 1747232400650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed9e71dcf78e40cc8a0f4556c77f3253
+run_name: burly-rat-370
+run_uuid: ed9e71dcf78e40cc8a0f4556c77f3253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232394238
+status: 3
+tags: []
+user_id: runner
