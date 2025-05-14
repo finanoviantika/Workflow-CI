@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c7e3c12e96e94a5cbd942d7db6fb1a0d/artifacts
+end_time: 1747243431561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7e3c12e96e94a5cbd942d7db6fb1a0d
+run_name: powerful-yak-125
+run_uuid: c7e3c12e96e94a5cbd942d7db6fb1a0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747243425165
+status: 3
+tags: []
+user_id: runner
