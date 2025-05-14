@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b65272bf27d94a87ababd9e0cc2b400f/artifacts
+end_time: 1747185899689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b65272bf27d94a87ababd9e0cc2b400f
+run_name: delicate-lark-975
+run_uuid: b65272bf27d94a87ababd9e0cc2b400f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747185893515
+status: 3
+tags: []
+user_id: runner
