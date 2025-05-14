@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2b865d3321ba4c968228d3344fc13d56/artifacts
+end_time: 1747210461324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b865d3321ba4c968228d3344fc13d56
+run_name: resilient-owl-348
+run_uuid: 2b865d3321ba4c968228d3344fc13d56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210454875
+status: 3
+tags: []
+user_id: runner
