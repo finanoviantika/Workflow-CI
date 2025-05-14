@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f2c71dfa5f8b4e61993d7b27d29210a1/artifacts
+end_time: 1747260714146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2c71dfa5f8b4e61993d7b27d29210a1
+run_name: thundering-bee-182
+run_uuid: f2c71dfa5f8b4e61993d7b27d29210a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260707880
+status: 3
+tags: []
+user_id: runner
