@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7ef311d69c1a4c9cbe589beaafc22631/artifacts
+end_time: 1747190052763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ef311d69c1a4c9cbe589beaafc22631
+run_name: likeable-loon-37
+run_uuid: 7ef311d69c1a4c9cbe589beaafc22631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190046550
+status: 3
+tags: []
+user_id: runner
