@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fe190b32c99c441993605b37e150706b/artifacts
+end_time: 1747231643223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe190b32c99c441993605b37e150706b
+run_name: flawless-bear-991
+run_uuid: fe190b32c99c441993605b37e150706b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231636785
+status: 3
+tags: []
+user_id: runner
