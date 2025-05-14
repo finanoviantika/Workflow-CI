@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a9cffadea5e3461e89ff21612a22b915/artifacts
+end_time: 1747207873641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9cffadea5e3461e89ff21612a22b915
+run_name: nimble-sponge-348
+run_uuid: a9cffadea5e3461e89ff21612a22b915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747207867142
+status: 3
+tags: []
+user_id: runner
