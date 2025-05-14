@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/966541833a9741e7a57ccd9c3a8cffde/artifacts
+end_time: 1747225073907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 966541833a9741e7a57ccd9c3a8cffde
+run_name: lyrical-robin-454
+run_uuid: 966541833a9741e7a57ccd9c3a8cffde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225067370
+status: 3
+tags: []
+user_id: runner
