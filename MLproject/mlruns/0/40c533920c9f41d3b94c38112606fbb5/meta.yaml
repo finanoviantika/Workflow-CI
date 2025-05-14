@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/40c533920c9f41d3b94c38112606fbb5/artifacts
+end_time: 1747241220096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c533920c9f41d3b94c38112606fbb5
+run_name: big-rook-338
+run_uuid: 40c533920c9f41d3b94c38112606fbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241213704
+status: 3
+tags: []
+user_id: runner
