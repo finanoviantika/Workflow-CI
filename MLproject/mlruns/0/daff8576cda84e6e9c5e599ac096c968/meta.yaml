@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/daff8576cda84e6e9c5e599ac096c968/artifacts
+end_time: 1747182363131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daff8576cda84e6e9c5e599ac096c968
+run_name: carefree-donkey-722
+run_uuid: daff8576cda84e6e9c5e599ac096c968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182356784
+status: 3
+tags: []
+user_id: runner
