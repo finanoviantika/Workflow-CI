@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/671c0b98223d4cf1bb99b1fc1bdc13d2/artifacts
+end_time: 1747227780415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 671c0b98223d4cf1bb99b1fc1bdc13d2
+run_name: burly-zebra-147
+run_uuid: 671c0b98223d4cf1bb99b1fc1bdc13d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227773984
+status: 3
+tags: []
+user_id: runner
