@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a9848618c78e44d998b0012d5b147de9/artifacts
+end_time: 1747212292197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9848618c78e44d998b0012d5b147de9
+run_name: redolent-calf-992
+run_uuid: a9848618c78e44d998b0012d5b147de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747212285756
+status: 3
+tags: []
+user_id: runner
