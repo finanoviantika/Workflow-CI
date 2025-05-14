@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/39bb0c6f7c524032b127e349de84faca/artifacts
+end_time: 1747234785348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39bb0c6f7c524032b127e349de84faca
+run_name: crawling-rat-373
+run_uuid: 39bb0c6f7c524032b127e349de84faca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747234779013
+status: 3
+tags: []
+user_id: runner
