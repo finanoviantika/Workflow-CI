@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a1fb50e066bb4dc390598b559635b0be/artifacts
+end_time: 1747188099665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1fb50e066bb4dc390598b559635b0be
+run_name: polite-hog-572
+run_uuid: a1fb50e066bb4dc390598b559635b0be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188093430
+status: 3
+tags: []
+user_id: runner
