@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/145a5c1646614a8dbe6ec2b69b50ffbc/artifacts
+end_time: 1747244611456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145a5c1646614a8dbe6ec2b69b50ffbc
+run_name: serious-ram-86
+run_uuid: 145a5c1646614a8dbe6ec2b69b50ffbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747244605265
+status: 3
+tags: []
+user_id: runner
