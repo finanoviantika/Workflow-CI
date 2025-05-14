@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae24525bd15a48a497cf6c19fbd957fb/artifacts
+end_time: 1747187560558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae24525bd15a48a497cf6c19fbd957fb
+run_name: powerful-gull-125
+run_uuid: ae24525bd15a48a497cf6c19fbd957fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187554238
+status: 3
+tags: []
+user_id: runner
