@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/473fab2403e04efe95ef5196a300e6a0/artifacts
+end_time: 1747215282563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 473fab2403e04efe95ef5196a300e6a0
+run_name: wise-skink-435
+run_uuid: 473fab2403e04efe95ef5196a300e6a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747215276244
+status: 3
+tags: []
+user_id: runner
