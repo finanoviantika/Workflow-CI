@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2b87becbd66419598c5650a7574c59d/artifacts
+end_time: 1747249676170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b87becbd66419598c5650a7574c59d
+run_name: silent-pig-982
+run_uuid: e2b87becbd66419598c5650a7574c59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249669731
+status: 3
+tags: []
+user_id: runner
