@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d13c9e513a534ca58499eafb12412e4d/artifacts
+end_time: 1747202653695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d13c9e513a534ca58499eafb12412e4d
+run_name: enthused-smelt-887
+run_uuid: d13c9e513a534ca58499eafb12412e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202647302
+status: 3
+tags: []
+user_id: runner
