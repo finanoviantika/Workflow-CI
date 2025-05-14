@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/315fae5135454817a5c4f64f365fdd61/artifacts
+end_time: 1747257413674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315fae5135454817a5c4f64f365fdd61
+run_name: casual-fowl-283
+run_uuid: 315fae5135454817a5c4f64f365fdd61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747257407230
+status: 3
+tags: []
+user_id: runner
