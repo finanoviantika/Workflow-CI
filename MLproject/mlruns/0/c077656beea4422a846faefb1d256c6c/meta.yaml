@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c077656beea4422a846faefb1d256c6c/artifacts
+end_time: 1747236766021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c077656beea4422a846faefb1d256c6c
+run_name: blushing-elk-624
+run_uuid: c077656beea4422a846faefb1d256c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236759617
+status: 3
+tags: []
+user_id: runner
