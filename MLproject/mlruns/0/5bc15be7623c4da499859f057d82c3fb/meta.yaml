@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5bc15be7623c4da499859f057d82c3fb/artifacts
+end_time: 1747244428936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bc15be7623c4da499859f057d82c3fb
+run_name: fearless-slug-529
+run_uuid: 5bc15be7623c4da499859f057d82c3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747244422439
+status: 3
+tags: []
+user_id: runner
