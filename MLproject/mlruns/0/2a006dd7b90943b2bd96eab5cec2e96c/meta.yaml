@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2a006dd7b90943b2bd96eab5cec2e96c/artifacts
+end_time: 1747221988355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a006dd7b90943b2bd96eab5cec2e96c
+run_name: enchanting-owl-795
+run_uuid: 2a006dd7b90943b2bd96eab5cec2e96c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221981896
+status: 3
+tags: []
+user_id: runner
