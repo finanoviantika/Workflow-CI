@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6dbf167fea234b59a1497c00f444f971/artifacts
+end_time: 1747203385825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbf167fea234b59a1497c00f444f971
+run_name: smiling-sow-364
+run_uuid: 6dbf167fea234b59a1497c00f444f971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203379515
+status: 3
+tags: []
+user_id: runner
