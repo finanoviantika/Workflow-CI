@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cfd65a9b03184b319f383030982662e3/artifacts
+end_time: 1747196293792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd65a9b03184b319f383030982662e3
+run_name: powerful-auk-469
+run_uuid: cfd65a9b03184b319f383030982662e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196287441
+status: 3
+tags: []
+user_id: runner
