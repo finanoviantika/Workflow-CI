@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/308621395fea4eba8a9e1760cef88078/artifacts
+end_time: 1747222082265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 308621395fea4eba8a9e1760cef88078
+run_name: lyrical-pig-776
+run_uuid: 308621395fea4eba8a9e1760cef88078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747222075568
+status: 3
+tags: []
+user_id: runner
