@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0af4881673934edc9289b7d17cbe7db4/artifacts
+end_time: 1747200652353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0af4881673934edc9289b7d17cbe7db4
+run_name: adventurous-ant-582
+run_uuid: 0af4881673934edc9289b7d17cbe7db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200645643
+status: 3
+tags: []
+user_id: runner
