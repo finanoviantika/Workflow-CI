@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/776c073501834f67b46d08c406b140cf/artifacts
+end_time: 1747193200138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 776c073501834f67b46d08c406b140cf
+run_name: upset-owl-903
+run_uuid: 776c073501834f67b46d08c406b140cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193193761
+status: 3
+tags: []
+user_id: runner
