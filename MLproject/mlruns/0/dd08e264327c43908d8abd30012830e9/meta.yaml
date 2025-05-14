@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd08e264327c43908d8abd30012830e9/artifacts
+end_time: 1747226382061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd08e264327c43908d8abd30012830e9
+run_name: traveling-bass-39
+run_uuid: dd08e264327c43908d8abd30012830e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226375577
+status: 3
+tags: []
+user_id: runner
