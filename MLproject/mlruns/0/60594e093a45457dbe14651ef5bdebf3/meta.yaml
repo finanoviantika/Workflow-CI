@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/60594e093a45457dbe14651ef5bdebf3/artifacts
+end_time: 1747266371362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60594e093a45457dbe14651ef5bdebf3
+run_name: skittish-pig-931
+run_uuid: 60594e093a45457dbe14651ef5bdebf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747266364933
+status: 3
+tags: []
+user_id: runner
