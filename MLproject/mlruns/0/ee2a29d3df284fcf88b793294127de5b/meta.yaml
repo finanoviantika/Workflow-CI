@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee2a29d3df284fcf88b793294127de5b/artifacts
+end_time: 1747216015296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2a29d3df284fcf88b793294127de5b
+run_name: big-koi-5
+run_uuid: ee2a29d3df284fcf88b793294127de5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747216009026
+status: 3
+tags: []
+user_id: runner
