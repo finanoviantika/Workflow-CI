@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f98e434d8c8c45e6b3c357cee4d9d9b2/artifacts
+end_time: 1747187913936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f98e434d8c8c45e6b3c357cee4d9d9b2
+run_name: amusing-auk-993
+run_uuid: f98e434d8c8c45e6b3c357cee4d9d9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187907545
+status: 3
+tags: []
+user_id: runner
