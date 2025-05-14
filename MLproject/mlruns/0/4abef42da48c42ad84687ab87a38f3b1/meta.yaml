@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4abef42da48c42ad84687ab87a38f3b1/artifacts
+end_time: 1747246485829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4abef42da48c42ad84687ab87a38f3b1
+run_name: fortunate-yak-97
+run_uuid: 4abef42da48c42ad84687ab87a38f3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246479167
+status: 3
+tags: []
+user_id: runner
