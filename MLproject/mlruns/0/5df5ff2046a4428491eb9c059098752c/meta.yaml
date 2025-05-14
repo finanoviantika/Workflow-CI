@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5df5ff2046a4428491eb9c059098752c/artifacts
+end_time: 1747184230910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5df5ff2046a4428491eb9c059098752c
+run_name: luxuriant-fly-424
+run_uuid: 5df5ff2046a4428491eb9c059098752c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184224441
+status: 3
+tags: []
+user_id: runner
