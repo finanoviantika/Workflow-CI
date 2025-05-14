@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8ea4e411be5646f79690a1e02a96d234/artifacts
+end_time: 1747259024412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ea4e411be5646f79690a1e02a96d234
+run_name: clumsy-midge-636
+run_uuid: 8ea4e411be5646f79690a1e02a96d234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747259017823
+status: 3
+tags: []
+user_id: runner
