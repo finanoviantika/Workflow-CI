@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e621580bb28949e48ed2c883eb8cc40c/artifacts
+end_time: 1747233729200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e621580bb28949e48ed2c883eb8cc40c
+run_name: angry-gull-380
+run_uuid: e621580bb28949e48ed2c883eb8cc40c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747233722668
+status: 3
+tags: []
+user_id: runner
