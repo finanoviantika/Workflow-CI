@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c0cb89c7ec741b0822e866882da27b3/artifacts
+end_time: 1747181004896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0cb89c7ec741b0822e866882da27b3
+run_name: invincible-pug-283
+run_uuid: 5c0cb89c7ec741b0822e866882da27b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180998400
+status: 3
+tags: []
+user_id: runner
