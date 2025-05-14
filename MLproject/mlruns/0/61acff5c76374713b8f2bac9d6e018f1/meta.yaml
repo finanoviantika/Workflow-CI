@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/61acff5c76374713b8f2bac9d6e018f1/artifacts
+end_time: 1747204026375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61acff5c76374713b8f2bac9d6e018f1
+run_name: fearless-rat-996
+run_uuid: 61acff5c76374713b8f2bac9d6e018f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204019976
+status: 3
+tags: []
+user_id: runner
