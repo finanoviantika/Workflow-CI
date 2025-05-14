@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e7381092639c44109bb2f375b4612ddb/artifacts
+end_time: 1747201187788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7381092639c44109bb2f375b4612ddb
+run_name: whimsical-moose-719
+run_uuid: e7381092639c44109bb2f375b4612ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747201181445
+status: 3
+tags: []
+user_id: runner
