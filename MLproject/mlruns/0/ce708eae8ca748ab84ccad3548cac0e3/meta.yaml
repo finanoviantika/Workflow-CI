@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ce708eae8ca748ab84ccad3548cac0e3/artifacts
+end_time: 1747234682496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce708eae8ca748ab84ccad3548cac0e3
+run_name: carefree-fish-278
+run_uuid: ce708eae8ca748ab84ccad3548cac0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747234676034
+status: 3
+tags: []
+user_id: runner
