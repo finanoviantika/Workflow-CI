@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a45f172a63f347f5966f83b17558796c/artifacts
+end_time: 1747251439685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a45f172a63f347f5966f83b17558796c
+run_name: stylish-vole-555
+run_uuid: a45f172a63f347f5966f83b17558796c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251433376
+status: 3
+tags: []
+user_id: runner
