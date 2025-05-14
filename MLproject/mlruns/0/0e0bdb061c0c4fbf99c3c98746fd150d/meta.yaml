@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0e0bdb061c0c4fbf99c3c98746fd150d/artifacts
+end_time: 1747259502804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e0bdb061c0c4fbf99c3c98746fd150d
+run_name: respected-squid-804
+run_uuid: 0e0bdb061c0c4fbf99c3c98746fd150d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747259496614
+status: 3
+tags: []
+user_id: runner
