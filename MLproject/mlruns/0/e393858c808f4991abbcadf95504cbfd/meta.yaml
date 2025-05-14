@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e393858c808f4991abbcadf95504cbfd/artifacts
+end_time: 1747263322691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e393858c808f4991abbcadf95504cbfd
+run_name: gentle-snail-319
+run_uuid: e393858c808f4991abbcadf95504cbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747263316477
+status: 3
+tags: []
+user_id: runner
