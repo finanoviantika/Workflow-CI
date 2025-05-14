@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cff9d9b315094f54b70d17647d794f4e/artifacts
+end_time: 1747236196945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff9d9b315094f54b70d17647d794f4e
+run_name: delightful-ram-602
+run_uuid: cff9d9b315094f54b70d17647d794f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236189838
+status: 3
+tags: []
+user_id: runner
