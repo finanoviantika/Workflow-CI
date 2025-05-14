@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78c2d7ab1d7c4d1894525bd0297b7389/artifacts
+end_time: 1747239085220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78c2d7ab1d7c4d1894525bd0297b7389
+run_name: thundering-kite-712
+run_uuid: 78c2d7ab1d7c4d1894525bd0297b7389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747239078856
+status: 3
+tags: []
+user_id: runner
