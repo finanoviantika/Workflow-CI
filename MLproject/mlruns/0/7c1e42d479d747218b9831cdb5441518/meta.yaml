@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7c1e42d479d747218b9831cdb5441518/artifacts
+end_time: 1747210091317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c1e42d479d747218b9831cdb5441518
+run_name: omniscient-mouse-272
+run_uuid: 7c1e42d479d747218b9831cdb5441518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210084611
+status: 3
+tags: []
+user_id: runner
