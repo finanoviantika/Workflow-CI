@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/366ec5fc57004169b767a98c2ab393d4/artifacts
+end_time: 1747208327110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366ec5fc57004169b767a98c2ab393d4
+run_name: gregarious-moose-838
+run_uuid: 366ec5fc57004169b767a98c2ab393d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747208320948
+status: 3
+tags: []
+user_id: runner
