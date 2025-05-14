@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1563eaf3b56f4fdea7a5afadb63b93c5/artifacts
+end_time: 1747211745603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1563eaf3b56f4fdea7a5afadb63b93c5
+run_name: silent-auk-658
+run_uuid: 1563eaf3b56f4fdea7a5afadb63b93c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747211739025
+status: 3
+tags: []
+user_id: runner
