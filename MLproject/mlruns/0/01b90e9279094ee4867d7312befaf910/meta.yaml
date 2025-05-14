@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/01b90e9279094ee4867d7312befaf910/artifacts
+end_time: 1747193477841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01b90e9279094ee4867d7312befaf910
+run_name: amusing-goose-422
+run_uuid: 01b90e9279094ee4867d7312befaf910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193471073
+status: 3
+tags: []
+user_id: runner
