@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25b84f22360e4ef5ac3fc43f9878bd30/artifacts
+end_time: 1747183145503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25b84f22360e4ef5ac3fc43f9878bd30
+run_name: abundant-grouse-666
+run_uuid: 25b84f22360e4ef5ac3fc43f9878bd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747183138779
+status: 3
+tags: []
+user_id: runner
