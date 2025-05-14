@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da9238834a1e459fa339563eedd56add/artifacts
+end_time: 1747229286621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9238834a1e459fa339563eedd56add
+run_name: dapper-moth-824
+run_uuid: da9238834a1e459fa339563eedd56add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229280075
+status: 3
+tags: []
+user_id: runner
