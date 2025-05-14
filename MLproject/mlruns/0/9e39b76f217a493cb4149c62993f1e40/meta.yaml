@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e39b76f217a493cb4149c62993f1e40/artifacts
+end_time: 1747262948976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e39b76f217a493cb4149c62993f1e40
+run_name: beautiful-mule-363
+run_uuid: 9e39b76f217a493cb4149c62993f1e40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747262942730
+status: 3
+tags: []
+user_id: runner
