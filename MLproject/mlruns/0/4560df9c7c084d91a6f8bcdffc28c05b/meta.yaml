@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4560df9c7c084d91a6f8bcdffc28c05b/artifacts
+end_time: 1747245821826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4560df9c7c084d91a6f8bcdffc28c05b
+run_name: luminous-lynx-205
+run_uuid: 4560df9c7c084d91a6f8bcdffc28c05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747245815474
+status: 3
+tags: []
+user_id: runner
