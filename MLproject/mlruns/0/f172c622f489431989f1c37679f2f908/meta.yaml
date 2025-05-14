@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f172c622f489431989f1c37679f2f908/artifacts
+end_time: 1747217646722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f172c622f489431989f1c37679f2f908
+run_name: thundering-bug-15
+run_uuid: f172c622f489431989f1c37679f2f908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217640537
+status: 3
+tags: []
+user_id: runner
