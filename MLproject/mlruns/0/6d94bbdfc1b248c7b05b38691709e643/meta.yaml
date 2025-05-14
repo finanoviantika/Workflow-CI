@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6d94bbdfc1b248c7b05b38691709e643/artifacts
+end_time: 1747265543588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d94bbdfc1b248c7b05b38691709e643
+run_name: sneaky-bear-544
+run_uuid: 6d94bbdfc1b248c7b05b38691709e643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747265537088
+status: 3
+tags: []
+user_id: runner
