@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fb4494969c6f4590962c0b0aab6e7b42/artifacts
+end_time: 1747261094673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4494969c6f4590962c0b0aab6e7b42
+run_name: painted-ox-840
+run_uuid: fb4494969c6f4590962c0b0aab6e7b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747261088098
+status: 3
+tags: []
+user_id: runner
