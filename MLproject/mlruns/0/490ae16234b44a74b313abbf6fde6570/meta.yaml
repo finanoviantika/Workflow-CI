@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/490ae16234b44a74b313abbf6fde6570/artifacts
+end_time: 1747255006989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 490ae16234b44a74b313abbf6fde6570
+run_name: mysterious-fowl-558
+run_uuid: 490ae16234b44a74b313abbf6fde6570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255000535
+status: 3
+tags: []
+user_id: runner
