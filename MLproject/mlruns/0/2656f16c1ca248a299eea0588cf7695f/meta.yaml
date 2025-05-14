@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2656f16c1ca248a299eea0588cf7695f/artifacts
+end_time: 1747185337615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2656f16c1ca248a299eea0588cf7695f
+run_name: intelligent-ox-625
+run_uuid: 2656f16c1ca248a299eea0588cf7695f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747185331296
+status: 3
+tags: []
+user_id: runner
