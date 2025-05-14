@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff0c5b62c5904d36bf3eb4955e2501d8/artifacts
+end_time: 1747190507177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0c5b62c5904d36bf3eb4955e2501d8
+run_name: fearless-owl-778
+run_uuid: ff0c5b62c5904d36bf3eb4955e2501d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190500507
+status: 3
+tags: []
+user_id: runner
