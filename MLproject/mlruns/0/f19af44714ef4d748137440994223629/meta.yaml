@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f19af44714ef4d748137440994223629/artifacts
+end_time: 1747217099667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f19af44714ef4d748137440994223629
+run_name: clean-snail-292
+run_uuid: f19af44714ef4d748137440994223629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217093225
+status: 3
+tags: []
+user_id: runner
