@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8ef8b616b8574441a893b666cca4e0f9/artifacts
+end_time: 1747235350131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef8b616b8574441a893b666cca4e0f9
+run_name: delicate-snail-841
+run_uuid: 8ef8b616b8574441a893b666cca4e0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235343590
+status: 3
+tags: []
+user_id: runner
