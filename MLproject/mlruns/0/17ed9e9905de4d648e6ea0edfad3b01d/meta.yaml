@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/17ed9e9905de4d648e6ea0edfad3b01d/artifacts
+end_time: 1747237418756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ed9e9905de4d648e6ea0edfad3b01d
+run_name: fortunate-deer-468
+run_uuid: 17ed9e9905de4d648e6ea0edfad3b01d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237412406
+status: 3
+tags: []
+user_id: runner
