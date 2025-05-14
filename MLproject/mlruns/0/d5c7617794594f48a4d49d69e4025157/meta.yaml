@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d5c7617794594f48a4d49d69e4025157/artifacts
+end_time: 1747232686227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5c7617794594f48a4d49d69e4025157
+run_name: treasured-eel-125
+run_uuid: d5c7617794594f48a4d49d69e4025157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232679526
+status: 3
+tags: []
+user_id: runner
