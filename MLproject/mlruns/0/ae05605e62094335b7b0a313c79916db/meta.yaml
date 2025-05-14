@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae05605e62094335b7b0a313c79916db/artifacts
+end_time: 1747182009901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae05605e62094335b7b0a313c79916db
+run_name: orderly-fawn-532
+run_uuid: ae05605e62094335b7b0a313c79916db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182003289
+status: 3
+tags: []
+user_id: runner
