@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f827e6a299984d6cb284f5118ea3545c/artifacts
+end_time: 1747195297892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f827e6a299984d6cb284f5118ea3545c
+run_name: luxuriant-snake-337
+run_uuid: f827e6a299984d6cb284f5118ea3545c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195291712
+status: 3
+tags: []
+user_id: runner
