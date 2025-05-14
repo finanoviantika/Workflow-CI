@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee69cf3020f04bbbb6bf3a98894b23ee/artifacts
+end_time: 1747256385595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee69cf3020f04bbbb6bf3a98894b23ee
+run_name: mysterious-mole-665
+run_uuid: ee69cf3020f04bbbb6bf3a98894b23ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747256379271
+status: 3
+tags: []
+user_id: runner
