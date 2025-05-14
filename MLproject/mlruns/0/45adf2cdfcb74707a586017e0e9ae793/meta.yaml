@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45adf2cdfcb74707a586017e0e9ae793/artifacts
+end_time: 1747237227773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45adf2cdfcb74707a586017e0e9ae793
+run_name: lyrical-sheep-135
+run_uuid: 45adf2cdfcb74707a586017e0e9ae793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237221386
+status: 3
+tags: []
+user_id: runner
