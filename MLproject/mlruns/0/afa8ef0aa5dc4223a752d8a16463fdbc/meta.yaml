@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afa8ef0aa5dc4223a752d8a16463fdbc/artifacts
+end_time: 1747252849209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afa8ef0aa5dc4223a752d8a16463fdbc
+run_name: rambunctious-kit-798
+run_uuid: afa8ef0aa5dc4223a752d8a16463fdbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252842949
+status: 3
+tags: []
+user_id: runner
