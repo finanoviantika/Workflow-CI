@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9f330ad1e81f4046823ae71e663e5020/artifacts
+end_time: 1747217191232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f330ad1e81f4046823ae71e663e5020
+run_name: able-conch-388
+run_uuid: 9f330ad1e81f4046823ae71e663e5020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217184693
+status: 3
+tags: []
+user_id: runner
