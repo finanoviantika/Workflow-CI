@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5d6b01906af6440394831eb125108bcc/artifacts
+end_time: 1747255993963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d6b01906af6440394831eb125108bcc
+run_name: defiant-lamb-253
+run_uuid: 5d6b01906af6440394831eb125108bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255986894
+status: 3
+tags: []
+user_id: runner
