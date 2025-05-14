@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5e9b170833a6425f81c3ae9f64fde77c/artifacts
+end_time: 1747250139391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e9b170833a6425f81c3ae9f64fde77c
+run_name: respected-elk-98
+run_uuid: 5e9b170833a6425f81c3ae9f64fde77c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250133119
+status: 3
+tags: []
+user_id: runner
