@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4071c9164ed14573bc3b8b7c9543de6c/artifacts
+end_time: 1747190869659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4071c9164ed14573bc3b8b7c9543de6c
+run_name: lyrical-yak-316
+run_uuid: 4071c9164ed14573bc3b8b7c9543de6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190862919
+status: 3
+tags: []
+user_id: runner
