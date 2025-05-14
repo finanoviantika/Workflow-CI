@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d777bd271aa24ecdb2f202c5e7b965da/artifacts
+end_time: 1747215557636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d777bd271aa24ecdb2f202c5e7b965da
+run_name: dapper-shrike-834
+run_uuid: d777bd271aa24ecdb2f202c5e7b965da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747215551279
+status: 3
+tags: []
+user_id: runner
