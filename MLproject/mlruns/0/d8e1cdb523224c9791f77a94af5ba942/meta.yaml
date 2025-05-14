@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8e1cdb523224c9791f77a94af5ba942/artifacts
+end_time: 1747202106826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8e1cdb523224c9791f77a94af5ba942
+run_name: resilient-kite-842
+run_uuid: d8e1cdb523224c9791f77a94af5ba942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202100602
+status: 3
+tags: []
+user_id: runner
