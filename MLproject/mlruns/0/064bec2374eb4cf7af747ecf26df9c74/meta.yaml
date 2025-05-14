@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/064bec2374eb4cf7af747ecf26df9c74/artifacts
+end_time: 1747242617586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 064bec2374eb4cf7af747ecf26df9c74
+run_name: funny-colt-519
+run_uuid: 064bec2374eb4cf7af747ecf26df9c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242611083
+status: 3
+tags: []
+user_id: runner
