@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8bd4adb10f6b4eb8a1101019fdfa2677/artifacts
+end_time: 1747225537983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd4adb10f6b4eb8a1101019fdfa2677
+run_name: flawless-hog-569
+run_uuid: 8bd4adb10f6b4eb8a1101019fdfa2677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225531398
+status: 3
+tags: []
+user_id: runner
