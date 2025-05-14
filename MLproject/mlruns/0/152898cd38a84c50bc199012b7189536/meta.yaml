@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/152898cd38a84c50bc199012b7189536/artifacts
+end_time: 1747209447104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 152898cd38a84c50bc199012b7189536
+run_name: rumbling-skink-489
+run_uuid: 152898cd38a84c50bc199012b7189536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209440773
+status: 3
+tags: []
+user_id: runner
