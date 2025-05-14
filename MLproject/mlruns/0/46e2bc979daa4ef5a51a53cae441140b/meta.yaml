@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/46e2bc979daa4ef5a51a53cae441140b/artifacts
+end_time: 1747265997168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46e2bc979daa4ef5a51a53cae441140b
+run_name: carefree-dolphin-733
+run_uuid: 46e2bc979daa4ef5a51a53cae441140b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747265990798
+status: 3
+tags: []
+user_id: runner
