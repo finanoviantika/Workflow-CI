@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8bf14745f45a437386b55a598e0790d7/artifacts
+end_time: 1747213378570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bf14745f45a437386b55a598e0790d7
+run_name: salty-deer-288
+run_uuid: 8bf14745f45a437386b55a598e0790d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213372346
+status: 3
+tags: []
+user_id: runner
