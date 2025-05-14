@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0b07cd6e05d400e8899b0f3b5f21ad4/artifacts
+end_time: 1747193288864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b07cd6e05d400e8899b0f3b5f21ad4
+run_name: gentle-shrimp-293
+run_uuid: e0b07cd6e05d400e8899b0f3b5f21ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193282585
+status: 3
+tags: []
+user_id: runner
