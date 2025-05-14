@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6ae1b76fb2274467b77dcea526fe457c/artifacts
+end_time: 1747197935539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ae1b76fb2274467b77dcea526fe457c
+run_name: stylish-turtle-746
+run_uuid: 6ae1b76fb2274467b77dcea526fe457c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197929097
+status: 3
+tags: []
+user_id: runner
