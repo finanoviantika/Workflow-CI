@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/27c99fc7413b47ccb20823498f709e68/artifacts
+end_time: 1747232305454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27c99fc7413b47ccb20823498f709e68
+run_name: awesome-moose-889
+run_uuid: 27c99fc7413b47ccb20823498f709e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232298842
+status: 3
+tags: []
+user_id: runner
