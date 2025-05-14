@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6d6f761ad9b3432c8cdc29ee5f17b4c4/artifacts
+end_time: 1747248286856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d6f761ad9b3432c8cdc29ee5f17b4c4
+run_name: secretive-mare-335
+run_uuid: 6d6f761ad9b3432c8cdc29ee5f17b4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248280642
+status: 3
+tags: []
+user_id: runner
