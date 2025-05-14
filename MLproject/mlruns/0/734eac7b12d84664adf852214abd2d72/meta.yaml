@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/734eac7b12d84664adf852214abd2d72/artifacts
+end_time: 1747249860425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 734eac7b12d84664adf852214abd2d72
+run_name: flawless-bass-97
+run_uuid: 734eac7b12d84664adf852214abd2d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249854133
+status: 3
+tags: []
+user_id: runner
