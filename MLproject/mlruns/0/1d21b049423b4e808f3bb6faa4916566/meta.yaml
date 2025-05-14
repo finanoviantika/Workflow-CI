@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1d21b049423b4e808f3bb6faa4916566/artifacts
+end_time: 1747210640340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d21b049423b4e808f3bb6faa4916566
+run_name: big-shoat-770
+run_uuid: 1d21b049423b4e808f3bb6faa4916566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210634159
+status: 3
+tags: []
+user_id: runner
