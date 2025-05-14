@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/80c33e4d582d4e0dafabd6bf409e5ff0/artifacts
+end_time: 1747225913676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80c33e4d582d4e0dafabd6bf409e5ff0
+run_name: gifted-asp-347
+run_uuid: 80c33e4d582d4e0dafabd6bf409e5ff0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225907205
+status: 3
+tags: []
+user_id: runner
