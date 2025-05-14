@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8d912c7934ad4af88aab65480d716655/artifacts
+end_time: 1747221247589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d912c7934ad4af88aab65480d716655
+run_name: trusting-stag-670
+run_uuid: 8d912c7934ad4af88aab65480d716655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221240927
+status: 3
+tags: []
+user_id: runner
