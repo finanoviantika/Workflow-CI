@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4c02531a43c44250a2a1e3741cb5a55d/artifacts
+end_time: 1747197671035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c02531a43c44250a2a1e3741cb5a55d
+run_name: bedecked-rat-171
+run_uuid: 4c02531a43c44250a2a1e3741cb5a55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197663875
+status: 3
+tags: []
+user_id: runner
