@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab20c6a673d3439baea0d55a2d0657ac/artifacts
+end_time: 1747191973330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab20c6a673d3439baea0d55a2d0657ac
+run_name: omniscient-koi-76
+run_uuid: ab20c6a673d3439baea0d55a2d0657ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747191966976
+status: 3
+tags: []
+user_id: runner
