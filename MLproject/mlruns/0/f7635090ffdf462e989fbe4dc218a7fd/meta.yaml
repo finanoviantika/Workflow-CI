@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f7635090ffdf462e989fbe4dc218a7fd/artifacts
+end_time: 1747235733841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7635090ffdf462e989fbe4dc218a7fd
+run_name: dapper-moose-834
+run_uuid: f7635090ffdf462e989fbe4dc218a7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235726762
+status: 3
+tags: []
+user_id: runner
