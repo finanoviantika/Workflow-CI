@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f0ddf97c8948490fae6f0c45cd2f2bbf/artifacts
+end_time: 1747197120056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ddf97c8948490fae6f0c45cd2f2bbf
+run_name: able-penguin-498
+run_uuid: f0ddf97c8948490fae6f0c45cd2f2bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197113697
+status: 3
+tags: []
+user_id: runner
