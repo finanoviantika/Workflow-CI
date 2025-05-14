@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89b9db160e7b40f88777bee1b52c3cd3/artifacts
+end_time: 1747231001465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b9db160e7b40f88777bee1b52c3cd3
+run_name: gifted-sow-566
+run_uuid: 89b9db160e7b40f88777bee1b52c3cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230994142
+status: 3
+tags: []
+user_id: runner
