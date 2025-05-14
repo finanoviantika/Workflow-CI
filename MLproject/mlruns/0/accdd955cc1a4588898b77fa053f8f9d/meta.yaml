@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/accdd955cc1a4588898b77fa053f8f9d/artifacts
+end_time: 1747251996197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: accdd955cc1a4588898b77fa053f8f9d
+run_name: judicious-ray-698
+run_uuid: accdd955cc1a4588898b77fa053f8f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251989895
+status: 3
+tags: []
+user_id: runner
