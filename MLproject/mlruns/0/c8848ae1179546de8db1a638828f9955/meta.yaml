@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c8848ae1179546de8db1a638828f9955/artifacts
+end_time: 1747197210426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8848ae1179546de8db1a638828f9955
+run_name: debonair-sow-292
+run_uuid: c8848ae1179546de8db1a638828f9955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197204387
+status: 3
+tags: []
+user_id: runner
