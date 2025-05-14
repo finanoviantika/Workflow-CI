@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a60fb667ad9b4f0a9af07bbd4c6946ad/artifacts
+end_time: 1747256669116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a60fb667ad9b4f0a9af07bbd4c6946ad
+run_name: receptive-whale-642
+run_uuid: a60fb667ad9b4f0a9af07bbd4c6946ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747256662553
+status: 3
+tags: []
+user_id: runner
