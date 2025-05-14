@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c2cfa8ca6f2b49499ce6008471dd67a7/artifacts
+end_time: 1747197479535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2cfa8ca6f2b49499ce6008471dd67a7
+run_name: bedecked-goat-81
+run_uuid: c2cfa8ca6f2b49499ce6008471dd67a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197473188
+status: 3
+tags: []
+user_id: runner
