@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/077d3437a1d3414d86913850e9ec6173/artifacts
+end_time: 1747256758720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077d3437a1d3414d86913850e9ec6173
+run_name: nervous-fox-162
+run_uuid: 077d3437a1d3414d86913850e9ec6173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747256752443
+status: 3
+tags: []
+user_id: runner
