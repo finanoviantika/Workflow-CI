@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f910081ea14f4ca2bfa698ea3d17ba68/artifacts
+end_time: 1747196113510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f910081ea14f4ca2bfa698ea3d17ba68
+run_name: grandiose-yak-983
+run_uuid: f910081ea14f4ca2bfa698ea3d17ba68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196107226
+status: 3
+tags: []
+user_id: runner
