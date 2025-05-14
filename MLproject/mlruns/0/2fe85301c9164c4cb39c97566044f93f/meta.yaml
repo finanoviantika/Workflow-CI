@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2fe85301c9164c4cb39c97566044f93f/artifacts
+end_time: 1747238996934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe85301c9164c4cb39c97566044f93f
+run_name: nebulous-crow-873
+run_uuid: 2fe85301c9164c4cb39c97566044f93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238990520
+status: 3
+tags: []
+user_id: runner
