@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/41c9955a9a59460d893841ec423badc5/artifacts
+end_time: 1747190691883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c9955a9a59460d893841ec423badc5
+run_name: unique-ox-658
+run_uuid: 41c9955a9a59460d893841ec423badc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190685504
+status: 3
+tags: []
+user_id: runner
