@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a87b0a7e495849b19117f5e854d0b970/artifacts
+end_time: 1747213741702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a87b0a7e495849b19117f5e854d0b970
+run_name: exultant-panda-662
+run_uuid: a87b0a7e495849b19117f5e854d0b970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213735354
+status: 3
+tags: []
+user_id: runner
