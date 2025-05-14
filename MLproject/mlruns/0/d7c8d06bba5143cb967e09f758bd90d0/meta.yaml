@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d7c8d06bba5143cb967e09f758bd90d0/artifacts
+end_time: 1747227880537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7c8d06bba5143cb967e09f758bd90d0
+run_name: crawling-ram-207
+run_uuid: d7c8d06bba5143cb967e09f758bd90d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227873320
+status: 3
+tags: []
+user_id: runner
