@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3a6b9b8298344e9c87afb86bc27dd62c/artifacts
+end_time: 1747214376242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a6b9b8298344e9c87afb86bc27dd62c
+run_name: resilient-sloth-896
+run_uuid: 3a6b9b8298344e9c87afb86bc27dd62c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214369814
+status: 3
+tags: []
+user_id: runner
