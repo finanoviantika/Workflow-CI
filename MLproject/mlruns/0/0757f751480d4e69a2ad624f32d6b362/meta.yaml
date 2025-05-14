@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0757f751480d4e69a2ad624f32d6b362/artifacts
+end_time: 1747235258915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0757f751480d4e69a2ad624f32d6b362
+run_name: secretive-stoat-595
+run_uuid: 0757f751480d4e69a2ad624f32d6b362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235252440
+status: 3
+tags: []
+user_id: runner
