@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd3c0801cf91494b8979e5f53ec09613/artifacts
+end_time: 1747202199595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd3c0801cf91494b8979e5f53ec09613
+run_name: illustrious-fowl-237
+run_uuid: bd3c0801cf91494b8979e5f53ec09613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202193341
+status: 3
+tags: []
+user_id: runner
