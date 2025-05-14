@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/19b6a5ccfb604746849ad58824e51074/artifacts
+end_time: 1747238535731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19b6a5ccfb604746849ad58824e51074
+run_name: unleashed-bee-765
+run_uuid: 19b6a5ccfb604746849ad58824e51074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238529165
+status: 3
+tags: []
+user_id: runner
