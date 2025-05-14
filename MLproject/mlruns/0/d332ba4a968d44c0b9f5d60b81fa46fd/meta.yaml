@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d332ba4a968d44c0b9f5d60b81fa46fd/artifacts
+end_time: 1747233633428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d332ba4a968d44c0b9f5d60b81fa46fd
+run_name: thoughtful-cod-608
+run_uuid: d332ba4a968d44c0b9f5d60b81fa46fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747233626451
+status: 3
+tags: []
+user_id: runner
