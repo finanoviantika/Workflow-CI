@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6c9e34d0f29a4a6cad8f0402fcd5310c/artifacts
+end_time: 1747260062343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c9e34d0f29a4a6cad8f0402fcd5310c
+run_name: overjoyed-squid-905
+run_uuid: 6c9e34d0f29a4a6cad8f0402fcd5310c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260055828
+status: 3
+tags: []
+user_id: runner
