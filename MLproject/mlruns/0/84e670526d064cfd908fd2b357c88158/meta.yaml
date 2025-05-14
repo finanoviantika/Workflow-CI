@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/84e670526d064cfd908fd2b357c88158/artifacts
+end_time: 1747226752126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84e670526d064cfd908fd2b357c88158
+run_name: glamorous-moth-461
+run_uuid: 84e670526d064cfd908fd2b357c88158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226745399
+status: 3
+tags: []
+user_id: runner
