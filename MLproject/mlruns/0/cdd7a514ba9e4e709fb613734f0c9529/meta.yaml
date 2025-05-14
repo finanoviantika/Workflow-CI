@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cdd7a514ba9e4e709fb613734f0c9529/artifacts
+end_time: 1747250889997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdd7a514ba9e4e709fb613734f0c9529
+run_name: monumental-goat-202
+run_uuid: cdd7a514ba9e4e709fb613734f0c9529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250883572
+status: 3
+tags: []
+user_id: runner
