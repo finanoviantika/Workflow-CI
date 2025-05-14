@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be0a0663008844bfa55a60ac81732613/artifacts
+end_time: 1747213468583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be0a0663008844bfa55a60ac81732613
+run_name: merciful-zebra-930
+run_uuid: be0a0663008844bfa55a60ac81732613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213462109
+status: 3
+tags: []
+user_id: runner
