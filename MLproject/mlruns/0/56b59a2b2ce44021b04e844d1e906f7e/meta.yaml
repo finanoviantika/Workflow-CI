@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/56b59a2b2ce44021b04e844d1e906f7e/artifacts
+end_time: 1747248834999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56b59a2b2ce44021b04e844d1e906f7e
+run_name: magnificent-lynx-972
+run_uuid: 56b59a2b2ce44021b04e844d1e906f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248828708
+status: 3
+tags: []
+user_id: runner
