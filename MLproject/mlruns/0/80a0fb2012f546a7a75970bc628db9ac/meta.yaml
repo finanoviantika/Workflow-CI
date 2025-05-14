@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/80a0fb2012f546a7a75970bc628db9ac/artifacts
+end_time: 1747208239546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80a0fb2012f546a7a75970bc628db9ac
+run_name: melodic-snipe-284
+run_uuid: 80a0fb2012f546a7a75970bc628db9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747208233284
+status: 3
+tags: []
+user_id: runner
