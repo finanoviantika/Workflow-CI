@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b067980c3624852874613b29442e7dc/artifacts
+end_time: 1747195124146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b067980c3624852874613b29442e7dc
+run_name: stately-goose-118
+run_uuid: 9b067980c3624852874613b29442e7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195117713
+status: 3
+tags: []
+user_id: runner
