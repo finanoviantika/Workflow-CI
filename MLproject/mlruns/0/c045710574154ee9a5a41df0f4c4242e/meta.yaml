@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c045710574154ee9a5a41df0f4c4242e/artifacts
+end_time: 1747263782551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c045710574154ee9a5a41df0f4c4242e
+run_name: learned-panda-948
+run_uuid: c045710574154ee9a5a41df0f4c4242e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747263775770
+status: 3
+tags: []
+user_id: runner
