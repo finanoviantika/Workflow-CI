@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/876429bca9d848348dc0a0f8972f3da5/artifacts
+end_time: 1747229011395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 876429bca9d848348dc0a0f8972f3da5
+run_name: silent-cat-690
+run_uuid: 876429bca9d848348dc0a0f8972f3da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229004915
+status: 3
+tags: []
+user_id: runner
