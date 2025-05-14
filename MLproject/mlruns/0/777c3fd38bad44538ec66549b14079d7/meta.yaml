@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/777c3fd38bad44538ec66549b14079d7/artifacts
+end_time: 1747226845898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 777c3fd38bad44538ec66549b14079d7
+run_name: wise-wasp-846
+run_uuid: 777c3fd38bad44538ec66549b14079d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226839320
+status: 3
+tags: []
+user_id: runner
