@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2bc927bb1b154a7f8dd7b32196c9cd4f/artifacts
+end_time: 1747200554450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bc927bb1b154a7f8dd7b32196c9cd4f
+run_name: aged-cow-547
+run_uuid: 2bc927bb1b154a7f8dd7b32196c9cd4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200548262
+status: 3
+tags: []
+user_id: runner
