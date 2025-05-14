@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4b8986d7acbe405481a2eadd738b6f0f/artifacts
+end_time: 1747264801155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b8986d7acbe405481a2eadd738b6f0f
+run_name: nervous-pig-959
+run_uuid: 4b8986d7acbe405481a2eadd738b6f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747264794743
+status: 3
+tags: []
+user_id: runner
