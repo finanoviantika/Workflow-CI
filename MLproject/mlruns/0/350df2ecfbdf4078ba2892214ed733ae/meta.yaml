@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/350df2ecfbdf4078ba2892214ed733ae/artifacts
+end_time: 1747188293166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 350df2ecfbdf4078ba2892214ed733ae
+run_name: tasteful-bee-313
+run_uuid: 350df2ecfbdf4078ba2892214ed733ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188286842
+status: 3
+tags: []
+user_id: runner
