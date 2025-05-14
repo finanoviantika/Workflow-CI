@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e53abec0cb144f4f84b42039e494ea4f/artifacts
+end_time: 1747264338082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e53abec0cb144f4f84b42039e494ea4f
+run_name: dashing-perch-167
+run_uuid: e53abec0cb144f4f84b42039e494ea4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747264331621
+status: 3
+tags: []
+user_id: runner
