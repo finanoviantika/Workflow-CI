@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd6c4845d5fd4d2c8a9b7b4146c589ab/artifacts
+end_time: 1747251620341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd6c4845d5fd4d2c8a9b7b4146c589ab
+run_name: receptive-doe-908
+run_uuid: bd6c4845d5fd4d2c8a9b7b4146c589ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251614057
+status: 3
+tags: []
+user_id: runner
