@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee2ec0021d504681a197bd66e05bd92a/artifacts
+end_time: 1747218393452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee2ec0021d504681a197bd66e05bd92a
+run_name: sneaky-squirrel-31
+run_uuid: ee2ec0021d504681a197bd66e05bd92a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747218386744
+status: 3
+tags: []
+user_id: runner
