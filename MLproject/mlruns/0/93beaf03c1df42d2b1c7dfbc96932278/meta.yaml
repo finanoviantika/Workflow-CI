@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/93beaf03c1df42d2b1c7dfbc96932278/artifacts
+end_time: 1747249307548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93beaf03c1df42d2b1c7dfbc96932278
+run_name: kindly-mink-239
+run_uuid: 93beaf03c1df42d2b1c7dfbc96932278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249301136
+status: 3
+tags: []
+user_id: runner
