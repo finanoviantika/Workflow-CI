@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c537b9a47ec24cc28a13c3a0e35ec360/artifacts
+end_time: 1747203204480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c537b9a47ec24cc28a13c3a0e35ec360
+run_name: rumbling-snail-975
+run_uuid: c537b9a47ec24cc28a13c3a0e35ec360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203198126
+status: 3
+tags: []
+user_id: runner
