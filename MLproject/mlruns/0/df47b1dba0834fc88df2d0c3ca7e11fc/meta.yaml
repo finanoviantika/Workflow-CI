@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/df47b1dba0834fc88df2d0c3ca7e11fc/artifacts
+end_time: 1747261740478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df47b1dba0834fc88df2d0c3ca7e11fc
+run_name: luxuriant-calf-820
+run_uuid: df47b1dba0834fc88df2d0c3ca7e11fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747261734169
+status: 3
+tags: []
+user_id: runner
