@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/73b2ef8e0d0647aaa6fb9ce2be91b04f/artifacts
+end_time: 1747197754936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b2ef8e0d0647aaa6fb9ce2be91b04f
+run_name: clumsy-wasp-762
+run_uuid: 73b2ef8e0d0647aaa6fb9ce2be91b04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197749112
+status: 3
+tags: []
+user_id: runner
