@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3d15d0291adb437f997e059a39bd7ad5/artifacts
+end_time: 1747241314675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d15d0291adb437f997e059a39bd7ad5
+run_name: marvelous-flea-73
+run_uuid: 3d15d0291adb437f997e059a39bd7ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241308220
+status: 3
+tags: []
+user_id: runner
