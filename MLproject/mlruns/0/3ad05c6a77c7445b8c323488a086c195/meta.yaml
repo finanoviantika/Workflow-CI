@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3ad05c6a77c7445b8c323488a086c195/artifacts
+end_time: 1747220514892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad05c6a77c7445b8c323488a086c195
+run_name: calm-moose-558
+run_uuid: 3ad05c6a77c7445b8c323488a086c195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747220508416
+status: 3
+tags: []
+user_id: runner
