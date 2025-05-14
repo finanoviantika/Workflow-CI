@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e774f3ad6bbb4ccea22a1e826bba513b/artifacts
+end_time: 1747236948731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e774f3ad6bbb4ccea22a1e826bba513b
+run_name: unleashed-jay-950
+run_uuid: e774f3ad6bbb4ccea22a1e826bba513b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236941913
+status: 3
+tags: []
+user_id: runner
