@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/384030567ba24b0096424813432b415b/artifacts
+end_time: 1747239364627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 384030567ba24b0096424813432b415b
+run_name: sneaky-foal-746
+run_uuid: 384030567ba24b0096424813432b415b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747239357663
+status: 3
+tags: []
+user_id: runner
