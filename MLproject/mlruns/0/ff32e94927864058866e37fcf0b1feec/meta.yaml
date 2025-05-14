@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff32e94927864058866e37fcf0b1feec/artifacts
+end_time: 1747193019894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff32e94927864058866e37fcf0b1feec
+run_name: flawless-ant-765
+run_uuid: ff32e94927864058866e37fcf0b1feec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193013333
+status: 3
+tags: []
+user_id: runner
