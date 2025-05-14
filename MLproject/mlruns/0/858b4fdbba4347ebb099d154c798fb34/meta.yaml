@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/858b4fdbba4347ebb099d154c798fb34/artifacts
+end_time: 1747187735635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 858b4fdbba4347ebb099d154c798fb34
+run_name: dapper-smelt-371
+run_uuid: 858b4fdbba4347ebb099d154c798fb34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187729382
+status: 3
+tags: []
+user_id: runner
