@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c5138be8ecad41b6811c343c4a1cb1e4/artifacts
+end_time: 1747213561731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5138be8ecad41b6811c343c4a1cb1e4
+run_name: delightful-snake-930
+run_uuid: c5138be8ecad41b6811c343c4a1cb1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213555166
+status: 3
+tags: []
+user_id: runner
