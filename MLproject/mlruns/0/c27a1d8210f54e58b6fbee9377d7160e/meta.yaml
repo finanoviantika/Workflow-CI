@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c27a1d8210f54e58b6fbee9377d7160e/artifacts
+end_time: 1747243769276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c27a1d8210f54e58b6fbee9377d7160e
+run_name: brawny-gnu-238
+run_uuid: c27a1d8210f54e58b6fbee9377d7160e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747243762686
+status: 3
+tags: []
+user_id: runner
