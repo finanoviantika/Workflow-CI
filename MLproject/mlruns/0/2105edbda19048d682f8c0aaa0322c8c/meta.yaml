@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2105edbda19048d682f8c0aaa0322c8c/artifacts
+end_time: 1747215744458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2105edbda19048d682f8c0aaa0322c8c
+run_name: smiling-pig-287
+run_uuid: 2105edbda19048d682f8c0aaa0322c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747215738226
+status: 3
+tags: []
+user_id: runner
