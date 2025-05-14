@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eebb8ab1105d44cabb33b75ff0a0d61a/artifacts
+end_time: 1747204574352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eebb8ab1105d44cabb33b75ff0a0d61a
+run_name: melodic-robin-818
+run_uuid: eebb8ab1105d44cabb33b75ff0a0d61a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204567952
+status: 3
+tags: []
+user_id: runner
