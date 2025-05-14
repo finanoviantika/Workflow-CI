@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0799c5dc56c3498db020491bb88b2323/artifacts
+end_time: 1747241880434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0799c5dc56c3498db020491bb88b2323
+run_name: blushing-shrike-92
+run_uuid: 0799c5dc56c3498db020491bb88b2323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241873824
+status: 3
+tags: []
+user_id: runner
