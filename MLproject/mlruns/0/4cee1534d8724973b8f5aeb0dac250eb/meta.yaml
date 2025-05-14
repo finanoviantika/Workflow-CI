@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4cee1534d8724973b8f5aeb0dac250eb/artifacts
+end_time: 1747194389580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cee1534d8724973b8f5aeb0dac250eb
+run_name: entertaining-doe-195
+run_uuid: 4cee1534d8724973b8f5aeb0dac250eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747194382984
+status: 3
+tags: []
+user_id: runner
