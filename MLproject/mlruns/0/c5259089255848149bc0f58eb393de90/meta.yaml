@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c5259089255848149bc0f58eb393de90/artifacts
+end_time: 1747266917163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5259089255848149bc0f58eb393de90
+run_name: amazing-auk-583
+run_uuid: c5259089255848149bc0f58eb393de90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747266910981
+status: 3
+tags: []
+user_id: runner
