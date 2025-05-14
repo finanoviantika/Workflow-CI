@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/938b75ef86ed4f20af3a7cda36f4fb28/artifacts
+end_time: 1747215378040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938b75ef86ed4f20af3a7cda36f4fb28
+run_name: thoughtful-fish-13
+run_uuid: 938b75ef86ed4f20af3a7cda36f4fb28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747215371459
+status: 3
+tags: []
+user_id: runner
