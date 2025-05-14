@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/57460c04edfc47b2ad71619da649cb73/artifacts
+end_time: 1747223101436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57460c04edfc47b2ad71619da649cb73
+run_name: tasteful-shrike-437
+run_uuid: 57460c04edfc47b2ad71619da649cb73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747223094649
+status: 3
+tags: []
+user_id: runner
