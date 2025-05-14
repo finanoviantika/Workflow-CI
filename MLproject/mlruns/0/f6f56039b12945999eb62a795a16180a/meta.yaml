@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f6f56039b12945999eb62a795a16180a/artifacts
+end_time: 1747183320450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6f56039b12945999eb62a795a16180a
+run_name: gaudy-lamb-240
+run_uuid: f6f56039b12945999eb62a795a16180a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747183314211
+status: 3
+tags: []
+user_id: runner
