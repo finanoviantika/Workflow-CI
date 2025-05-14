@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e27f5ea557364901a2a9d2e786393f60/artifacts
+end_time: 1747231925147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e27f5ea557364901a2a9d2e786393f60
+run_name: zealous-midge-642
+run_uuid: e27f5ea557364901a2a9d2e786393f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231918713
+status: 3
+tags: []
+user_id: runner
