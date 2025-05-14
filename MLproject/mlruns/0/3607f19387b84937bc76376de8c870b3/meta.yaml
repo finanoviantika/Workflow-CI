@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3607f19387b84937bc76376de8c870b3/artifacts
+end_time: 1747242249188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3607f19387b84937bc76376de8c870b3
+run_name: aged-fawn-727
+run_uuid: 3607f19387b84937bc76376de8c870b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242242862
+status: 3
+tags: []
+user_id: runner
