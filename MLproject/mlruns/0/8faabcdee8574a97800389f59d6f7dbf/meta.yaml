@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8faabcdee8574a97800389f59d6f7dbf/artifacts
+end_time: 1747227690318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8faabcdee8574a97800389f59d6f7dbf
+run_name: popular-kit-597
+run_uuid: 8faabcdee8574a97800389f59d6f7dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227683939
+status: 3
+tags: []
+user_id: runner
