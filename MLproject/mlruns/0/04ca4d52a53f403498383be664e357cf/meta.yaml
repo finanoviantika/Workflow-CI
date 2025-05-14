@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/04ca4d52a53f403498383be664e357cf/artifacts
+end_time: 1747205580847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04ca4d52a53f403498383be664e357cf
+run_name: clumsy-sloth-272
+run_uuid: 04ca4d52a53f403498383be664e357cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747205574477
+status: 3
+tags: []
+user_id: runner
