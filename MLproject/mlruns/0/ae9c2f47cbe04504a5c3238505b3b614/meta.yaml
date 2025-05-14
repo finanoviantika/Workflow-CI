@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae9c2f47cbe04504a5c3238505b3b614/artifacts
+end_time: 1747228729565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae9c2f47cbe04504a5c3238505b3b614
+run_name: honorable-asp-61
+run_uuid: ae9c2f47cbe04504a5c3238505b3b614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747228723129
+status: 3
+tags: []
+user_id: runner
