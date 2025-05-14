@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1517de5c55274117b90d83508854a01c/artifacts
+end_time: 1747242059527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1517de5c55274117b90d83508854a01c
+run_name: masked-pug-89
+run_uuid: 1517de5c55274117b90d83508854a01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242053131
+status: 3
+tags: []
+user_id: runner
