@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b0ae3eb03604b8d95d861645bf442d4/artifacts
+end_time: 1747242835632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b0ae3eb03604b8d95d861645bf442d4
+run_name: caring-pug-969
+run_uuid: 9b0ae3eb03604b8d95d861645bf442d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242829419
+status: 3
+tags: []
+user_id: runner
