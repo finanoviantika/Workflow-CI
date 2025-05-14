@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/50fadd291ffb47a3b329ceab32dc9d4e/artifacts
+end_time: 1747246299472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50fadd291ffb47a3b329ceab32dc9d4e
+run_name: mysterious-shoat-297
+run_uuid: 50fadd291ffb47a3b329ceab32dc9d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246292735
+status: 3
+tags: []
+user_id: runner
