@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fed41eb677de4dcd81303d687923ca46/artifacts
+end_time: 1747181277952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fed41eb677de4dcd81303d687923ca46
+run_name: intrigued-wasp-813
+run_uuid: fed41eb677de4dcd81303d687923ca46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747181271638
+status: 3
+tags: []
+user_id: runner
