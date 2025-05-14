@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6fcfd7ec5e474339a45d048b1ce45b01/artifacts
+end_time: 1747206307396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fcfd7ec5e474339a45d048b1ce45b01
+run_name: capable-hare-406
+run_uuid: 6fcfd7ec5e474339a45d048b1ce45b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206301121
+status: 3
+tags: []
+user_id: runner
