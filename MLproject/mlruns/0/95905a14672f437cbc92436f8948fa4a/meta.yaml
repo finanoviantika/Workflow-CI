@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95905a14672f437cbc92436f8948fa4a/artifacts
+end_time: 1747255280711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95905a14672f437cbc92436f8948fa4a
+run_name: painted-dog-850
+run_uuid: 95905a14672f437cbc92436f8948fa4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255274447
+status: 3
+tags: []
+user_id: runner
