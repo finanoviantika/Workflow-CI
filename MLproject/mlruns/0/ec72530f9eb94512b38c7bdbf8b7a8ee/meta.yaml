@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ec72530f9eb94512b38c7bdbf8b7a8ee/artifacts
+end_time: 1747219585879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec72530f9eb94512b38c7bdbf8b7a8ee
+run_name: ambitious-mouse-418
+run_uuid: ec72530f9eb94512b38c7bdbf8b7a8ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747219579661
+status: 3
+tags: []
+user_id: runner
