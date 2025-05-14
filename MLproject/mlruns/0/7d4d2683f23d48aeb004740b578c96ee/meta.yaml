@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d4d2683f23d48aeb004740b578c96ee/artifacts
+end_time: 1747231736862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d4d2683f23d48aeb004740b578c96ee
+run_name: incongruous-bat-546
+run_uuid: 7d4d2683f23d48aeb004740b578c96ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231730250
+status: 3
+tags: []
+user_id: runner
