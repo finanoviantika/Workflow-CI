@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4d36d9cd03e54940b5330430a07034f0/artifacts
+end_time: 1747206670949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d36d9cd03e54940b5330430a07034f0
+run_name: handsome-trout-795
+run_uuid: 4d36d9cd03e54940b5330430a07034f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206664783
+status: 3
+tags: []
+user_id: runner
