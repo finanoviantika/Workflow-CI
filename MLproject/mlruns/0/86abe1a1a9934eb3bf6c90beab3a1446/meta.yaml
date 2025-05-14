@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86abe1a1a9934eb3bf6c90beab3a1446/artifacts
+end_time: 1747230901944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86abe1a1a9934eb3bf6c90beab3a1446
+run_name: zealous-bee-888
+run_uuid: 86abe1a1a9934eb3bf6c90beab3a1446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230895354
+status: 3
+tags: []
+user_id: runner
