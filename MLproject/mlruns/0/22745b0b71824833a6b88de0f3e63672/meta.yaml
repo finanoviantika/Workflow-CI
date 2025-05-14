@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22745b0b71824833a6b88de0f3e63672/artifacts
+end_time: 1747188581190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22745b0b71824833a6b88de0f3e63672
+run_name: monumental-kite-59
+run_uuid: 22745b0b71824833a6b88de0f3e63672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188574782
+status: 3
+tags: []
+user_id: runner
