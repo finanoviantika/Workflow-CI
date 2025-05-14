@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b63c16aae3b84e6c88396ff749796373/artifacts
+end_time: 1747214200356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b63c16aae3b84e6c88396ff749796373
+run_name: lyrical-croc-628
+run_uuid: b63c16aae3b84e6c88396ff749796373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214193573
+status: 3
+tags: []
+user_id: runner
