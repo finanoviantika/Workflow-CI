@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c57780da22fb4670936ab9c5e95f5490/artifacts
+end_time: 1747234190953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57780da22fb4670936ab9c5e95f5490
+run_name: adventurous-dove-764
+run_uuid: c57780da22fb4670936ab9c5e95f5490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747234184640
+status: 3
+tags: []
+user_id: runner
