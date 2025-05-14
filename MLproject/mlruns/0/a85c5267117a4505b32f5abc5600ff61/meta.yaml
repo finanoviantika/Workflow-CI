@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a85c5267117a4505b32f5abc5600ff61/artifacts
+end_time: 1747219767479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a85c5267117a4505b32f5abc5600ff61
+run_name: intrigued-shark-455
+run_uuid: a85c5267117a4505b32f5abc5600ff61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747219760835
+status: 3
+tags: []
+user_id: runner
