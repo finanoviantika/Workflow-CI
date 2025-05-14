@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff21e60d8b394fc7835bb6cfc0a826d0/artifacts
+end_time: 1747184515553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff21e60d8b394fc7835bb6cfc0a826d0
+run_name: treasured-panda-301
+run_uuid: ff21e60d8b394fc7835bb6cfc0a826d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184509246
+status: 3
+tags: []
+user_id: runner
