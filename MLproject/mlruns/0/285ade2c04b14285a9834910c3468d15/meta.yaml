@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/285ade2c04b14285a9834910c3468d15/artifacts
+end_time: 1747199747490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 285ade2c04b14285a9834910c3468d15
+run_name: bemused-yak-752
+run_uuid: 285ade2c04b14285a9834910c3468d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747199741133
+status: 3
+tags: []
+user_id: runner
