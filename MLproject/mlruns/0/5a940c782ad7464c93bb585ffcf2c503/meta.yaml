@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5a940c782ad7464c93bb585ffcf2c503/artifacts
+end_time: 1747229576682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a940c782ad7464c93bb585ffcf2c503
+run_name: adorable-lynx-660
+run_uuid: 5a940c782ad7464c93bb585ffcf2c503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229570145
+status: 3
+tags: []
+user_id: runner
