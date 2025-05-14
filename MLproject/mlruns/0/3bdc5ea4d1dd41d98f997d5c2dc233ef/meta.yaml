@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3bdc5ea4d1dd41d98f997d5c2dc233ef/artifacts
+end_time: 1747246392235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bdc5ea4d1dd41d98f997d5c2dc233ef
+run_name: respected-yak-183
+run_uuid: 3bdc5ea4d1dd41d98f997d5c2dc233ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246385896
+status: 3
+tags: []
+user_id: runner
