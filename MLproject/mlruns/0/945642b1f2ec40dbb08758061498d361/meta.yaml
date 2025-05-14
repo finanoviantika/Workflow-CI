@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/945642b1f2ec40dbb08758061498d361/artifacts
+end_time: 1747229761551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 945642b1f2ec40dbb08758061498d361
+run_name: colorful-croc-431
+run_uuid: 945642b1f2ec40dbb08758061498d361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229754633
+status: 3
+tags: []
+user_id: runner
