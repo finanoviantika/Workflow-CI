@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/020c707453a14954a5e8c85bae0b9e7e/artifacts
+end_time: 1747254498395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020c707453a14954a5e8c85bae0b9e7e
+run_name: exultant-asp-82
+run_uuid: 020c707453a14954a5e8c85bae0b9e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747254491509
+status: 3
+tags: []
+user_id: runner
