@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5e541d5e96db470ab20501b9a5f1c7ce/artifacts
+end_time: 1747185243864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e541d5e96db470ab20501b9a5f1c7ce
+run_name: incongruous-flea-670
+run_uuid: 5e541d5e96db470ab20501b9a5f1c7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747185237619
+status: 3
+tags: []
+user_id: runner
