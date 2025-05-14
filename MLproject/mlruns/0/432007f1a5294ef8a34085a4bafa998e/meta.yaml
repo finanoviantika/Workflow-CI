@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/432007f1a5294ef8a34085a4bafa998e/artifacts
+end_time: 1747227499129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 432007f1a5294ef8a34085a4bafa998e
+run_name: loud-cat-568
+run_uuid: 432007f1a5294ef8a34085a4bafa998e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227492922
+status: 3
+tags: []
+user_id: runner
