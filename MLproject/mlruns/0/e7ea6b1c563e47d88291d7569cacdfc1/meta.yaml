@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e7ea6b1c563e47d88291d7569cacdfc1/artifacts
+end_time: 1747249211650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ea6b1c563e47d88291d7569cacdfc1
+run_name: suave-frog-33
+run_uuid: e7ea6b1c563e47d88291d7569cacdfc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249205139
+status: 3
+tags: []
+user_id: runner
