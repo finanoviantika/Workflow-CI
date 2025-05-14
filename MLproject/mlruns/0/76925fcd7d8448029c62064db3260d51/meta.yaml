@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76925fcd7d8448029c62064db3260d51/artifacts
+end_time: 1747239638150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76925fcd7d8448029c62064db3260d51
+run_name: delightful-ox-812
+run_uuid: 76925fcd7d8448029c62064db3260d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747239631965
+status: 3
+tags: []
+user_id: runner
