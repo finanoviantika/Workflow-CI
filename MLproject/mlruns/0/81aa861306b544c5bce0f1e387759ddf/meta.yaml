@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/81aa861306b544c5bce0f1e387759ddf/artifacts
+end_time: 1747259223824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81aa861306b544c5bce0f1e387759ddf
+run_name: secretive-horse-324
+run_uuid: 81aa861306b544c5bce0f1e387759ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747259217392
+status: 3
+tags: []
+user_id: runner
