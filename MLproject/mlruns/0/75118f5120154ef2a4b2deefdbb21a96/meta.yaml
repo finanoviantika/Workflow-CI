@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/75118f5120154ef2a4b2deefdbb21a96/artifacts
+end_time: 1747202926546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75118f5120154ef2a4b2deefdbb21a96
+run_name: grandiose-foal-124
+run_uuid: 75118f5120154ef2a4b2deefdbb21a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202920213
+status: 3
+tags: []
+user_id: runner
