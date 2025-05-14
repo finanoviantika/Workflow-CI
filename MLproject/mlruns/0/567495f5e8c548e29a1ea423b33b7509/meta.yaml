@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/567495f5e8c548e29a1ea423b33b7509/artifacts
+end_time: 1747243053733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 567495f5e8c548e29a1ea423b33b7509
+run_name: secretive-bug-343
+run_uuid: 567495f5e8c548e29a1ea423b33b7509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747243047469
+status: 3
+tags: []
+user_id: runner
