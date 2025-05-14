@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/478788cd06404d5e88aff88a4f79250a/artifacts
+end_time: 1747192373215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 478788cd06404d5e88aff88a4f79250a
+run_name: skillful-tern-927
+run_uuid: 478788cd06404d5e88aff88a4f79250a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747192366918
+status: 3
+tags: []
+user_id: runner
