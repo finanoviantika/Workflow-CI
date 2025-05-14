@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d05c2239395743cd9fcf83d653da30bf/artifacts
+end_time: 1747248469523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d05c2239395743cd9fcf83d653da30bf
+run_name: bold-pug-124
+run_uuid: d05c2239395743cd9fcf83d653da30bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248462893
+status: 3
+tags: []
+user_id: runner
