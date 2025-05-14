@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fc2ec6548a8143ffbf4e481e7949e9f2/artifacts
+end_time: 1747213651467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc2ec6548a8143ffbf4e481e7949e9f2
+run_name: bold-shrimp-61
+run_uuid: fc2ec6548a8143ffbf4e481e7949e9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747213645014
+status: 3
+tags: []
+user_id: runner
