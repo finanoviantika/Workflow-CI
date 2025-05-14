@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a873b539ae5c42fbbc112fcc251e1f51/artifacts
+end_time: 1747249770336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a873b539ae5c42fbbc112fcc251e1f51
+run_name: abundant-hawk-890
+run_uuid: a873b539ae5c42fbbc112fcc251e1f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747249763795
+status: 3
+tags: []
+user_id: runner
