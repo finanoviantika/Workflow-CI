@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dc2a05353f6549e3add2abda40541098/artifacts
+end_time: 1747192832003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc2a05353f6549e3add2abda40541098
+run_name: carefree-boar-704
+run_uuid: dc2a05353f6549e3add2abda40541098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747192825676
+status: 3
+tags: []
+user_id: runner
