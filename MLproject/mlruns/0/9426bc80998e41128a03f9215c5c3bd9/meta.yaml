@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9426bc80998e41128a03f9215c5c3bd9/artifacts
+end_time: 1747238353076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9426bc80998e41128a03f9215c5c3bd9
+run_name: whimsical-stag-492
+run_uuid: 9426bc80998e41128a03f9215c5c3bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238346648
+status: 3
+tags: []
+user_id: runner
