@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac8e0425a92642a991ba7c49edb62d88/artifacts
+end_time: 1747238261481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac8e0425a92642a991ba7c49edb62d88
+run_name: bouncy-penguin-675
+run_uuid: ac8e0425a92642a991ba7c49edb62d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238255161
+status: 3
+tags: []
+user_id: runner
