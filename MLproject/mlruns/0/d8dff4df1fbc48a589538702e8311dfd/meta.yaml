@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8dff4df1fbc48a589538702e8311dfd/artifacts
+end_time: 1747182456102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8dff4df1fbc48a589538702e8311dfd
+run_name: useful-tern-235
+run_uuid: d8dff4df1fbc48a589538702e8311dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182449877
+status: 3
+tags: []
+user_id: runner
