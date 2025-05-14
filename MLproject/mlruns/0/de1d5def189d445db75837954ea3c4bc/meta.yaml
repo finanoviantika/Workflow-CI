@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de1d5def189d445db75837954ea3c4bc/artifacts
+end_time: 1747214924510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de1d5def189d445db75837954ea3c4bc
+run_name: resilient-steed-142
+run_uuid: de1d5def189d445db75837954ea3c4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214918114
+status: 3
+tags: []
+user_id: runner
