@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b135614c3c1a4be7a9de0966f147be37/artifacts
+end_time: 1747252368771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b135614c3c1a4be7a9de0966f147be37
+run_name: auspicious-goat-324
+run_uuid: b135614c3c1a4be7a9de0966f147be37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252362386
+status: 3
+tags: []
+user_id: runner
