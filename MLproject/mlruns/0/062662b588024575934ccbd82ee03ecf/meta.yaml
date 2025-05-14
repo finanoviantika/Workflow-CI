@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/062662b588024575934ccbd82ee03ecf/artifacts
+end_time: 1747230517948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062662b588024575934ccbd82ee03ecf
+run_name: silent-squirrel-492
+run_uuid: 062662b588024575934ccbd82ee03ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230511426
+status: 3
+tags: []
+user_id: runner
