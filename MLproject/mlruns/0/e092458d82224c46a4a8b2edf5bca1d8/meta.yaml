@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e092458d82224c46a4a8b2edf5bca1d8/artifacts
+end_time: 1747242525679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e092458d82224c46a4a8b2edf5bca1d8
+run_name: dapper-fly-753
+run_uuid: e092458d82224c46a4a8b2edf5bca1d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242519401
+status: 3
+tags: []
+user_id: runner
