@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1cafdd420e10492a88240a873aa19043/artifacts
+end_time: 1747241508843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cafdd420e10492a88240a873aa19043
+run_name: blushing-sow-174
+run_uuid: 1cafdd420e10492a88240a873aa19043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241502032
+status: 3
+tags: []
+user_id: runner
