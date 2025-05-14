@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6da37db187a4316ab31d590fbef4f50/artifacts
+end_time: 1747235442769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6da37db187a4316ab31d590fbef4f50
+run_name: thundering-perch-480
+run_uuid: a6da37db187a4316ab31d590fbef4f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747235436370
+status: 3
+tags: []
+user_id: runner
