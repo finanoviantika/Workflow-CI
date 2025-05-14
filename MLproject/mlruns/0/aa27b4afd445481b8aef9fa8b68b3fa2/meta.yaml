@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aa27b4afd445481b8aef9fa8b68b3fa2/artifacts
+end_time: 1747221895915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa27b4afd445481b8aef9fa8b68b3fa2
+run_name: efficient-shark-24
+run_uuid: aa27b4afd445481b8aef9fa8b68b3fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221889527
+status: 3
+tags: []
+user_id: runner
