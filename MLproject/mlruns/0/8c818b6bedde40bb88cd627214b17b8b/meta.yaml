@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c818b6bedde40bb88cd627214b17b8b/artifacts
+end_time: 1747239460643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c818b6bedde40bb88cd627214b17b8b
+run_name: selective-quail-62
+run_uuid: 8c818b6bedde40bb88cd627214b17b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747239454269
+status: 3
+tags: []
+user_id: runner
