@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/24d2c22afcc34a7596cf402de2e0afa4/artifacts
+end_time: 1747260243877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d2c22afcc34a7596cf402de2e0afa4
+run_name: dashing-ant-432
+run_uuid: 24d2c22afcc34a7596cf402de2e0afa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260237500
+status: 3
+tags: []
+user_id: runner
