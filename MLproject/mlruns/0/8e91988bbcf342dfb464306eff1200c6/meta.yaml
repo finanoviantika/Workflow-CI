@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8e91988bbcf342dfb464306eff1200c6/artifacts
+end_time: 1747256949208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e91988bbcf342dfb464306eff1200c6
+run_name: colorful-snail-170
+run_uuid: 8e91988bbcf342dfb464306eff1200c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747256942516
+status: 3
+tags: []
+user_id: runner
