@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f70a40a197dc4d95aee50941883df678/artifacts
+end_time: 1747223479557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70a40a197dc4d95aee50941883df678
+run_name: monumental-chimp-296
+run_uuid: f70a40a197dc4d95aee50941883df678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747223472749
+status: 3
+tags: []
+user_id: runner
