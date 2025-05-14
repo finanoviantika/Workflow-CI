@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cb02198bfb6a4ef8adca23f0c876c770/artifacts
+end_time: 1747198475156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb02198bfb6a4ef8adca23f0c876c770
+run_name: gentle-snake-289
+run_uuid: cb02198bfb6a4ef8adca23f0c876c770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747198469082
+status: 3
+tags: []
+user_id: runner
