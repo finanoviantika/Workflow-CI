@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3806f38402784fa78e7925a03fc57311/artifacts
+end_time: 1747230141069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3806f38402784fa78e7925a03fc57311
+run_name: caring-carp-316
+run_uuid: 3806f38402784fa78e7925a03fc57311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230134481
+status: 3
+tags: []
+user_id: runner
