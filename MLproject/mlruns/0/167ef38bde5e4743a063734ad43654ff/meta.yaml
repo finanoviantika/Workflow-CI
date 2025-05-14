@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/167ef38bde5e4743a063734ad43654ff/artifacts
+end_time: 1747243884095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 167ef38bde5e4743a063734ad43654ff
+run_name: brawny-skink-100
+run_uuid: 167ef38bde5e4743a063734ad43654ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747243877331
+status: 3
+tags: []
+user_id: runner
