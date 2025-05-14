@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/06e818fc320d45a6b5cdf39660fa53cf/artifacts
+end_time: 1747219133252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06e818fc320d45a6b5cdf39660fa53cf
+run_name: illustrious-fox-966
+run_uuid: 06e818fc320d45a6b5cdf39660fa53cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747219126698
+status: 3
+tags: []
+user_id: runner
