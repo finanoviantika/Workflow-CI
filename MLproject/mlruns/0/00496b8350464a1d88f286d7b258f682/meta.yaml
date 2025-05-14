@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/00496b8350464a1d88f286d7b258f682/artifacts
+end_time: 1747247821289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00496b8350464a1d88f286d7b258f682
+run_name: worried-frog-334
+run_uuid: 00496b8350464a1d88f286d7b258f682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747247815004
+status: 3
+tags: []
+user_id: runner
