@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f48931feb96d4131976cbfa22af31c74/artifacts
+end_time: 1747248197680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f48931feb96d4131976cbfa22af31c74
+run_name: burly-shad-376
+run_uuid: f48931feb96d4131976cbfa22af31c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248191146
+status: 3
+tags: []
+user_id: runner
