@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/80e7b64f112041cda6196e7f6ae1f29c/artifacts
+end_time: 1747229194006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e7b64f112041cda6196e7f6ae1f29c
+run_name: upset-carp-522
+run_uuid: 80e7b64f112041cda6196e7f6ae1f29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229187683
+status: 3
+tags: []
+user_id: runner
