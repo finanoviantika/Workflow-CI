@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4d71def965cc4b14ac7a1472603f4b5e/artifacts
+end_time: 1747212925541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d71def965cc4b14ac7a1472603f4b5e
+run_name: unequaled-rat-555
+run_uuid: 4d71def965cc4b14ac7a1472603f4b5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747212919175
+status: 3
+tags: []
+user_id: runner
