@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/27125032a83a4c598d8ab9e56300a50b/artifacts
+end_time: 1747194576419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27125032a83a4c598d8ab9e56300a50b
+run_name: crawling-colt-981
+run_uuid: 27125032a83a4c598d8ab9e56300a50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747194569739
+status: 3
+tags: []
+user_id: runner
