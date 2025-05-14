@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ffb79313a7f74bb68511786993504a4a/artifacts
+end_time: 1747203296938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffb79313a7f74bb68511786993504a4a
+run_name: auspicious-fowl-812
+run_uuid: ffb79313a7f74bb68511786993504a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203290613
+status: 3
+tags: []
+user_id: runner
