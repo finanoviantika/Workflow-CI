@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7442238970a347c686e7f99367b0c9c9/artifacts
+end_time: 1747203015899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7442238970a347c686e7f99367b0c9c9
+run_name: righteous-dove-319
+run_uuid: 7442238970a347c686e7f99367b0c9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203009629
+status: 3
+tags: []
+user_id: runner
