@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9054904391274ecdaf015d3dde28ae81/artifacts
+end_time: 1747188662161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9054904391274ecdaf015d3dde28ae81
+run_name: agreeable-pug-345
+run_uuid: 9054904391274ecdaf015d3dde28ae81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188656255
+status: 3
+tags: []
+user_id: runner
