@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/75510c2c9e244dffb7efc42422f6555e/artifacts
+end_time: 1747254205119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75510c2c9e244dffb7efc42422f6555e
+run_name: welcoming-gull-685
+run_uuid: 75510c2c9e244dffb7efc42422f6555e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747254198396
+status: 3
+tags: []
+user_id: runner
