@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7b5cc670e70c4d088696fc63179ab274/artifacts
+end_time: 1747192926098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b5cc670e70c4d088696fc63179ab274
+run_name: treasured-perch-404
+run_uuid: 7b5cc670e70c4d088696fc63179ab274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747192919703
+status: 3
+tags: []
+user_id: runner
