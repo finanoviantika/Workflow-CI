@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae4021a925b6498b9eddca6ee288d520/artifacts
+end_time: 1747182274919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae4021a925b6498b9eddca6ee288d520
+run_name: resilient-grouse-220
+run_uuid: ae4021a925b6498b9eddca6ee288d520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182268893
+status: 3
+tags: []
+user_id: runner
