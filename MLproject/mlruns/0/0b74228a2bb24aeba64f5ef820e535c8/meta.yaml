@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0b74228a2bb24aeba64f5ef820e535c8/artifacts
+end_time: 1747227594504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b74228a2bb24aeba64f5ef820e535c8
+run_name: casual-calf-195
+run_uuid: 0b74228a2bb24aeba64f5ef820e535c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227588067
+status: 3
+tags: []
+user_id: runner
