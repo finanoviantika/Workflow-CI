@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8d032d155d8d449e8f169eca53e6157a/artifacts
+end_time: 1747252183131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d032d155d8d449e8f169eca53e6157a
+run_name: amusing-wren-718
+run_uuid: 8d032d155d8d449e8f169eca53e6157a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252176448
+status: 3
+tags: []
+user_id: runner
