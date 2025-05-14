@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1068a5b87f3d4b18b97993aec251388f/artifacts
+end_time: 1747198928510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1068a5b87f3d4b18b97993aec251388f
+run_name: thundering-duck-788
+run_uuid: 1068a5b87f3d4b18b97993aec251388f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747198921946
+status: 3
+tags: []
+user_id: runner
