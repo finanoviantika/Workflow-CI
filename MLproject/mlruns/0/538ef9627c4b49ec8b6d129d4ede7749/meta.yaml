@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/538ef9627c4b49ec8b6d129d4ede7749/artifacts
+end_time: 1747216919377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 538ef9627c4b49ec8b6d129d4ede7749
+run_name: agreeable-trout-992
+run_uuid: 538ef9627c4b49ec8b6d129d4ede7749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747216913087
+status: 3
+tags: []
+user_id: runner
