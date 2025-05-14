@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab7e069249104049b2fc640792ea5b94/artifacts
+end_time: 1747215013213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab7e069249104049b2fc640792ea5b94
+run_name: carefree-grouse-960
+run_uuid: ab7e069249104049b2fc640792ea5b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747215007016
+status: 3
+tags: []
+user_id: runner
