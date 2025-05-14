@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3e4af53dabd94cb7ab8df9262e2ffcdf/artifacts
+end_time: 1747205403064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e4af53dabd94cb7ab8df9262e2ffcdf
+run_name: merciful-shrew-397
+run_uuid: 3e4af53dabd94cb7ab8df9262e2ffcdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747205396516
+status: 3
+tags: []
+user_id: runner
