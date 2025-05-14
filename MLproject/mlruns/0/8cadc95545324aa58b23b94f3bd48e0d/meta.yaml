@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8cadc95545324aa58b23b94f3bd48e0d/artifacts
+end_time: 1747232585587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cadc95545324aa58b23b94f3bd48e0d
+run_name: traveling-stork-750
+run_uuid: 8cadc95545324aa58b23b94f3bd48e0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232579190
+status: 3
+tags: []
+user_id: runner
