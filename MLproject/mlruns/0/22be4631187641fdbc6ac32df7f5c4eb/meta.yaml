@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22be4631187641fdbc6ac32df7f5c4eb/artifacts
+end_time: 1747258091063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22be4631187641fdbc6ac32df7f5c4eb
+run_name: gaudy-croc-941
+run_uuid: 22be4631187641fdbc6ac32df7f5c4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747258084628
+status: 3
+tags: []
+user_id: runner
