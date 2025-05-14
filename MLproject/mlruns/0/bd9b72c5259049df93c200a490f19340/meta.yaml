@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd9b72c5259049df93c200a490f19340/artifacts
+end_time: 1747258836943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd9b72c5259049df93c200a490f19340
+run_name: honorable-cow-215
+run_uuid: bd9b72c5259049df93c200a490f19340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747258830450
+status: 3
+tags: []
+user_id: runner
