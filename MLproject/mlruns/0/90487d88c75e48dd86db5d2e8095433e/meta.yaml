@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90487d88c75e48dd86db5d2e8095433e/artifacts
+end_time: 1747230610617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90487d88c75e48dd86db5d2e8095433e
+run_name: funny-stag-579
+run_uuid: 90487d88c75e48dd86db5d2e8095433e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230603918
+status: 3
+tags: []
+user_id: runner
