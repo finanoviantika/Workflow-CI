@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/44709e1013294cf597dddaf6a6276171/artifacts
+end_time: 1747231276550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44709e1013294cf597dddaf6a6276171
+run_name: resilient-bug-160
+run_uuid: 44709e1013294cf597dddaf6a6276171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231270039
+status: 3
+tags: []
+user_id: runner
