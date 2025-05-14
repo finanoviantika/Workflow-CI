@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0e7a7e7957bc44e78134489d167861c4/artifacts
+end_time: 1747226569138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e7a7e7957bc44e78134489d167861c4
+run_name: popular-rat-191
+run_uuid: 0e7a7e7957bc44e78134489d167861c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747226562885
+status: 3
+tags: []
+user_id: runner
