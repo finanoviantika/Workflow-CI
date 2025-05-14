@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a27716665a0a468786aa5420c43d99be/artifacts
+end_time: 1747190781368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27716665a0a468786aa5420c43d99be
+run_name: learned-squid-857
+run_uuid: a27716665a0a468786aa5420c43d99be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747190774888
+status: 3
+tags: []
+user_id: runner
