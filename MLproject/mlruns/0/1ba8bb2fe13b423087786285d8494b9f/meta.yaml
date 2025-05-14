@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1ba8bb2fe13b423087786285d8494b9f/artifacts
+end_time: 1747254388947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ba8bb2fe13b423087786285d8494b9f
+run_name: able-dog-835
+run_uuid: 1ba8bb2fe13b423087786285d8494b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747254382693
+status: 3
+tags: []
+user_id: runner
