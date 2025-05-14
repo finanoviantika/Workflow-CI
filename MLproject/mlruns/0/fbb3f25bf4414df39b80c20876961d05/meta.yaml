@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fbb3f25bf4414df39b80c20876961d05/artifacts
+end_time: 1747248744070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbb3f25bf4414df39b80c20876961d05
+run_name: salty-toad-629
+run_uuid: fbb3f25bf4414df39b80c20876961d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248737693
+status: 3
+tags: []
+user_id: runner
