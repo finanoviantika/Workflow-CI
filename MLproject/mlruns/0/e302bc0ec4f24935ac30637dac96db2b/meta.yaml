@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e302bc0ec4f24935ac30637dac96db2b/artifacts
+end_time: 1747232780539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e302bc0ec4f24935ac30637dac96db2b
+run_name: resilient-sow-784
+run_uuid: e302bc0ec4f24935ac30637dac96db2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747232773655
+status: 3
+tags: []
+user_id: runner
