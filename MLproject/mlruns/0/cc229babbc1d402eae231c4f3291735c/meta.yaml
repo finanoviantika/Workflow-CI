@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc229babbc1d402eae231c4f3291735c/artifacts
+end_time: 1747195660357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc229babbc1d402eae231c4f3291735c
+run_name: sedate-hare-616
+run_uuid: cc229babbc1d402eae231c4f3291735c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195653733
+status: 3
+tags: []
+user_id: runner
