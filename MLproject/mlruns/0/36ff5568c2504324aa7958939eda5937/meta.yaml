@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/36ff5568c2504324aa7958939eda5937/artifacts
+end_time: 1747229856456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ff5568c2504324aa7958939eda5937
+run_name: secretive-elk-988
+run_uuid: 36ff5568c2504324aa7958939eda5937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229849804
+status: 3
+tags: []
+user_id: runner
