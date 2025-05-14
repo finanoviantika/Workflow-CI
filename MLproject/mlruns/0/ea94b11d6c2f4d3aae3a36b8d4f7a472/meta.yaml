@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ea94b11d6c2f4d3aae3a36b8d4f7a472/artifacts
+end_time: 1747182586006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea94b11d6c2f4d3aae3a36b8d4f7a472
+run_name: shivering-finch-422
+run_uuid: ea94b11d6c2f4d3aae3a36b8d4f7a472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747182579819
+status: 3
+tags: []
+user_id: runner
