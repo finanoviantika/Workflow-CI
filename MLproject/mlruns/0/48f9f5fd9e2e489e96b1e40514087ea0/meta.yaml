@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/48f9f5fd9e2e489e96b1e40514087ea0/artifacts
+end_time: 1747191419299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48f9f5fd9e2e489e96b1e40514087ea0
+run_name: bright-ray-85
+run_uuid: 48f9f5fd9e2e489e96b1e40514087ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747191413102
+status: 3
+tags: []
+user_id: runner
