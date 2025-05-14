@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fecdad104c6b4ed5844ddf4af58eb5ef/artifacts
+end_time: 1747206494913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fecdad104c6b4ed5844ddf4af58eb5ef
+run_name: silent-loon-203
+run_uuid: fecdad104c6b4ed5844ddf4af58eb5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206488300
+status: 3
+tags: []
+user_id: runner
