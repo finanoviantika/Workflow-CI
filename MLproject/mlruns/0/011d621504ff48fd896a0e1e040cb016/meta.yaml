@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/011d621504ff48fd896a0e1e040cb016/artifacts
+end_time: 1747214559525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 011d621504ff48fd896a0e1e040cb016
+run_name: legendary-whale-105
+run_uuid: 011d621504ff48fd896a0e1e040cb016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214553159
+status: 3
+tags: []
+user_id: runner
