@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/642dc84f129e419a9f90db5af8e68cda/artifacts
+end_time: 1747209815526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 642dc84f129e419a9f90db5af8e68cda
+run_name: painted-owl-137
+run_uuid: 642dc84f129e419a9f90db5af8e68cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209809276
+status: 3
+tags: []
+user_id: runner
