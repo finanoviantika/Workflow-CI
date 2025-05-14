@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45014f45324c4a54a082ded75b49a9f9/artifacts
+end_time: 1747241969927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45014f45324c4a54a082ded75b49a9f9
+run_name: calm-hen-680
+run_uuid: 45014f45324c4a54a082ded75b49a9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241963511
+status: 3
+tags: []
+user_id: runner
