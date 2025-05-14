@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ad0a68f843e2445ea7b8100ec5cd3834/artifacts
+end_time: 1747255836437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad0a68f843e2445ea7b8100ec5cd3834
+run_name: efficient-hare-941
+run_uuid: ad0a68f843e2445ea7b8100ec5cd3834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255830025
+status: 3
+tags: []
+user_id: runner
