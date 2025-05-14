@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7de3f3438dd348629131f245a064c7c2/artifacts
+end_time: 1747204209715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de3f3438dd348629131f245a064c7c2
+run_name: amusing-hen-340
+run_uuid: 7de3f3438dd348629131f245a064c7c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204203073
+status: 3
+tags: []
+user_id: runner
