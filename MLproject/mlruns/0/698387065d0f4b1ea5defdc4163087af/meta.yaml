@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/698387065d0f4b1ea5defdc4163087af/artifacts
+end_time: 1747188934937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698387065d0f4b1ea5defdc4163087af
+run_name: rebellious-turtle-11
+run_uuid: 698387065d0f4b1ea5defdc4163087af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747188928577
+status: 3
+tags: []
+user_id: runner
