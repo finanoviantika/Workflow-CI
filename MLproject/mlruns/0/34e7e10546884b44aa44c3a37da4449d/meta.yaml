@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34e7e10546884b44aa44c3a37da4449d/artifacts
+end_time: 1747207684838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e7e10546884b44aa44c3a37da4449d
+run_name: welcoming-pug-534
+run_uuid: 34e7e10546884b44aa44c3a37da4449d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747207678519
+status: 3
+tags: []
+user_id: runner
