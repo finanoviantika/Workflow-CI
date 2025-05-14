@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/39735a34bf7444bc9c2b6db6e254433a/artifacts
+end_time: 1747258367195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39735a34bf7444bc9c2b6db6e254433a
+run_name: resilient-cod-601
+run_uuid: 39735a34bf7444bc9c2b6db6e254433a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747258360677
+status: 3
+tags: []
+user_id: runner
