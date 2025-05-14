@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6b3708fb401c44ef882221122a87ceac/artifacts
+end_time: 1747238810386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b3708fb401c44ef882221122a87ceac
+run_name: victorious-steed-675
+run_uuid: 6b3708fb401c44ef882221122a87ceac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238803756
+status: 3
+tags: []
+user_id: runner
