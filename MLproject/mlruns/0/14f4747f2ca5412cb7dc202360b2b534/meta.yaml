@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14f4747f2ca5412cb7dc202360b2b534/artifacts
+end_time: 1747189122378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f4747f2ca5412cb7dc202360b2b534
+run_name: sassy-worm-156
+run_uuid: 14f4747f2ca5412cb7dc202360b2b534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747189115886
+status: 3
+tags: []
+user_id: runner
