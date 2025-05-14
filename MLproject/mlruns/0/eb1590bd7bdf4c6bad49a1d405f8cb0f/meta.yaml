@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eb1590bd7bdf4c6bad49a1d405f8cb0f/artifacts
+end_time: 1747184698944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1590bd7bdf4c6bad49a1d405f8cb0f
+run_name: nosy-snipe-814
+run_uuid: eb1590bd7bdf4c6bad49a1d405f8cb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184692724
+status: 3
+tags: []
+user_id: runner
