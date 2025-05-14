@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/93b1e2d9ee1448e2b057225bb76c9814/artifacts
+end_time: 1747225164797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93b1e2d9ee1448e2b057225bb76c9814
+run_name: carefree-crane-740
+run_uuid: 93b1e2d9ee1448e2b057225bb76c9814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225158505
+status: 3
+tags: []
+user_id: runner
