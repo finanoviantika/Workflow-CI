@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/11539f471ed6469cb52cebc7c31c55ee/artifacts
+end_time: 1747237984326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11539f471ed6469cb52cebc7c31c55ee
+run_name: orderly-mink-80
+run_uuid: 11539f471ed6469cb52cebc7c31c55ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237977927
+status: 3
+tags: []
+user_id: runner
