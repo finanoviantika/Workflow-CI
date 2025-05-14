@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0cf05c42a15949e98804619ab94eb0fb/artifacts
+end_time: 1747240477268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cf05c42a15949e98804619ab94eb0fb
+run_name: bemused-bat-955
+run_uuid: 0cf05c42a15949e98804619ab94eb0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747240470734
+status: 3
+tags: []
+user_id: runner
