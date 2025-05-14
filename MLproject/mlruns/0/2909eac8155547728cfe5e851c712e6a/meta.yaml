@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2909eac8155547728cfe5e851c712e6a/artifacts
+end_time: 1747231091399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2909eac8155547728cfe5e851c712e6a
+run_name: suave-bat-757
+run_uuid: 2909eac8155547728cfe5e851c712e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747231084998
+status: 3
+tags: []
+user_id: runner
