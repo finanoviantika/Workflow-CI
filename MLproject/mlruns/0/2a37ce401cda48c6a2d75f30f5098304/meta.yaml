@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2a37ce401cda48c6a2d75f30f5098304/artifacts
+end_time: 1747223203619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a37ce401cda48c6a2d75f30f5098304
+run_name: enthused-hawk-577
+run_uuid: 2a37ce401cda48c6a2d75f30f5098304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747223197133
+status: 3
+tags: []
+user_id: runner
