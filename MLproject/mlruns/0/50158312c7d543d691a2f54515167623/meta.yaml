@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/50158312c7d543d691a2f54515167623/artifacts
+end_time: 1747207407202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50158312c7d543d691a2f54515167623
+run_name: unleashed-cat-745
+run_uuid: 50158312c7d543d691a2f54515167623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747207400630
+status: 3
+tags: []
+user_id: runner
