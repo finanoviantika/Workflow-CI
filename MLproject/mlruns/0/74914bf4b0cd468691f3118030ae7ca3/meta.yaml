@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/74914bf4b0cd468691f3118030ae7ca3/artifacts
+end_time: 1747265344394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74914bf4b0cd468691f3118030ae7ca3
+run_name: salty-lamb-639
+run_uuid: 74914bf4b0cd468691f3118030ae7ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747265338001
+status: 3
+tags: []
+user_id: runner
