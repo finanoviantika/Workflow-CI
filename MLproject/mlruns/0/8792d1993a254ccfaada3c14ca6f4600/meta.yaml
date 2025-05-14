@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8792d1993a254ccfaada3c14ca6f4600/artifacts
+end_time: 1747218207335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8792d1993a254ccfaada3c14ca6f4600
+run_name: puzzled-grouse-12
+run_uuid: 8792d1993a254ccfaada3c14ca6f4600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747218201080
+status: 3
+tags: []
+user_id: runner
