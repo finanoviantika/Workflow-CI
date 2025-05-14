@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aac9122b3cb34dedbcb6a5010c421362/artifacts
+end_time: 1747255646380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aac9122b3cb34dedbcb6a5010c421362
+run_name: efficient-hen-450
+run_uuid: aac9122b3cb34dedbcb6a5010c421362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255640035
+status: 3
+tags: []
+user_id: runner
