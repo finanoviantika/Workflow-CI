@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/24eeb26d616b4483b51f82cd893458ae/artifacts
+end_time: 1747186259608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24eeb26d616b4483b51f82cd893458ae
+run_name: receptive-zebra-112
+run_uuid: 24eeb26d616b4483b51f82cd893458ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747186253277
+status: 3
+tags: []
+user_id: runner
