@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cdc1898dfcf1432f97ef3925aad635dd/artifacts
+end_time: 1747212836627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdc1898dfcf1432f97ef3925aad635dd
+run_name: classy-bat-890
+run_uuid: cdc1898dfcf1432f97ef3925aad635dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747212830096
+status: 3
+tags: []
+user_id: runner
