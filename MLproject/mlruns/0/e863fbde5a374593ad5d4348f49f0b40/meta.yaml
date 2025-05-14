@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e863fbde5a374593ad5d4348f49f0b40/artifacts
+end_time: 1747187466740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e863fbde5a374593ad5d4348f49f0b40
+run_name: inquisitive-mink-695
+run_uuid: e863fbde5a374593ad5d4348f49f0b40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747187459727
+status: 3
+tags: []
+user_id: runner
