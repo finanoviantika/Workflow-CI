@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fac6abc797b6485d9513c8258af7c943/artifacts
+end_time: 1747193749952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fac6abc797b6485d9513c8258af7c943
+run_name: popular-kite-877
+run_uuid: fac6abc797b6485d9513c8258af7c943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193743701
+status: 3
+tags: []
+user_id: runner
