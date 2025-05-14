@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c8057fed596c4297ac30946e9c2b6cf4/artifacts
+end_time: 1747264245789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8057fed596c4297ac30946e9c2b6cf4
+run_name: sincere-grub-916
+run_uuid: c8057fed596c4297ac30946e9c2b6cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747264239443
+status: 3
+tags: []
+user_id: runner
