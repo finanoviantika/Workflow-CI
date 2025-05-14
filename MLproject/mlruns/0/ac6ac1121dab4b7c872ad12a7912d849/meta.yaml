@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac6ac1121dab4b7c872ad12a7912d849/artifacts
+end_time: 1747209177920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6ac1121dab4b7c872ad12a7912d849
+run_name: marvelous-hare-962
+run_uuid: ac6ac1121dab4b7c872ad12a7912d849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209171335
+status: 3
+tags: []
+user_id: runner
