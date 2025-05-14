@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/689126026db044929cf2cb2972a7c58e/artifacts
+end_time: 1747250420796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689126026db044929cf2cb2972a7c58e
+run_name: receptive-wren-391
+run_uuid: 689126026db044929cf2cb2972a7c58e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250414492
+status: 3
+tags: []
+user_id: runner
