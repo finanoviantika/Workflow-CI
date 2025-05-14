@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/57761213eb954f9b9b9d313976597559/artifacts
+end_time: 1747206763968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57761213eb954f9b9b9d313976597559
+run_name: amusing-gnat-815
+run_uuid: 57761213eb954f9b9b9d313976597559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206757640
+status: 3
+tags: []
+user_id: runner
