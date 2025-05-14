@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92ee67a8d27c478c8d800f62324c7150/artifacts
+end_time: 1747206218641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ee67a8d27c478c8d800f62324c7150
+run_name: receptive-quail-121
+run_uuid: 92ee67a8d27c478c8d800f62324c7150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206212085
+status: 3
+tags: []
+user_id: runner
