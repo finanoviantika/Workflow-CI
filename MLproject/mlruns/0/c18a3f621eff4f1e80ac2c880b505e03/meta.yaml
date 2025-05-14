@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c18a3f621eff4f1e80ac2c880b505e03/artifacts
+end_time: 1747196841789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c18a3f621eff4f1e80ac2c880b505e03
+run_name: mysterious-lamb-870
+run_uuid: c18a3f621eff4f1e80ac2c880b505e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196835375
+status: 3
+tags: []
+user_id: runner
