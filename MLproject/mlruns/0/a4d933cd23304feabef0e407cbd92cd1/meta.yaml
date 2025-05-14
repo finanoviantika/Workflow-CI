@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a4d933cd23304feabef0e407cbd92cd1/artifacts
+end_time: 1747200830618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4d933cd23304feabef0e407cbd92cd1
+run_name: learned-rook-667
+run_uuid: a4d933cd23304feabef0e407cbd92cd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200824330
+status: 3
+tags: []
+user_id: runner
