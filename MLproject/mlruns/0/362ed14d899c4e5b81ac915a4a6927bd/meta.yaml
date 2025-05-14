@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/362ed14d899c4e5b81ac915a4a6927bd/artifacts
+end_time: 1747264610254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 362ed14d899c4e5b81ac915a4a6927bd
+run_name: persistent-elk-110
+run_uuid: 362ed14d899c4e5b81ac915a4a6927bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747264603855
+status: 3
+tags: []
+user_id: runner
