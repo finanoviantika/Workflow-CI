@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8679227cbcb44d3e969d0f7d4c072ae2/artifacts
+end_time: 1747260341954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8679227cbcb44d3e969d0f7d4c072ae2
+run_name: casual-cub-925
+run_uuid: 8679227cbcb44d3e969d0f7d4c072ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747260335295
+status: 3
+tags: []
+user_id: runner
