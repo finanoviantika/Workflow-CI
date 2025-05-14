@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da883fe8e5664f1dbf0a95506ff578d2/artifacts
+end_time: 1747212113038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da883fe8e5664f1dbf0a95506ff578d2
+run_name: capricious-whale-286
+run_uuid: da883fe8e5664f1dbf0a95506ff578d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747212106717
+status: 3
+tags: []
+user_id: runner
