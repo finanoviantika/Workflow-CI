@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4994ce8560f04203a368b44679d84a64/artifacts
+end_time: 1747181094240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4994ce8560f04203a368b44679d84a64
+run_name: kindly-jay-496
+run_uuid: 4994ce8560f04203a368b44679d84a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747181087871
+status: 3
+tags: []
+user_id: runner
