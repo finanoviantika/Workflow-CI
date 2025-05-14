@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/604c7f6101c44163883e134f0baa9153/artifacts
+end_time: 1747266645635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604c7f6101c44163883e134f0baa9153
+run_name: capable-smelt-235
+run_uuid: 604c7f6101c44163883e134f0baa9153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747266639382
+status: 3
+tags: []
+user_id: runner
