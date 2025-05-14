@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f901f5391f20409491f103367f8bbbda/artifacts
+end_time: 1747217373617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f901f5391f20409491f103367f8bbbda
+run_name: painted-quail-719
+run_uuid: f901f5391f20409491f103367f8bbbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217366939
+status: 3
+tags: []
+user_id: runner
