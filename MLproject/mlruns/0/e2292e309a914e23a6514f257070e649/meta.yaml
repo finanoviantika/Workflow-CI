@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2292e309a914e23a6514f257070e649/artifacts
+end_time: 1747267101583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2292e309a914e23a6514f257070e649
+run_name: caring-fox-457
+run_uuid: e2292e309a914e23a6514f257070e649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747267095064
+status: 3
+tags: []
+user_id: runner
