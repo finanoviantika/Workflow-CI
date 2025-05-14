@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b73ebd77c6024142b22d1ef28c764d6e/artifacts
+end_time: 1747205938168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b73ebd77c6024142b22d1ef28c764d6e
+run_name: capable-elk-331
+run_uuid: b73ebd77c6024142b22d1ef28c764d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747205931822
+status: 3
+tags: []
+user_id: runner
