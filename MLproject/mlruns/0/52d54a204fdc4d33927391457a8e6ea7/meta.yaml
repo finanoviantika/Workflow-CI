@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/52d54a204fdc4d33927391457a8e6ea7/artifacts
+end_time: 1747248560259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52d54a204fdc4d33927391457a8e6ea7
+run_name: clean-croc-142
+run_uuid: 52d54a204fdc4d33927391457a8e6ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248553542
+status: 3
+tags: []
+user_id: runner
