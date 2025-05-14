@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e124f28b4d247e8808bff2f2672aa58/artifacts
+end_time: 1747180916539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e124f28b4d247e8808bff2f2672aa58
+run_name: rumbling-colt-795
+run_uuid: 9e124f28b4d247e8808bff2f2672aa58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747180910241
+status: 3
+tags: []
+user_id: runner
