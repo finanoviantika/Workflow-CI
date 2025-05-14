@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b7e85e4ea40b4382a9fb86f65a8c99fa/artifacts
+end_time: 1747209268617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7e85e4ea40b4382a9fb86f65a8c99fa
+run_name: abrasive-vole-936
+run_uuid: b7e85e4ea40b4382a9fb86f65a8c99fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209262206
+status: 3
+tags: []
+user_id: runner
