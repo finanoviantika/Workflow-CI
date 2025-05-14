@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/70fd9f209d604407aa07f5b4f5049b90/artifacts
+end_time: 1747191701956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70fd9f209d604407aa07f5b4f5049b90
+run_name: nosy-snake-715
+run_uuid: 70fd9f209d604407aa07f5b4f5049b90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747191695651
+status: 3
+tags: []
+user_id: runner
