@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bf3a0449f9484ab4a6adc740074135eb/artifacts
+end_time: 1747248924548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf3a0449f9484ab4a6adc740074135eb
+run_name: melodic-worm-195
+run_uuid: bf3a0449f9484ab4a6adc740074135eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248918123
+status: 3
+tags: []
+user_id: runner
