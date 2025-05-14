@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c5e99f7fc3c40c9983d3057ee5f32be/artifacts
+end_time: 1747253334697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c5e99f7fc3c40c9983d3057ee5f32be
+run_name: crawling-stag-422
+run_uuid: 8c5e99f7fc3c40c9983d3057ee5f32be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253328154
+status: 3
+tags: []
+user_id: runner
