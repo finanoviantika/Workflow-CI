@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c34f0bc60914f13a106bfecee6629e0/artifacts
+end_time: 1747259776995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c34f0bc60914f13a106bfecee6629e0
+run_name: masked-crab-136
+run_uuid: 5c34f0bc60914f13a106bfecee6629e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747259770680
+status: 3
+tags: []
+user_id: runner
