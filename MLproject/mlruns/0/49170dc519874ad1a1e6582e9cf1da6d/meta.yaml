@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/49170dc519874ad1a1e6582e9cf1da6d/artifacts
+end_time: 1747203929480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49170dc519874ad1a1e6582e9cf1da6d
+run_name: overjoyed-owl-196
+run_uuid: 49170dc519874ad1a1e6582e9cf1da6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203923156
+status: 3
+tags: []
+user_id: runner
