@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/00eefaddb79944749302bb30a33317c9/artifacts
+end_time: 1747261930427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00eefaddb79944749302bb30a33317c9
+run_name: bouncy-wolf-571
+run_uuid: 00eefaddb79944749302bb30a33317c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747261924132
+status: 3
+tags: []
+user_id: runner
