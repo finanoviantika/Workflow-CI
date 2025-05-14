@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a53d55afd2aa45d68e05edff6f1be434/artifacts
+end_time: 1747227969870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a53d55afd2aa45d68e05edff6f1be434
+run_name: serious-ox-951
+run_uuid: a53d55afd2aa45d68e05edff6f1be434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227963546
+status: 3
+tags: []
+user_id: runner
