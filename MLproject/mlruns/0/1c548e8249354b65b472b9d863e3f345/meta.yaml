@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1c548e8249354b65b472b9d863e3f345/artifacts
+end_time: 1747247920021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c548e8249354b65b472b9d863e3f345
+run_name: resilient-cat-827
+run_uuid: 1c548e8249354b65b472b9d863e3f345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747247913369
+status: 3
+tags: []
+user_id: runner
