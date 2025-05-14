@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/180fb880aa47471c86c15be3c3f503a3/artifacts
+end_time: 1747214654999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 180fb880aa47471c86c15be3c3f503a3
+run_name: gifted-fawn-469
+run_uuid: 180fb880aa47471c86c15be3c3f503a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214648070
+status: 3
+tags: []
+user_id: runner
