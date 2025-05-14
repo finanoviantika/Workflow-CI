@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67a1c8c0b53d430aaf16c3e55e4a09dd/artifacts
+end_time: 1747262481983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67a1c8c0b53d430aaf16c3e55e4a09dd
+run_name: ambitious-wasp-440
+run_uuid: 67a1c8c0b53d430aaf16c3e55e4a09dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747262475557
+status: 3
+tags: []
+user_id: runner
