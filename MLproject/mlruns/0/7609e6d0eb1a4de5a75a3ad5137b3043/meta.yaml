@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7609e6d0eb1a4de5a75a3ad5137b3043/artifacts
+end_time: 1747218023710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7609e6d0eb1a4de5a75a3ad5137b3043
+run_name: colorful-crow-245
+run_uuid: 7609e6d0eb1a4de5a75a3ad5137b3043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747218016973
+status: 3
+tags: []
+user_id: runner
