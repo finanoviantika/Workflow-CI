@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/639841e845e640c7ae70a044656f367c/artifacts
+end_time: 1747221620369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 639841e845e640c7ae70a044656f367c
+run_name: silent-cub-295
+run_uuid: 639841e845e640c7ae70a044656f367c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221614116
+status: 3
+tags: []
+user_id: runner
