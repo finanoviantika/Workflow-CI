@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8cf5bfbc6644ff99d59c3864d47efba/artifacts
+end_time: 1747265450446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8cf5bfbc6644ff99d59c3864d47efba
+run_name: marvelous-dog-59
+run_uuid: d8cf5bfbc6644ff99d59c3864d47efba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747265443273
+status: 3
+tags: []
+user_id: runner
