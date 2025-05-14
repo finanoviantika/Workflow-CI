@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8856c78de07e4643894f432fd66aaac3/artifacts
+end_time: 1747239919697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8856c78de07e4643894f432fd66aaac3
+run_name: resilient-squid-109
+run_uuid: 8856c78de07e4643894f432fd66aaac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747239913250
+status: 3
+tags: []
+user_id: runner
