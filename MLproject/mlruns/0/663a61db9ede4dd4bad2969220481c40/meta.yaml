@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/663a61db9ede4dd4bad2969220481c40/artifacts
+end_time: 1747193839229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 663a61db9ede4dd4bad2969220481c40
+run_name: crawling-boar-353
+run_uuid: 663a61db9ede4dd4bad2969220481c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747193832934
+status: 3
+tags: []
+user_id: runner
