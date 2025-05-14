@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8a72608407594b84bc2f5ec29b1aa5fa/artifacts
+end_time: 1747184972906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a72608407594b84bc2f5ec29b1aa5fa
+run_name: exultant-shrike-382
+run_uuid: 8a72608407594b84bc2f5ec29b1aa5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747184966740
+status: 3
+tags: []
+user_id: runner
