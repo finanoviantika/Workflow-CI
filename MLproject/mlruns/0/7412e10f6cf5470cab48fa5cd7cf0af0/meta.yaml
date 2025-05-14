@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7412e10f6cf5470cab48fa5cd7cf0af0/artifacts
+end_time: 1747217741629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7412e10f6cf5470cab48fa5cd7cf0af0
+run_name: sedate-calf-161
+run_uuid: 7412e10f6cf5470cab48fa5cd7cf0af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217735301
+status: 3
+tags: []
+user_id: runner
