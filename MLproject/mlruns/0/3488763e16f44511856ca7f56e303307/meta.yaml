@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3488763e16f44511856ca7f56e303307/artifacts
+end_time: 1747208897875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3488763e16f44511856ca7f56e303307
+run_name: upbeat-perch-82
+run_uuid: 3488763e16f44511856ca7f56e303307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747208891407
+status: 3
+tags: []
+user_id: runner
