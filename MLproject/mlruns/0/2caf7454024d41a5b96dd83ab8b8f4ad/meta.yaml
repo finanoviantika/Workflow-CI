@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2caf7454024d41a5b96dd83ab8b8f4ad/artifacts
+end_time: 1747229106546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2caf7454024d41a5b96dd83ab8b8f4ad
+run_name: unique-fawn-732
+run_uuid: 2caf7454024d41a5b96dd83ab8b8f4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229099730
+status: 3
+tags: []
+user_id: runner
