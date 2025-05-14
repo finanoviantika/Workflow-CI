@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cdc1facd92ab4ee386eb514dcb890618/artifacts
+end_time: 1747217552993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdc1facd92ab4ee386eb514dcb890618
+run_name: skittish-stag-641
+run_uuid: cdc1facd92ab4ee386eb514dcb890618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217546669
+status: 3
+tags: []
+user_id: runner
