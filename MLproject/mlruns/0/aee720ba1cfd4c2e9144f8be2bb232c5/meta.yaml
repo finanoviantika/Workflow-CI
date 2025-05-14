@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aee720ba1cfd4c2e9144f8be2bb232c5/artifacts
+end_time: 1747210550480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aee720ba1cfd4c2e9144f8be2bb232c5
+run_name: glamorous-fawn-203
+run_uuid: aee720ba1cfd4c2e9144f8be2bb232c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210544133
+status: 3
+tags: []
+user_id: runner
