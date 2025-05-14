@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95c59ca2ac0f45fe934384071b785cbf/artifacts
+end_time: 1747203838604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c59ca2ac0f45fe934384071b785cbf
+run_name: unique-shrike-85
+run_uuid: 95c59ca2ac0f45fe934384071b785cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203832315
+status: 3
+tags: []
+user_id: runner
