@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8b11c7360199405fbd7f9a3d3f55a56b/artifacts
+end_time: 1747205758831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b11c7360199405fbd7f9a3d3f55a56b
+run_name: efficient-shrimp-538
+run_uuid: 8b11c7360199405fbd7f9a3d3f55a56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747205752425
+status: 3
+tags: []
+user_id: runner
