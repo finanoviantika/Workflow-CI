@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6396f3a2f4834dd29734aa4cd65c1b5d/artifacts
+end_time: 1747251806756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6396f3a2f4834dd29734aa4cd65c1b5d
+run_name: colorful-hen-953
+run_uuid: 6396f3a2f4834dd29734aa4cd65c1b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747251800436
+status: 3
+tags: []
+user_id: runner
