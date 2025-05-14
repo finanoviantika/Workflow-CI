@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f620ee61f5a41e8a151e597a85f93a2/artifacts
+end_time: 1747236099069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f620ee61f5a41e8a151e597a85f93a2
+run_name: honorable-calf-141
+run_uuid: 1f620ee61f5a41e8a151e597a85f93a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236092741
+status: 3
+tags: []
+user_id: runner
