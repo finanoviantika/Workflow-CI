@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a78744b1c57148b4ab93f891f4058f1a/artifacts
+end_time: 1747210821692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a78744b1c57148b4ab93f891f4058f1a
+run_name: spiffy-zebra-792
+run_uuid: a78744b1c57148b4ab93f891f4058f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210815187
+status: 3
+tags: []
+user_id: runner
