@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a3557f4cb0784ba59cd4b1d7d905ce19/artifacts
+end_time: 1747189681039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3557f4cb0784ba59cd4b1d7d905ce19
+run_name: stately-quail-367
+run_uuid: a3557f4cb0784ba59cd4b1d7d905ce19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747189674767
+status: 3
+tags: []
+user_id: runner
