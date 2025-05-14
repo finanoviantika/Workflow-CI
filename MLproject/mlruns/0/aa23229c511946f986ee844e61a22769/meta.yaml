@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aa23229c511946f986ee844e61a22769/artifacts
+end_time: 1747222177514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa23229c511946f986ee844e61a22769
+run_name: wistful-doe-167
+run_uuid: aa23229c511946f986ee844e61a22769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747222171082
+status: 3
+tags: []
+user_id: runner
