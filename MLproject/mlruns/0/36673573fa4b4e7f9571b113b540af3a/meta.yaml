@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/36673573fa4b4e7f9571b113b540af3a/artifacts
+end_time: 1747214287202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36673573fa4b4e7f9571b113b540af3a
+run_name: languid-hog-914
+run_uuid: 36673573fa4b4e7f9571b113b540af3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747214280921
+status: 3
+tags: []
+user_id: runner
