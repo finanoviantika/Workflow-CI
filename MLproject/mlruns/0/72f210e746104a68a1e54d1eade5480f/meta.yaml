@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72f210e746104a68a1e54d1eade5480f/artifacts
+end_time: 1747241128942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f210e746104a68a1e54d1eade5480f
+run_name: resilient-skink-157
+run_uuid: 72f210e746104a68a1e54d1eade5480f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747241122534
+status: 3
+tags: []
+user_id: runner
