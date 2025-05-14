@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/013b8b66804d4b4ebe462ea561638431/artifacts
+end_time: 1747196381861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 013b8b66804d4b4ebe462ea561638431
+run_name: trusting-tern-652
+run_uuid: 013b8b66804d4b4ebe462ea561638431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747196375274
+status: 3
+tags: []
+user_id: runner
