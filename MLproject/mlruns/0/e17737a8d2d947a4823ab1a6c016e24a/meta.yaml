@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e17737a8d2d947a4823ab1a6c016e24a/artifacts
+end_time: 1747203475463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e17737a8d2d947a4823ab1a6c016e24a
+run_name: wise-skunk-792
+run_uuid: e17737a8d2d947a4823ab1a6c016e24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203468896
+status: 3
+tags: []
+user_id: runner
