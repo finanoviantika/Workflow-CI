@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b5f1d3af63a04ffb9fda8440610adcee/artifacts
+end_time: 1747229382846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f1d3af63a04ffb9fda8440610adcee
+run_name: legendary-cod-195
+run_uuid: b5f1d3af63a04ffb9fda8440610adcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747229376300
+status: 3
+tags: []
+user_id: runner
