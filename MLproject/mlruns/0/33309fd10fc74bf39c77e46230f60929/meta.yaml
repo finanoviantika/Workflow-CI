@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/33309fd10fc74bf39c77e46230f60929/artifacts
+end_time: 1747183769516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33309fd10fc74bf39c77e46230f60929
+run_name: abrasive-ape-446
+run_uuid: 33309fd10fc74bf39c77e46230f60929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747183763150
+status: 3
+tags: []
+user_id: runner
