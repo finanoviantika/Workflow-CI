@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fc5e08262ed14d9795bfb64ffa72b008/artifacts
+end_time: 1747244320936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc5e08262ed14d9795bfb64ffa72b008
+run_name: rebellious-koi-675
+run_uuid: fc5e08262ed14d9795bfb64ffa72b008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747244314658
+status: 3
+tags: []
+user_id: runner
