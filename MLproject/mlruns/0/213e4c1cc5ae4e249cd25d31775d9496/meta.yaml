@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/213e4c1cc5ae4e249cd25d31775d9496/artifacts
+end_time: 1747202566207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 213e4c1cc5ae4e249cd25d31775d9496
+run_name: glamorous-gull-661
+run_uuid: 213e4c1cc5ae4e249cd25d31775d9496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202559506
+status: 3
+tags: []
+user_id: runner
