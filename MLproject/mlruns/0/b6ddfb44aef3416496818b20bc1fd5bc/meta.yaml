@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b6ddfb44aef3416496818b20bc1fd5bc/artifacts
+end_time: 1747197573720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6ddfb44aef3416496818b20bc1fd5bc
+run_name: receptive-bug-904
+run_uuid: b6ddfb44aef3416496818b20bc1fd5bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197567097
+status: 3
+tags: []
+user_id: runner
