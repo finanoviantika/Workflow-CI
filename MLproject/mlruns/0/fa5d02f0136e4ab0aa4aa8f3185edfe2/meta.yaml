@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fa5d02f0136e4ab0aa4aa8f3185edfe2/artifacts
+end_time: 1747257042296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa5d02f0136e4ab0aa4aa8f3185edfe2
+run_name: handsome-gull-988
+run_uuid: fa5d02f0136e4ab0aa4aa8f3185edfe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747257035664
+status: 3
+tags: []
+user_id: runner
