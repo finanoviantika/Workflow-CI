@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd2df05b72b34c67b3aa7b9e51bdf373/artifacts
+end_time: 1747250047442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd2df05b72b34c67b3aa7b9e51bdf373
+run_name: nervous-crow-731
+run_uuid: cd2df05b72b34c67b3aa7b9e51bdf373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747250040971
+status: 3
+tags: []
+user_id: runner
