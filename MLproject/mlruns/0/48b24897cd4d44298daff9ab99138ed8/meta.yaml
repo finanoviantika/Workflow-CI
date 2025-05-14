@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/48b24897cd4d44298daff9ab99138ed8/artifacts
+end_time: 1747227315744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b24897cd4d44298daff9ab99138ed8
+run_name: dazzling-deer-640
+run_uuid: 48b24897cd4d44298daff9ab99138ed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747227309377
+status: 3
+tags: []
+user_id: runner
