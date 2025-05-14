@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b4d747342f3a4cb6a8eae615b1c83231/artifacts
+end_time: 1747253447724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d747342f3a4cb6a8eae615b1c83231
+run_name: intelligent-fowl-281
+run_uuid: b4d747342f3a4cb6a8eae615b1c83231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253441407
+status: 3
+tags: []
+user_id: runner
