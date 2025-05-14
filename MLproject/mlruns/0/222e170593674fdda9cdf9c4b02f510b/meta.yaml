@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/222e170593674fdda9cdf9c4b02f510b/artifacts
+end_time: 1747216737246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222e170593674fdda9cdf9c4b02f510b
+run_name: adorable-horse-36
+run_uuid: 222e170593674fdda9cdf9c4b02f510b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747216730198
+status: 3
+tags: []
+user_id: runner
