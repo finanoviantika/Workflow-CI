@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b3bcf35ca4b4ef5879d65c7a15e9464/artifacts
+end_time: 1747233160112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b3bcf35ca4b4ef5879d65c7a15e9464
+run_name: stately-cub-978
+run_uuid: 9b3bcf35ca4b4ef5879d65c7a15e9464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747233153375
+status: 3
+tags: []
+user_id: runner
