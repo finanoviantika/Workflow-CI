@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0dc7656b1b4446a0867dd78b72d3df52/artifacts
+end_time: 1747240855169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dc7656b1b4446a0867dd78b72d3df52
+run_name: calm-calf-268
+run_uuid: 0dc7656b1b4446a0867dd78b72d3df52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747240848710
+status: 3
+tags: []
+user_id: runner
