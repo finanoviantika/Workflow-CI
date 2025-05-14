@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7372b4e072754c2398aac138f042fc46/artifacts
+end_time: 1747258274340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7372b4e072754c2398aac138f042fc46
+run_name: flawless-dolphin-307
+run_uuid: 7372b4e072754c2398aac138f042fc46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747258268041
+status: 3
+tags: []
+user_id: runner
