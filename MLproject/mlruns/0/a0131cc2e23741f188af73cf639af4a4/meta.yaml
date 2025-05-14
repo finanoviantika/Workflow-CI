@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a0131cc2e23741f188af73cf639af4a4/artifacts
+end_time: 1747191883598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0131cc2e23741f188af73cf639af4a4
+run_name: righteous-turtle-307
+run_uuid: a0131cc2e23741f188af73cf639af4a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747191877271
+status: 3
+tags: []
+user_id: runner
