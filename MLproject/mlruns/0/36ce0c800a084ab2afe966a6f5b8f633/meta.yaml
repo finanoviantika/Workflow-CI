@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/36ce0c800a084ab2afe966a6f5b8f633/artifacts
+end_time: 1747225444476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ce0c800a084ab2afe966a6f5b8f633
+run_name: capricious-lynx-451
+run_uuid: 36ce0c800a084ab2afe966a6f5b8f633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747225438223
+status: 3
+tags: []
+user_id: runner
