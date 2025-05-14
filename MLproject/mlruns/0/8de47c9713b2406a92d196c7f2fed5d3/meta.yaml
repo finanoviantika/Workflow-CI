@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8de47c9713b2406a92d196c7f2fed5d3/artifacts
+end_time: 1747199115174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8de47c9713b2406a92d196c7f2fed5d3
+run_name: agreeable-shark-270
+run_uuid: 8de47c9713b2406a92d196c7f2fed5d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747199108958
+status: 3
+tags: []
+user_id: runner
