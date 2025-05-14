@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a539373e664f43d8868f152a2416fec9/artifacts
+end_time: 1747266827533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a539373e664f43d8868f152a2416fec9
+run_name: funny-shark-595
+run_uuid: a539373e664f43d8868f152a2416fec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747266821492
+status: 3
+tags: []
+user_id: runner
