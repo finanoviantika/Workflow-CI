@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25d3818f3d6a4acaa6b1a7292bc17c4a/artifacts
+end_time: 1747217464506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25d3818f3d6a4acaa6b1a7292bc17c4a
+run_name: worried-shark-851
+run_uuid: 25d3818f3d6a4acaa6b1a7292bc17c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747217458605
+status: 3
+tags: []
+user_id: runner
