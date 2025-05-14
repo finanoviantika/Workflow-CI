@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78a69f3f754d4f47abf86b0ee1b4f87c/artifacts
+end_time: 1747224887695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78a69f3f754d4f47abf86b0ee1b4f87c
+run_name: burly-skunk-252
+run_uuid: 78a69f3f754d4f47abf86b0ee1b4f87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747224881359
+status: 3
+tags: []
+user_id: runner
