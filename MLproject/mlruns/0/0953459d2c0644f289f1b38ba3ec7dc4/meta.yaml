@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0953459d2c0644f289f1b38ba3ec7dc4/artifacts
+end_time: 1747212559920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0953459d2c0644f289f1b38ba3ec7dc4
+run_name: legendary-goat-929
+run_uuid: 0953459d2c0644f289f1b38ba3ec7dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747212553664
+status: 3
+tags: []
+user_id: runner
