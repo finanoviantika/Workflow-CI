@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4fc2fc3f48ce47d68eddef2f67373533/artifacts
+end_time: 1747234879112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fc2fc3f48ce47d68eddef2f67373533
+run_name: abrasive-dog-383
+run_uuid: 4fc2fc3f48ce47d68eddef2f67373533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747234872399
+status: 3
+tags: []
+user_id: runner
