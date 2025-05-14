@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/94e79f6622f740319dda5cdbc4d9dee0/artifacts
+end_time: 1747206947163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94e79f6622f740319dda5cdbc4d9dee0
+run_name: colorful-roo-533
+run_uuid: 94e79f6622f740319dda5cdbc4d9dee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747206940942
+status: 3
+tags: []
+user_id: runner
