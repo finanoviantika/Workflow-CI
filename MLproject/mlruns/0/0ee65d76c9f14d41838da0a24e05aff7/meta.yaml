@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0ee65d76c9f14d41838da0a24e05aff7/artifacts
+end_time: 1747257136974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ee65d76c9f14d41838da0a24e05aff7
+run_name: bald-fox-122
+run_uuid: 0ee65d76c9f14d41838da0a24e05aff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747257130554
+status: 3
+tags: []
+user_id: runner
