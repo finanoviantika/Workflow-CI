@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/21cbc2084f1d47bfa3aca7a1b81a273a/artifacts
+end_time: 1747253816601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21cbc2084f1d47bfa3aca7a1b81a273a
+run_name: nimble-stoat-279
+run_uuid: 21cbc2084f1d47bfa3aca7a1b81a273a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253810241
+status: 3
+tags: []
+user_id: runner
