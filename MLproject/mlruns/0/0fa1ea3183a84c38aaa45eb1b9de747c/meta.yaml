@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0fa1ea3183a84c38aaa45eb1b9de747c/artifacts
+end_time: 1747201832179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fa1ea3183a84c38aaa45eb1b9de747c
+run_name: handsome-sloth-949
+run_uuid: 0fa1ea3183a84c38aaa45eb1b9de747c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747201825877
+status: 3
+tags: []
+user_id: runner
