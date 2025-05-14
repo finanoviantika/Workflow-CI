@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c136eba99052465cbcd5c78373f54928/artifacts
+end_time: 1747207964301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c136eba99052465cbcd5c78373f54928
+run_name: omniscient-ram-74
+run_uuid: c136eba99052465cbcd5c78373f54928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747207957832
+status: 3
+tags: []
+user_id: runner
