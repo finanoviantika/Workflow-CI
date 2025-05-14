@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fdaa3581485a481ea39bd0131ba5d9fd/artifacts
+end_time: 1747203658516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdaa3581485a481ea39bd0131ba5d9fd
+run_name: persistent-wasp-662
+run_uuid: fdaa3581485a481ea39bd0131ba5d9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747203652262
+status: 3
+tags: []
+user_id: runner
