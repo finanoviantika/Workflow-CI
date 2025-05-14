@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f695f878fe94517aebcccceb9af604d/artifacts
+end_time: 1747242435330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f695f878fe94517aebcccceb9af604d
+run_name: traveling-kit-920
+run_uuid: 7f695f878fe94517aebcccceb9af604d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242429053
+status: 3
+tags: []
+user_id: runner
