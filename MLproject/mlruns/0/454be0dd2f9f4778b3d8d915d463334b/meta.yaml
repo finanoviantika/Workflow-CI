@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/454be0dd2f9f4778b3d8d915d463334b/artifacts
+end_time: 1747230709079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454be0dd2f9f4778b3d8d915d463334b
+run_name: victorious-crow-459
+run_uuid: 454be0dd2f9f4778b3d8d915d463334b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747230702515
+status: 3
+tags: []
+user_id: runner
