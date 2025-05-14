@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4971b122170449848760e62a0054eace/artifacts
+end_time: 1747252464288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4971b122170449848760e62a0054eace
+run_name: skittish-goat-391
+run_uuid: 4971b122170449848760e62a0054eace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252457947
+status: 3
+tags: []
+user_id: runner
