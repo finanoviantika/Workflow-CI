@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e984e2f6a63f4eb6bc2305df4a611f47/artifacts
+end_time: 1747248013537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e984e2f6a63f4eb6bc2305df4a611f47
+run_name: angry-boar-810
+run_uuid: e984e2f6a63f4eb6bc2305df4a611f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747248007288
+status: 3
+tags: []
+user_id: runner
