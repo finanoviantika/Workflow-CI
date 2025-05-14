@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fe3964812762434393547464d005cfd9/artifacts
+end_time: 1747209907310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe3964812762434393547464d005cfd9
+run_name: placid-robin-362
+run_uuid: fe3964812762434393547464d005cfd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747209900935
+status: 3
+tags: []
+user_id: runner
