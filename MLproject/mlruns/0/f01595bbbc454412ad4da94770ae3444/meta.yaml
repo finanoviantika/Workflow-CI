@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f01595bbbc454412ad4da94770ae3444/artifacts
+end_time: 1747210369141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f01595bbbc454412ad4da94770ae3444
+run_name: nosy-duck-590
+run_uuid: f01595bbbc454412ad4da94770ae3444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210362803
+status: 3
+tags: []
+user_id: runner
