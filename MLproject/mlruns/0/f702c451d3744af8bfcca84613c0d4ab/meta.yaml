@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f702c451d3744af8bfcca84613c0d4ab/artifacts
+end_time: 1747253726767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f702c451d3744af8bfcca84613c0d4ab
+run_name: charming-bass-983
+run_uuid: f702c451d3744af8bfcca84613c0d4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747253720230
+status: 3
+tags: []
+user_id: runner
