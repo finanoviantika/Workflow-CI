@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d226f22078254c1bb21c90fdc5edfc69/artifacts
+end_time: 1747192283918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d226f22078254c1bb21c90fdc5edfc69
+run_name: monumental-bee-960
+run_uuid: d226f22078254c1bb21c90fdc5edfc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747192277542
+status: 3
+tags: []
+user_id: runner
