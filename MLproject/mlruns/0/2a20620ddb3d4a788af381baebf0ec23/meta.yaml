@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2a20620ddb3d4a788af381baebf0ec23/artifacts
+end_time: 1747194297537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a20620ddb3d4a788af381baebf0ec23
+run_name: luminous-pig-348
+run_uuid: 2a20620ddb3d4a788af381baebf0ec23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747194291086
+status: 3
+tags: []
+user_id: runner
