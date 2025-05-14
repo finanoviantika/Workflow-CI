@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/80e1aabf0c5640d6afd6b6869fd9db24/artifacts
+end_time: 1747204481910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e1aabf0c5640d6afd6b6869fd9db24
+run_name: masked-steed-589
+run_uuid: 80e1aabf0c5640d6afd6b6869fd9db24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204475255
+status: 3
+tags: []
+user_id: runner
