@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c190b9c0f65e4eadb4a1a5f79df3d1ff/artifacts
+end_time: 1747221528123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c190b9c0f65e4eadb4a1a5f79df3d1ff
+run_name: luminous-crab-36
+run_uuid: c190b9c0f65e4eadb4a1a5f79df3d1ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747221521705
+status: 3
+tags: []
+user_id: runner
