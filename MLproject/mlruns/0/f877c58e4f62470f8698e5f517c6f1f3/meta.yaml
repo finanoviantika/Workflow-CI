@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f877c58e4f62470f8698e5f517c6f1f3/artifacts
+end_time: 1747252566401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f877c58e4f62470f8698e5f517c6f1f3
+run_name: bouncy-crow-589
+run_uuid: f877c58e4f62470f8698e5f517c6f1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252560081
+status: 3
+tags: []
+user_id: runner
