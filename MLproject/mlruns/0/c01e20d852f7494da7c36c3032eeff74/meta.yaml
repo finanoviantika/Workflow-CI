@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c01e20d852f7494da7c36c3032eeff74/artifacts
+end_time: 1747246673735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c01e20d852f7494da7c36c3032eeff74
+run_name: placid-shrimp-31
+run_uuid: c01e20d852f7494da7c36c3032eeff74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747246667263
+status: 3
+tags: []
+user_id: runner
