@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/01c631152e804a44a445f6231874289b/artifacts
+end_time: 1747210919957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01c631152e804a44a445f6231874289b
+run_name: beautiful-sheep-119
+run_uuid: 01c631152e804a44a445f6231874289b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747210913569
+status: 3
+tags: []
+user_id: runner
