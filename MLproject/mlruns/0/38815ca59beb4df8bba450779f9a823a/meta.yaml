@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/38815ca59beb4df8bba450779f9a823a/artifacts
+end_time: 1747208803294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38815ca59beb4df8bba450779f9a823a
+run_name: zealous-snake-578
+run_uuid: 38815ca59beb4df8bba450779f9a823a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747208796804
+status: 3
+tags: []
+user_id: runner
