@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cab859a4c3684e88aef764df6d1f5814/artifacts
+end_time: 1747292160715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cab859a4c3684e88aef764df6d1f5814
+run_name: classy-bat-13
+run_uuid: cab859a4c3684e88aef764df6d1f5814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292154347
+status: 3
+tags: []
+user_id: runner
