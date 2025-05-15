@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1facef8706564b249d75bf71ef6d51d1/artifacts
+end_time: 1747337199489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1facef8706564b249d75bf71ef6d51d1
+run_name: exultant-frog-614
+run_uuid: 1facef8706564b249d75bf71ef6d51d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337193175
+status: 3
+tags: []
+user_id: runner
