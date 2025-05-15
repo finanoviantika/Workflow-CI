@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/79bdaeebc93b41379bfedec5ff37dfdc/artifacts
+end_time: 1747272183537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79bdaeebc93b41379bfedec5ff37dfdc
+run_name: classy-asp-941
+run_uuid: 79bdaeebc93b41379bfedec5ff37dfdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747272177277
+status: 3
+tags: []
+user_id: runner
