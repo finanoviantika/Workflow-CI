@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82b5b545774f4b7d98f522f5815cc423/artifacts
+end_time: 1747276024918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b5b545774f4b7d98f522f5815cc423
+run_name: trusting-loon-791
+run_uuid: 82b5b545774f4b7d98f522f5815cc423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276018323
+status: 3
+tags: []
+user_id: runner
