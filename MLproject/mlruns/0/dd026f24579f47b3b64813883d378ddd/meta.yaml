@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd026f24579f47b3b64813883d378ddd/artifacts
+end_time: 1747307404620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd026f24579f47b3b64813883d378ddd
+run_name: salty-fox-321
+run_uuid: dd026f24579f47b3b64813883d378ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747307398169
+status: 3
+tags: []
+user_id: runner
