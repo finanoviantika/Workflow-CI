@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a89b0d27bad7449ab2c7d35704a08921/artifacts
+end_time: 1747290156982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a89b0d27bad7449ab2c7d35704a08921
+run_name: stylish-fish-926
+run_uuid: a89b0d27bad7449ab2c7d35704a08921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290150488
+status: 3
+tags: []
+user_id: runner
