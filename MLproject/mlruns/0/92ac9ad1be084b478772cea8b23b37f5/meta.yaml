@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92ac9ad1be084b478772cea8b23b37f5/artifacts
+end_time: 1747346752179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ac9ad1be084b478772cea8b23b37f5
+run_name: delightful-hen-695
+run_uuid: 92ac9ad1be084b478772cea8b23b37f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747346745653
+status: 3
+tags: []
+user_id: runner
