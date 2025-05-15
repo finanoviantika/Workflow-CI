@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0102b1cdbeb547c580ee6d553df627ae/artifacts
+end_time: 1747288648465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0102b1cdbeb547c580ee6d553df627ae
+run_name: worried-flea-824
+run_uuid: 0102b1cdbeb547c580ee6d553df627ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747288642156
+status: 3
+tags: []
+user_id: runner
