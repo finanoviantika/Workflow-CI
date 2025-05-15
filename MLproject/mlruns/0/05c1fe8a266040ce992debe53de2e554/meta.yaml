@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/05c1fe8a266040ce992debe53de2e554/artifacts
+end_time: 1747300940120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05c1fe8a266040ce992debe53de2e554
+run_name: kindly-mouse-789
+run_uuid: 05c1fe8a266040ce992debe53de2e554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747300933756
+status: 3
+tags: []
+user_id: runner
