@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9d4790ff4f7b4dc7a77d83c7ebba331f/artifacts
+end_time: 1747267586781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d4790ff4f7b4dc7a77d83c7ebba331f
+run_name: secretive-sloth-175
+run_uuid: 9d4790ff4f7b4dc7a77d83c7ebba331f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747267580492
+status: 3
+tags: []
+user_id: runner
