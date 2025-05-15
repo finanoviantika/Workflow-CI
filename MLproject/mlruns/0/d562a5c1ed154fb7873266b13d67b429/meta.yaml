@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d562a5c1ed154fb7873266b13d67b429/artifacts
+end_time: 1747324732512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d562a5c1ed154fb7873266b13d67b429
+run_name: bittersweet-mare-203
+run_uuid: d562a5c1ed154fb7873266b13d67b429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747324725534
+status: 3
+tags: []
+user_id: runner
