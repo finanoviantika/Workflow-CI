@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cef32c80c70f46e9af840eb2959a9c1a/artifacts
+end_time: 1747319801175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cef32c80c70f46e9af840eb2959a9c1a
+run_name: merciful-crab-176
+run_uuid: cef32c80c70f46e9af840eb2959a9c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747319794650
+status: 3
+tags: []
+user_id: runner
