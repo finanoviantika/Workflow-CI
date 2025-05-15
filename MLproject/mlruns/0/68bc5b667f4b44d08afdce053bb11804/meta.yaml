@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/68bc5b667f4b44d08afdce053bb11804/artifacts
+end_time: 1747334317675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68bc5b667f4b44d08afdce053bb11804
+run_name: judicious-auk-822
+run_uuid: 68bc5b667f4b44d08afdce053bb11804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334311231
+status: 3
+tags: []
+user_id: runner
