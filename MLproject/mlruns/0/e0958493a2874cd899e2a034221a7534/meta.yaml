@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0958493a2874cd899e2a034221a7534/artifacts
+end_time: 1747322452462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0958493a2874cd899e2a034221a7534
+run_name: caring-skink-211
+run_uuid: e0958493a2874cd899e2a034221a7534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322446061
+status: 3
+tags: []
+user_id: runner
