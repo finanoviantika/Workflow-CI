@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aad086ab35674c0c8784771a968e84bc/artifacts
+end_time: 1747277983855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aad086ab35674c0c8784771a968e84bc
+run_name: treasured-asp-751
+run_uuid: aad086ab35674c0c8784771a968e84bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747277977135
+status: 3
+tags: []
+user_id: runner
