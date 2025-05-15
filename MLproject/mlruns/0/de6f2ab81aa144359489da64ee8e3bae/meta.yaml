@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de6f2ab81aa144359489da64ee8e3bae/artifacts
+end_time: 1747349379735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de6f2ab81aa144359489da64ee8e3bae
+run_name: colorful-elk-591
+run_uuid: de6f2ab81aa144359489da64ee8e3bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747349373445
+status: 3
+tags: []
+user_id: runner
