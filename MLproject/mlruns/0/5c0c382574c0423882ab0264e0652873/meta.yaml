@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c0c382574c0423882ab0264e0652873/artifacts
+end_time: 1747280352801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c0c382574c0423882ab0264e0652873
+run_name: awesome-shrike-958
+run_uuid: 5c0c382574c0423882ab0264e0652873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747280346400
+status: 3
+tags: []
+user_id: runner
