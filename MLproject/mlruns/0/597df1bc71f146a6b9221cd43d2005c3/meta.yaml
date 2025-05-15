@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/597df1bc71f146a6b9221cd43d2005c3/artifacts
+end_time: 1747299332661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 597df1bc71f146a6b9221cd43d2005c3
+run_name: abrasive-smelt-634
+run_uuid: 597df1bc71f146a6b9221cd43d2005c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747299324956
+status: 3
+tags: []
+user_id: runner
