@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f0832b2f34c441e3aaca42b6d8371a6a/artifacts
+end_time: 1747290723689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0832b2f34c441e3aaca42b6d8371a6a
+run_name: peaceful-roo-562
+run_uuid: f0832b2f34c441e3aaca42b6d8371a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290717374
+status: 3
+tags: []
+user_id: runner
