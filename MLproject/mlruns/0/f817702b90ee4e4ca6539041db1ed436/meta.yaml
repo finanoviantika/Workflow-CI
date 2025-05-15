@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f817702b90ee4e4ca6539041db1ed436/artifacts
+end_time: 1747314293115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f817702b90ee4e4ca6539041db1ed436
+run_name: rare-squid-732
+run_uuid: f817702b90ee4e4ca6539041db1ed436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314286622
+status: 3
+tags: []
+user_id: runner
