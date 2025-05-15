@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2fac0f6a166c435ca0109cd7e650cd25/artifacts
+end_time: 1747345702361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fac0f6a166c435ca0109cd7e650cd25
+run_name: useful-owl-578
+run_uuid: 2fac0f6a166c435ca0109cd7e650cd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345695949
+status: 3
+tags: []
+user_id: runner
