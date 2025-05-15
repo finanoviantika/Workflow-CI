@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1167a9cdfe1245e0b79bcefdd2c32901/artifacts
+end_time: 1747305444846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1167a9cdfe1245e0b79bcefdd2c32901
+run_name: bold-snail-516
+run_uuid: 1167a9cdfe1245e0b79bcefdd2c32901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747305438428
+status: 3
+tags: []
+user_id: runner
