@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c3240bfd845b46758a056e7742751733/artifacts
+end_time: 1747295829812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3240bfd845b46758a056e7742751733
+run_name: magnificent-gnu-913
+run_uuid: c3240bfd845b46758a056e7742751733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747295823233
+status: 3
+tags: []
+user_id: runner
