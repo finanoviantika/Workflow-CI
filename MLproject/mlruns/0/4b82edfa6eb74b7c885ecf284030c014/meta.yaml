@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4b82edfa6eb74b7c885ecf284030c014/artifacts
+end_time: 1747274451307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b82edfa6eb74b7c885ecf284030c014
+run_name: suave-seal-467
+run_uuid: 4b82edfa6eb74b7c885ecf284030c014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747274445126
+status: 3
+tags: []
+user_id: runner
