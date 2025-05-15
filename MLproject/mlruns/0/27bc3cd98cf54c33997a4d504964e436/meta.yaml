@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/27bc3cd98cf54c33997a4d504964e436/artifacts
+end_time: 1747285475068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27bc3cd98cf54c33997a4d504964e436
+run_name: agreeable-sow-948
+run_uuid: 27bc3cd98cf54c33997a4d504964e436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285468598
+status: 3
+tags: []
+user_id: runner
