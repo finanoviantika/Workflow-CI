@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3ea162f494294342a651d87b49e531ec/artifacts
+end_time: 1747290445734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea162f494294342a651d87b49e531ec
+run_name: bustling-stag-111
+run_uuid: 3ea162f494294342a651d87b49e531ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290439375
+status: 3
+tags: []
+user_id: runner
