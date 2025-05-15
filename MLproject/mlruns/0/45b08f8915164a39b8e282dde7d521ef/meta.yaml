@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45b08f8915164a39b8e282dde7d521ef/artifacts
+end_time: 1747336444413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45b08f8915164a39b8e282dde7d521ef
+run_name: burly-snake-85
+run_uuid: 45b08f8915164a39b8e282dde7d521ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747336437833
+status: 3
+tags: []
+user_id: runner
