@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/42d8fb3820074639b96d81a1c6e4596d/artifacts
+end_time: 1747312099935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42d8fb3820074639b96d81a1c6e4596d
+run_name: capable-turtle-903
+run_uuid: 42d8fb3820074639b96d81a1c6e4596d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747312093284
+status: 3
+tags: []
+user_id: runner
