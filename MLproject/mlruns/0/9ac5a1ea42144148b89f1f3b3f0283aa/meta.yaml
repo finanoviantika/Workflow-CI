@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9ac5a1ea42144148b89f1f3b3f0283aa/artifacts
+end_time: 1747353291199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ac5a1ea42144148b89f1f3b3f0283aa
+run_name: loud-squirrel-5
+run_uuid: 9ac5a1ea42144148b89f1f3b3f0283aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747353284725
+status: 3
+tags: []
+user_id: runner
