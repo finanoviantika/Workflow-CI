@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/453ef4ab2033425d8420068124a1e5ff/artifacts
+end_time: 1747285854743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 453ef4ab2033425d8420068124a1e5ff
+run_name: aged-midge-872
+run_uuid: 453ef4ab2033425d8420068124a1e5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285847858
+status: 3
+tags: []
+user_id: runner
