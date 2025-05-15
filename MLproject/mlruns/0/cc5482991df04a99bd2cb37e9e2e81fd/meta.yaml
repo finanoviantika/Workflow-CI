@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc5482991df04a99bd2cb37e9e2e81fd/artifacts
+end_time: 1747321477140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5482991df04a99bd2cb37e9e2e81fd
+run_name: charming-croc-324
+run_uuid: cc5482991df04a99bd2cb37e9e2e81fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747321470837
+status: 3
+tags: []
+user_id: runner
