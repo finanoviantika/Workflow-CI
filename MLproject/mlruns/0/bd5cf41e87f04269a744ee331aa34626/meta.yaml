@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd5cf41e87f04269a744ee331aa34626/artifacts
+end_time: 1747340304992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5cf41e87f04269a744ee331aa34626
+run_name: zealous-koi-86
+run_uuid: bd5cf41e87f04269a744ee331aa34626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747340298223
+status: 3
+tags: []
+user_id: runner
