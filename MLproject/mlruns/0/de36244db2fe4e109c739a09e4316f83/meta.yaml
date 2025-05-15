@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de36244db2fe4e109c739a09e4316f83/artifacts
+end_time: 1747318705342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de36244db2fe4e109c739a09e4316f83
+run_name: rumbling-ant-463
+run_uuid: de36244db2fe4e109c739a09e4316f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747318698736
+status: 3
+tags: []
+user_id: runner
