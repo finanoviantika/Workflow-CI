@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0ba147c9ec9a4d93b9c5781da8888f41/artifacts
+end_time: 1747282497764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ba147c9ec9a4d93b9c5781da8888f41
+run_name: gaudy-bat-512
+run_uuid: 0ba147c9ec9a4d93b9c5781da8888f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747282491435
+status: 3
+tags: []
+user_id: runner
