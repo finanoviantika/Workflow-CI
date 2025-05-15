@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c7a32e5387a46abb80b99e5dcc9cf1f/artifacts
+end_time: 1747294792025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c7a32e5387a46abb80b99e5dcc9cf1f
+run_name: learned-gnat-759
+run_uuid: 8c7a32e5387a46abb80b99e5dcc9cf1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747294785698
+status: 3
+tags: []
+user_id: runner
