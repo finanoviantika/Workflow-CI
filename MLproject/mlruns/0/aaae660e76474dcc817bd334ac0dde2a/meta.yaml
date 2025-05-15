@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aaae660e76474dcc817bd334ac0dde2a/artifacts
+end_time: 1747299520615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaae660e76474dcc817bd334ac0dde2a
+run_name: bouncy-asp-44
+run_uuid: aaae660e76474dcc817bd334ac0dde2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747299513898
+status: 3
+tags: []
+user_id: runner
