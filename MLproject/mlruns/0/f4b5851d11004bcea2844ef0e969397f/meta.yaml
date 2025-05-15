@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4b5851d11004bcea2844ef0e969397f/artifacts
+end_time: 1747298381196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b5851d11004bcea2844ef0e969397f
+run_name: nebulous-yak-879
+run_uuid: f4b5851d11004bcea2844ef0e969397f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747298374468
+status: 3
+tags: []
+user_id: runner
