@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7bf13666531347159a9e3fee758b7c3a/artifacts
+end_time: 1747347799849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bf13666531347159a9e3fee758b7c3a
+run_name: capable-seal-20
+run_uuid: 7bf13666531347159a9e3fee758b7c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347793147
+status: 3
+tags: []
+user_id: runner
