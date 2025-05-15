@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/44333075bec849dbadf25481ebc2f035/artifacts
+end_time: 1747310497334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44333075bec849dbadf25481ebc2f035
+run_name: flawless-steed-431
+run_uuid: 44333075bec849dbadf25481ebc2f035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310490936
+status: 3
+tags: []
+user_id: runner
