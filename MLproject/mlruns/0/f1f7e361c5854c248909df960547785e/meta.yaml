@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1f7e361c5854c248909df960547785e/artifacts
+end_time: 1747348637748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1f7e361c5854c248909df960547785e
+run_name: stylish-deer-585
+run_uuid: f1f7e361c5854c248909df960547785e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348631298
+status: 3
+tags: []
+user_id: runner
