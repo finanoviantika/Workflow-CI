@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8837214e3be04f54b5458775515d5286/artifacts
+end_time: 1747322362288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8837214e3be04f54b5458775515d5286
+run_name: unequaled-foal-225
+run_uuid: 8837214e3be04f54b5458775515d5286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322355598
+status: 3
+tags: []
+user_id: runner
