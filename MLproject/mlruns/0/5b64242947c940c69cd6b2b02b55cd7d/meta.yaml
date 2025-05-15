@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5b64242947c940c69cd6b2b02b55cd7d/artifacts
+end_time: 1747295079748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b64242947c940c69cd6b2b02b55cd7d
+run_name: kindly-shrew-540
+run_uuid: 5b64242947c940c69cd6b2b02b55cd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747295073178
+status: 3
+tags: []
+user_id: runner
