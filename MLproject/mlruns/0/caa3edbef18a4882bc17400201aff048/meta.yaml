@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/caa3edbef18a4882bc17400201aff048/artifacts
+end_time: 1747339118986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa3edbef18a4882bc17400201aff048
+run_name: abrasive-lynx-253
+run_uuid: caa3edbef18a4882bc17400201aff048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747339112219
+status: 3
+tags: []
+user_id: runner
