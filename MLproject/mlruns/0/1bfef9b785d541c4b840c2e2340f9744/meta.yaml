@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1bfef9b785d541c4b840c2e2340f9744/artifacts
+end_time: 1747291020321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bfef9b785d541c4b840c2e2340f9744
+run_name: adaptable-zebra-627
+run_uuid: 1bfef9b785d541c4b840c2e2340f9744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291013761
+status: 3
+tags: []
+user_id: runner
