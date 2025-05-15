@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0a7d43ef934548799e751b2942de09ef/artifacts
+end_time: 1747311907952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a7d43ef934548799e751b2942de09ef
+run_name: exultant-goose-447
+run_uuid: 0a7d43ef934548799e751b2942de09ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311901578
+status: 3
+tags: []
+user_id: runner
