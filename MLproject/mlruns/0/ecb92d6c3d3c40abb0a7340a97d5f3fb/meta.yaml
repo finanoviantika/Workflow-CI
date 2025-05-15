@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ecb92d6c3d3c40abb0a7340a97d5f3fb/artifacts
+end_time: 1747290251494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecb92d6c3d3c40abb0a7340a97d5f3fb
+run_name: mysterious-moose-91
+run_uuid: ecb92d6c3d3c40abb0a7340a97d5f3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290244976
+status: 3
+tags: []
+user_id: runner
