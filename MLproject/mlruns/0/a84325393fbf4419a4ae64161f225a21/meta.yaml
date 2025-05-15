@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a84325393fbf4419a4ae64161f225a21/artifacts
+end_time: 1747346850437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a84325393fbf4419a4ae64161f225a21
+run_name: crawling-horse-169
+run_uuid: a84325393fbf4419a4ae64161f225a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747346844054
+status: 3
+tags: []
+user_id: runner
