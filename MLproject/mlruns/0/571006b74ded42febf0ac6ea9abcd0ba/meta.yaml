@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/571006b74ded42febf0ac6ea9abcd0ba/artifacts
+end_time: 1747302233963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 571006b74ded42febf0ac6ea9abcd0ba
+run_name: rumbling-crab-824
+run_uuid: 571006b74ded42febf0ac6ea9abcd0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302227592
+status: 3
+tags: []
+user_id: runner
