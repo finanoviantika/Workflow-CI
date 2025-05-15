@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/085b88a504074b60a25655c6c6c17fa0/artifacts
+end_time: 1747338634154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 085b88a504074b60a25655c6c6c17fa0
+run_name: zealous-pig-569
+run_uuid: 085b88a504074b60a25655c6c6c17fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747338627553
+status: 3
+tags: []
+user_id: runner
