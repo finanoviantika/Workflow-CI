@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eb695b432ef7410fb1933c13c69449be/artifacts
+end_time: 1747284067631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb695b432ef7410fb1933c13c69449be
+run_name: stylish-mink-863
+run_uuid: eb695b432ef7410fb1933c13c69449be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284061210
+status: 3
+tags: []
+user_id: runner
