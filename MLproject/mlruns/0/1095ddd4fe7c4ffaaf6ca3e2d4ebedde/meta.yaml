@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1095ddd4fe7c4ffaaf6ca3e2d4ebedde/artifacts
+end_time: 1747337105067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1095ddd4fe7c4ffaaf6ca3e2d4ebedde
+run_name: luminous-shrew-304
+run_uuid: 1095ddd4fe7c4ffaaf6ca3e2d4ebedde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337098521
+status: 3
+tags: []
+user_id: runner
