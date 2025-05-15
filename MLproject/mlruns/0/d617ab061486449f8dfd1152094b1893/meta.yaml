@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d617ab061486449f8dfd1152094b1893/artifacts
+end_time: 1747311437232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d617ab061486449f8dfd1152094b1893
+run_name: salty-bear-182
+run_uuid: d617ab061486449f8dfd1152094b1893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311430725
+status: 3
+tags: []
+user_id: runner
