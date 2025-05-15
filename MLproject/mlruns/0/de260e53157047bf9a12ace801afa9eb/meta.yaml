@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de260e53157047bf9a12ace801afa9eb/artifacts
+end_time: 1747347518264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de260e53157047bf9a12ace801afa9eb
+run_name: burly-turtle-603
+run_uuid: de260e53157047bf9a12ace801afa9eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347511632
+status: 3
+tags: []
+user_id: runner
