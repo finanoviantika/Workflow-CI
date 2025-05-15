@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d5681d7a363943789a70050b245261a9/artifacts
+end_time: 1747308710645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5681d7a363943789a70050b245261a9
+run_name: smiling-mole-760
+run_uuid: d5681d7a363943789a70050b245261a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308704205
+status: 3
+tags: []
+user_id: runner
