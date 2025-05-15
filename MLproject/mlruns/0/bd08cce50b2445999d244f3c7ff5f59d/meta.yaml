@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd08cce50b2445999d244f3c7ff5f59d/artifacts
+end_time: 1747289688323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd08cce50b2445999d244f3c7ff5f59d
+run_name: fortunate-ant-803
+run_uuid: bd08cce50b2445999d244f3c7ff5f59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289681328
+status: 3
+tags: []
+user_id: runner
