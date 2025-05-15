@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0fee9626b6064c98b41f9dfea21fae18/artifacts
+end_time: 1747324538442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fee9626b6064c98b41f9dfea21fae18
+run_name: crawling-mouse-980
+run_uuid: 0fee9626b6064c98b41f9dfea21fae18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747324532108
+status: 3
+tags: []
+user_id: runner
