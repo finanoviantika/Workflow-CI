@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0e794ea6ed3f4ae2b63877a51fdad90a/artifacts
+end_time: 1747294884183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e794ea6ed3f4ae2b63877a51fdad90a
+run_name: trusting-jay-703
+run_uuid: 0e794ea6ed3f4ae2b63877a51fdad90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747294877741
+status: 3
+tags: []
+user_id: runner
