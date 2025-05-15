@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2db8b772b9b1458d945bba1785ed2055/artifacts
+end_time: 1747275004626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2db8b772b9b1458d945bba1785ed2055
+run_name: thundering-snipe-34
+run_uuid: 2db8b772b9b1458d945bba1785ed2055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747274998192
+status: 3
+tags: []
+user_id: runner
