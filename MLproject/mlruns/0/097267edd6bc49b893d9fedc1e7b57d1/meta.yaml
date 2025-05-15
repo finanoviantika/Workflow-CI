@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/097267edd6bc49b893d9fedc1e7b57d1/artifacts
+end_time: 1747346655811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 097267edd6bc49b893d9fedc1e7b57d1
+run_name: illustrious-dove-190
+run_uuid: 097267edd6bc49b893d9fedc1e7b57d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747346649500
+status: 3
+tags: []
+user_id: runner
