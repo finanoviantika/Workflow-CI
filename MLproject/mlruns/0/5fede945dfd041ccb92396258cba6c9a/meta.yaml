@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5fede945dfd041ccb92396258cba6c9a/artifacts
+end_time: 1747333824754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fede945dfd041ccb92396258cba6c9a
+run_name: defiant-fox-697
+run_uuid: 5fede945dfd041ccb92396258cba6c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333817941
+status: 3
+tags: []
+user_id: runner
