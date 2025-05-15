@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5157c108ef764d699037b6393d1e6d95/artifacts
+end_time: 1747333147093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5157c108ef764d699037b6393d1e6d95
+run_name: puzzled-duck-472
+run_uuid: 5157c108ef764d699037b6393d1e6d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333140691
+status: 3
+tags: []
+user_id: runner
