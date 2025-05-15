@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d9dd3cd4d91c40e48271741a0b0df94b/artifacts
+end_time: 1747317736975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9dd3cd4d91c40e48271741a0b0df94b
+run_name: treasured-squid-73
+run_uuid: d9dd3cd4d91c40e48271741a0b0df94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747317730589
+status: 3
+tags: []
+user_id: runner
