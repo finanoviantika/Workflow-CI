@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e74e4541c7874759849d0fbf87ea45c9/artifacts
+end_time: 1747339612792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e74e4541c7874759849d0fbf87ea45c9
+run_name: angry-kite-213
+run_uuid: e74e4541c7874759849d0fbf87ea45c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747339606425
+status: 3
+tags: []
+user_id: runner
