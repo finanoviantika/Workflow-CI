@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ec9d65c6745a44e2b0488f2e3914d8ed/artifacts
+end_time: 1747310781477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec9d65c6745a44e2b0488f2e3914d8ed
+run_name: upbeat-donkey-25
+run_uuid: ec9d65c6745a44e2b0488f2e3914d8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310774925
+status: 3
+tags: []
+user_id: runner
