@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae516fb5feed43998ff01b89230e6bd4/artifacts
+end_time: 1747343494741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae516fb5feed43998ff01b89230e6bd4
+run_name: bittersweet-goat-783
+run_uuid: ae516fb5feed43998ff01b89230e6bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747343487921
+status: 3
+tags: []
+user_id: runner
