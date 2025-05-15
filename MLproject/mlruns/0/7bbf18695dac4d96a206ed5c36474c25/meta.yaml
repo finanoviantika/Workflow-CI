@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7bbf18695dac4d96a206ed5c36474c25/artifacts
+end_time: 1747330471254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bbf18695dac4d96a206ed5c36474c25
+run_name: trusting-trout-798
+run_uuid: 7bbf18695dac4d96a206ed5c36474c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330464386
+status: 3
+tags: []
+user_id: runner
