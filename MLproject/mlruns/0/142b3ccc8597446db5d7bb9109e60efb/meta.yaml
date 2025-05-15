@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/142b3ccc8597446db5d7bb9109e60efb/artifacts
+end_time: 1747292714920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 142b3ccc8597446db5d7bb9109e60efb
+run_name: redolent-squid-677
+run_uuid: 142b3ccc8597446db5d7bb9109e60efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292708418
+status: 3
+tags: []
+user_id: runner
