@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c34545470f41496381884a2e2e075637/artifacts
+end_time: 1747322542037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c34545470f41496381884a2e2e075637
+run_name: mercurial-rat-781
+run_uuid: c34545470f41496381884a2e2e075637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322535676
+status: 3
+tags: []
+user_id: runner
