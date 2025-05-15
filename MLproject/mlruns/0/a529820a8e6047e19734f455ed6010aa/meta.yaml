@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a529820a8e6047e19734f455ed6010aa/artifacts
+end_time: 1747275096210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a529820a8e6047e19734f455ed6010aa
+run_name: bald-penguin-273
+run_uuid: a529820a8e6047e19734f455ed6010aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275089902
+status: 3
+tags: []
+user_id: runner
