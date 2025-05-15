@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c0e399140c6247d9b5da8b565a82821a/artifacts
+end_time: 1747303641510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0e399140c6247d9b5da8b565a82821a
+run_name: thoughtful-whale-970
+run_uuid: c0e399140c6247d9b5da8b565a82821a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747303635011
+status: 3
+tags: []
+user_id: runner
