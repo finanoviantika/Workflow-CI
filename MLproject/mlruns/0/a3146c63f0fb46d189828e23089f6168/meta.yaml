@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a3146c63f0fb46d189828e23089f6168/artifacts
+end_time: 1747308618630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3146c63f0fb46d189828e23089f6168
+run_name: selective-mink-82
+run_uuid: a3146c63f0fb46d189828e23089f6168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308611907
+status: 3
+tags: []
+user_id: runner
