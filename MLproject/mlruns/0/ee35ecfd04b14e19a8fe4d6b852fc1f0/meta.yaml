@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee35ecfd04b14e19a8fe4d6b852fc1f0/artifacts
+end_time: 1747333923703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee35ecfd04b14e19a8fe4d6b852fc1f0
+run_name: skillful-wasp-782
+run_uuid: ee35ecfd04b14e19a8fe4d6b852fc1f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333916867
+status: 3
+tags: []
+user_id: runner
