@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f97e025f8ced4d80b4da384f90024b5b/artifacts
+end_time: 1747314577699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f97e025f8ced4d80b4da384f90024b5b
+run_name: polite-ape-381
+run_uuid: f97e025f8ced4d80b4da384f90024b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314570896
+status: 3
+tags: []
+user_id: runner
