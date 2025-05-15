@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e1813b8ff32042f8b7c58d3e8aa13ff8/artifacts
+end_time: 1747282959481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1813b8ff32042f8b7c58d3e8aa13ff8
+run_name: luxuriant-mule-452
+run_uuid: e1813b8ff32042f8b7c58d3e8aa13ff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747282953130
+status: 3
+tags: []
+user_id: runner
