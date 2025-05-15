@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4172683b7c724f67b2aa2a8ec63815e2/artifacts
+end_time: 1747315161465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4172683b7c724f67b2aa2a8ec63815e2
+run_name: gregarious-stag-13
+run_uuid: 4172683b7c724f67b2aa2a8ec63815e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747315154903
+status: 3
+tags: []
+user_id: runner
