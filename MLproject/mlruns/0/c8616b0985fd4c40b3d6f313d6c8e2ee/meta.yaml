@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c8616b0985fd4c40b3d6f313d6c8e2ee/artifacts
+end_time: 1747284249820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8616b0985fd4c40b3d6f313d6c8e2ee
+run_name: smiling-cod-30
+run_uuid: c8616b0985fd4c40b3d6f313d6c8e2ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284243496
+status: 3
+tags: []
+user_id: runner
