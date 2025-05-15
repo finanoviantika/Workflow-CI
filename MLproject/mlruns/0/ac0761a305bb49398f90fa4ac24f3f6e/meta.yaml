@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac0761a305bb49398f90fa4ac24f3f6e/artifacts
+end_time: 1747329237026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0761a305bb49398f90fa4ac24f3f6e
+run_name: sincere-toad-360
+run_uuid: ac0761a305bb49398f90fa4ac24f3f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747329230625
+status: 3
+tags: []
+user_id: runner
