@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7e88a199dc73432f926feda47555057f/artifacts
+end_time: 1747275281692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e88a199dc73432f926feda47555057f
+run_name: tasteful-tern-82
+run_uuid: 7e88a199dc73432f926feda47555057f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275275311
+status: 3
+tags: []
+user_id: runner
