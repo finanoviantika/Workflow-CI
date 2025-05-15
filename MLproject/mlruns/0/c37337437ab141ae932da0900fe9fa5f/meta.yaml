@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c37337437ab141ae932da0900fe9fa5f/artifacts
+end_time: 1747333727052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c37337437ab141ae932da0900fe9fa5f
+run_name: dashing-trout-533
+run_uuid: c37337437ab141ae932da0900fe9fa5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333720689
+status: 3
+tags: []
+user_id: runner
