@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a55e2e2d574544fa8ad9932c5ac7a801/artifacts
+end_time: 1747309281695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a55e2e2d574544fa8ad9932c5ac7a801
+run_name: silent-turtle-672
+run_uuid: a55e2e2d574544fa8ad9932c5ac7a801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747309275254
+status: 3
+tags: []
+user_id: runner
