@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae2238bf7f754442a0618c987ac1b4e1/artifacts
+end_time: 1747302330413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae2238bf7f754442a0618c987ac1b4e1
+run_name: bemused-skink-100
+run_uuid: ae2238bf7f754442a0618c987ac1b4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302324112
+status: 3
+tags: []
+user_id: runner
