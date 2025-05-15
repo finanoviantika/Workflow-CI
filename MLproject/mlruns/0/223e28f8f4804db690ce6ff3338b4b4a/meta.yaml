@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/223e28f8f4804db690ce6ff3338b4b4a/artifacts
+end_time: 1747312390394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 223e28f8f4804db690ce6ff3338b4b4a
+run_name: useful-snipe-757
+run_uuid: 223e28f8f4804db690ce6ff3338b4b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747312383911
+status: 3
+tags: []
+user_id: runner
