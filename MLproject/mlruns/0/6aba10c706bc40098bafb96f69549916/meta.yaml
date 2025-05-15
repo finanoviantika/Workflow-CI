@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6aba10c706bc40098bafb96f69549916/artifacts
+end_time: 1747341944392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aba10c706bc40098bafb96f69549916
+run_name: beautiful-worm-931
+run_uuid: 6aba10c706bc40098bafb96f69549916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747341938063
+status: 3
+tags: []
+user_id: runner
