@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e3c7a2888c3c4bba825dcf8786e3aa68/artifacts
+end_time: 1747334974744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3c7a2888c3c4bba825dcf8786e3aa68
+run_name: industrious-gull-502
+run_uuid: e3c7a2888c3c4bba825dcf8786e3aa68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334968177
+status: 3
+tags: []
+user_id: runner
