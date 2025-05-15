@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3e838e3733eb4f63910df5663b1e7a35/artifacts
+end_time: 1747297816616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e838e3733eb4f63910df5663b1e7a35
+run_name: capricious-deer-404
+run_uuid: 3e838e3733eb4f63910df5663b1e7a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747297809770
+status: 3
+tags: []
+user_id: runner
