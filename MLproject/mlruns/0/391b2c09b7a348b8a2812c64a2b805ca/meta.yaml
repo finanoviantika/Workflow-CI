@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/391b2c09b7a348b8a2812c64a2b805ca/artifacts
+end_time: 1747293754563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 391b2c09b7a348b8a2812c64a2b805ca
+run_name: crawling-cod-342
+run_uuid: 391b2c09b7a348b8a2812c64a2b805ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747293748016
+status: 3
+tags: []
+user_id: runner
