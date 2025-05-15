@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f1b14a5eeab4c5890e4253ec4b05415/artifacts
+end_time: 1747313821795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f1b14a5eeab4c5890e4253ec4b05415
+run_name: delicate-shrimp-686
+run_uuid: 1f1b14a5eeab4c5890e4253ec4b05415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747313815445
+status: 3
+tags: []
+user_id: runner
