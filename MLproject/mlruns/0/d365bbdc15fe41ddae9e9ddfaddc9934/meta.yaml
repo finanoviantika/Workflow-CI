@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d365bbdc15fe41ddae9e9ddfaddc9934/artifacts
+end_time: 1747283414799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d365bbdc15fe41ddae9e9ddfaddc9934
+run_name: merciful-rat-825
+run_uuid: d365bbdc15fe41ddae9e9ddfaddc9934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747283408328
+status: 3
+tags: []
+user_id: runner
