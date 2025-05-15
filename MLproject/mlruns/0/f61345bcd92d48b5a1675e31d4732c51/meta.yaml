@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f61345bcd92d48b5a1675e31d4732c51/artifacts
+end_time: 1747291305106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f61345bcd92d48b5a1675e31d4732c51
+run_name: nervous-shrimp-232
+run_uuid: f61345bcd92d48b5a1675e31d4732c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291298782
+status: 3
+tags: []
+user_id: runner
