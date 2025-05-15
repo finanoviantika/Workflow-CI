@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc9453980d514ce7816ae3555df2a299/artifacts
+end_time: 1747267285696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc9453980d514ce7816ae3555df2a299
+run_name: peaceful-swan-830
+run_uuid: cc9453980d514ce7816ae3555df2a299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747267279309
+status: 3
+tags: []
+user_id: runner
