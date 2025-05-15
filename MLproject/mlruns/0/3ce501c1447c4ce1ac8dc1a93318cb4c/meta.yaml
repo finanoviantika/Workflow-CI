@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3ce501c1447c4ce1ac8dc1a93318cb4c/artifacts
+end_time: 1747326565693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ce501c1447c4ce1ac8dc1a93318cb4c
+run_name: adventurous-cow-974
+run_uuid: 3ce501c1447c4ce1ac8dc1a93318cb4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326559318
+status: 3
+tags: []
+user_id: runner
