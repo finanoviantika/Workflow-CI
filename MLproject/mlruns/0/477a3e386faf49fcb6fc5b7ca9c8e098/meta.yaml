@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/477a3e386faf49fcb6fc5b7ca9c8e098/artifacts
+end_time: 1747296871342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 477a3e386faf49fcb6fc5b7ca9c8e098
+run_name: tasteful-croc-703
+run_uuid: 477a3e386faf49fcb6fc5b7ca9c8e098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296865129
+status: 3
+tags: []
+user_id: runner
