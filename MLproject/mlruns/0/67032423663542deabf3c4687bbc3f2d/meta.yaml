@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67032423663542deabf3c4687bbc3f2d/artifacts
+end_time: 1747301487516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67032423663542deabf3c4687bbc3f2d
+run_name: honorable-moth-35
+run_uuid: 67032423663542deabf3c4687bbc3f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747301481144
+status: 3
+tags: []
+user_id: runner
