@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5f278e4515784482aa8c9e792d749edd/artifacts
+end_time: 1747305731181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f278e4515784482aa8c9e792d749edd
+run_name: traveling-mare-24
+run_uuid: 5f278e4515784482aa8c9e792d749edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747305724864
+status: 3
+tags: []
+user_id: runner
