@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d80254b5920443258db741e3342fbdc1/artifacts
+end_time: 1747304882199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d80254b5920443258db741e3342fbdc1
+run_name: bemused-wolf-628
+run_uuid: d80254b5920443258db741e3342fbdc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747304875700
+status: 3
+tags: []
+user_id: runner
