@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f59a8ed2a87c43e0889b182907da724e/artifacts
+end_time: 1747269543870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59a8ed2a87c43e0889b182907da724e
+run_name: awesome-eel-801
+run_uuid: f59a8ed2a87c43e0889b182907da724e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747269537503
+status: 3
+tags: []
+user_id: runner
