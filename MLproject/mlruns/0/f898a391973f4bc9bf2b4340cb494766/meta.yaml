@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f898a391973f4bc9bf2b4340cb494766/artifacts
+end_time: 1747342242150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f898a391973f4bc9bf2b4340cb494766
+run_name: flawless-skunk-479
+run_uuid: f898a391973f4bc9bf2b4340cb494766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747342235184
+status: 3
+tags: []
+user_id: runner
