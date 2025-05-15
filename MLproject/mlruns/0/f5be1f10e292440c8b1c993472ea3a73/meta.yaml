@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f5be1f10e292440c8b1c993472ea3a73/artifacts
+end_time: 1747337395839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5be1f10e292440c8b1c993472ea3a73
+run_name: righteous-mink-929
+run_uuid: f5be1f10e292440c8b1c993472ea3a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337389541
+status: 3
+tags: []
+user_id: runner
