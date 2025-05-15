@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b82ddfdd282149e6a0122dbc34f4d9bf/artifacts
+end_time: 1747273228800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b82ddfdd282149e6a0122dbc34f4d9bf
+run_name: valuable-calf-269
+run_uuid: b82ddfdd282149e6a0122dbc34f4d9bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747273222407
+status: 3
+tags: []
+user_id: runner
