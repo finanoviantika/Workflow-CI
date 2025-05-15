@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/702d4859fd594574993ae30d8d225915/artifacts
+end_time: 1747325713039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 702d4859fd594574993ae30d8d225915
+run_name: dashing-squirrel-185
+run_uuid: 702d4859fd594574993ae30d8d225915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325706381
+status: 3
+tags: []
+user_id: runner
