@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cea82de04f304f258bea6f7a526df07a/artifacts
+end_time: 1747329622679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cea82de04f304f258bea6f7a526df07a
+run_name: polite-toad-904
+run_uuid: cea82de04f304f258bea6f7a526df07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747329616259
+status: 3
+tags: []
+user_id: runner
