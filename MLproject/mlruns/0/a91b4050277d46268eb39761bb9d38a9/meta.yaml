@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a91b4050277d46268eb39761bb9d38a9/artifacts
+end_time: 1747275932466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a91b4050277d46268eb39761bb9d38a9
+run_name: legendary-jay-147
+run_uuid: a91b4050277d46268eb39761bb9d38a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275926029
+status: 3
+tags: []
+user_id: runner
