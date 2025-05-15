@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dfa1d9c1b5fc4e43af43bca063e4fe7c/artifacts
+end_time: 1747323403693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa1d9c1b5fc4e43af43bca063e4fe7c
+run_name: dazzling-fish-893
+run_uuid: dfa1d9c1b5fc4e43af43bca063e4fe7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747323396747
+status: 3
+tags: []
+user_id: runner
