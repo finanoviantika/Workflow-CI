@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/39dbe67ce889410583f130f33d9c50cd/artifacts
+end_time: 1747352909112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39dbe67ce889410583f130f33d9c50cd
+run_name: adorable-frog-32
+run_uuid: 39dbe67ce889410583f130f33d9c50cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747352902863
+status: 3
+tags: []
+user_id: runner
