@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d83379762451491ea09568f7ec8c35ed/artifacts
+end_time: 1747339012234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d83379762451491ea09568f7ec8c35ed
+run_name: defiant-perch-503
+run_uuid: d83379762451491ea09568f7ec8c35ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747339005496
+status: 3
+tags: []
+user_id: runner
