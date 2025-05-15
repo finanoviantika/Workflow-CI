@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b700363f76994d8084f606647ef4827a/artifacts
+end_time: 1747348730097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b700363f76994d8084f606647ef4827a
+run_name: powerful-zebra-85
+run_uuid: b700363f76994d8084f606647ef4827a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348723579
+status: 3
+tags: []
+user_id: runner
