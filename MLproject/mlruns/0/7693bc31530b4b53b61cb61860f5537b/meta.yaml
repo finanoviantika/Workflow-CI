@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7693bc31530b4b53b61cb61860f5537b/artifacts
+end_time: 1747275657213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7693bc31530b4b53b61cb61860f5537b
+run_name: persistent-swan-610
+run_uuid: 7693bc31530b4b53b61cb61860f5537b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275650810
+status: 3
+tags: []
+user_id: runner
