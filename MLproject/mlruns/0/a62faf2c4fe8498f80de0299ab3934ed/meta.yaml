@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a62faf2c4fe8498f80de0299ab3934ed/artifacts
+end_time: 1747311721545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62faf2c4fe8498f80de0299ab3934ed
+run_name: entertaining-cub-838
+run_uuid: a62faf2c4fe8498f80de0299ab3934ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311715148
+status: 3
+tags: []
+user_id: runner
