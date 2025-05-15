@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bcf34801148b4add980a91664aaf3715/artifacts
+end_time: 1747308061329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcf34801148b4add980a91664aaf3715
+run_name: sassy-colt-453
+run_uuid: bcf34801148b4add980a91664aaf3715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308054714
+status: 3
+tags: []
+user_id: runner
