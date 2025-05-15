@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5420b6e6bb3641b48666f20ff3db5f19/artifacts
+end_time: 1747326942754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5420b6e6bb3641b48666f20ff3db5f19
+run_name: bedecked-mink-263
+run_uuid: 5420b6e6bb3641b48666f20ff3db5f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326936365
+status: 3
+tags: []
+user_id: runner
