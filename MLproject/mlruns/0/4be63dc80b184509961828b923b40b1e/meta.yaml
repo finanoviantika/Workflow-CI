@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4be63dc80b184509961828b923b40b1e/artifacts
+end_time: 1747297723432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4be63dc80b184509961828b923b40b1e
+run_name: receptive-penguin-98
+run_uuid: 4be63dc80b184509961828b923b40b1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747297716673
+status: 3
+tags: []
+user_id: runner
