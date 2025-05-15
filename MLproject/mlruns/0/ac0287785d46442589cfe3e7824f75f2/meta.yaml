@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac0287785d46442589cfe3e7824f75f2/artifacts
+end_time: 1747281100756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0287785d46442589cfe3e7824f75f2
+run_name: suave-wren-114
+run_uuid: ac0287785d46442589cfe3e7824f75f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747281094372
+status: 3
+tags: []
+user_id: runner
