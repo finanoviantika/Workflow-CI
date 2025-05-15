@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/caa5cc1840384d999dd80f8855521124/artifacts
+end_time: 1747304020587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caa5cc1840384d999dd80f8855521124
+run_name: treasured-worm-887
+run_uuid: caa5cc1840384d999dd80f8855521124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747304014187
+status: 3
+tags: []
+user_id: runner
