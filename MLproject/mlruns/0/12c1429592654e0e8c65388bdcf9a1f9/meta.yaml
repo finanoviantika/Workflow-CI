@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/12c1429592654e0e8c65388bdcf9a1f9/artifacts
+end_time: 1747291975586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c1429592654e0e8c65388bdcf9a1f9
+run_name: masked-colt-973
+run_uuid: 12c1429592654e0e8c65388bdcf9a1f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291968612
+status: 3
+tags: []
+user_id: runner
