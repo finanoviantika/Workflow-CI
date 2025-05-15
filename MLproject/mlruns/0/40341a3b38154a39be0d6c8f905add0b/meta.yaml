@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/40341a3b38154a39be0d6c8f905add0b/artifacts
+end_time: 1747271043946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40341a3b38154a39be0d6c8f905add0b
+run_name: bald-moth-700
+run_uuid: 40341a3b38154a39be0d6c8f905add0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271037684
+status: 3
+tags: []
+user_id: runner
