@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ad4446cbd0a843209f79e6e379a27329/artifacts
+end_time: 1747294422887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad4446cbd0a843209f79e6e379a27329
+run_name: delicate-bird-248
+run_uuid: ad4446cbd0a843209f79e6e379a27329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747294416212
+status: 3
+tags: []
+user_id: runner
