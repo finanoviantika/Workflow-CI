@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7874a56033ab4a7eac20ff13c552b2c7/artifacts
+end_time: 1747326753921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7874a56033ab4a7eac20ff13c552b2c7
+run_name: placid-penguin-969
+run_uuid: 7874a56033ab4a7eac20ff13c552b2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326747214
+status: 3
+tags: []
+user_id: runner
