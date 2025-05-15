@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cee368c41b644b58955bbf9ce1ddaf22/artifacts
+end_time: 1747348820953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cee368c41b644b58955bbf9ce1ddaf22
+run_name: thoughtful-kite-415
+run_uuid: cee368c41b644b58955bbf9ce1ddaf22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348814589
+status: 3
+tags: []
+user_id: runner
