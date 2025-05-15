@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/186c97c1bd8d4d0ca4c4ab3f9ba979ea/artifacts
+end_time: 1747330668738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 186c97c1bd8d4d0ca4c4ab3f9ba979ea
+run_name: gaudy-bear-730
+run_uuid: 186c97c1bd8d4d0ca4c4ab3f9ba979ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330662500
+status: 3
+tags: []
+user_id: runner
