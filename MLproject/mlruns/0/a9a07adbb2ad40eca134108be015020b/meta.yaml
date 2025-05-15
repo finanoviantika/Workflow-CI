@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a9a07adbb2ad40eca134108be015020b/artifacts
+end_time: 1747316114119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a07adbb2ad40eca134108be015020b
+run_name: calm-bird-457
+run_uuid: a9a07adbb2ad40eca134108be015020b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316107473
+status: 3
+tags: []
+user_id: runner
