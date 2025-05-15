@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4495b9fcb0a84b7d88889f263b43345f/artifacts
+end_time: 1747290821722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4495b9fcb0a84b7d88889f263b43345f
+run_name: rogue-gull-589
+run_uuid: 4495b9fcb0a84b7d88889f263b43345f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290814732
+status: 3
+tags: []
+user_id: runner
