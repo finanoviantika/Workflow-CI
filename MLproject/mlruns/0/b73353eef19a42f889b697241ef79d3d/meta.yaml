@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b73353eef19a42f889b697241ef79d3d/artifacts
+end_time: 1747337773052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b73353eef19a42f889b697241ef79d3d
+run_name: fortunate-robin-247
+run_uuid: b73353eef19a42f889b697241ef79d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337766671
+status: 3
+tags: []
+user_id: runner
