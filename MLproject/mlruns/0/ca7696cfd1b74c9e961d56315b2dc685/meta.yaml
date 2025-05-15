@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ca7696cfd1b74c9e961d56315b2dc685/artifacts
+end_time: 1747279115330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca7696cfd1b74c9e961d56315b2dc685
+run_name: crawling-gull-752
+run_uuid: ca7696cfd1b74c9e961d56315b2dc685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279108669
+status: 3
+tags: []
+user_id: runner
