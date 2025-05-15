@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1166e61bb37a428bb6482c0a5125036c/artifacts
+end_time: 1747281383114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1166e61bb37a428bb6482c0a5125036c
+run_name: capable-hen-168
+run_uuid: 1166e61bb37a428bb6482c0a5125036c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747281376748
+status: 3
+tags: []
+user_id: runner
