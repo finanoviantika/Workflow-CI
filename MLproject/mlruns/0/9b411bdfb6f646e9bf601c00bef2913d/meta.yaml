@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b411bdfb6f646e9bf601c00bef2913d/artifacts
+end_time: 1747321193752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b411bdfb6f646e9bf601c00bef2913d
+run_name: exultant-trout-421
+run_uuid: 9b411bdfb6f646e9bf601c00bef2913d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747321187063
+status: 3
+tags: []
+user_id: runner
