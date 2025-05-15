@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fb82845fb9a7477bbe8d30e61b13604f/artifacts
+end_time: 1747273410663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb82845fb9a7477bbe8d30e61b13604f
+run_name: bouncy-robin-806
+run_uuid: fb82845fb9a7477bbe8d30e61b13604f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747273404090
+status: 3
+tags: []
+user_id: runner
