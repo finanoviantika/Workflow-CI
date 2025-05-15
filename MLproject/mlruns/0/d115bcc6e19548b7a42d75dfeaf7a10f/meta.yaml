@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d115bcc6e19548b7a42d75dfeaf7a10f/artifacts
+end_time: 1747293658624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d115bcc6e19548b7a42d75dfeaf7a10f
+run_name: abrasive-duck-865
+run_uuid: d115bcc6e19548b7a42d75dfeaf7a10f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747293652083
+status: 3
+tags: []
+user_id: runner
