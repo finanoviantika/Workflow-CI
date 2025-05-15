@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c6028db1899d4927ad188dc09607283d/artifacts
+end_time: 1747304206575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6028db1899d4927ad188dc09607283d
+run_name: thundering-squid-319
+run_uuid: c6028db1899d4927ad188dc09607283d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747304200064
+status: 3
+tags: []
+user_id: runner
