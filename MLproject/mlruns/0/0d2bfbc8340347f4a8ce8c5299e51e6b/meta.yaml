@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d2bfbc8340347f4a8ce8c5299e51e6b/artifacts
+end_time: 1747317830855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d2bfbc8340347f4a8ce8c5299e51e6b
+run_name: worried-dolphin-788
+run_uuid: 0d2bfbc8340347f4a8ce8c5299e51e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747317824549
+status: 3
+tags: []
+user_id: runner
