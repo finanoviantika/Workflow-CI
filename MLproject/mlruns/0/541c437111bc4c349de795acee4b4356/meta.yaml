@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/541c437111bc4c349de795acee4b4356/artifacts
+end_time: 1747271720806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 541c437111bc4c349de795acee4b4356
+run_name: puzzled-donkey-430
+run_uuid: 541c437111bc4c349de795acee4b4356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271714471
+status: 3
+tags: []
+user_id: runner
