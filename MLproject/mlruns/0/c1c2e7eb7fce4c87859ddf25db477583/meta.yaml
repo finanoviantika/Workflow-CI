@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c1c2e7eb7fce4c87859ddf25db477583/artifacts
+end_time: 1747311064493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1c2e7eb7fce4c87859ddf25db477583
+run_name: burly-sloth-222
+run_uuid: c1c2e7eb7fce4c87859ddf25db477583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311058260
+status: 3
+tags: []
+user_id: runner
