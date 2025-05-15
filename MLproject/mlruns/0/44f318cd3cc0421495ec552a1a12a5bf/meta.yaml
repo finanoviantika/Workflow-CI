@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/44f318cd3cc0421495ec552a1a12a5bf/artifacts
+end_time: 1747282399753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44f318cd3cc0421495ec552a1a12a5bf
+run_name: thoughtful-toad-14
+run_uuid: 44f318cd3cc0421495ec552a1a12a5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747282393281
+status: 3
+tags: []
+user_id: runner
