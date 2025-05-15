@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c887122ae3da41199f67820146c476df/artifacts
+end_time: 1747296396265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c887122ae3da41199f67820146c476df
+run_name: bold-smelt-500
+run_uuid: c887122ae3da41199f67820146c476df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296389546
+status: 3
+tags: []
+user_id: runner
