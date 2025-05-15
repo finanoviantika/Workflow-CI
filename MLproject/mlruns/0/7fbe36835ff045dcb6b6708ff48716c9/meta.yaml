@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7fbe36835ff045dcb6b6708ff48716c9/artifacts
+end_time: 1747333627389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fbe36835ff045dcb6b6708ff48716c9
+run_name: beautiful-vole-544
+run_uuid: 7fbe36835ff045dcb6b6708ff48716c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333620825
+status: 3
+tags: []
+user_id: runner
