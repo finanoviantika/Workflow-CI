@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e08be2f75384f358f0e63b1980e4951/artifacts
+end_time: 1747310027058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e08be2f75384f358f0e63b1980e4951
+run_name: popular-lynx-344
+run_uuid: 4e08be2f75384f358f0e63b1980e4951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310020719
+status: 3
+tags: []
+user_id: runner
