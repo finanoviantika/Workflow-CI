@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/21c37909823c47c4a1dd8b17fbd4b21e/artifacts
+end_time: 1747310401676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21c37909823c47c4a1dd8b17fbd4b21e
+run_name: traveling-toad-475
+run_uuid: 21c37909823c47c4a1dd8b17fbd4b21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310395202
+status: 3
+tags: []
+user_id: runner
