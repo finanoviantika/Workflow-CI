@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c672dd6f0bd64ce0ae218e7db9ec78bb/artifacts
+end_time: 1747324341458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c672dd6f0bd64ce0ae218e7db9ec78bb
+run_name: judicious-gnu-203
+run_uuid: c672dd6f0bd64ce0ae218e7db9ec78bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747324334801
+status: 3
+tags: []
+user_id: runner
