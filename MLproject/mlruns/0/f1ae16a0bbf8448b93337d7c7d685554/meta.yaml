@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1ae16a0bbf8448b93337d7c7d685554/artifacts
+end_time: 1747334223931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1ae16a0bbf8448b93337d7c7d685554
+run_name: chill-newt-367
+run_uuid: f1ae16a0bbf8448b93337d7c7d685554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334217376
+status: 3
+tags: []
+user_id: runner
