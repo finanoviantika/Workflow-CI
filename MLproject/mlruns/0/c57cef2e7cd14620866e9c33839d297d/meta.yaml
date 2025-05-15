@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c57cef2e7cd14620866e9c33839d297d/artifacts
+end_time: 1747287259863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57cef2e7cd14620866e9c33839d297d
+run_name: sedate-carp-819
+run_uuid: c57cef2e7cd14620866e9c33839d297d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287253587
+status: 3
+tags: []
+user_id: runner
