@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1e3b431a37004be0b2f8ace629102980/artifacts
+end_time: 1747292808714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e3b431a37004be0b2f8ace629102980
+run_name: burly-newt-997
+run_uuid: 1e3b431a37004be0b2f8ace629102980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292802084
+status: 3
+tags: []
+user_id: runner
