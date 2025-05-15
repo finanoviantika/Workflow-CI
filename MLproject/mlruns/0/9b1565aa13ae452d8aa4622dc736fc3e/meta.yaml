@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b1565aa13ae452d8aa4622dc736fc3e/artifacts
+end_time: 1747346088075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b1565aa13ae452d8aa4622dc736fc3e
+run_name: spiffy-bee-351
+run_uuid: 9b1565aa13ae452d8aa4622dc736fc3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747346081504
+status: 3
+tags: []
+user_id: runner
