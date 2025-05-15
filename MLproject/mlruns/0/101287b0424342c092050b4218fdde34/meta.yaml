@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/101287b0424342c092050b4218fdde34/artifacts
+end_time: 1747327509288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 101287b0424342c092050b4218fdde34
+run_name: unique-kite-393
+run_uuid: 101287b0424342c092050b4218fdde34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747327502927
+status: 3
+tags: []
+user_id: runner
