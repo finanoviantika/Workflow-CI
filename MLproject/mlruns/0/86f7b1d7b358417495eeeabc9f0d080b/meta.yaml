@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86f7b1d7b358417495eeeabc9f0d080b/artifacts
+end_time: 1747305071638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86f7b1d7b358417495eeeabc9f0d080b
+run_name: honorable-grub-157
+run_uuid: 86f7b1d7b358417495eeeabc9f0d080b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747305065185
+status: 3
+tags: []
+user_id: runner
