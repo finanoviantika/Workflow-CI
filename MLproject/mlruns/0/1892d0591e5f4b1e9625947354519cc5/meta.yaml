@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1892d0591e5f4b1e9625947354519cc5/artifacts
+end_time: 1747306099219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1892d0591e5f4b1e9625947354519cc5
+run_name: gentle-goat-523
+run_uuid: 1892d0591e5f4b1e9625947354519cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747306092863
+status: 3
+tags: []
+user_id: runner
