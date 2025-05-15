@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/399187d951e54bf89ea0fe69b3595115/artifacts
+end_time: 1747314774998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 399187d951e54bf89ea0fe69b3595115
+run_name: popular-mouse-47
+run_uuid: 399187d951e54bf89ea0fe69b3595115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314768310
+status: 3
+tags: []
+user_id: runner
