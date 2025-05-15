@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e755b05f74ea4b69bd95f53d1efb871c/artifacts
+end_time: 1747340695560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e755b05f74ea4b69bd95f53d1efb871c
+run_name: marvelous-skunk-572
+run_uuid: e755b05f74ea4b69bd95f53d1efb871c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747340689203
+status: 3
+tags: []
+user_id: runner
