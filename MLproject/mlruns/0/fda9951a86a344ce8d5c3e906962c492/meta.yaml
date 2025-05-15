@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fda9951a86a344ce8d5c3e906962c492/artifacts
+end_time: 1747315922818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fda9951a86a344ce8d5c3e906962c492
+run_name: worried-dolphin-840
+run_uuid: fda9951a86a344ce8d5c3e906962c492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747315916250
+status: 3
+tags: []
+user_id: runner
