@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/19e56a2ca25c4b0eb6dea5ec7cb05d3e/artifacts
+end_time: 1747278742646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e56a2ca25c4b0eb6dea5ec7cb05d3e
+run_name: capricious-cow-430
+run_uuid: 19e56a2ca25c4b0eb6dea5ec7cb05d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278735834
+status: 3
+tags: []
+user_id: runner
