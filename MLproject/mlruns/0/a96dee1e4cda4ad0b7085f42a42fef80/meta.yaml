@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a96dee1e4cda4ad0b7085f42a42fef80/artifacts
+end_time: 1747344189411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a96dee1e4cda4ad0b7085f42a42fef80
+run_name: powerful-steed-406
+run_uuid: a96dee1e4cda4ad0b7085f42a42fef80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747344183026
+status: 3
+tags: []
+user_id: runner
