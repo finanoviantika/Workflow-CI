@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/53d003eb9f094cd4b944511c1a0ba6af/artifacts
+end_time: 1747275841559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d003eb9f094cd4b944511c1a0ba6af
+run_name: entertaining-seal-0
+run_uuid: 53d003eb9f094cd4b944511c1a0ba6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275834763
+status: 3
+tags: []
+user_id: runner
