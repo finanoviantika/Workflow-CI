@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/957c82a06e0a44a2a15a6d73a961c4bc/artifacts
+end_time: 1747322135209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 957c82a06e0a44a2a15a6d73a961c4bc
+run_name: traveling-sow-128
+run_uuid: 957c82a06e0a44a2a15a6d73a961c4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322128777
+status: 3
+tags: []
+user_id: runner
