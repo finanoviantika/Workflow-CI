@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1de9ea40eb02464b9423a83155c78a17/artifacts
+end_time: 1747326191540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1de9ea40eb02464b9423a83155c78a17
+run_name: orderly-robin-853
+run_uuid: 1de9ea40eb02464b9423a83155c78a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326185181
+status: 3
+tags: []
+user_id: runner
