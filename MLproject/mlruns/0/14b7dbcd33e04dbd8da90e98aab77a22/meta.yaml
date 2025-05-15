@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14b7dbcd33e04dbd8da90e98aab77a22/artifacts
+end_time: 1747326657949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14b7dbcd33e04dbd8da90e98aab77a22
+run_name: rumbling-ray-77
+run_uuid: 14b7dbcd33e04dbd8da90e98aab77a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326651600
+status: 3
+tags: []
+user_id: runner
