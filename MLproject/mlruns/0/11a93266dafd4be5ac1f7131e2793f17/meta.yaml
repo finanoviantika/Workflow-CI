@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/11a93266dafd4be5ac1f7131e2793f17/artifacts
+end_time: 1747304791322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11a93266dafd4be5ac1f7131e2793f17
+run_name: serious-flea-760
+run_uuid: 11a93266dafd4be5ac1f7131e2793f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747304784426
+status: 3
+tags: []
+user_id: runner
