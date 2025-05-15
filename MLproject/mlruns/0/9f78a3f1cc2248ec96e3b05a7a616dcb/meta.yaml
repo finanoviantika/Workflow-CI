@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9f78a3f1cc2248ec96e3b05a7a616dcb/artifacts
+end_time: 1747276768942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f78a3f1cc2248ec96e3b05a7a616dcb
+run_name: gentle-swan-994
+run_uuid: 9f78a3f1cc2248ec96e3b05a7a616dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276762537
+status: 3
+tags: []
+user_id: runner
