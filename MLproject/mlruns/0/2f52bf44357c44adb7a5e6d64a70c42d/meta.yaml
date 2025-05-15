@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2f52bf44357c44adb7a5e6d64a70c42d/artifacts
+end_time: 1747339903886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f52bf44357c44adb7a5e6d64a70c42d
+run_name: bright-cow-945
+run_uuid: 2f52bf44357c44adb7a5e6d64a70c42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747339897536
+status: 3
+tags: []
+user_id: runner
