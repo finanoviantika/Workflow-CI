@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/39950b1c18f144789e6e0848c07b9b5c/artifacts
+end_time: 1747308521266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39950b1c18f144789e6e0848c07b9b5c
+run_name: delicate-horse-911
+run_uuid: 39950b1c18f144789e6e0848c07b9b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308514873
+status: 3
+tags: []
+user_id: runner
