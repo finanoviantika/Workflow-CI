@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/75ae369533c843e9a0a0fd9d7df0d189/artifacts
+end_time: 1747292899327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75ae369533c843e9a0a0fd9d7df0d189
+run_name: sincere-cub-4
+run_uuid: 75ae369533c843e9a0a0fd9d7df0d189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292893046
+status: 3
+tags: []
+user_id: runner
