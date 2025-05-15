@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0f1039b506374fb6a19fa364a79ffe84/artifacts
+end_time: 1747285000763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f1039b506374fb6a19fa364a79ffe84
+run_name: crawling-mink-897
+run_uuid: 0f1039b506374fb6a19fa364a79ffe84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284994427
+status: 3
+tags: []
+user_id: runner
