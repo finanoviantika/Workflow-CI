@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/88dd8c83a7154c76aec5b2e5cf6f59c1/artifacts
+end_time: 1747310116829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88dd8c83a7154c76aec5b2e5cf6f59c1
+run_name: resilient-cub-500
+run_uuid: 88dd8c83a7154c76aec5b2e5cf6f59c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310110576
+status: 3
+tags: []
+user_id: runner
