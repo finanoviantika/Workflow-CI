@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da65f81868414719b5933a28f29440d9/artifacts
+end_time: 1747321757135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da65f81868414719b5933a28f29440d9
+run_name: crawling-jay-55
+run_uuid: da65f81868414719b5933a28f29440d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747321750606
+status: 3
+tags: []
+user_id: runner
