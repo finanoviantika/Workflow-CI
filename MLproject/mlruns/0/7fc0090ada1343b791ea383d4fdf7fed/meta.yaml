@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7fc0090ada1343b791ea383d4fdf7fed/artifacts
+end_time: 1747348078280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fc0090ada1343b791ea383d4fdf7fed
+run_name: whimsical-conch-873
+run_uuid: 7fc0090ada1343b791ea383d4fdf7fed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348071986
+status: 3
+tags: []
+user_id: runner
