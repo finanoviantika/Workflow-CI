@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd933d94009148b7b9b78eca63d8baba/artifacts
+end_time: 1747341472580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd933d94009148b7b9b78eca63d8baba
+run_name: fortunate-cat-112
+run_uuid: dd933d94009148b7b9b78eca63d8baba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747341465995
+status: 3
+tags: []
+user_id: runner
