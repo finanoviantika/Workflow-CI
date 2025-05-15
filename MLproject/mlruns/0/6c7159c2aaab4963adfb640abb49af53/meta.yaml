@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6c7159c2aaab4963adfb640abb49af53/artifacts
+end_time: 1747280259295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c7159c2aaab4963adfb640abb49af53
+run_name: enchanting-rook-197
+run_uuid: 6c7159c2aaab4963adfb640abb49af53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747280253001
+status: 3
+tags: []
+user_id: runner
