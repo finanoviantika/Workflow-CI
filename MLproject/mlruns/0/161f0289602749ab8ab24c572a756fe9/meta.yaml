@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/161f0289602749ab8ab24c572a756fe9/artifacts
+end_time: 1747285570542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 161f0289602749ab8ab24c572a756fe9
+run_name: fortunate-ape-403
+run_uuid: 161f0289602749ab8ab24c572a756fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285564303
+status: 3
+tags: []
+user_id: runner
