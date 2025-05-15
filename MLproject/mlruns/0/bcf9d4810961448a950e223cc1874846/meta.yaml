@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bcf9d4810961448a950e223cc1874846/artifacts
+end_time: 1747290063186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcf9d4810961448a950e223cc1874846
+run_name: overjoyed-bee-54
+run_uuid: bcf9d4810961448a950e223cc1874846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747290056698
+status: 3
+tags: []
+user_id: runner
