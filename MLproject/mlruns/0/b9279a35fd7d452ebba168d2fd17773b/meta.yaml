@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b9279a35fd7d452ebba168d2fd17773b/artifacts
+end_time: 1747302141878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9279a35fd7d452ebba168d2fd17773b
+run_name: unique-stag-342
+run_uuid: b9279a35fd7d452ebba168d2fd17773b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302135431
+status: 3
+tags: []
+user_id: runner
