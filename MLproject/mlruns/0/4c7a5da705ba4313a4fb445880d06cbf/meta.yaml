@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4c7a5da705ba4313a4fb445880d06cbf/artifacts
+end_time: 1747305348393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c7a5da705ba4313a4fb445880d06cbf
+run_name: whimsical-yak-268
+run_uuid: 4c7a5da705ba4313a4fb445880d06cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747305342133
+status: 3
+tags: []
+user_id: runner
