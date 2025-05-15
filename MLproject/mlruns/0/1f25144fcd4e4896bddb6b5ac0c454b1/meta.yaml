@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f25144fcd4e4896bddb6b5ac0c454b1/artifacts
+end_time: 1747286326897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f25144fcd4e4896bddb6b5ac0c454b1
+run_name: debonair-calf-546
+run_uuid: 1f25144fcd4e4896bddb6b5ac0c454b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747286320205
+status: 3
+tags: []
+user_id: runner
