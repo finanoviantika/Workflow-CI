@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c235d88797f4246859beec3b7dbf32c/artifacts
+end_time: 1747334125558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c235d88797f4246859beec3b7dbf32c
+run_name: nosy-goose-569
+run_uuid: 8c235d88797f4246859beec3b7dbf32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334119286
+status: 3
+tags: []
+user_id: runner
