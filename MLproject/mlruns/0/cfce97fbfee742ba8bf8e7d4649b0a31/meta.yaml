@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cfce97fbfee742ba8bf8e7d4649b0a31/artifacts
+end_time: 1747311250361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfce97fbfee742ba8bf8e7d4649b0a31
+run_name: fearless-duck-835
+run_uuid: cfce97fbfee742ba8bf8e7d4649b0a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311244335
+status: 3
+tags: []
+user_id: runner
