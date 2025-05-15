@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a8b48ae8cc5149b18cc9f46089f41e68/artifacts
+end_time: 1747319010541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8b48ae8cc5149b18cc9f46089f41e68
+run_name: overjoyed-wolf-89
+run_uuid: a8b48ae8cc5149b18cc9f46089f41e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747319004207
+status: 3
+tags: []
+user_id: runner
