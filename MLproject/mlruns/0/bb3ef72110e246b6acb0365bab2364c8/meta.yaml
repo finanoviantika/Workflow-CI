@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bb3ef72110e246b6acb0365bab2364c8/artifacts
+end_time: 1747304301551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb3ef72110e246b6acb0365bab2364c8
+run_name: intelligent-gnu-332
+run_uuid: bb3ef72110e246b6acb0365bab2364c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747304294981
+status: 3
+tags: []
+user_id: runner
