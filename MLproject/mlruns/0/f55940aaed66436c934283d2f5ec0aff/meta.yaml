@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f55940aaed66436c934283d2f5ec0aff/artifacts
+end_time: 1747332387905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f55940aaed66436c934283d2f5ec0aff
+run_name: sincere-snipe-633
+run_uuid: f55940aaed66436c934283d2f5ec0aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332381507
+status: 3
+tags: []
+user_id: runner
