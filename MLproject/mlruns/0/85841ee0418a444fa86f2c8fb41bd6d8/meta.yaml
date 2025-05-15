@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/85841ee0418a444fa86f2c8fb41bd6d8/artifacts
+end_time: 1747347231403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85841ee0418a444fa86f2c8fb41bd6d8
+run_name: mysterious-hen-929
+run_uuid: 85841ee0418a444fa86f2c8fb41bd6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347224606
+status: 3
+tags: []
+user_id: runner
