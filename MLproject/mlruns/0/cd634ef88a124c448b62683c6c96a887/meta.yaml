@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd634ef88a124c448b62683c6c96a887/artifacts
+end_time: 1747320996995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd634ef88a124c448b62683c6c96a887
+run_name: unleashed-crab-352
+run_uuid: cd634ef88a124c448b62683c6c96a887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747320990378
+status: 3
+tags: []
+user_id: runner
