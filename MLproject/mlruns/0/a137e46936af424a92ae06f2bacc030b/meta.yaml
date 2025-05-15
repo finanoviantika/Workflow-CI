@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a137e46936af424a92ae06f2bacc030b/artifacts
+end_time: 1747352630519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a137e46936af424a92ae06f2bacc030b
+run_name: skillful-toad-778
+run_uuid: a137e46936af424a92ae06f2bacc030b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747352624286
+status: 3
+tags: []
+user_id: runner
