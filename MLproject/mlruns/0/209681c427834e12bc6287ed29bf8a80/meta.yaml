@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/209681c427834e12bc6287ed29bf8a80/artifacts
+end_time: 1747289402656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 209681c427834e12bc6287ed29bf8a80
+run_name: silent-bear-999
+run_uuid: 209681c427834e12bc6287ed29bf8a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289396400
+status: 3
+tags: []
+user_id: runner
