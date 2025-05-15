@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c06863b76fb849479169130d6cda3ecd/artifacts
+end_time: 1747330083533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c06863b76fb849479169130d6cda3ecd
+run_name: efficient-bass-81
+run_uuid: c06863b76fb849479169130d6cda3ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330076824
+status: 3
+tags: []
+user_id: runner
