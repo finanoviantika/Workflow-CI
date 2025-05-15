@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/29a87159201643b78ce071dd75cc2e94/artifacts
+end_time: 1747275748011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29a87159201643b78ce071dd75cc2e94
+run_name: adorable-perch-713
+run_uuid: 29a87159201643b78ce071dd75cc2e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275741765
+status: 3
+tags: []
+user_id: runner
