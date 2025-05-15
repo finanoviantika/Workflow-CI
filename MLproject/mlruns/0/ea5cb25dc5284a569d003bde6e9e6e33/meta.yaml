@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ea5cb25dc5284a569d003bde6e9e6e33/artifacts
+end_time: 1747301029865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea5cb25dc5284a569d003bde6e9e6e33
+run_name: rebellious-finch-221
+run_uuid: ea5cb25dc5284a569d003bde6e9e6e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747301023524
+status: 3
+tags: []
+user_id: runner
