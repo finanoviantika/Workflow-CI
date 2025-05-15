@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a04213ab35464962b4ab7315447efaa4/artifacts
+end_time: 1747284724981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a04213ab35464962b4ab7315447efaa4
+run_name: unruly-gnu-786
+run_uuid: a04213ab35464962b4ab7315447efaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284718574
+status: 3
+tags: []
+user_id: runner
