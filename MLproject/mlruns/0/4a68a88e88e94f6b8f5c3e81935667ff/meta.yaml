@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4a68a88e88e94f6b8f5c3e81935667ff/artifacts
+end_time: 1747329528278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a68a88e88e94f6b8f5c3e81935667ff
+run_name: adaptable-whale-1
+run_uuid: 4a68a88e88e94f6b8f5c3e81935667ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747329521850
+status: 3
+tags: []
+user_id: runner
