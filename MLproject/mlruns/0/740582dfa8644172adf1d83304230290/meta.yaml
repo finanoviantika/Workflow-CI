@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/740582dfa8644172adf1d83304230290/artifacts
+end_time: 1747337489031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 740582dfa8644172adf1d83304230290
+run_name: debonair-conch-728
+run_uuid: 740582dfa8644172adf1d83304230290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337482684
+status: 3
+tags: []
+user_id: runner
