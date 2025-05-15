@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f70b2df6f4934c16ad0b5e2df24dd742/artifacts
+end_time: 1747331441067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70b2df6f4934c16ad0b5e2df24dd742
+run_name: able-ant-0
+run_uuid: f70b2df6f4934c16ad0b5e2df24dd742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747331434608
+status: 3
+tags: []
+user_id: runner
