@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b4502c4a309c431095987c7dd3f68e16/artifacts
+end_time: 1747268222702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4502c4a309c431095987c7dd3f68e16
+run_name: flawless-sponge-22
+run_uuid: b4502c4a309c431095987c7dd3f68e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747268216350
+status: 3
+tags: []
+user_id: runner
