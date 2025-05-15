@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d6ee6f933544103990f80175e5e846e/artifacts
+end_time: 1747351771130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d6ee6f933544103990f80175e5e846e
+run_name: likeable-horse-900
+run_uuid: 7d6ee6f933544103990f80175e5e846e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747351764661
+status: 3
+tags: []
+user_id: runner
