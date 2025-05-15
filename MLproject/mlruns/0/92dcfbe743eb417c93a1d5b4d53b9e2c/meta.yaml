@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92dcfbe743eb417c93a1d5b4d53b9e2c/artifacts
+end_time: 1747332489200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92dcfbe743eb417c93a1d5b4d53b9e2c
+run_name: calm-mare-517
+run_uuid: 92dcfbe743eb417c93a1d5b4d53b9e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332482258
+status: 3
+tags: []
+user_id: runner
