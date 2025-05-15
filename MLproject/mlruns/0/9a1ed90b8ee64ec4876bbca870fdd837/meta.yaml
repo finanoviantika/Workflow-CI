@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9a1ed90b8ee64ec4876bbca870fdd837/artifacts
+end_time: 1747268409291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1ed90b8ee64ec4876bbca870fdd837
+run_name: gifted-squirrel-211
+run_uuid: 9a1ed90b8ee64ec4876bbca870fdd837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747268402766
+status: 3
+tags: []
+user_id: runner
