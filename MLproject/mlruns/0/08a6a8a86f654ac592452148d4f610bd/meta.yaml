@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/08a6a8a86f654ac592452148d4f610bd/artifacts
+end_time: 1747287822959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08a6a8a86f654ac592452148d4f610bd
+run_name: aged-mare-109
+run_uuid: 08a6a8a86f654ac592452148d4f610bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747287816351
+status: 3
+tags: []
+user_id: runner
