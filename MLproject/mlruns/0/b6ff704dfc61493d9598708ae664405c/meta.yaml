@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b6ff704dfc61493d9598708ae664405c/artifacts
+end_time: 1747316970412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6ff704dfc61493d9598708ae664405c
+run_name: ambitious-smelt-796
+run_uuid: b6ff704dfc61493d9598708ae664405c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316964065
+status: 3
+tags: []
+user_id: runner
