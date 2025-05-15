@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b8d6f8d4d197423b83f9cb4ac08fc775/artifacts
+end_time: 1747280731339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8d6f8d4d197423b83f9cb4ac08fc775
+run_name: enthused-moth-185
+run_uuid: b8d6f8d4d197423b83f9cb4ac08fc775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747280725009
+status: 3
+tags: []
+user_id: runner
