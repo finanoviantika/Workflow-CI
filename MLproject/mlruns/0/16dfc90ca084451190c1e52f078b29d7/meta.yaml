@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/16dfc90ca084451190c1e52f078b29d7/artifacts
+end_time: 1747306939474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16dfc90ca084451190c1e52f078b29d7
+run_name: bright-snail-886
+run_uuid: 16dfc90ca084451190c1e52f078b29d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747306932942
+status: 3
+tags: []
+user_id: runner
