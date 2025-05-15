@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fcdcdec22b494513a3fb75950e7f5bdf/artifacts
+end_time: 1747314198889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcdcdec22b494513a3fb75950e7f5bdf
+run_name: resilient-bee-840
+run_uuid: fcdcdec22b494513a3fb75950e7f5bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314192560
+status: 3
+tags: []
+user_id: runner
