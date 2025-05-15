@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78380665b9b048469313d7aedab617c0/artifacts
+end_time: 1747352819445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78380665b9b048469313d7aedab617c0
+run_name: capricious-elk-435
+run_uuid: 78380665b9b048469313d7aedab617c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747352813081
+status: 3
+tags: []
+user_id: runner
