@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3616cde497894cb5933b115c41eb3e2c/artifacts
+end_time: 1747285664623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3616cde497894cb5933b115c41eb3e2c
+run_name: zealous-horse-405
+run_uuid: 3616cde497894cb5933b115c41eb3e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285658176
+status: 3
+tags: []
+user_id: runner
