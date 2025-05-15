@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/91908223cb9544b9affbb1ed660514f1/artifacts
+end_time: 1747308430462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91908223cb9544b9affbb1ed660514f1
+run_name: dazzling-boar-903
+run_uuid: 91908223cb9544b9affbb1ed660514f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308424095
+status: 3
+tags: []
+user_id: runner
