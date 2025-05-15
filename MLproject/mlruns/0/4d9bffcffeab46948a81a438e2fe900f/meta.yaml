@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4d9bffcffeab46948a81a438e2fe900f/artifacts
+end_time: 1747353476987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d9bffcffeab46948a81a438e2fe900f
+run_name: valuable-toad-660
+run_uuid: 4d9bffcffeab46948a81a438e2fe900f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747353470378
+status: 3
+tags: []
+user_id: runner
