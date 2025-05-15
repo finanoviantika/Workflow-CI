@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fb1111418fd946bc8f96cc9384493cdb/artifacts
+end_time: 1747322927427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb1111418fd946bc8f96cc9384493cdb
+run_name: fortunate-cub-124
+run_uuid: fb1111418fd946bc8f96cc9384493cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322921120
+status: 3
+tags: []
+user_id: runner
