@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8b452b0678ff4691bdac18cc38f8be86/artifacts
+end_time: 1747352349316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b452b0678ff4691bdac18cc38f8be86
+run_name: suave-ape-924
+run_uuid: 8b452b0678ff4691bdac18cc38f8be86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747352342852
+status: 3
+tags: []
+user_id: runner
