@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6a01447cc3124de4bbf8d43327a1ed91/artifacts
+end_time: 1747317443010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a01447cc3124de4bbf8d43327a1ed91
+run_name: lyrical-bird-297
+run_uuid: 6a01447cc3124de4bbf8d43327a1ed91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747317436343
+status: 3
+tags: []
+user_id: runner
