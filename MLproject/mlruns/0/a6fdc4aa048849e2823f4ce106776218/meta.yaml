@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6fdc4aa048849e2823f4ce106776218/artifacts
+end_time: 1747285950219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6fdc4aa048849e2823f4ce106776218
+run_name: welcoming-sow-384
+run_uuid: a6fdc4aa048849e2823f4ce106776218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747285943519
+status: 3
+tags: []
+user_id: runner
