@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/68b4bf87b22247cca10e93b02b64a527/artifacts
+end_time: 1747306658123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68b4bf87b22247cca10e93b02b64a527
+run_name: skittish-vole-994
+run_uuid: 68b4bf87b22247cca10e93b02b64a527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747306651795
+status: 3
+tags: []
+user_id: runner
