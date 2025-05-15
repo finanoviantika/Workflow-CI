@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2e04c33b1f248f287cfcfd0f3c49f6b/artifacts
+end_time: 1747350050192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2e04c33b1f248f287cfcfd0f3c49f6b
+run_name: omniscient-crow-325
+run_uuid: e2e04c33b1f248f287cfcfd0f3c49f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747350043684
+status: 3
+tags: []
+user_id: runner
