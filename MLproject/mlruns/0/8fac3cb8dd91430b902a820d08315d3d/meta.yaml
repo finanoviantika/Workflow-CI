@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8fac3cb8dd91430b902a820d08315d3d/artifacts
+end_time: 1747328262737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fac3cb8dd91430b902a820d08315d3d
+run_name: bald-croc-541
+run_uuid: 8fac3cb8dd91430b902a820d08315d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747328256451
+status: 3
+tags: []
+user_id: runner
