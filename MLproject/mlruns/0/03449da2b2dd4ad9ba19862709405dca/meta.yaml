@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/03449da2b2dd4ad9ba19862709405dca/artifacts
+end_time: 1747301301130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03449da2b2dd4ad9ba19862709405dca
+run_name: silent-ray-961
+run_uuid: 03449da2b2dd4ad9ba19862709405dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747301294629
+status: 3
+tags: []
+user_id: runner
