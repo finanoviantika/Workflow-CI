@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aab46492ead94af298b37e711a1fe7a4/artifacts
+end_time: 1747342142069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aab46492ead94af298b37e711a1fe7a4
+run_name: bedecked-trout-240
+run_uuid: aab46492ead94af298b37e711a1fe7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747342135210
+status: 3
+tags: []
+user_id: runner
