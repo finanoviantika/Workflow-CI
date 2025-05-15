@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/47d6a018f0794885b2ce283642069641/artifacts
+end_time: 1747300659139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47d6a018f0794885b2ce283642069641
+run_name: zealous-frog-819
+run_uuid: 47d6a018f0794885b2ce283642069641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747300652737
+status: 3
+tags: []
+user_id: runner
