@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0e0229c2bfe4c6fad5dfe943a6bcb6d/artifacts
+end_time: 1747312483032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e0229c2bfe4c6fad5dfe943a6bcb6d
+run_name: dashing-stork-33
+run_uuid: e0e0229c2bfe4c6fad5dfe943a6bcb6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747312476680
+status: 3
+tags: []
+user_id: runner
