@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/caba8d5c30bd4f5c9176f70248d5059c/artifacts
+end_time: 1747276584095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caba8d5c30bd4f5c9176f70248d5059c
+run_name: bittersweet-bee-573
+run_uuid: caba8d5c30bd4f5c9176f70248d5059c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276577510
+status: 3
+tags: []
+user_id: runner
