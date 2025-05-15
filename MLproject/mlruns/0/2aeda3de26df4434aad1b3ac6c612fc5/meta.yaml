@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2aeda3de26df4434aad1b3ac6c612fc5/artifacts
+end_time: 1747320282674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aeda3de26df4434aad1b3ac6c612fc5
+run_name: brawny-grub-817
+run_uuid: 2aeda3de26df4434aad1b3ac6c612fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747320276221
+status: 3
+tags: []
+user_id: runner
