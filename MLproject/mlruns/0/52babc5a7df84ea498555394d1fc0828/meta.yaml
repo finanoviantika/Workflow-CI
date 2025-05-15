@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/52babc5a7df84ea498555394d1fc0828/artifacts
+end_time: 1747325227330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52babc5a7df84ea498555394d1fc0828
+run_name: learned-lark-27
+run_uuid: 52babc5a7df84ea498555394d1fc0828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325220649
+status: 3
+tags: []
+user_id: runner
