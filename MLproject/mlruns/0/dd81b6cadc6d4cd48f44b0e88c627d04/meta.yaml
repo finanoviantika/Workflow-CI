@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd81b6cadc6d4cd48f44b0e88c627d04/artifacts
+end_time: 1747312956804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd81b6cadc6d4cd48f44b0e88c627d04
+run_name: unleashed-fowl-754
+run_uuid: dd81b6cadc6d4cd48f44b0e88c627d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747312950501
+status: 3
+tags: []
+user_id: runner
