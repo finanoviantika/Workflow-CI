@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aa05a27d2cce4303a480b9e33e37a854/artifacts
+end_time: 1747283686932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa05a27d2cce4303a480b9e33e37a854
+run_name: burly-bass-96
+run_uuid: aa05a27d2cce4303a480b9e33e37a854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747283680674
+status: 3
+tags: []
+user_id: runner
