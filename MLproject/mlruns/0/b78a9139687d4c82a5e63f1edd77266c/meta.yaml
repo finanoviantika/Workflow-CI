@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b78a9139687d4c82a5e63f1edd77266c/artifacts
+end_time: 1747344767624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b78a9139687d4c82a5e63f1edd77266c
+run_name: colorful-goose-701
+run_uuid: b78a9139687d4c82a5e63f1edd77266c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747344761235
+status: 3
+tags: []
+user_id: runner
