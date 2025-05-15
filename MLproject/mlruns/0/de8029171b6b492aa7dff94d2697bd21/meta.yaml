@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de8029171b6b492aa7dff94d2697bd21/artifacts
+end_time: 1747271138552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de8029171b6b492aa7dff94d2697bd21
+run_name: monumental-elk-157
+run_uuid: de8029171b6b492aa7dff94d2697bd21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271132187
+status: 3
+tags: []
+user_id: runner
