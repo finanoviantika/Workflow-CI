@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee944d27f26746a2aef4a189c8fe68d6/artifacts
+end_time: 1747345231699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee944d27f26746a2aef4a189c8fe68d6
+run_name: judicious-bat-554
+run_uuid: ee944d27f26746a2aef4a189c8fe68d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345225236
+status: 3
+tags: []
+user_id: runner
