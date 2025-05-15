@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/626cdf24bea44a15875e7b3744764522/artifacts
+end_time: 1747342821675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 626cdf24bea44a15875e7b3744764522
+run_name: suave-rat-660
+run_uuid: 626cdf24bea44a15875e7b3744764522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747342815136
+status: 3
+tags: []
+user_id: runner
