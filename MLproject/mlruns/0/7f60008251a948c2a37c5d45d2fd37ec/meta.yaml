@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f60008251a948c2a37c5d45d2fd37ec/artifacts
+end_time: 1747267766473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f60008251a948c2a37c5d45d2fd37ec
+run_name: peaceful-croc-684
+run_uuid: 7f60008251a948c2a37c5d45d2fd37ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747267760178
+status: 3
+tags: []
+user_id: runner
