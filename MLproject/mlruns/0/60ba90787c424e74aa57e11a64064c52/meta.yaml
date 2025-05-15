@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/60ba90787c424e74aa57e11a64064c52/artifacts
+end_time: 1747335567502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ba90787c424e74aa57e11a64064c52
+run_name: selective-jay-464
+run_uuid: 60ba90787c424e74aa57e11a64064c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747335561080
+status: 3
+tags: []
+user_id: runner
