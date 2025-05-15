@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a5a7b06fd3f74838b264e01e65165c58/artifacts
+end_time: 1747325517265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a7b06fd3f74838b264e01e65165c58
+run_name: efficient-lark-681
+run_uuid: a5a7b06fd3f74838b264e01e65165c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325510909
+status: 3
+tags: []
+user_id: runner
