@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/61d4565a15be464c925b5c8c1e6d9967/artifacts
+end_time: 1747340400427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61d4565a15be464c925b5c8c1e6d9967
+run_name: tasteful-worm-921
+run_uuid: 61d4565a15be464c925b5c8c1e6d9967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747340393878
+status: 3
+tags: []
+user_id: runner
