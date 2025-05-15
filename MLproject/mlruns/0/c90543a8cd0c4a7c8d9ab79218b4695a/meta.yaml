@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c90543a8cd0c4a7c8d9ab79218b4695a/artifacts
+end_time: 1747301207900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90543a8cd0c4a7c8d9ab79218b4695a
+run_name: powerful-shoat-98
+run_uuid: c90543a8cd0c4a7c8d9ab79218b4695a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747301201957
+status: 3
+tags: []
+user_id: runner
