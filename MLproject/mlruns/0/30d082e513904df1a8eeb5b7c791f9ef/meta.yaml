@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/30d082e513904df1a8eeb5b7c791f9ef/artifacts
+end_time: 1747288469304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30d082e513904df1a8eeb5b7c791f9ef
+run_name: overjoyed-robin-181
+run_uuid: 30d082e513904df1a8eeb5b7c791f9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747288462860
+status: 3
+tags: []
+user_id: runner
