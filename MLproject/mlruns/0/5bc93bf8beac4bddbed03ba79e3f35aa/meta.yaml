@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5bc93bf8beac4bddbed03ba79e3f35aa/artifacts
+end_time: 1747327790199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bc93bf8beac4bddbed03ba79e3f35aa
+run_name: tasteful-cow-244
+run_uuid: 5bc93bf8beac4bddbed03ba79e3f35aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747327783667
+status: 3
+tags: []
+user_id: runner
