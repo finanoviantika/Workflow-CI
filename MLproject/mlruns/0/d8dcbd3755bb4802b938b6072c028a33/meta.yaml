@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d8dcbd3755bb4802b938b6072c028a33/artifacts
+end_time: 1747332294721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8dcbd3755bb4802b938b6072c028a33
+run_name: agreeable-ram-222
+run_uuid: d8dcbd3755bb4802b938b6072c028a33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332288428
+status: 3
+tags: []
+user_id: runner
