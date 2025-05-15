@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cef2bfb26a7a44689dece79c00c338b2/artifacts
+end_time: 1747271810472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cef2bfb26a7a44689dece79c00c338b2
+run_name: gaudy-tern-949
+run_uuid: cef2bfb26a7a44689dece79c00c338b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271804116
+status: 3
+tags: []
+user_id: runner
