@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dcd15177747749928239f2d73e66047c/artifacts
+end_time: 1747347418555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcd15177747749928239f2d73e66047c
+run_name: thundering-ox-389
+run_uuid: dcd15177747749928239f2d73e66047c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347412105
+status: 3
+tags: []
+user_id: runner
