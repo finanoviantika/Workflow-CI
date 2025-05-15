@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1a13269c5574344a7d2e71b4583fbe6/artifacts
+end_time: 1747269258692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a13269c5574344a7d2e71b4583fbe6
+run_name: nosy-crow-562
+run_uuid: f1a13269c5574344a7d2e71b4583fbe6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747269252283
+status: 3
+tags: []
+user_id: runner
