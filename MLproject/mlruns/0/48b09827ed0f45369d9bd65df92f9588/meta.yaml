@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/48b09827ed0f45369d9bd65df92f9588/artifacts
+end_time: 1747291781133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b09827ed0f45369d9bd65df92f9588
+run_name: popular-skink-979
+run_uuid: 48b09827ed0f45369d9bd65df92f9588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291774682
+status: 3
+tags: []
+user_id: runner
