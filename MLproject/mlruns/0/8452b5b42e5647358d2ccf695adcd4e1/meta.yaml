@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8452b5b42e5647358d2ccf695adcd4e1/artifacts
+end_time: 1747279020246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8452b5b42e5647358d2ccf695adcd4e1
+run_name: indecisive-fox-206
+run_uuid: 8452b5b42e5647358d2ccf695adcd4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279013865
+status: 3
+tags: []
+user_id: runner
