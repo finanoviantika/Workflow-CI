@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a999c9847c6b48dc8127d2da7bdb56d7/artifacts
+end_time: 1747293084967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a999c9847c6b48dc8127d2da7bdb56d7
+run_name: dapper-squid-218
+run_uuid: a999c9847c6b48dc8127d2da7bdb56d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747293078562
+status: 3
+tags: []
+user_id: runner
