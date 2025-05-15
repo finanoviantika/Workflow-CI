@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6b668214e18a4c4f985e17ae064a1cb7/artifacts
+end_time: 1747313339555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b668214e18a4c4f985e17ae064a1cb7
+run_name: bedecked-bear-350
+run_uuid: 6b668214e18a4c4f985e17ae064a1cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747313333146
+status: 3
+tags: []
+user_id: runner
