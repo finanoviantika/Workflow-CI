@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7535d29ca8de4fa69ebb7ad47fa91fea/artifacts
+end_time: 1747334785650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7535d29ca8de4fa69ebb7ad47fa91fea
+run_name: rebellious-roo-897
+run_uuid: 7535d29ca8de4fa69ebb7ad47fa91fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334779332
+status: 3
+tags: []
+user_id: runner
