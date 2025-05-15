@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/91269a2107724d2c9da1493fbaf2aa7b/artifacts
+end_time: 1747276488506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91269a2107724d2c9da1493fbaf2aa7b
+run_name: gentle-seal-932
+run_uuid: 91269a2107724d2c9da1493fbaf2aa7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276482244
+status: 3
+tags: []
+user_id: runner
