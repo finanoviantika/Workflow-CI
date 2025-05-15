@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dbe66bd784cc4af1bc8ce2576a882018/artifacts
+end_time: 1747296297001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbe66bd784cc4af1bc8ce2576a882018
+run_name: able-pug-642
+run_uuid: dbe66bd784cc4af1bc8ce2576a882018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296290334
+status: 3
+tags: []
+user_id: runner
