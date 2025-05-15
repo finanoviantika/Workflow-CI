@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/98a8f1e1fee94cac90225f3398a4d685/artifacts
+end_time: 1747303732835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98a8f1e1fee94cac90225f3398a4d685
+run_name: unruly-deer-73
+run_uuid: 98a8f1e1fee94cac90225f3398a4d685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747303726543
+status: 3
+tags: []
+user_id: runner
