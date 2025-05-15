@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/72b8f5863b6f4ce2b965a9cd51006d29/artifacts
+end_time: 1747279698184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72b8f5863b6f4ce2b965a9cd51006d29
+run_name: gentle-trout-691
+run_uuid: 72b8f5863b6f4ce2b965a9cd51006d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279691829
+status: 3
+tags: []
+user_id: runner
