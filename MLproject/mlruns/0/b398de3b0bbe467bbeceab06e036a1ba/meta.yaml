@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b398de3b0bbe467bbeceab06e036a1ba/artifacts
+end_time: 1747345324391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b398de3b0bbe467bbeceab06e036a1ba
+run_name: sedate-kite-617
+run_uuid: b398de3b0bbe467bbeceab06e036a1ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345318003
+status: 3
+tags: []
+user_id: runner
