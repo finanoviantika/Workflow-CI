@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ffd75500a939439788e468d396973e92/artifacts
+end_time: 1747325612643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffd75500a939439788e468d396973e92
+run_name: secretive-ram-175
+run_uuid: ffd75500a939439788e468d396973e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325606303
+status: 3
+tags: []
+user_id: runner
