@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/35e96ce9d1f14afb96e98f1c3a55f7ad/artifacts
+end_time: 1747271523440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35e96ce9d1f14afb96e98f1c3a55f7ad
+run_name: youthful-sloth-710
+run_uuid: 35e96ce9d1f14afb96e98f1c3a55f7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271517022
+status: 3
+tags: []
+user_id: runner
