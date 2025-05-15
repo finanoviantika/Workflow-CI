@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/553cd4f204ab445581b03089f7e44c26/artifacts
+end_time: 1747338918627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553cd4f204ab445581b03089f7e44c26
+run_name: abrasive-steed-417
+run_uuid: 553cd4f204ab445581b03089f7e44c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747338912248
+status: 3
+tags: []
+user_id: runner
