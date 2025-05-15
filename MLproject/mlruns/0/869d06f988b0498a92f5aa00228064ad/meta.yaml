@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/869d06f988b0498a92f5aa00228064ad/artifacts
+end_time: 1747274821182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 869d06f988b0498a92f5aa00228064ad
+run_name: adaptable-pig-232
+run_uuid: 869d06f988b0498a92f5aa00228064ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747274814716
+status: 3
+tags: []
+user_id: runner
