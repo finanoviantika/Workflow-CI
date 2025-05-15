@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8105ab82829b468dad5f80af1c76f25b/artifacts
+end_time: 1747312006268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8105ab82829b468dad5f80af1c76f25b
+run_name: illustrious-duck-329
+run_uuid: 8105ab82829b468dad5f80af1c76f25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747311999842
+status: 3
+tags: []
+user_id: runner
