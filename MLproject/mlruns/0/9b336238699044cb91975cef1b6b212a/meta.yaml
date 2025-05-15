@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9b336238699044cb91975cef1b6b212a/artifacts
+end_time: 1747317640315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b336238699044cb91975cef1b6b212a
+run_name: bouncy-grouse-866
+run_uuid: 9b336238699044cb91975cef1b6b212a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747317633061
+status: 3
+tags: []
+user_id: runner
