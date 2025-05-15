@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6a345151ef244b1f9b3924b39b35eadc/artifacts
+end_time: 1747302524393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a345151ef244b1f9b3924b39b35eadc
+run_name: debonair-yak-205
+run_uuid: 6a345151ef244b1f9b3924b39b35eadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302517914
+status: 3
+tags: []
+user_id: runner
