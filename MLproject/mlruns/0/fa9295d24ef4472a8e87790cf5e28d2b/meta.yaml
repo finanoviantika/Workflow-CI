@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fa9295d24ef4472a8e87790cf5e28d2b/artifacts
+end_time: 1747319197140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa9295d24ef4472a8e87790cf5e28d2b
+run_name: beautiful-sloth-656
+run_uuid: fa9295d24ef4472a8e87790cf5e28d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747319190685
+status: 3
+tags: []
+user_id: runner
