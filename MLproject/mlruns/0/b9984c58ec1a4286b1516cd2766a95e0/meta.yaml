@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b9984c58ec1a4286b1516cd2766a95e0/artifacts
+end_time: 1747325415567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9984c58ec1a4286b1516cd2766a95e0
+run_name: gifted-dove-881
+run_uuid: b9984c58ec1a4286b1516cd2766a95e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325409082
+status: 3
+tags: []
+user_id: runner
