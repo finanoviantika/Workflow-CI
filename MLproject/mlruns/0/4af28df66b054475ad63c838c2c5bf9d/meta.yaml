@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4af28df66b054475ad63c838c2c5bf9d/artifacts
+end_time: 1747341273308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4af28df66b054475ad63c838c2c5bf9d
+run_name: delightful-crow-249
+run_uuid: 4af28df66b054475ad63c838c2c5bf9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747341266872
+status: 3
+tags: []
+user_id: runner
