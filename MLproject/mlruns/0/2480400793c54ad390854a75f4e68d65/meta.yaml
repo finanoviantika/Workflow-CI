@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2480400793c54ad390854a75f4e68d65/artifacts
+end_time: 1747319102945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2480400793c54ad390854a75f4e68d65
+run_name: salty-gnu-988
+run_uuid: 2480400793c54ad390854a75f4e68d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747319096495
+status: 3
+tags: []
+user_id: runner
