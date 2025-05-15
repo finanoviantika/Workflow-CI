@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e26d60a8327047efb0300554948199e5/artifacts
+end_time: 1747267948520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e26d60a8327047efb0300554948199e5
+run_name: tasteful-boar-173
+run_uuid: e26d60a8327047efb0300554948199e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747267942275
+status: 3
+tags: []
+user_id: runner
