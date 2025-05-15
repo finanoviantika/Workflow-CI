@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/96ee968d9636441cbf960e1cdd364be2/artifacts
+end_time: 1747268791670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96ee968d9636441cbf960e1cdd364be2
+run_name: tasteful-midge-810
+run_uuid: 96ee968d9636441cbf960e1cdd364be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747268785288
+status: 3
+tags: []
+user_id: runner
