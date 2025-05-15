@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d9735ad826904b6998191ebfdccb4781/artifacts
+end_time: 1747275191519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9735ad826904b6998191ebfdccb4781
+run_name: placid-cub-72
+run_uuid: d9735ad826904b6998191ebfdccb4781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275185233
+status: 3
+tags: []
+user_id: runner
