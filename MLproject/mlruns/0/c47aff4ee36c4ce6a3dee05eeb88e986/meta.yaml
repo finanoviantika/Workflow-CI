@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c47aff4ee36c4ce6a3dee05eeb88e986/artifacts
+end_time: 1747347987462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c47aff4ee36c4ce6a3dee05eeb88e986
+run_name: selective-crab-310
+run_uuid: c47aff4ee36c4ce6a3dee05eeb88e986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347981159
+status: 3
+tags: []
+user_id: runner
