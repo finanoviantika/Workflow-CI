@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e708780fe0534cb0b36f7d5beeae4d17/artifacts
+end_time: 1747297344185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e708780fe0534cb0b36f7d5beeae4d17
+run_name: traveling-hen-124
+run_uuid: e708780fe0534cb0b36f7d5beeae4d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747297337642
+status: 3
+tags: []
+user_id: runner
