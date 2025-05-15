@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3b59975bc7e5439f8f6f0107c834e751/artifacts
+end_time: 1747274068229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b59975bc7e5439f8f6f0107c834e751
+run_name: nimble-horse-679
+run_uuid: 3b59975bc7e5439f8f6f0107c834e751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747274061887
+status: 3
+tags: []
+user_id: runner
