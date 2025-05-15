@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db4821a64b094f07bdd68fd165a69e2e/artifacts
+end_time: 1747293564491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4821a64b094f07bdd68fd165a69e2e
+run_name: nimble-shrimp-200
+run_uuid: db4821a64b094f07bdd68fd165a69e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747293557611
+status: 3
+tags: []
+user_id: runner
