@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/03545175e1ae413389399d2416f0ead2/artifacts
+end_time: 1747271431689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03545175e1ae413389399d2416f0ead2
+run_name: righteous-mouse-565
+run_uuid: 03545175e1ae413389399d2416f0ead2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747271425351
+status: 3
+tags: []
+user_id: runner
