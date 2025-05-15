@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cc461f6091054d46964717e1a1e299bf/artifacts
+end_time: 1747344001387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc461f6091054d46964717e1a1e299bf
+run_name: clean-boar-216
+run_uuid: cc461f6091054d46964717e1a1e299bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747343994397
+status: 3
+tags: []
+user_id: runner
