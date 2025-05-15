@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/59b979b200034765871e7f769e05bf83/artifacts
+end_time: 1747278448193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59b979b200034765871e7f769e05bf83
+run_name: rogue-bat-665
+run_uuid: 59b979b200034765871e7f769e05bf83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278441412
+status: 3
+tags: []
+user_id: runner
