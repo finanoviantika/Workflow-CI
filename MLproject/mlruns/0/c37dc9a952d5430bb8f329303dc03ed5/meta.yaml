@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c37dc9a952d5430bb8f329303dc03ed5/artifacts
+end_time: 1747326847891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c37dc9a952d5430bb8f329303dc03ed5
+run_name: bemused-mouse-596
+run_uuid: c37dc9a952d5430bb8f329303dc03ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326841434
+status: 3
+tags: []
+user_id: runner
