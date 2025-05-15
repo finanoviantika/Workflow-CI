@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b927c9059e4d4156ac4db1cfb8799f18/artifacts
+end_time: 1747300850465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b927c9059e4d4156ac4db1cfb8799f18
+run_name: casual-bug-413
+run_uuid: b927c9059e4d4156ac4db1cfb8799f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747300843878
+status: 3
+tags: []
+user_id: runner
