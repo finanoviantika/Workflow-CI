@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e16b8d1af67147f7adc693d1e2a07560/artifacts
+end_time: 1747314388598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e16b8d1af67147f7adc693d1e2a07560
+run_name: honorable-dog-414
+run_uuid: e16b8d1af67147f7adc693d1e2a07560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314382037
+status: 3
+tags: []
+user_id: runner
