@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/33443328c1a042928eb4d1d04868ff75/artifacts
+end_time: 1747282029657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33443328c1a042928eb4d1d04868ff75
+run_name: shivering-cat-773
+run_uuid: 33443328c1a042928eb4d1d04868ff75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747282023167
+status: 3
+tags: []
+user_id: runner
