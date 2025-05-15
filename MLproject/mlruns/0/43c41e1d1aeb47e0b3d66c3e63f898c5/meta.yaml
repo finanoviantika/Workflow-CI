@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/43c41e1d1aeb47e0b3d66c3e63f898c5/artifacts
+end_time: 1747331914880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43c41e1d1aeb47e0b3d66c3e63f898c5
+run_name: monumental-hound-112
+run_uuid: 43c41e1d1aeb47e0b3d66c3e63f898c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747331908477
+status: 3
+tags: []
+user_id: runner
