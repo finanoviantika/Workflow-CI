@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/02959e188fa74aa9acb45745b6218995/artifacts
+end_time: 1747315065130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02959e188fa74aa9acb45745b6218995
+run_name: adorable-ox-222
+run_uuid: 02959e188fa74aa9acb45745b6218995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747315058065
+status: 3
+tags: []
+user_id: runner
