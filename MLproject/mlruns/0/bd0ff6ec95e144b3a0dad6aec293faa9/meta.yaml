@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd0ff6ec95e144b3a0dad6aec293faa9/artifacts
+end_time: 1747323688682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd0ff6ec95e144b3a0dad6aec293faa9
+run_name: stylish-jay-593
+run_uuid: bd0ff6ec95e144b3a0dad6aec293faa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747323682276
+status: 3
+tags: []
+user_id: runner
