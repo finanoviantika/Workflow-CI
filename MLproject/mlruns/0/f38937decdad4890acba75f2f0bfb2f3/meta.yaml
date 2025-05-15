@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f38937decdad4890acba75f2f0bfb2f3/artifacts
+end_time: 1747306565945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f38937decdad4890acba75f2f0bfb2f3
+run_name: aged-roo-577
+run_uuid: f38937decdad4890acba75f2f0bfb2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747306559448
+status: 3
+tags: []
+user_id: runner
