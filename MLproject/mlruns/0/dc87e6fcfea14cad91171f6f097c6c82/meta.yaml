@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dc87e6fcfea14cad91171f6f097c6c82/artifacts
+end_time: 1747344669792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc87e6fcfea14cad91171f6f097c6c82
+run_name: mysterious-bear-220
+run_uuid: dc87e6fcfea14cad91171f6f097c6c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747344663239
+status: 3
+tags: []
+user_id: runner
