@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/660a75dad82843b8b6e8a2ce0945e3de/artifacts
+end_time: 1747330760159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660a75dad82843b8b6e8a2ce0945e3de
+run_name: flawless-newt-398
+run_uuid: 660a75dad82843b8b6e8a2ce0945e3de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330753890
+status: 3
+tags: []
+user_id: runner
