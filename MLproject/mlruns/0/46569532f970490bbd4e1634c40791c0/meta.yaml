@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/46569532f970490bbd4e1634c40791c0/artifacts
+end_time: 1747322637754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46569532f970490bbd4e1634c40791c0
+run_name: bouncy-cod-433
+run_uuid: 46569532f970490bbd4e1634c40791c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322631106
+status: 3
+tags: []
+user_id: runner
