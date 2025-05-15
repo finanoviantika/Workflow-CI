@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0f50d49b3edc4c52affd88c4790c659b/artifacts
+end_time: 1747333532742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f50d49b3edc4c52affd88c4790c659b
+run_name: zealous-snail-741
+run_uuid: 0f50d49b3edc4c52affd88c4790c659b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333526295
+status: 3
+tags: []
+user_id: runner
