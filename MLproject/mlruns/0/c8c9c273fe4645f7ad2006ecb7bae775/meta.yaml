@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c8c9c273fe4645f7ad2006ecb7bae775/artifacts
+end_time: 1747351206774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c9c273fe4645f7ad2006ecb7bae775
+run_name: thoughtful-horse-252
+run_uuid: c8c9c273fe4645f7ad2006ecb7bae775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747351200423
+status: 3
+tags: []
+user_id: runner
