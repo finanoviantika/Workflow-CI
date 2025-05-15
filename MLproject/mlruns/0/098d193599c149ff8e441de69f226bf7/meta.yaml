@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/098d193599c149ff8e441de69f226bf7/artifacts
+end_time: 1747293370663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 098d193599c149ff8e441de69f226bf7
+run_name: illustrious-vole-945
+run_uuid: 098d193599c149ff8e441de69f226bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747293364349
+status: 3
+tags: []
+user_id: runner
