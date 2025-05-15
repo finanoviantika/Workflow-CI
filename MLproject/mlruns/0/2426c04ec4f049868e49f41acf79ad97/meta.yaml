@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2426c04ec4f049868e49f41acf79ad97/artifacts
+end_time: 1747318424445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2426c04ec4f049868e49f41acf79ad97
+run_name: charming-shoat-75
+run_uuid: 2426c04ec4f049868e49f41acf79ad97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747318418069
+status: 3
+tags: []
+user_id: runner
