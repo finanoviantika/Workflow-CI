@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/580d63fd72ea4e9baea63b053b667a39/artifacts
+end_time: 1747327600975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 580d63fd72ea4e9baea63b053b667a39
+run_name: luxuriant-skink-61
+run_uuid: 580d63fd72ea4e9baea63b053b667a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747327594570
+status: 3
+tags: []
+user_id: runner
