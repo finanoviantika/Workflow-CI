@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4a1e6ab094a433f9b9ce32543314fff/artifacts
+end_time: 1747320409368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4a1e6ab094a433f9b9ce32543314fff
+run_name: bouncy-colt-140
+run_uuid: f4a1e6ab094a433f9b9ce32543314fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747320403052
+status: 3
+tags: []
+user_id: runner
