@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3372a9177f7c4a41935e9da02d3a50e0/artifacts
+end_time: 1747300178939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3372a9177f7c4a41935e9da02d3a50e0
+run_name: rogue-crow-516
+run_uuid: 3372a9177f7c4a41935e9da02d3a50e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747300172450
+status: 3
+tags: []
+user_id: runner
