@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a495af9a4f8e4c31b944785458cc2696/artifacts
+end_time: 1747316588724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a495af9a4f8e4c31b944785458cc2696
+run_name: hilarious-snake-464
+run_uuid: a495af9a4f8e4c31b944785458cc2696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316582346
+status: 3
+tags: []
+user_id: runner
