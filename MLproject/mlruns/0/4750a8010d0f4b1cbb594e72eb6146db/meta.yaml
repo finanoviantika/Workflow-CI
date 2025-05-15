@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4750a8010d0f4b1cbb594e72eb6146db/artifacts
+end_time: 1747333437601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4750a8010d0f4b1cbb594e72eb6146db
+run_name: sneaky-mouse-410
+run_uuid: 4750a8010d0f4b1cbb594e72eb6146db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333431001
+status: 3
+tags: []
+user_id: runner
