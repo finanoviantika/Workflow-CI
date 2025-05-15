@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76c69c9b20844e569852edf5d47915ba/artifacts
+end_time: 1747309474528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76c69c9b20844e569852edf5d47915ba
+run_name: amusing-trout-354
+run_uuid: 76c69c9b20844e569852edf5d47915ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747309468095
+status: 3
+tags: []
+user_id: runner
