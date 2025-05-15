@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b0fdbe91370f436fb57904801bc8859a/artifacts
+end_time: 1747302620302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0fdbe91370f436fb57904801bc8859a
+run_name: whimsical-midge-920
+run_uuid: b0fdbe91370f436fb57904801bc8859a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302613810
+status: 3
+tags: []
+user_id: runner
