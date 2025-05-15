@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92faa232e00e45b2892a0a10fffd81ff/artifacts
+end_time: 1747321851814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92faa232e00e45b2892a0a10fffd81ff
+run_name: magnificent-wren-43
+run_uuid: 92faa232e00e45b2892a0a10fffd81ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747321845387
+status: 3
+tags: []
+user_id: runner
