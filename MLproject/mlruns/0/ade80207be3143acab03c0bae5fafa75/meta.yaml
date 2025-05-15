@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ade80207be3143acab03c0bae5fafa75/artifacts
+end_time: 1747282771966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ade80207be3143acab03c0bae5fafa75
+run_name: judicious-duck-550
+run_uuid: ade80207be3143acab03c0bae5fafa75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747282765440
+status: 3
+tags: []
+user_id: runner
