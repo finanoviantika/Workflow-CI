@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/79aa195b76594776b88c6600737190e4/artifacts
+end_time: 1747334027180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79aa195b76594776b88c6600737190e4
+run_name: crawling-skunk-372
+run_uuid: 79aa195b76594776b88c6600737190e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334019834
+status: 3
+tags: []
+user_id: runner
