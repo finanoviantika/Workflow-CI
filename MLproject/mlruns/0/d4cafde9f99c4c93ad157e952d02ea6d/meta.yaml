@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d4cafde9f99c4c93ad157e952d02ea6d/artifacts
+end_time: 1747345513061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4cafde9f99c4c93ad157e952d02ea6d
+run_name: clumsy-gnu-861
+run_uuid: d4cafde9f99c4c93ad157e952d02ea6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345506838
+status: 3
+tags: []
+user_id: runner
