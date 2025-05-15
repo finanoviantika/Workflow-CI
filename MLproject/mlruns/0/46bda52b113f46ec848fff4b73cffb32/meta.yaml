@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/46bda52b113f46ec848fff4b73cffb32/artifacts
+end_time: 1747325998523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46bda52b113f46ec848fff4b73cffb32
+run_name: orderly-roo-93
+run_uuid: 46bda52b113f46ec848fff4b73cffb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325992092
+status: 3
+tags: []
+user_id: runner
