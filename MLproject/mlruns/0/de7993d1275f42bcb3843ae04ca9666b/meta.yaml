@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de7993d1275f42bcb3843ae04ca9666b/artifacts
+end_time: 1747279410587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de7993d1275f42bcb3843ae04ca9666b
+run_name: rogue-crane-735
+run_uuid: de7993d1275f42bcb3843ae04ca9666b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279404295
+status: 3
+tags: []
+user_id: runner
