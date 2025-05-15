@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/44dac5c1f69441799210d616eb98356c/artifacts
+end_time: 1747275471814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44dac5c1f69441799210d616eb98356c
+run_name: treasured-frog-440
+run_uuid: 44dac5c1f69441799210d616eb98356c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275465542
+status: 3
+tags: []
+user_id: runner
