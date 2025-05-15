@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/05240b4e047e46079de075cdad9fe0ef/artifacts
+end_time: 1747321568482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05240b4e047e46079de075cdad9fe0ef
+run_name: handsome-swan-982
+run_uuid: 05240b4e047e46079de075cdad9fe0ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747321562134
+status: 3
+tags: []
+user_id: runner
