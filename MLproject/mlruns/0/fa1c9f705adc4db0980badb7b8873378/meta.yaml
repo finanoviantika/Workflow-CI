@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fa1c9f705adc4db0980badb7b8873378/artifacts
+end_time: 1747351301703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa1c9f705adc4db0980badb7b8873378
+run_name: angry-snipe-103
+run_uuid: fa1c9f705adc4db0980badb7b8873378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747351295156
+status: 3
+tags: []
+user_id: runner
