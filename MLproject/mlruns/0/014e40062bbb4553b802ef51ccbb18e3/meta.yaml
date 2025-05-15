@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/014e40062bbb4553b802ef51ccbb18e3/artifacts
+end_time: 1747292252077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 014e40062bbb4553b802ef51ccbb18e3
+run_name: enchanting-snake-291
+run_uuid: 014e40062bbb4553b802ef51ccbb18e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292245804
+status: 3
+tags: []
+user_id: runner
