@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a59049ea853b4b19ac62bbfd3b1d07a9/artifacts
+end_time: 1747302430233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a59049ea853b4b19ac62bbfd3b1d07a9
+run_name: angry-shoat-344
+run_uuid: a59049ea853b4b19ac62bbfd3b1d07a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747302423489
+status: 3
+tags: []
+user_id: runner
