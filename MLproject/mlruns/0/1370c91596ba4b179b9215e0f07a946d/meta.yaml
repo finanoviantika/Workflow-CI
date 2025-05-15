@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1370c91596ba4b179b9215e0f07a946d/artifacts
+end_time: 1747348267988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1370c91596ba4b179b9215e0f07a946d
+run_name: upset-penguin-909
+run_uuid: 1370c91596ba4b179b9215e0f07a946d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348261649
+status: 3
+tags: []
+user_id: runner
