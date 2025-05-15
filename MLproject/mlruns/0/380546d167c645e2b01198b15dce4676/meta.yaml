@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/380546d167c645e2b01198b15dce4676/artifacts
+end_time: 1747296109233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 380546d167c645e2b01198b15dce4676
+run_name: delightful-foal-998
+run_uuid: 380546d167c645e2b01198b15dce4676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296103228
+status: 3
+tags: []
+user_id: runner
