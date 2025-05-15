@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/311808ee971d4566b11e59a9cbf14ffe/artifacts
+end_time: 1747278262528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311808ee971d4566b11e59a9cbf14ffe
+run_name: smiling-shrimp-574
+run_uuid: 311808ee971d4566b11e59a9cbf14ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747278256182
+status: 3
+tags: []
+user_id: runner
