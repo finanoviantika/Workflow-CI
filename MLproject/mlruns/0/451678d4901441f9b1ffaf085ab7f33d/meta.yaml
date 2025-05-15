@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/451678d4901441f9b1ffaf085ab7f33d/artifacts
+end_time: 1747351961869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 451678d4901441f9b1ffaf085ab7f33d
+run_name: luminous-duck-51
+run_uuid: 451678d4901441f9b1ffaf085ab7f33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747351955369
+status: 3
+tags: []
+user_id: runner
