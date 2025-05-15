@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/63a12d36e0504ae2aa5468593ed0f650/artifacts
+end_time: 1747350534199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63a12d36e0504ae2aa5468593ed0f650
+run_name: unequaled-cow-564
+run_uuid: 63a12d36e0504ae2aa5468593ed0f650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747350527644
+status: 3
+tags: []
+user_id: runner
