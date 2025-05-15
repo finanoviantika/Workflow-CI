@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8274b6f1df1a43b3ac3e8b55eced9eeb/artifacts
+end_time: 1747297999803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8274b6f1df1a43b3ac3e8b55eced9eeb
+run_name: clean-gnu-451
+run_uuid: 8274b6f1df1a43b3ac3e8b55eced9eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747297993456
+status: 3
+tags: []
+user_id: runner
