@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be6f3280b69b477a82a397e22e74b153/artifacts
+end_time: 1747318917908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be6f3280b69b477a82a397e22e74b153
+run_name: burly-toad-299
+run_uuid: be6f3280b69b477a82a397e22e74b153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747318911312
+status: 3
+tags: []
+user_id: runner
