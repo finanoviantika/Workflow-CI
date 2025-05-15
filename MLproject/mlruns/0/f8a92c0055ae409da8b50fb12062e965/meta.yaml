@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f8a92c0055ae409da8b50fb12062e965/artifacts
+end_time: 1747352064341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8a92c0055ae409da8b50fb12062e965
+run_name: gaudy-kite-605
+run_uuid: f8a92c0055ae409da8b50fb12062e965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747352057249
+status: 3
+tags: []
+user_id: runner
