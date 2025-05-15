@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/51b298604cdc4c2ab52fe2a978d47759/artifacts
+end_time: 1747269641302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51b298604cdc4c2ab52fe2a978d47759
+run_name: resilient-cow-681
+run_uuid: 51b298604cdc4c2ab52fe2a978d47759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747269634428
+status: 3
+tags: []
+user_id: runner
