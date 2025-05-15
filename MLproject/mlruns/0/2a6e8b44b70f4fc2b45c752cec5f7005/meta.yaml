@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2a6e8b44b70f4fc2b45c752cec5f7005/artifacts
+end_time: 1747330958378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a6e8b44b70f4fc2b45c752cec5f7005
+run_name: righteous-lark-777
+run_uuid: 2a6e8b44b70f4fc2b45c752cec5f7005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330951914
+status: 3
+tags: []
+user_id: runner
