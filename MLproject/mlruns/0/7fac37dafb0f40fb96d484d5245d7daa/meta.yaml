@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7fac37dafb0f40fb96d484d5245d7daa/artifacts
+end_time: 1747313547481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fac37dafb0f40fb96d484d5245d7daa
+run_name: kindly-quail-697
+run_uuid: 7fac37dafb0f40fb96d484d5245d7daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747313541098
+status: 3
+tags: []
+user_id: runner
