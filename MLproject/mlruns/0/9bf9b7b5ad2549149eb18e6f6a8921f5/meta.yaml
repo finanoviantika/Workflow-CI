@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9bf9b7b5ad2549149eb18e6f6a8921f5/artifacts
+end_time: 1747320710358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf9b7b5ad2549149eb18e6f6a8921f5
+run_name: merciful-snake-174
+run_uuid: 9bf9b7b5ad2549149eb18e6f6a8921f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747320704084
+status: 3
+tags: []
+user_id: runner
