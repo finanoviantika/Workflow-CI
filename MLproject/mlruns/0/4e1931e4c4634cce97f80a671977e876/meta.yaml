@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e1931e4c4634cce97f80a671977e876/artifacts
+end_time: 1747284538013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e1931e4c4634cce97f80a671977e876
+run_name: smiling-vole-125
+run_uuid: 4e1931e4c4634cce97f80a671977e876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284531748
+status: 3
+tags: []
+user_id: runner
