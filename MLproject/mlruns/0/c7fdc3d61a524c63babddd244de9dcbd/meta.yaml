@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c7fdc3d61a524c63babddd244de9dcbd/artifacts
+end_time: 1747325903585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7fdc3d61a524c63babddd244de9dcbd
+run_name: bright-owl-82
+run_uuid: c7fdc3d61a524c63babddd244de9dcbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747325897088
+status: 3
+tags: []
+user_id: runner
