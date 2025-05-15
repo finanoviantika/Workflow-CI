@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5fcb7e033ad84f4bbb4aa593f92272f4/artifacts
+end_time: 1747336634215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fcb7e033ad84f4bbb4aa593f92272f4
+run_name: agreeable-frog-637
+run_uuid: 5fcb7e033ad84f4bbb4aa593f92272f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747336627736
+status: 3
+tags: []
+user_id: runner
