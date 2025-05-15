@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d9e82e295d85488abd0de7271cdf5479/artifacts
+end_time: 1747273791719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9e82e295d85488abd0de7271cdf5479
+run_name: stylish-rook-545
+run_uuid: d9e82e295d85488abd0de7271cdf5479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747273785508
+status: 3
+tags: []
+user_id: runner
