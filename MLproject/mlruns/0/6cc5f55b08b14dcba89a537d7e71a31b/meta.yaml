@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6cc5f55b08b14dcba89a537d7e71a31b/artifacts
+end_time: 1747314674050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cc5f55b08b14dcba89a537d7e71a31b
+run_name: delicate-roo-404
+run_uuid: 6cc5f55b08b14dcba89a537d7e71a31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747314667668
+status: 3
+tags: []
+user_id: runner
