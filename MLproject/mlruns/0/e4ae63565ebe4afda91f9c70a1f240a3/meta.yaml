@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e4ae63565ebe4afda91f9c70a1f240a3/artifacts
+end_time: 1747324827170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4ae63565ebe4afda91f9c70a1f240a3
+run_name: welcoming-frog-953
+run_uuid: e4ae63565ebe4afda91f9c70a1f240a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747324820730
+status: 3
+tags: []
+user_id: runner
