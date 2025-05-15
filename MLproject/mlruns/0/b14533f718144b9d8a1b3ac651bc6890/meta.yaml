@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b14533f718144b9d8a1b3ac651bc6890/artifacts
+end_time: 1747270854359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b14533f718144b9d8a1b3ac651bc6890
+run_name: useful-gull-169
+run_uuid: b14533f718144b9d8a1b3ac651bc6890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747270848038
+status: 3
+tags: []
+user_id: runner
