@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/844d9138b04444b99987f0e57cee2905/artifacts
+end_time: 1747348455346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 844d9138b04444b99987f0e57cee2905
+run_name: judicious-snipe-489
+run_uuid: 844d9138b04444b99987f0e57cee2905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747348448994
+status: 3
+tags: []
+user_id: runner
