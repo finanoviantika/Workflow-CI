@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6012f8b4ba3d499e94b3ed051b80071b/artifacts
+end_time: 1747335279602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6012f8b4ba3d499e94b3ed051b80071b
+run_name: silent-jay-279
+run_uuid: 6012f8b4ba3d499e94b3ed051b80071b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747335273248
+status: 3
+tags: []
+user_id: runner
