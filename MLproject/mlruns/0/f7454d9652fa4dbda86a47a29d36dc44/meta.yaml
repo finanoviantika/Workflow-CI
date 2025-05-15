@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f7454d9652fa4dbda86a47a29d36dc44/artifacts
+end_time: 1747279509754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7454d9652fa4dbda86a47a29d36dc44
+run_name: calm-fly-344
+run_uuid: f7454d9652fa4dbda86a47a29d36dc44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279503070
+status: 3
+tags: []
+user_id: runner
