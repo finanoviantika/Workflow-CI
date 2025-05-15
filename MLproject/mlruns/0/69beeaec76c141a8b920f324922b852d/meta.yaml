@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/69beeaec76c141a8b920f324922b852d/artifacts
+end_time: 1747310591503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69beeaec76c141a8b920f324922b852d
+run_name: respected-panda-932
+run_uuid: 69beeaec76c141a8b920f324922b852d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310584933
+status: 3
+tags: []
+user_id: runner
