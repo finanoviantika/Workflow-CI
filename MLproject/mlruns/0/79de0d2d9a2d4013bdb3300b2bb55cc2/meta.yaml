@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/79de0d2d9a2d4013bdb3300b2bb55cc2/artifacts
+end_time: 1747333241212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79de0d2d9a2d4013bdb3300b2bb55cc2
+run_name: able-gull-203
+run_uuid: 79de0d2d9a2d4013bdb3300b2bb55cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747333234796
+status: 3
+tags: []
+user_id: runner
