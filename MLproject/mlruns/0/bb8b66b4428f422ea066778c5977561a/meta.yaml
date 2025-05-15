@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bb8b66b4428f422ea066778c5977561a/artifacts
+end_time: 1747327325494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb8b66b4428f422ea066778c5977561a
+run_name: dapper-bat-504
+run_uuid: bb8b66b4428f422ea066778c5977561a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747327318492
+status: 3
+tags: []
+user_id: runner
