@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed65c856ff4a40c5848bad75f054a743/artifacts
+end_time: 1747297908824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed65c856ff4a40c5848bad75f054a743
+run_name: valuable-conch-558
+run_uuid: ed65c856ff4a40c5848bad75f054a743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747297902185
+status: 3
+tags: []
+user_id: runner
