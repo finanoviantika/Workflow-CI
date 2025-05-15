@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/190c6b869b7f4e1ab1566589c8a38da2/artifacts
+end_time: 1747349569846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 190c6b869b7f4e1ab1566589c8a38da2
+run_name: silent-koi-44
+run_uuid: 190c6b869b7f4e1ab1566589c8a38da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747349563492
+status: 3
+tags: []
+user_id: runner
