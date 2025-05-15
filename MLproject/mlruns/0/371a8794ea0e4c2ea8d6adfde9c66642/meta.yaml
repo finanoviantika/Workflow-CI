@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/371a8794ea0e4c2ea8d6adfde9c66642/artifacts
+end_time: 1747308992126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 371a8794ea0e4c2ea8d6adfde9c66642
+run_name: intrigued-newt-679
+run_uuid: 371a8794ea0e4c2ea8d6adfde9c66642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747308985816
+status: 3
+tags: []
+user_id: runner
