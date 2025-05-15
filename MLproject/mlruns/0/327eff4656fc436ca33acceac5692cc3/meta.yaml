@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/327eff4656fc436ca33acceac5692cc3/artifacts
+end_time: 1747268981083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 327eff4656fc436ca33acceac5692cc3
+run_name: dashing-swan-438
+run_uuid: 327eff4656fc436ca33acceac5692cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747268974708
+status: 3
+tags: []
+user_id: runner
