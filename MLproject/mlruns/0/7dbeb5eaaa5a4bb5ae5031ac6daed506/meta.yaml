@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7dbeb5eaaa5a4bb5ae5031ac6daed506/artifacts
+end_time: 1747276116855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dbeb5eaaa5a4bb5ae5031ac6daed506
+run_name: sassy-calf-493
+run_uuid: 7dbeb5eaaa5a4bb5ae5031ac6daed506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276110453
+status: 3
+tags: []
+user_id: runner
