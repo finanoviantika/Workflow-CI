@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/699e9df55cca42e783acd69bab7ae7ea/artifacts
+end_time: 1747273602730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 699e9df55cca42e783acd69bab7ae7ea
+run_name: adorable-penguin-228
+run_uuid: 699e9df55cca42e783acd69bab7ae7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747273596281
+status: 3
+tags: []
+user_id: runner
