@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f60b01febc7459e9a3302a18a8880ae/artifacts
+end_time: 1747316020727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f60b01febc7459e9a3302a18a8880ae
+run_name: gaudy-loon-33
+run_uuid: 1f60b01febc7459e9a3302a18a8880ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316014192
+status: 3
+tags: []
+user_id: runner
