@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f309d57cf40541339df9461ffec3b10a/artifacts
+end_time: 1747292432726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f309d57cf40541339df9461ffec3b10a
+run_name: illustrious-grub-254
+run_uuid: f309d57cf40541339df9461ffec3b10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747292426314
+status: 3
+tags: []
+user_id: runner
