@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/28c5905795bd48fb8d7126b51239bf98/artifacts
+end_time: 1747279980360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c5905795bd48fb8d7126b51239bf98
+run_name: likeable-elk-213
+run_uuid: 28c5905795bd48fb8d7126b51239bf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279973968
+status: 3
+tags: []
+user_id: runner
