@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6aa0d970d3c4cc79da313dc3a5df431/artifacts
+end_time: 1747307313529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6aa0d970d3c4cc79da313dc3a5df431
+run_name: respected-owl-200
+run_uuid: a6aa0d970d3c4cc79da313dc3a5df431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747307307154
+status: 3
+tags: []
+user_id: runner
