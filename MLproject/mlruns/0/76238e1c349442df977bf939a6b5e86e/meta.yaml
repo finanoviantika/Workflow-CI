@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76238e1c349442df977bf939a6b5e86e/artifacts
+end_time: 1747319689290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76238e1c349442df977bf939a6b5e86e
+run_name: fearless-sheep-670
+run_uuid: 76238e1c349442df977bf939a6b5e86e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747319682627
+status: 3
+tags: []
+user_id: runner
