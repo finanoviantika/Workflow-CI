@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f78faf47d6e941aeb4de689bf3cb681a/artifacts
+end_time: 1747301954514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78faf47d6e941aeb4de689bf3cb681a
+run_name: adaptable-mule-414
+run_uuid: f78faf47d6e941aeb4de689bf3cb681a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747301948266
+status: 3
+tags: []
+user_id: runner
