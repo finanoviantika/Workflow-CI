@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/debcd0d9038044a4b0cfd9c2f1d7a10e/artifacts
+end_time: 1747281291471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: debcd0d9038044a4b0cfd9c2f1d7a10e
+run_name: carefree-cub-623
+run_uuid: debcd0d9038044a4b0cfd9c2f1d7a10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747281285014
+status: 3
+tags: []
+user_id: runner
