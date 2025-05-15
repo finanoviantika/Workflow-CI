@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8523877d065c41b780d8dcb9b4309414/artifacts
+end_time: 1747316393438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8523877d065c41b780d8dcb9b4309414
+run_name: orderly-finch-126
+run_uuid: 8523877d065c41b780d8dcb9b4309414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316386960
+status: 3
+tags: []
+user_id: runner
