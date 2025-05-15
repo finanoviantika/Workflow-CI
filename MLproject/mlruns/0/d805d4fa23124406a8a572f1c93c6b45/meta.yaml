@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d805d4fa23124406a8a572f1c93c6b45/artifacts
+end_time: 1747346564177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d805d4fa23124406a8a572f1c93c6b45
+run_name: resilient-newt-539
+run_uuid: d805d4fa23124406a8a572f1c93c6b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747346557782
+status: 3
+tags: []
+user_id: runner
