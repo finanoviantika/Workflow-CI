@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7796c979f75843e8b07147204c02cd9d/artifacts
+end_time: 1747279887980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7796c979f75843e8b07147204c02cd9d
+run_name: skittish-mule-85
+run_uuid: 7796c979f75843e8b07147204c02cd9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747279881662
+status: 3
+tags: []
+user_id: runner
