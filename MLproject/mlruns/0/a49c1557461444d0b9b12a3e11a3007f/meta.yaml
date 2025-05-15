@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a49c1557461444d0b9b12a3e11a3007f/artifacts
+end_time: 1747296780128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a49c1557461444d0b9b12a3e11a3007f
+run_name: bittersweet-ape-353
+run_uuid: a49c1557461444d0b9b12a3e11a3007f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296773611
+status: 3
+tags: []
+user_id: runner
