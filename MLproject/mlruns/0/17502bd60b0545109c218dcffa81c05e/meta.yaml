@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/17502bd60b0545109c218dcffa81c05e/artifacts
+end_time: 1747324630949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17502bd60b0545109c218dcffa81c05e
+run_name: luxuriant-chimp-823
+run_uuid: 17502bd60b0545109c218dcffa81c05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747324624517
+status: 3
+tags: []
+user_id: runner
