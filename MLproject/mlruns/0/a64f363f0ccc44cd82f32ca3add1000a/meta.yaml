@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a64f363f0ccc44cd82f32ca3add1000a/artifacts
+end_time: 1747336149550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a64f363f0ccc44cd82f32ca3add1000a
+run_name: rambunctious-roo-895
+run_uuid: a64f363f0ccc44cd82f32ca3add1000a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747336142511
+status: 3
+tags: []
+user_id: runner
