@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c162620e2b7f49a890ec3eb317c5f02b/artifacts
+end_time: 1747310975875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c162620e2b7f49a890ec3eb317c5f02b
+run_name: mysterious-zebra-193
+run_uuid: c162620e2b7f49a890ec3eb317c5f02b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310968835
+status: 3
+tags: []
+user_id: runner
