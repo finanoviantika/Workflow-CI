@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25c45a4af9dc4fc498a8a6dd90be3515/artifacts
+end_time: 1747320901428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25c45a4af9dc4fc498a8a6dd90be3515
+run_name: polite-stoat-941
+run_uuid: 25c45a4af9dc4fc498a8a6dd90be3515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747320894910
+status: 3
+tags: []
+user_id: runner
