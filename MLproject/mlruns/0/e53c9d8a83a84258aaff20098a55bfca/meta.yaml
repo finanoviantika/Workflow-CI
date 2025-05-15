@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e53c9d8a83a84258aaff20098a55bfca/artifacts
+end_time: 1747327227093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e53c9d8a83a84258aaff20098a55bfca
+run_name: sassy-loon-472
+run_uuid: e53c9d8a83a84258aaff20098a55bfca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747327220473
+status: 3
+tags: []
+user_id: runner
