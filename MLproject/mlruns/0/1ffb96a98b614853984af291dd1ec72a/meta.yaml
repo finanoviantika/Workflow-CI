@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1ffb96a98b614853984af291dd1ec72a/artifacts
+end_time: 1747326472410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ffb96a98b614853984af291dd1ec72a
+run_name: stately-doe-614
+run_uuid: 1ffb96a98b614853984af291dd1ec72a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747326465815
+status: 3
+tags: []
+user_id: runner
