@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22a6603861f745939c26ae82a3cf94e0/artifacts
+end_time: 1747345042642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22a6603861f745939c26ae82a3cf94e0
+run_name: dazzling-frog-57
+run_uuid: 22a6603861f745939c26ae82a3cf94e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345036096
+status: 3
+tags: []
+user_id: runner
