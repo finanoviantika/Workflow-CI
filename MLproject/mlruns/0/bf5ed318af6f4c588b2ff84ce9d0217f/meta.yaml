@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bf5ed318af6f4c588b2ff84ce9d0217f/artifacts
+end_time: 1747316778950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf5ed318af6f4c588b2ff84ce9d0217f
+run_name: vaunted-seal-329
+run_uuid: bf5ed318af6f4c588b2ff84ce9d0217f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747316772384
+status: 3
+tags: []
+user_id: runner
