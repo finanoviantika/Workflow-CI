@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/474f39dbe24e4e8794f31688a9fff26e/artifacts
+end_time: 1747277522199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 474f39dbe24e4e8794f31688a9fff26e
+run_name: luminous-shark-452
+run_uuid: 474f39dbe24e4e8794f31688a9fff26e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747277515707
+status: 3
+tags: []
+user_id: runner
