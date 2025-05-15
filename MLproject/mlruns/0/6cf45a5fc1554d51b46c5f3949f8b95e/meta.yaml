@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6cf45a5fc1554d51b46c5f3949f8b95e/artifacts
+end_time: 1747303823795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cf45a5fc1554d51b46c5f3949f8b95e
+run_name: classy-sheep-688
+run_uuid: 6cf45a5fc1554d51b46c5f3949f8b95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747303817407
+status: 3
+tags: []
+user_id: runner
