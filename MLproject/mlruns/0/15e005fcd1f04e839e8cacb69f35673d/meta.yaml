@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/15e005fcd1f04e839e8cacb69f35673d/artifacts
+end_time: 1747291876145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15e005fcd1f04e839e8cacb69f35673d
+run_name: persistent-whale-611
+run_uuid: 15e005fcd1f04e839e8cacb69f35673d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291869615
+status: 3
+tags: []
+user_id: runner
