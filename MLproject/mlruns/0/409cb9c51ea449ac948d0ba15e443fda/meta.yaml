@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/409cb9c51ea449ac948d0ba15e443fda/artifacts
+end_time: 1747291209172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 409cb9c51ea449ac948d0ba15e443fda
+run_name: legendary-stork-428
+run_uuid: 409cb9c51ea449ac948d0ba15e443fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747291202698
+status: 3
+tags: []
+user_id: runner
