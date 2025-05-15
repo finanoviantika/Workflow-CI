@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2428fb9a45e4e95b4679d6d9891d19a/artifacts
+end_time: 1747303457479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2428fb9a45e4e95b4679d6d9891d19a
+run_name: bright-zebra-921
+run_uuid: e2428fb9a45e4e95b4679d6d9891d19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747303451144
+status: 3
+tags: []
+user_id: runner
