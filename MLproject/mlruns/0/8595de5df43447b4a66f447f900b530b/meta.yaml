@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8595de5df43447b4a66f447f900b530b/artifacts
+end_time: 1747343686293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8595de5df43447b4a66f447f900b530b
+run_name: legendary-mare-650
+run_uuid: 8595de5df43447b4a66f447f900b530b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747343679900
+status: 3
+tags: []
+user_id: runner
