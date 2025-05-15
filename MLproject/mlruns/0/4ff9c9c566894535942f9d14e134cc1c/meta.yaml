@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ff9c9c566894535942f9d14e134cc1c/artifacts
+end_time: 1747289970488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff9c9c566894535942f9d14e134cc1c
+run_name: whimsical-gnat-572
+run_uuid: 4ff9c9c566894535942f9d14e134cc1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747289964151
+status: 3
+tags: []
+user_id: runner
