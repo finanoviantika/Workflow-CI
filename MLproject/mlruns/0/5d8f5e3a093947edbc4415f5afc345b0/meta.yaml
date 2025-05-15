@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5d8f5e3a093947edbc4415f5afc345b0/artifacts
+end_time: 1747341660229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d8f5e3a093947edbc4415f5afc345b0
+run_name: suave-panda-778
+run_uuid: 5d8f5e3a093947edbc4415f5afc345b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747341653696
+status: 3
+tags: []
+user_id: runner
