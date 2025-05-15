@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e96acf64630145ae9f7f196379d458ff/artifacts
+end_time: 1747296969855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e96acf64630145ae9f7f196379d458ff
+run_name: loud-rat-736
+run_uuid: e96acf64630145ae9f7f196379d458ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747296963227
+status: 3
+tags: []
+user_id: runner
