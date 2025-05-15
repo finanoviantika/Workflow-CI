@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89cea782a1734b0181bed8c5f40c61cc/artifacts
+end_time: 1747347325819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89cea782a1734b0181bed8c5f40c61cc
+run_name: hilarious-kit-242
+run_uuid: 89cea782a1734b0181bed8c5f40c61cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747347319299
+status: 3
+tags: []
+user_id: runner
