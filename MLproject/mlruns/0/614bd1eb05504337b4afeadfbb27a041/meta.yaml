@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/614bd1eb05504337b4afeadfbb27a041/artifacts
+end_time: 1747270299233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 614bd1eb05504337b4afeadfbb27a041
+run_name: victorious-zebra-897
+run_uuid: 614bd1eb05504337b4afeadfbb27a041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747270292643
+status: 3
+tags: []
+user_id: runner
