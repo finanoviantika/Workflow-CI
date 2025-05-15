@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8fb30d8c9a66417bb1bcd05e8e4d7a97/artifacts
+end_time: 1747300087422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fb30d8c9a66417bb1bcd05e8e4d7a97
+run_name: charming-sheep-713
+run_uuid: 8fb30d8c9a66417bb1bcd05e8e4d7a97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747300080956
+status: 3
+tags: []
+user_id: runner
