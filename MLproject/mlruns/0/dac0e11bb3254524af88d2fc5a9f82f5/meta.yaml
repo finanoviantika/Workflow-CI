@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dac0e11bb3254524af88d2fc5a9f82f5/artifacts
+end_time: 1747323121118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dac0e11bb3254524af88d2fc5a9f82f5
+run_name: selective-bat-150
+run_uuid: dac0e11bb3254524af88d2fc5a9f82f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747323114019
+status: 3
+tags: []
+user_id: runner
