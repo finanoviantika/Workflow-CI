@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fd2ab82e949e4db1ae6414882beab521/artifacts
+end_time: 1747337679677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2ab82e949e4db1ae6414882beab521
+run_name: skillful-slug-811
+run_uuid: fd2ab82e949e4db1ae6414882beab521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747337673108
+status: 3
+tags: []
+user_id: runner
