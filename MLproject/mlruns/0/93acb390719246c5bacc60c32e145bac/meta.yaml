@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/93acb390719246c5bacc60c32e145bac/artifacts
+end_time: 1747345992265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93acb390719246c5bacc60c32e145bac
+run_name: unequaled-stoat-766
+run_uuid: 93acb390719246c5bacc60c32e145bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747345985724
+status: 3
+tags: []
+user_id: runner
