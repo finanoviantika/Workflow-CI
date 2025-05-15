@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ab3d49bb2a3476ea6ff818b3965fc1a/artifacts
+end_time: 1747284159640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ab3d49bb2a3476ea6ff818b3965fc1a
+run_name: silent-wasp-674
+run_uuid: 4ab3d49bb2a3476ea6ff818b3965fc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747284153379
+status: 3
+tags: []
+user_id: runner
