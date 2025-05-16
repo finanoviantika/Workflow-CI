@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2391d8008a394250be81326b16dff5fa/artifacts
+end_time: 1747416787343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2391d8008a394250be81326b16dff5fa
+run_name: marvelous-gull-523
+run_uuid: 2391d8008a394250be81326b16dff5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747416780971
+status: 3
+tags: []
+user_id: runner
