@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/969386311a574ab1a4246292d6543468/artifacts
+end_time: 1747409634760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 969386311a574ab1a4246292d6543468
+run_name: bright-newt-939
+run_uuid: 969386311a574ab1a4246292d6543468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747409628138
+status: 3
+tags: []
+user_id: runner
