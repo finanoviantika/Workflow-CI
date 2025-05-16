@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14fad53ed03e484aa61d08e81da71946/artifacts
+end_time: 1747397767461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14fad53ed03e484aa61d08e81da71946
+run_name: monumental-skunk-846
+run_uuid: 14fad53ed03e484aa61d08e81da71946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397760959
+status: 3
+tags: []
+user_id: runner
