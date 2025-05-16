@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f788d1f7d8144145ab540003565511f2/artifacts
+end_time: 1747377919537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f788d1f7d8144145ab540003565511f2
+run_name: chill-pig-850
+run_uuid: f788d1f7d8144145ab540003565511f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747377913322
+status: 3
+tags: []
+user_id: runner
