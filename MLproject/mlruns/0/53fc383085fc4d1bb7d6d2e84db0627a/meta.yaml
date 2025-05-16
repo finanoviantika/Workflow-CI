@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/53fc383085fc4d1bb7d6d2e84db0627a/artifacts
+end_time: 1747407768466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53fc383085fc4d1bb7d6d2e84db0627a
+run_name: honorable-elk-935
+run_uuid: 53fc383085fc4d1bb7d6d2e84db0627a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407762108
+status: 3
+tags: []
+user_id: runner
