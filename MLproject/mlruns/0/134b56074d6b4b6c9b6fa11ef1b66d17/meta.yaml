@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/134b56074d6b4b6c9b6fa11ef1b66d17/artifacts
+end_time: 1747387325779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 134b56074d6b4b6c9b6fa11ef1b66d17
+run_name: auspicious-rook-941
+run_uuid: 134b56074d6b4b6c9b6fa11ef1b66d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747387319427
+status: 3
+tags: []
+user_id: runner
