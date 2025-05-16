@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86189dfa4a044406b9e437be77ef72ed/artifacts
+end_time: 1747412323879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86189dfa4a044406b9e437be77ef72ed
+run_name: delightful-worm-833
+run_uuid: 86189dfa4a044406b9e437be77ef72ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412317034
+status: 3
+tags: []
+user_id: runner
