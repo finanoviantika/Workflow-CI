@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a7e202fa31464ffe8ed4601d20cc2984/artifacts
+end_time: 1747375030147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7e202fa31464ffe8ed4601d20cc2984
+run_name: merciful-penguin-611
+run_uuid: a7e202fa31464ffe8ed4601d20cc2984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375023863
+status: 3
+tags: []
+user_id: runner
