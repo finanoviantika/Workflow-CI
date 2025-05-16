@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/06a8792c97234950b768e66a4658f2ee/artifacts
+end_time: 1747414493572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06a8792c97234950b768e66a4658f2ee
+run_name: awesome-wasp-244
+run_uuid: 06a8792c97234950b768e66a4658f2ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414486965
+status: 3
+tags: []
+user_id: runner
