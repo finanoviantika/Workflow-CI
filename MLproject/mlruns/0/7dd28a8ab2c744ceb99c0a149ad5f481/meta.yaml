@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7dd28a8ab2c744ceb99c0a149ad5f481/artifacts
+end_time: 1747364624472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dd28a8ab2c744ceb99c0a149ad5f481
+run_name: salty-colt-864
+run_uuid: 7dd28a8ab2c744ceb99c0a149ad5f481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747364617827
+status: 3
+tags: []
+user_id: runner
