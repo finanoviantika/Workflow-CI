@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a1efe133a8b5419693832db12422f0bf/artifacts
+end_time: 1747414295715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1efe133a8b5419693832db12422f0bf
+run_name: flawless-colt-105
+run_uuid: a1efe133a8b5419693832db12422f0bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414289030
+status: 3
+tags: []
+user_id: runner
