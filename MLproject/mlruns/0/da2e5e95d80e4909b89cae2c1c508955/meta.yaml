@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da2e5e95d80e4909b89cae2c1c508955/artifacts
+end_time: 1747361186676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2e5e95d80e4909b89cae2c1c508955
+run_name: gaudy-fawn-487
+run_uuid: da2e5e95d80e4909b89cae2c1c508955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747361180321
+status: 3
+tags: []
+user_id: runner
