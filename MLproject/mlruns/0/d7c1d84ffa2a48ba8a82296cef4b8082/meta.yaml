@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d7c1d84ffa2a48ba8a82296cef4b8082/artifacts
+end_time: 1747359750561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7c1d84ffa2a48ba8a82296cef4b8082
+run_name: burly-panda-614
+run_uuid: d7c1d84ffa2a48ba8a82296cef4b8082
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747359744192
+status: 3
+tags: []
+user_id: runner
