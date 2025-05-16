@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5f991f1523204482ac015c807cd8e6af/artifacts
+end_time: 1747410894952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f991f1523204482ac015c807cd8e6af
+run_name: awesome-fly-105
+run_uuid: 5f991f1523204482ac015c807cd8e6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747410888558
+status: 3
+tags: []
+user_id: runner
