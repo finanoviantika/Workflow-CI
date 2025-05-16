@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf3b4f7c88c4450f9d5c5eb0b5905add/artifacts
+end_time: 1747385397883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf3b4f7c88c4450f9d5c5eb0b5905add
+run_name: able-auk-587
+run_uuid: cf3b4f7c88c4450f9d5c5eb0b5905add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747385391404
+status: 3
+tags: []
+user_id: runner
