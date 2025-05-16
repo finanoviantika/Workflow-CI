@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9cbee023e54e4bc49c204ae359b89abb/artifacts
+end_time: 1747390022382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cbee023e54e4bc49c204ae359b89abb
+run_name: honorable-bird-351
+run_uuid: 9cbee023e54e4bc49c204ae359b89abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390015802
+status: 3
+tags: []
+user_id: runner
