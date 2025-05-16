@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/423e938e4373441289a5e3bcadb22f78/artifacts
+end_time: 1747382954468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 423e938e4373441289a5e3bcadb22f78
+run_name: bustling-sloth-164
+run_uuid: 423e938e4373441289a5e3bcadb22f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382948124
+status: 3
+tags: []
+user_id: runner
