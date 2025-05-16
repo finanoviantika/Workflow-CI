@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/97c8219a25b0470a9cff825ea47d7a1d/artifacts
+end_time: 1747354427165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97c8219a25b0470a9cff825ea47d7a1d
+run_name: lyrical-rook-427
+run_uuid: 97c8219a25b0470a9cff825ea47d7a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747354420594
+status: 3
+tags: []
+user_id: runner
