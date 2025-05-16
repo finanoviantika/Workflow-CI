@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dabc50f05f7845218e6fdc4d8992eb5b/artifacts
+end_time: 1747378697900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dabc50f05f7845218e6fdc4d8992eb5b
+run_name: masked-sheep-748
+run_uuid: dabc50f05f7845218e6fdc4d8992eb5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747378691471
+status: 3
+tags: []
+user_id: runner
