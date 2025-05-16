@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/685339d370a1447b8c7839199f8a9290/artifacts
+end_time: 1747370611004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 685339d370a1447b8c7839199f8a9290
+run_name: rumbling-fawn-11
+run_uuid: 685339d370a1447b8c7839199f8a9290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370604625
+status: 3
+tags: []
+user_id: runner
