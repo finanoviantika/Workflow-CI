@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e878b7d4783c491288020297fd707132/artifacts
+end_time: 1747369349904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e878b7d4783c491288020297fd707132
+run_name: gaudy-shoat-462
+run_uuid: e878b7d4783c491288020297fd707132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747369343497
+status: 3
+tags: []
+user_id: runner
