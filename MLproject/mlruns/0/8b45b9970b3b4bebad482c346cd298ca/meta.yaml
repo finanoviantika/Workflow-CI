@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8b45b9970b3b4bebad482c346cd298ca/artifacts
+end_time: 1747377727580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b45b9970b3b4bebad482c346cd298ca
+run_name: treasured-goose-758
+run_uuid: 8b45b9970b3b4bebad482c346cd298ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747377721307
+status: 3
+tags: []
+user_id: runner
