@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eeb2c4bcf0854638b5073cfe1bd62d97/artifacts
+end_time: 1747364816120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeb2c4bcf0854638b5073cfe1bd62d97
+run_name: gentle-snipe-590
+run_uuid: eeb2c4bcf0854638b5073cfe1bd62d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747364809810
+status: 3
+tags: []
+user_id: runner
