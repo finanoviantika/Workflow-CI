@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db230e766eb446b6906eebb8b2af8373/artifacts
+end_time: 1747426098533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db230e766eb446b6906eebb8b2af8373
+run_name: bold-finch-246
+run_uuid: db230e766eb446b6906eebb8b2af8373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747426091563
+status: 3
+tags: []
+user_id: runner
