@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f207893d821345e1b59f0c973296ff89/artifacts
+end_time: 1747434981091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f207893d821345e1b59f0c973296ff89
+run_name: whimsical-worm-902
+run_uuid: f207893d821345e1b59f0c973296ff89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434974658
+status: 3
+tags: []
+user_id: runner
