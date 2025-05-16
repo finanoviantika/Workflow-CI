@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9125c6a9b69a49788de6abd690adae74/artifacts
+end_time: 1747419257295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9125c6a9b69a49788de6abd690adae74
+run_name: welcoming-dove-203
+run_uuid: 9125c6a9b69a49788de6abd690adae74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747419250909
+status: 3
+tags: []
+user_id: runner
