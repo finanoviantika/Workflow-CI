@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/24709a2c6c404c8ebb388f7fc41c3dc5/artifacts
+end_time: 1747368959174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24709a2c6c404c8ebb388f7fc41c3dc5
+run_name: unique-vole-342
+run_uuid: 24709a2c6c404c8ebb388f7fc41c3dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747368952837
+status: 3
+tags: []
+user_id: runner
