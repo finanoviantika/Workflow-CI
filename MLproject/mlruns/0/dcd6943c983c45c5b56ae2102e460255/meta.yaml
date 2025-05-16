@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dcd6943c983c45c5b56ae2102e460255/artifacts
+end_time: 1747387129953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcd6943c983c45c5b56ae2102e460255
+run_name: indecisive-toad-480
+run_uuid: dcd6943c983c45c5b56ae2102e460255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747387123456
+status: 3
+tags: []
+user_id: runner
