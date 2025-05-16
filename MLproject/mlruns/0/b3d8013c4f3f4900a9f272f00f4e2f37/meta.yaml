@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b3d8013c4f3f4900a9f272f00f4e2f37/artifacts
+end_time: 1747438986543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3d8013c4f3f4900a9f272f00f4e2f37
+run_name: invincible-bug-382
+run_uuid: b3d8013c4f3f4900a9f272f00f4e2f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438980140
+status: 3
+tags: []
+user_id: runner
