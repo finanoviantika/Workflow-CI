@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6de0bac554ec417cadc6f3cbb8ca61be/artifacts
+end_time: 1747410509599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6de0bac554ec417cadc6f3cbb8ca61be
+run_name: bittersweet-flea-685
+run_uuid: 6de0bac554ec417cadc6f3cbb8ca61be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747410503102
+status: 3
+tags: []
+user_id: runner
