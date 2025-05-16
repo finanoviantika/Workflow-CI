@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dff6b8b1601f4a28a393d7fcc1fa744b/artifacts
+end_time: 1747430287062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dff6b8b1601f4a28a393d7fcc1fa744b
+run_name: adventurous-hare-280
+run_uuid: dff6b8b1601f4a28a393d7fcc1fa744b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747430280427
+status: 3
+tags: []
+user_id: runner
