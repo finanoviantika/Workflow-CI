@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff68a4fe335e49b7bf3081419dde4a60/artifacts
+end_time: 1747397158794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff68a4fe335e49b7bf3081419dde4a60
+run_name: abrasive-wasp-484
+run_uuid: ff68a4fe335e49b7bf3081419dde4a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397152076
+status: 3
+tags: []
+user_id: runner
