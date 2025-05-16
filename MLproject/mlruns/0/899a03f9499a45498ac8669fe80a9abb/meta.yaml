@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/899a03f9499a45498ac8669fe80a9abb/artifacts
+end_time: 1747396774696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 899a03f9499a45498ac8669fe80a9abb
+run_name: defiant-snake-263
+run_uuid: 899a03f9499a45498ac8669fe80a9abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747396768265
+status: 3
+tags: []
+user_id: runner
