@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/abd7a6f2db974fa39abd68bcd832372f/artifacts
+end_time: 1747402219453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd7a6f2db974fa39abd68bcd832372f
+run_name: selective-stag-152
+run_uuid: abd7a6f2db974fa39abd68bcd832372f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747402212772
+status: 3
+tags: []
+user_id: runner
