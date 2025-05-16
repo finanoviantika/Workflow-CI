@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b498c2ba41974f2ba6d11b206349d5cc/artifacts
+end_time: 1747413794095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b498c2ba41974f2ba6d11b206349d5cc
+run_name: spiffy-slug-392
+run_uuid: b498c2ba41974f2ba6d11b206349d5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747413787630
+status: 3
+tags: []
+user_id: runner
