@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b6ef675c814244e98a7b8703a30b0fae/artifacts
+end_time: 1747400618387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6ef675c814244e98a7b8703a30b0fae
+run_name: capable-shrew-985
+run_uuid: b6ef675c814244e98a7b8703a30b0fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400611411
+status: 3
+tags: []
+user_id: runner
