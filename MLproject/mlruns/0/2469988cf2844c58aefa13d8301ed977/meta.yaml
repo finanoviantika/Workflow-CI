@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2469988cf2844c58aefa13d8301ed977/artifacts
+end_time: 1747438406821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2469988cf2844c58aefa13d8301ed977
+run_name: salty-bug-919
+run_uuid: 2469988cf2844c58aefa13d8301ed977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438400189
+status: 3
+tags: []
+user_id: runner
