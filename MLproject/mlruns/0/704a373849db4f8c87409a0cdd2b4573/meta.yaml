@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/704a373849db4f8c87409a0cdd2b4573/artifacts
+end_time: 1747383652386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 704a373849db4f8c87409a0cdd2b4573
+run_name: adventurous-crow-128
+run_uuid: 704a373849db4f8c87409a0cdd2b4573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747383645838
+status: 3
+tags: []
+user_id: runner
