@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a7b99d30b6f745ed9bc3bdd006309acc/artifacts
+end_time: 1747358403803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7b99d30b6f745ed9bc3bdd006309acc
+run_name: handsome-frog-507
+run_uuid: a7b99d30b6f745ed9bc3bdd006309acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747358397280
+status: 3
+tags: []
+user_id: runner
