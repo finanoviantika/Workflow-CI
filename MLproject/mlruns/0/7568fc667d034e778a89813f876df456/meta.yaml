@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7568fc667d034e778a89813f876df456/artifacts
+end_time: 1747353764249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7568fc667d034e778a89813f876df456
+run_name: nervous-bear-44
+run_uuid: 7568fc667d034e778a89813f876df456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747353757863
+status: 3
+tags: []
+user_id: runner
