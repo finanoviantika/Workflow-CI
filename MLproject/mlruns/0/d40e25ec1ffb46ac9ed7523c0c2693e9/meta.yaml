@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d40e25ec1ffb46ac9ed7523c0c2693e9/artifacts
+end_time: 1747358875324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40e25ec1ffb46ac9ed7523c0c2693e9
+run_name: stylish-hawk-523
+run_uuid: d40e25ec1ffb46ac9ed7523c0c2693e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747358868852
+status: 3
+tags: []
+user_id: runner
