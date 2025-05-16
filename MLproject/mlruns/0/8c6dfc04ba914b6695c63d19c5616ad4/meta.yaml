@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c6dfc04ba914b6695c63d19c5616ad4/artifacts
+end_time: 1747438600418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c6dfc04ba914b6695c63d19c5616ad4
+run_name: redolent-penguin-596
+run_uuid: 8c6dfc04ba914b6695c63d19c5616ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438593915
+status: 3
+tags: []
+user_id: runner
