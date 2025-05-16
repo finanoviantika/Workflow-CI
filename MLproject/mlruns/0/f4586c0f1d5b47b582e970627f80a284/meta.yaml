@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4586c0f1d5b47b582e970627f80a284/artifacts
+end_time: 1747405507242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4586c0f1d5b47b582e970627f80a284
+run_name: sneaky-finch-590
+run_uuid: f4586c0f1d5b47b582e970627f80a284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747405500849
+status: 3
+tags: []
+user_id: runner
