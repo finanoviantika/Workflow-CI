@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bfd314be5b6f4bb5aecd13e077ded346/artifacts
+end_time: 1747424059274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfd314be5b6f4bb5aecd13e077ded346
+run_name: big-cow-524
+run_uuid: bfd314be5b6f4bb5aecd13e077ded346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424052823
+status: 3
+tags: []
+user_id: runner
