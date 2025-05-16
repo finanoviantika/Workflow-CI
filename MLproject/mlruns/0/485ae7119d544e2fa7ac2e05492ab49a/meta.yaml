@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/485ae7119d544e2fa7ac2e05492ab49a/artifacts
+end_time: 1747406192534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 485ae7119d544e2fa7ac2e05492ab49a
+run_name: serious-moose-334
+run_uuid: 485ae7119d544e2fa7ac2e05492ab49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747406185977
+status: 3
+tags: []
+user_id: runner
