@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1553227de3f54eb1b496fca82c5c3ec9/artifacts
+end_time: 1747411307263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1553227de3f54eb1b496fca82c5c3ec9
+run_name: traveling-dog-693
+run_uuid: 1553227de3f54eb1b496fca82c5c3ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411300363
+status: 3
+tags: []
+user_id: runner
