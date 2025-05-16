@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/85fe2ecfba02468e85a042e087b90b19/artifacts
+end_time: 1747424546927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85fe2ecfba02468e85a042e087b90b19
+run_name: beautiful-bass-510
+run_uuid: 85fe2ecfba02468e85a042e087b90b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424540462
+status: 3
+tags: []
+user_id: runner
