@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90915966d23c414c82e6cb3feec51ad3/artifacts
+end_time: 1747368465818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90915966d23c414c82e6cb3feec51ad3
+run_name: bright-quail-631
+run_uuid: 90915966d23c414c82e6cb3feec51ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747368459152
+status: 3
+tags: []
+user_id: runner
