@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/500c2385a23641a3952ccb9ddbcfb960/artifacts
+end_time: 1747427851918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 500c2385a23641a3952ccb9ddbcfb960
+run_name: unique-fox-513
+run_uuid: 500c2385a23641a3952ccb9ddbcfb960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427845350
+status: 3
+tags: []
+user_id: runner
