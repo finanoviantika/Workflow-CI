@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6a33580ec72b4e7d9fbef515d0d89c4a/artifacts
+end_time: 1747379849393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a33580ec72b4e7d9fbef515d0d89c4a
+run_name: crawling-shrimp-369
+run_uuid: 6a33580ec72b4e7d9fbef515d0d89c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747379843127
+status: 3
+tags: []
+user_id: runner
