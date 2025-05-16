@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed1645795912441d87ce7f18c4b57794/artifacts
+end_time: 1747435078146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1645795912441d87ce7f18c4b57794
+run_name: caring-swan-451
+run_uuid: ed1645795912441d87ce7f18c4b57794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747435071684
+status: 3
+tags: []
+user_id: runner
