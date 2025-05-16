@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef3161d1584b41aca47208707aaae78f/artifacts
+end_time: 1747372517958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef3161d1584b41aca47208707aaae78f
+run_name: receptive-slug-984
+run_uuid: ef3161d1584b41aca47208707aaae78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372511299
+status: 3
+tags: []
+user_id: runner
