@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/efbe82dacd8b4977849d2d64a17b06ef/artifacts
+end_time: 1747362432870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efbe82dacd8b4977849d2d64a17b06ef
+run_name: delicate-loon-576
+run_uuid: efbe82dacd8b4977849d2d64a17b06ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747362426433
+status: 3
+tags: []
+user_id: runner
