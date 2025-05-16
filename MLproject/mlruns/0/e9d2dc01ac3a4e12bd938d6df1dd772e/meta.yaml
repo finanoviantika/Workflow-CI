@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e9d2dc01ac3a4e12bd938d6df1dd772e/artifacts
+end_time: 1747363865949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d2dc01ac3a4e12bd938d6df1dd772e
+run_name: receptive-hare-236
+run_uuid: e9d2dc01ac3a4e12bd938d6df1dd772e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747363859359
+status: 3
+tags: []
+user_id: runner
