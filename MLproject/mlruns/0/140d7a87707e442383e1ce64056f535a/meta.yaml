@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/140d7a87707e442383e1ce64056f535a/artifacts
+end_time: 1747389440482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 140d7a87707e442383e1ce64056f535a
+run_name: intrigued-ox-816
+run_uuid: 140d7a87707e442383e1ce64056f535a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747389434111
+status: 3
+tags: []
+user_id: runner
