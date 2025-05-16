@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8e14315cc70243d78a9e4adee06ef4ff/artifacts
+end_time: 1747370993044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e14315cc70243d78a9e4adee06ef4ff
+run_name: masked-crane-732
+run_uuid: 8e14315cc70243d78a9e4adee06ef4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370986729
+status: 3
+tags: []
+user_id: runner
