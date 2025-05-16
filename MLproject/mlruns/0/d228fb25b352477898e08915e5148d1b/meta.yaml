@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d228fb25b352477898e08915e5148d1b/artifacts
+end_time: 1747411407353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d228fb25b352477898e08915e5148d1b
+run_name: youthful-crow-203
+run_uuid: d228fb25b352477898e08915e5148d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411400942
+status: 3
+tags: []
+user_id: runner
