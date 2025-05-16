@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a61007b0b7cf4e87af74ad29f624eeb8/artifacts
+end_time: 1747387994833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a61007b0b7cf4e87af74ad29f624eeb8
+run_name: delicate-boar-925
+run_uuid: a61007b0b7cf4e87af74ad29f624eeb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747387988326
+status: 3
+tags: []
+user_id: runner
