@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a780c23dc24744a08a27cb5b1ec3ee2d/artifacts
+end_time: 1747387612600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a780c23dc24744a08a27cb5b1ec3ee2d
+run_name: carefree-snake-562
+run_uuid: a780c23dc24744a08a27cb5b1ec3ee2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747387606164
+status: 3
+tags: []
+user_id: runner
