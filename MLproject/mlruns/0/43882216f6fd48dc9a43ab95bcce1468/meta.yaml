@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/43882216f6fd48dc9a43ab95bcce1468/artifacts
+end_time: 1747356358731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43882216f6fd48dc9a43ab95bcce1468
+run_name: rumbling-vole-872
+run_uuid: 43882216f6fd48dc9a43ab95bcce1468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747356352192
+status: 3
+tags: []
+user_id: runner
