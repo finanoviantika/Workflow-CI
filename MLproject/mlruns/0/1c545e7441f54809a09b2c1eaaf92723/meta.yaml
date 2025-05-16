@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1c545e7441f54809a09b2c1eaaf92723/artifacts
+end_time: 1747367310698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c545e7441f54809a09b2c1eaaf92723
+run_name: redolent-ape-168
+run_uuid: 1c545e7441f54809a09b2c1eaaf92723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367304197
+status: 3
+tags: []
+user_id: runner
