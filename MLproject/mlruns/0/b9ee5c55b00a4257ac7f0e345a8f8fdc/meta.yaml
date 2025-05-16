@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b9ee5c55b00a4257ac7f0e345a8f8fdc/artifacts
+end_time: 1747361562621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ee5c55b00a4257ac7f0e345a8f8fdc
+run_name: mercurial-bug-622
+run_uuid: b9ee5c55b00a4257ac7f0e345a8f8fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747361556309
+status: 3
+tags: []
+user_id: runner
