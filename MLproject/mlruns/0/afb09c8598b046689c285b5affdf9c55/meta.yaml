@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afb09c8598b046689c285b5affdf9c55/artifacts
+end_time: 1747414592025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afb09c8598b046689c285b5affdf9c55
+run_name: rebellious-cat-277
+run_uuid: afb09c8598b046689c285b5affdf9c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414585242
+status: 3
+tags: []
+user_id: runner
