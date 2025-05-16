@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf8dc7a6d95b4217ab17ba86c3dcf3a1/artifacts
+end_time: 1747382563961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf8dc7a6d95b4217ab17ba86c3dcf3a1
+run_name: fearless-lark-807
+run_uuid: cf8dc7a6d95b4217ab17ba86c3dcf3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382557489
+status: 3
+tags: []
+user_id: runner
