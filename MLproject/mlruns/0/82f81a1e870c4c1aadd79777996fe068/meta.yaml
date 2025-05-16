@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82f81a1e870c4c1aadd79777996fe068/artifacts
+end_time: 1747421215550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f81a1e870c4c1aadd79777996fe068
+run_name: handsome-slug-259
+run_uuid: 82f81a1e870c4c1aadd79777996fe068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421209016
+status: 3
+tags: []
+user_id: runner
