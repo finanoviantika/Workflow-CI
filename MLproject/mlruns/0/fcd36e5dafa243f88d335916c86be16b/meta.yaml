@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fcd36e5dafa243f88d335916c86be16b/artifacts
+end_time: 1747404104377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcd36e5dafa243f88d335916c86be16b
+run_name: vaunted-swan-278
+run_uuid: fcd36e5dafa243f88d335916c86be16b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404097980
+status: 3
+tags: []
+user_id: runner
