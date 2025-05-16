@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/553191c838944333aa2c0da5471e61c1/artifacts
+end_time: 1747363479620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553191c838944333aa2c0da5471e61c1
+run_name: magnificent-rook-981
+run_uuid: 553191c838944333aa2c0da5471e61c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747363473118
+status: 3
+tags: []
+user_id: runner
