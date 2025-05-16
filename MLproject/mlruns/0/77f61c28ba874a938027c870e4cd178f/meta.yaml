@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/77f61c28ba874a938027c870e4cd178f/artifacts
+end_time: 1747385205088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77f61c28ba874a938027c870e4cd178f
+run_name: bouncy-conch-681
+run_uuid: 77f61c28ba874a938027c870e4cd178f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747385198618
+status: 3
+tags: []
+user_id: runner
