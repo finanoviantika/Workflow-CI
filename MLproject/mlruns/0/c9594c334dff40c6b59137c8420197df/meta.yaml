@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c9594c334dff40c6b59137c8420197df/artifacts
+end_time: 1747371847004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9594c334dff40c6b59137c8420197df
+run_name: nimble-snail-165
+run_uuid: c9594c334dff40c6b59137c8420197df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747371840604
+status: 3
+tags: []
+user_id: runner
