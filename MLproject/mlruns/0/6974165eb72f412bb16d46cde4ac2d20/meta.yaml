@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6974165eb72f412bb16d46cde4ac2d20/artifacts
+end_time: 1747399624301
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6974165eb72f412bb16d46cde4ac2d20
+run_name: lyrical-trout-86
+run_uuid: 6974165eb72f412bb16d46cde4ac2d20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747399617555
+status: 3
+tags: []
+user_id: runner
