@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2692ac2ad64b4b4e9f658990c50300e0/artifacts
+end_time: 1747432030634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2692ac2ad64b4b4e9f658990c50300e0
+run_name: sedate-quail-807
+run_uuid: 2692ac2ad64b4b4e9f658990c50300e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747432024257
+status: 3
+tags: []
+user_id: runner
