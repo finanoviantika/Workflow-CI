@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9774b068083a4688ba95c5b67cba9b63/artifacts
+end_time: 1747376947660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9774b068083a4688ba95c5b67cba9b63
+run_name: skillful-lamb-257
+run_uuid: 9774b068083a4688ba95c5b67cba9b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747376941268
+status: 3
+tags: []
+user_id: runner
