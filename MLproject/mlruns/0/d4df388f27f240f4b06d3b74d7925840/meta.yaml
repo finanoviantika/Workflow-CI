@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d4df388f27f240f4b06d3b74d7925840/artifacts
+end_time: 1747388091461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4df388f27f240f4b06d3b74d7925840
+run_name: bouncy-dolphin-513
+run_uuid: d4df388f27f240f4b06d3b74d7925840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747388085055
+status: 3
+tags: []
+user_id: runner
