@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bb6fd1352fb744b3a181c594aa69b399/artifacts
+end_time: 1747405699019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb6fd1352fb744b3a181c594aa69b399
+run_name: upset-midge-61
+run_uuid: bb6fd1352fb744b3a181c594aa69b399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747405692553
+status: 3
+tags: []
+user_id: runner
