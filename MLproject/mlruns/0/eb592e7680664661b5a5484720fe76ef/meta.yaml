@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eb592e7680664661b5a5484720fe76ef/artifacts
+end_time: 1747420928159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb592e7680664661b5a5484720fe76ef
+run_name: fun-trout-42
+run_uuid: eb592e7680664661b5a5484720fe76ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747420921640
+status: 3
+tags: []
+user_id: runner
