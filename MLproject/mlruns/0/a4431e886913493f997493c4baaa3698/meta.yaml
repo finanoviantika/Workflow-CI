@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a4431e886913493f997493c4baaa3698/artifacts
+end_time: 1747433701611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4431e886913493f997493c4baaa3698
+run_name: rare-hare-955
+run_uuid: a4431e886913493f997493c4baaa3698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747433695162
+status: 3
+tags: []
+user_id: runner
