@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f7bfae43e3f489b89b2dc8a3d2a702e/artifacts
+end_time: 1747408062939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f7bfae43e3f489b89b2dc8a3d2a702e
+run_name: thoughtful-ram-720
+run_uuid: 1f7bfae43e3f489b89b2dc8a3d2a702e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747408056517
+status: 3
+tags: []
+user_id: runner
