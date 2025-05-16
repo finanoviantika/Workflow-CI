@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/edf553bfccc944e59f087bcc070a99ef/artifacts
+end_time: 1747381116976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edf553bfccc944e59f087bcc070a99ef
+run_name: honorable-lamb-192
+run_uuid: edf553bfccc944e59f087bcc070a99ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381110263
+status: 3
+tags: []
+user_id: runner
