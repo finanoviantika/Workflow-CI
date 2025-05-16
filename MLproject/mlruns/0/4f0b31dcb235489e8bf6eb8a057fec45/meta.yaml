@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4f0b31dcb235489e8bf6eb8a057fec45/artifacts
+end_time: 1747400317911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0b31dcb235489e8bf6eb8a057fec45
+run_name: nebulous-owl-477
+run_uuid: 4f0b31dcb235489e8bf6eb8a057fec45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400311514
+status: 3
+tags: []
+user_id: runner
