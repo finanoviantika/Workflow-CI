@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90c83ddef8d942ddb3cddfd0c1bd8a3f/artifacts
+end_time: 1747365103630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90c83ddef8d942ddb3cddfd0c1bd8a3f
+run_name: resilient-mare-445
+run_uuid: 90c83ddef8d942ddb3cddfd0c1bd8a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747365096981
+status: 3
+tags: []
+user_id: runner
