@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6bf7b6b0382640d3bf8a65291f83c614/artifacts
+end_time: 1747403291265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bf7b6b0382640d3bf8a65291f83c614
+run_name: efficient-sloth-164
+run_uuid: 6bf7b6b0382640d3bf8a65291f83c614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747403284976
+status: 3
+tags: []
+user_id: runner
