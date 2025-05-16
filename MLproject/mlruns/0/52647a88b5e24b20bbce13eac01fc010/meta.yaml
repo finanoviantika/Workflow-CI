@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/52647a88b5e24b20bbce13eac01fc010/artifacts
+end_time: 1747434299112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52647a88b5e24b20bbce13eac01fc010
+run_name: fearless-trout-98
+run_uuid: 52647a88b5e24b20bbce13eac01fc010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434292261
+status: 3
+tags: []
+user_id: runner
