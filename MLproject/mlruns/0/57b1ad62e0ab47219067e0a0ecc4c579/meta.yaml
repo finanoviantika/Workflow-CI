@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/57b1ad62e0ab47219067e0a0ecc4c579/artifacts
+end_time: 1747438795629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b1ad62e0ab47219067e0a0ecc4c579
+run_name: honorable-shad-806
+run_uuid: 57b1ad62e0ab47219067e0a0ecc4c579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438789461
+status: 3
+tags: []
+user_id: runner
