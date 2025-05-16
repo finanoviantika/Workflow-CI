@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d230c01ac6694cd0a6467e5dff921467/artifacts
+end_time: 1747427069040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d230c01ac6694cd0a6467e5dff921467
+run_name: caring-mule-246
+run_uuid: d230c01ac6694cd0a6467e5dff921467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427062390
+status: 3
+tags: []
+user_id: runner
