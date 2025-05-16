@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8e53053b9fff4855a830c40e16dacaad/artifacts
+end_time: 1747355978156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e53053b9fff4855a830c40e16dacaad
+run_name: aged-shad-17
+run_uuid: 8e53053b9fff4855a830c40e16dacaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747355971826
+status: 3
+tags: []
+user_id: runner
