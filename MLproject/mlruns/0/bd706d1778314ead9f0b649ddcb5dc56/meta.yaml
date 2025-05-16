@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd706d1778314ead9f0b649ddcb5dc56/artifacts
+end_time: 1747376275739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd706d1778314ead9f0b649ddcb5dc56
+run_name: bittersweet-bug-264
+run_uuid: bd706d1778314ead9f0b649ddcb5dc56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747376269170
+status: 3
+tags: []
+user_id: runner
