@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dcbf8c1268664812ae27375927a8798e/artifacts
+end_time: 1747373994825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcbf8c1268664812ae27375927a8798e
+run_name: righteous-hare-589
+run_uuid: dcbf8c1268664812ae27375927a8798e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373988453
+status: 3
+tags: []
+user_id: runner
