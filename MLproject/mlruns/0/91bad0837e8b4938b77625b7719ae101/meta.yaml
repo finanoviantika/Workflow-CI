@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/91bad0837e8b4938b77625b7719ae101/artifacts
+end_time: 1747355498560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91bad0837e8b4938b77625b7719ae101
+run_name: lyrical-mule-326
+run_uuid: 91bad0837e8b4938b77625b7719ae101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747355492133
+status: 3
+tags: []
+user_id: runner
