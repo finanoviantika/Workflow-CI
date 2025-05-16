@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/374b4282ab5e4a3ebfb9cbaa21dc1b07/artifacts
+end_time: 1747371560168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 374b4282ab5e4a3ebfb9cbaa21dc1b07
+run_name: abrasive-hen-875
+run_uuid: 374b4282ab5e4a3ebfb9cbaa21dc1b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747371553776
+status: 3
+tags: []
+user_id: runner
