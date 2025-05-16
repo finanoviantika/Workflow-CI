@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af24b542ec804eb1b983a0cc97851bd6/artifacts
+end_time: 1747382468092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af24b542ec804eb1b983a0cc97851bd6
+run_name: polite-wasp-684
+run_uuid: af24b542ec804eb1b983a0cc97851bd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382461646
+status: 3
+tags: []
+user_id: runner
