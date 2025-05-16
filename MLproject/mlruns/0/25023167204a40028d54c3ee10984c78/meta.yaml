@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25023167204a40028d54c3ee10984c78/artifacts
+end_time: 1747435368525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25023167204a40028d54c3ee10984c78
+run_name: gifted-sheep-767
+run_uuid: 25023167204a40028d54c3ee10984c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747435362221
+status: 3
+tags: []
+user_id: runner
