@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45cf0010b5c54d18b88b0f4a848e77fe/artifacts
+end_time: 1747380329032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45cf0010b5c54d18b88b0f4a848e77fe
+run_name: vaunted-eel-195
+run_uuid: 45cf0010b5c54d18b88b0f4a848e77fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747380322725
+status: 3
+tags: []
+user_id: runner
