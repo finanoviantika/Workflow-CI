@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/92f23985b9d0410b9a78f7fb164b4255/artifacts
+end_time: 1747373501528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92f23985b9d0410b9a78f7fb164b4255
+run_name: thoughtful-duck-285
+run_uuid: 92f23985b9d0410b9a78f7fb164b4255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373495282
+status: 3
+tags: []
+user_id: runner
