@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0efb6a07d6cf4f40a0247b2dc7c1fdd7/artifacts
+end_time: 1747433213255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0efb6a07d6cf4f40a0247b2dc7c1fdd7
+run_name: rebellious-calf-933
+run_uuid: 0efb6a07d6cf4f40a0247b2dc7c1fdd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747433206897
+status: 3
+tags: []
+user_id: runner
