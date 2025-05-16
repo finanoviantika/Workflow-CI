@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/51dd8bb246f642fa811905e90b4711f3/artifacts
+end_time: 1747378892223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51dd8bb246f642fa811905e90b4711f3
+run_name: abundant-stag-843
+run_uuid: 51dd8bb246f642fa811905e90b4711f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747378885892
+status: 3
+tags: []
+user_id: runner
