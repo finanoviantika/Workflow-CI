@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/169c1672be3f47838fc59d26ba2ffd80/artifacts
+end_time: 1747422687698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 169c1672be3f47838fc59d26ba2ffd80
+run_name: upbeat-pig-102
+run_uuid: 169c1672be3f47838fc59d26ba2ffd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747422681025
+status: 3
+tags: []
+user_id: runner
