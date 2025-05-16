@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c8300596af33433f86344009ff91f5d5/artifacts
+end_time: 1747372421739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8300596af33433f86344009ff91f5d5
+run_name: bouncy-lynx-310
+run_uuid: c8300596af33433f86344009ff91f5d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372415313
+status: 3
+tags: []
+user_id: runner
