@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/944c91f145134a268dd417493365c505/artifacts
+end_time: 1747393757245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944c91f145134a268dd417493365c505
+run_name: skillful-squid-216
+run_uuid: 944c91f145134a268dd417493365c505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747393750857
+status: 3
+tags: []
+user_id: runner
