@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/29717050231844aca0cc3ac05ec3fcad/artifacts
+end_time: 1747380423598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29717050231844aca0cc3ac05ec3fcad
+run_name: bemused-pig-670
+run_uuid: 29717050231844aca0cc3ac05ec3fcad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747380417250
+status: 3
+tags: []
+user_id: runner
