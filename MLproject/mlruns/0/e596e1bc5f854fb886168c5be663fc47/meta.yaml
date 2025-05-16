@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e596e1bc5f854fb886168c5be663fc47/artifacts
+end_time: 1747435172833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e596e1bc5f854fb886168c5be663fc47
+run_name: monumental-steed-461
+run_uuid: e596e1bc5f854fb886168c5be663fc47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747435166489
+status: 3
+tags: []
+user_id: runner
