@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9e69debab7254f9eb5ed767e6414221b/artifacts
+end_time: 1747386844124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e69debab7254f9eb5ed767e6414221b
+run_name: marvelous-smelt-897
+run_uuid: 9e69debab7254f9eb5ed767e6414221b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747386837715
+status: 3
+tags: []
+user_id: runner
