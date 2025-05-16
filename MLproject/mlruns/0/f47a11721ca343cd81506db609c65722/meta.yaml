@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f47a11721ca343cd81506db609c65722/artifacts
+end_time: 1747372922665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f47a11721ca343cd81506db609c65722
+run_name: dashing-skink-555
+run_uuid: f47a11721ca343cd81506db609c65722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372916273
+status: 3
+tags: []
+user_id: runner
