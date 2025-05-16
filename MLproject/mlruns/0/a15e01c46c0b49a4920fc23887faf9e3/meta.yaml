@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a15e01c46c0b49a4920fc23887faf9e3/artifacts
+end_time: 1747436357835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a15e01c46c0b49a4920fc23887faf9e3
+run_name: capricious-zebra-128
+run_uuid: a15e01c46c0b49a4920fc23887faf9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436351403
+status: 3
+tags: []
+user_id: runner
