@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/539fd349990f4bdc909f21597270ca3c/artifacts
+end_time: 1747381013400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 539fd349990f4bdc909f21597270ca3c
+run_name: dashing-mink-547
+run_uuid: 539fd349990f4bdc909f21597270ca3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381006682
+status: 3
+tags: []
+user_id: runner
