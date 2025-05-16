@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/255bd5e1af114aa1a508d6fb41be5cb7/artifacts
+end_time: 1747419944514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 255bd5e1af114aa1a508d6fb41be5cb7
+run_name: calm-owl-58
+run_uuid: 255bd5e1af114aa1a508d6fb41be5cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747419937793
+status: 3
+tags: []
+user_id: runner
