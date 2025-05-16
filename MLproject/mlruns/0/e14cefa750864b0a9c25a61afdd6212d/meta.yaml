@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e14cefa750864b0a9c25a61afdd6212d/artifacts
+end_time: 1747366182639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e14cefa750864b0a9c25a61afdd6212d
+run_name: nervous-gull-496
+run_uuid: e14cefa750864b0a9c25a61afdd6212d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747366176315
+status: 3
+tags: []
+user_id: runner
