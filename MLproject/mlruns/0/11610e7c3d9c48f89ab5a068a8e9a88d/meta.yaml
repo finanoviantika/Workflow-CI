@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/11610e7c3d9c48f89ab5a068a8e9a88d/artifacts
+end_time: 1747429016954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11610e7c3d9c48f89ab5a068a8e9a88d
+run_name: abundant-midge-633
+run_uuid: 11610e7c3d9c48f89ab5a068a8e9a88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747429010528
+status: 3
+tags: []
+user_id: runner
