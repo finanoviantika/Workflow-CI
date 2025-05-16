@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/490e50dba8394e4bb19cbe534caa646e/artifacts
+end_time: 1747424753676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 490e50dba8394e4bb19cbe534caa646e
+run_name: fun-stoat-184
+run_uuid: 490e50dba8394e4bb19cbe534caa646e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424747149
+status: 3
+tags: []
+user_id: runner
