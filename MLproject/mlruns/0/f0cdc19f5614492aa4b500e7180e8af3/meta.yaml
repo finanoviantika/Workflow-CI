@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f0cdc19f5614492aa4b500e7180e8af3/artifacts
+end_time: 1747410701756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0cdc19f5614492aa4b500e7180e8af3
+run_name: fearless-hound-438
+run_uuid: f0cdc19f5614492aa4b500e7180e8af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747410695426
+status: 3
+tags: []
+user_id: runner
