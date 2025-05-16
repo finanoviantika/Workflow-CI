@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/471bfdf651f74ad6bbcd29a24be79b25/artifacts
+end_time: 1747368560202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 471bfdf651f74ad6bbcd29a24be79b25
+run_name: luxuriant-crow-665
+run_uuid: 471bfdf651f74ad6bbcd29a24be79b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747368553994
+status: 3
+tags: []
+user_id: runner
