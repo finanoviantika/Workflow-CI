@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/192974095e094f4bbae85bd4d6607332/artifacts
+end_time: 1747429691195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 192974095e094f4bbae85bd4d6607332
+run_name: burly-hound-851
+run_uuid: 192974095e094f4bbae85bd4d6607332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747429684772
+status: 3
+tags: []
+user_id: runner
