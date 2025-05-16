@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9c8635e27b6a49c3a6d720e2761b86bd/artifacts
+end_time: 1747411605732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c8635e27b6a49c3a6d720e2761b86bd
+run_name: trusting-shoat-89
+run_uuid: 9c8635e27b6a49c3a6d720e2761b86bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411599338
+status: 3
+tags: []
+user_id: runner
