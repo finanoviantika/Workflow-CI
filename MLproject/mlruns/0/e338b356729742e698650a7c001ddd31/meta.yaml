@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e338b356729742e698650a7c001ddd31/artifacts
+end_time: 1747362810957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e338b356729742e698650a7c001ddd31
+run_name: carefree-stork-537
+run_uuid: e338b356729742e698650a7c001ddd31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747362804554
+status: 3
+tags: []
+user_id: runner
