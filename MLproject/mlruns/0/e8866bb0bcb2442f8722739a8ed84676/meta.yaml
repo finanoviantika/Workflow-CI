@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e8866bb0bcb2442f8722739a8ed84676/artifacts
+end_time: 1747430484794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8866bb0bcb2442f8722739a8ed84676
+run_name: redolent-koi-397
+run_uuid: e8866bb0bcb2442f8722739a8ed84676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747430478309
+status: 3
+tags: []
+user_id: runner
