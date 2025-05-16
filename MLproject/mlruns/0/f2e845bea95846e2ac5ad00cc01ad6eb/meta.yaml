@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f2e845bea95846e2ac5ad00cc01ad6eb/artifacts
+end_time: 1747394049283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2e845bea95846e2ac5ad00cc01ad6eb
+run_name: colorful-boar-527
+run_uuid: f2e845bea95846e2ac5ad00cc01ad6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747394042897
+status: 3
+tags: []
+user_id: runner
