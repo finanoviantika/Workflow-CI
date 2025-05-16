@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4c1b248bdeb84b79b1f1374bb55044e8/artifacts
+end_time: 1747405602677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1b248bdeb84b79b1f1374bb55044e8
+run_name: clean-lynx-587
+run_uuid: 4c1b248bdeb84b79b1f1374bb55044e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747405596194
+status: 3
+tags: []
+user_id: runner
