@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9dd9fa8d343b430a9a52c6fd07d90fac/artifacts
+end_time: 1747376568530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dd9fa8d343b430a9a52c6fd07d90fac
+run_name: exultant-hound-485
+run_uuid: 9dd9fa8d343b430a9a52c6fd07d90fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747376562042
+status: 3
+tags: []
+user_id: runner
