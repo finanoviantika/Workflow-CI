@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/437ada3ab8f449f394eae85a8828273d/artifacts
+end_time: 1747412614339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 437ada3ab8f449f394eae85a8828273d
+run_name: welcoming-mink-234
+run_uuid: 437ada3ab8f449f394eae85a8828273d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412608035
+status: 3
+tags: []
+user_id: runner
