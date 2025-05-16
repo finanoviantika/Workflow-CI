@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f6c90c2de1ed4d869fa0c556760f962a/artifacts
+end_time: 1747411938817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c90c2de1ed4d869fa0c556760f962a
+run_name: suave-cow-135
+run_uuid: f6c90c2de1ed4d869fa0c556760f962a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411932010
+status: 3
+tags: []
+user_id: runner
