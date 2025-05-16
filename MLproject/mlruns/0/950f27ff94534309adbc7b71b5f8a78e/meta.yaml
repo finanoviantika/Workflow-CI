@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/950f27ff94534309adbc7b71b5f8a78e/artifacts
+end_time: 1747406778385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 950f27ff94534309adbc7b71b5f8a78e
+run_name: aged-yak-345
+run_uuid: 950f27ff94534309adbc7b71b5f8a78e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747406771832
+status: 3
+tags: []
+user_id: runner
