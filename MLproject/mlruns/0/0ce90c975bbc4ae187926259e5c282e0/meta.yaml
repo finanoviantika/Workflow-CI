@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0ce90c975bbc4ae187926259e5c282e0/artifacts
+end_time: 1747431547909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ce90c975bbc4ae187926259e5c282e0
+run_name: puzzled-flea-816
+run_uuid: 0ce90c975bbc4ae187926259e5c282e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747431541452
+status: 3
+tags: []
+user_id: runner
