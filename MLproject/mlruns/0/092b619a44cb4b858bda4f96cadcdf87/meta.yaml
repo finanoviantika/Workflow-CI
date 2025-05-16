@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/092b619a44cb4b858bda4f96cadcdf87/artifacts
+end_time: 1747404523599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 092b619a44cb4b858bda4f96cadcdf87
+run_name: fun-gull-219
+run_uuid: 092b619a44cb4b858bda4f96cadcdf87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404517088
+status: 3
+tags: []
+user_id: runner
