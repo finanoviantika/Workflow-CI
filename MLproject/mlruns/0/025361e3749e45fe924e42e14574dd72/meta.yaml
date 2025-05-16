@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/025361e3749e45fe924e42e14574dd72/artifacts
+end_time: 1747397060571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 025361e3749e45fe924e42e14574dd72
+run_name: crawling-shad-359
+run_uuid: 025361e3749e45fe924e42e14574dd72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397054180
+status: 3
+tags: []
+user_id: runner
