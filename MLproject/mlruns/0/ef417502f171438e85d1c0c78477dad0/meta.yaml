@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef417502f171438e85d1c0c78477dad0/artifacts
+end_time: 1747367785971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef417502f171438e85d1c0c78477dad0
+run_name: blushing-vole-826
+run_uuid: ef417502f171438e85d1c0c78477dad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367779561
+status: 3
+tags: []
+user_id: runner
