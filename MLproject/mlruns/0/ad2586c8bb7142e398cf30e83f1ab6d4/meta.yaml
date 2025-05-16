@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ad2586c8bb7142e398cf30e83f1ab6d4/artifacts
+end_time: 1747426295350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad2586c8bb7142e398cf30e83f1ab6d4
+run_name: shivering-quail-236
+run_uuid: ad2586c8bb7142e398cf30e83f1ab6d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747426288972
+status: 3
+tags: []
+user_id: runner
