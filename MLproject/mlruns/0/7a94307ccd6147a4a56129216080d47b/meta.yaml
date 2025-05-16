@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7a94307ccd6147a4a56129216080d47b/artifacts
+end_time: 1747375320664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a94307ccd6147a4a56129216080d47b
+run_name: righteous-calf-357
+run_uuid: 7a94307ccd6147a4a56129216080d47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375314318
+status: 3
+tags: []
+user_id: runner
