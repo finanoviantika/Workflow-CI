@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/48af172a26c7456c87f71ef919823be4/artifacts
+end_time: 1747411838765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48af172a26c7456c87f71ef919823be4
+run_name: secretive-kit-920
+run_uuid: 48af172a26c7456c87f71ef919823be4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411832221
+status: 3
+tags: []
+user_id: runner
