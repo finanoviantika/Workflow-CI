@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c90614eb4a3a4c3f9c24e5952211d975/artifacts
+end_time: 1747365483180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90614eb4a3a4c3f9c24e5952211d975
+run_name: fearless-fawn-202
+run_uuid: c90614eb4a3a4c3f9c24e5952211d975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747365476834
+status: 3
+tags: []
+user_id: runner
