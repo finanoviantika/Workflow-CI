@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5f56f3d6ed3441e08f6e7d449259ca3a/artifacts
+end_time: 1747400518498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f56f3d6ed3441e08f6e7d449259ca3a
+run_name: illustrious-cow-83
+run_uuid: 5f56f3d6ed3441e08f6e7d449259ca3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400511764
+status: 3
+tags: []
+user_id: runner
