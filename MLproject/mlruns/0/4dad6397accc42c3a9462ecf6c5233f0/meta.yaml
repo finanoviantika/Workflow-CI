@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4dad6397accc42c3a9462ecf6c5233f0/artifacts
+end_time: 1747390624438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dad6397accc42c3a9462ecf6c5233f0
+run_name: painted-grub-471
+run_uuid: 4dad6397accc42c3a9462ecf6c5233f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390618109
+status: 3
+tags: []
+user_id: runner
