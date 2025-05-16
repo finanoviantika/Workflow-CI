@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/693d13ad491445938dc33ecf2a630eb8/artifacts
+end_time: 1747365581098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 693d13ad491445938dc33ecf2a630eb8
+run_name: placid-ant-117
+run_uuid: 693d13ad491445938dc33ecf2a630eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747365574703
+status: 3
+tags: []
+user_id: runner
