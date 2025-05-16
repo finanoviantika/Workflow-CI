@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1d37036af1114a958a6258b2563ec3ca/artifacts
+end_time: 1747412817073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d37036af1114a958a6258b2563ec3ca
+run_name: mysterious-vole-486
+run_uuid: 1d37036af1114a958a6258b2563ec3ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412810499
+status: 3
+tags: []
+user_id: runner
