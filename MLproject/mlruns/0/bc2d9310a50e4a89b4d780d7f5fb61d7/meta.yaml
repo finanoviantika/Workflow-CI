@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bc2d9310a50e4a89b4d780d7f5fb61d7/artifacts
+end_time: 1747432814773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc2d9310a50e4a89b4d780d7f5fb61d7
+run_name: treasured-cod-551
+run_uuid: bc2d9310a50e4a89b4d780d7f5fb61d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747432808469
+status: 3
+tags: []
+user_id: runner
