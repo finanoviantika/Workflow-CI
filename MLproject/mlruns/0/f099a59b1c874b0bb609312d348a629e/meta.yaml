@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f099a59b1c874b0bb609312d348a629e/artifacts
+end_time: 1747428335630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f099a59b1c874b0bb609312d348a629e
+run_name: able-cow-932
+run_uuid: f099a59b1c874b0bb609312d348a629e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747428329105
+status: 3
+tags: []
+user_id: runner
