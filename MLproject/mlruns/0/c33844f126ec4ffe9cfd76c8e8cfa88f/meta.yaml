@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c33844f126ec4ffe9cfd76c8e8cfa88f/artifacts
+end_time: 1747404813375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c33844f126ec4ffe9cfd76c8e8cfa88f
+run_name: stately-robin-365
+run_uuid: c33844f126ec4ffe9cfd76c8e8cfa88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404806685
+status: 3
+tags: []
+user_id: runner
