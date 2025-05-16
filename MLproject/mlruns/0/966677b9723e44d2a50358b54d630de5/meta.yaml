@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/966677b9723e44d2a50358b54d630de5/artifacts
+end_time: 1747395315840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 966677b9723e44d2a50358b54d630de5
+run_name: righteous-ray-32
+run_uuid: 966677b9723e44d2a50358b54d630de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747395309571
+status: 3
+tags: []
+user_id: runner
