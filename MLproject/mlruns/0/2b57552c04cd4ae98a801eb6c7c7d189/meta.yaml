@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2b57552c04cd4ae98a801eb6c7c7d189/artifacts
+end_time: 1747437523340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b57552c04cd4ae98a801eb6c7c7d189
+run_name: gregarious-ant-836
+run_uuid: 2b57552c04cd4ae98a801eb6c7c7d189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747437516908
+status: 3
+tags: []
+user_id: runner
