@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db853d3bd9e948e68735c216e398b7df/artifacts
+end_time: 1747388566960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db853d3bd9e948e68735c216e398b7df
+run_name: bemused-panda-663
+run_uuid: db853d3bd9e948e68735c216e398b7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747388560495
+status: 3
+tags: []
+user_id: runner
