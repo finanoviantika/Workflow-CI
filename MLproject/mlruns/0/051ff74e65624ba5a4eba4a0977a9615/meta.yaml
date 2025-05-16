@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/051ff74e65624ba5a4eba4a0977a9615/artifacts
+end_time: 1747398056608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 051ff74e65624ba5a4eba4a0977a9615
+run_name: orderly-hog-614
+run_uuid: 051ff74e65624ba5a4eba4a0977a9615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747398050023
+status: 3
+tags: []
+user_id: runner
