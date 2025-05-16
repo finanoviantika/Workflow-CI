@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82f2af07a40b4545a763816380ea3741/artifacts
+end_time: 1747364332177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f2af07a40b4545a763816380ea3741
+run_name: abrasive-midge-656
+run_uuid: 82f2af07a40b4545a763816380ea3741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747364325915
+status: 3
+tags: []
+user_id: runner
