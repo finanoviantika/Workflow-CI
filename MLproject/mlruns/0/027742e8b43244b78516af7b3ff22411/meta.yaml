@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/027742e8b43244b78516af7b3ff22411/artifacts
+end_time: 1747360322476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 027742e8b43244b78516af7b3ff22411
+run_name: defiant-foal-103
+run_uuid: 027742e8b43244b78516af7b3ff22411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747360316086
+status: 3
+tags: []
+user_id: runner
