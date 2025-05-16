@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6722273bf5e44aa59686e0eb10b29ab3/artifacts
+end_time: 1747429598342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6722273bf5e44aa59686e0eb10b29ab3
+run_name: popular-hawk-646
+run_uuid: 6722273bf5e44aa59686e0eb10b29ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747429591986
+status: 3
+tags: []
+user_id: runner
