@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bf73add024c444cba573f3ec83e2a605/artifacts
+end_time: 1747434394678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf73add024c444cba573f3ec83e2a605
+run_name: dapper-rook-217
+run_uuid: bf73add024c444cba573f3ec83e2a605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434388387
+status: 3
+tags: []
+user_id: runner
