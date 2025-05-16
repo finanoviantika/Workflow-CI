@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/366d8d27c74f4525a1777af51dc34156/artifacts
+end_time: 1747383459412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366d8d27c74f4525a1777af51dc34156
+run_name: popular-goose-98
+run_uuid: 366d8d27c74f4525a1777af51dc34156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747383452998
+status: 3
+tags: []
+user_id: runner
