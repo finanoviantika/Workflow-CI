@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/36ec08d94909483c9ef7a8cb8d7364cf/artifacts
+end_time: 1747434492452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ec08d94909483c9ef7a8cb8d7364cf
+run_name: stately-shad-134
+run_uuid: 36ec08d94909483c9ef7a8cb8d7364cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434485988
+status: 3
+tags: []
+user_id: runner
