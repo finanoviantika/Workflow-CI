@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2308533e63944bb4a02d0d25a9f4510f/artifacts
+end_time: 1747394935614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2308533e63944bb4a02d0d25a9f4510f
+run_name: magnificent-grub-217
+run_uuid: 2308533e63944bb4a02d0d25a9f4510f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747394929251
+status: 3
+tags: []
+user_id: runner
