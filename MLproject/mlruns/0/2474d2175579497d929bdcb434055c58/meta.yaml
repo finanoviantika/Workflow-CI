@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2474d2175579497d929bdcb434055c58/artifacts
+end_time: 1747436744018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2474d2175579497d929bdcb434055c58
+run_name: colorful-owl-749
+run_uuid: 2474d2175579497d929bdcb434055c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436737694
+status: 3
+tags: []
+user_id: runner
