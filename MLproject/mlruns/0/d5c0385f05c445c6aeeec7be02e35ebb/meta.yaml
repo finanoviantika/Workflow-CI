@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d5c0385f05c445c6aeeec7be02e35ebb/artifacts
+end_time: 1747370224925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5c0385f05c445c6aeeec7be02e35ebb
+run_name: fearless-dolphin-374
+run_uuid: d5c0385f05c445c6aeeec7be02e35ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370218423
+status: 3
+tags: []
+user_id: runner
