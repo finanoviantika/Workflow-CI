@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/15063065bfad4404aefeb45934c4346c/artifacts
+end_time: 1747414192897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15063065bfad4404aefeb45934c4346c
+run_name: carefree-goat-540
+run_uuid: 15063065bfad4404aefeb45934c4346c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414186480
+status: 3
+tags: []
+user_id: runner
