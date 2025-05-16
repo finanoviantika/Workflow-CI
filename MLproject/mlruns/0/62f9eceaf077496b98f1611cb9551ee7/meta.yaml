@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/62f9eceaf077496b98f1611cb9551ee7/artifacts
+end_time: 1747404908605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62f9eceaf077496b98f1611cb9551ee7
+run_name: fortunate-eel-745
+run_uuid: 62f9eceaf077496b98f1611cb9551ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404902149
+status: 3
+tags: []
+user_id: runner
