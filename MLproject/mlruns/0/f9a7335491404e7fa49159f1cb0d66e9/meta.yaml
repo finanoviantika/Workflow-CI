@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f9a7335491404e7fa49159f1cb0d66e9/artifacts
+end_time: 1747388759627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9a7335491404e7fa49159f1cb0d66e9
+run_name: aged-steed-485
+run_uuid: f9a7335491404e7fa49159f1cb0d66e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747388753349
+status: 3
+tags: []
+user_id: runner
