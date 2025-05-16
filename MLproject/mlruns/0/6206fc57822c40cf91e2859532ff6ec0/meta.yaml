@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6206fc57822c40cf91e2859532ff6ec0/artifacts
+end_time: 1747431356975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6206fc57822c40cf91e2859532ff6ec0
+run_name: capable-croc-697
+run_uuid: 6206fc57822c40cf91e2859532ff6ec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747431350593
+status: 3
+tags: []
+user_id: runner
