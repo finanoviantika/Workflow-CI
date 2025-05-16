@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0f2d1891400140e09a5574fcefe04067/artifacts
+end_time: 1747382859101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f2d1891400140e09a5574fcefe04067
+run_name: mercurial-wolf-308
+run_uuid: 0f2d1891400140e09a5574fcefe04067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382852801
+status: 3
+tags: []
+user_id: runner
