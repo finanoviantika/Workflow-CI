@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/34792b08fc474f0bb550cb7a5de8d293/artifacts
+end_time: 1747396488606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34792b08fc474f0bb550cb7a5de8d293
+run_name: invincible-lark-542
+run_uuid: 34792b08fc474f0bb550cb7a5de8d293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747396482182
+status: 3
+tags: []
+user_id: runner
