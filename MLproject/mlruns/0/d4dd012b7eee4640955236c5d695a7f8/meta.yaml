@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d4dd012b7eee4640955236c5d695a7f8/artifacts
+end_time: 1747439946272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4dd012b7eee4640955236c5d695a7f8
+run_name: luminous-deer-918
+run_uuid: d4dd012b7eee4640955236c5d695a7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747439939772
+status: 3
+tags: []
+user_id: runner
