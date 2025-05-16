@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afe4c04e439340f69adecb3107e3ef24/artifacts
+end_time: 1747383848612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afe4c04e439340f69adecb3107e3ef24
+run_name: sincere-foal-524
+run_uuid: afe4c04e439340f69adecb3107e3ef24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747383841911
+status: 3
+tags: []
+user_id: runner
