@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0fd452c976a446aaa6bf3e9dd44e8359/artifacts
+end_time: 1747427167200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd452c976a446aaa6bf3e9dd44e8359
+run_name: exultant-deer-89
+run_uuid: 0fd452c976a446aaa6bf3e9dd44e8359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427160600
+status: 3
+tags: []
+user_id: runner
