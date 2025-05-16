@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4b49addd4f164a06b80ae6f4793e56e9/artifacts
+end_time: 1747386073567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b49addd4f164a06b80ae6f4793e56e9
+run_name: agreeable-snail-510
+run_uuid: 4b49addd4f164a06b80ae6f4793e56e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747386067257
+status: 3
+tags: []
+user_id: runner
