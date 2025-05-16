@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/505d74c920284ec3a312e0b146c3cbcb/artifacts
+end_time: 1747436939798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 505d74c920284ec3a312e0b146c3cbcb
+run_name: carefree-ray-162
+run_uuid: 505d74c920284ec3a312e0b146c3cbcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436933296
+status: 3
+tags: []
+user_id: runner
