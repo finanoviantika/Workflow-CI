@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e8e1dd5791ba464ea84880dc9fb867be/artifacts
+end_time: 1747359362707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8e1dd5791ba464ea84880dc9fb867be
+run_name: brawny-gull-468
+run_uuid: e8e1dd5791ba464ea84880dc9fb867be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747359356182
+status: 3
+tags: []
+user_id: runner
