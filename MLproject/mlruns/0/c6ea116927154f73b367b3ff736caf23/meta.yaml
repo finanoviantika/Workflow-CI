@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c6ea116927154f73b367b3ff736caf23/artifacts
+end_time: 1747432915406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6ea116927154f73b367b3ff736caf23
+run_name: mercurial-midge-349
+run_uuid: c6ea116927154f73b367b3ff736caf23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747432908987
+status: 3
+tags: []
+user_id: runner
