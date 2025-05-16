@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a3968f55b1664c26ae106487029e4920/artifacts
+end_time: 1747427545612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3968f55b1664c26ae106487029e4920
+run_name: clumsy-hound-278
+run_uuid: a3968f55b1664c26ae106487029e4920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427539151
+status: 3
+tags: []
+user_id: runner
