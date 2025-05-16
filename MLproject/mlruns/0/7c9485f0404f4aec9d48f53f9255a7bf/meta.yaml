@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7c9485f0404f4aec9d48f53f9255a7bf/artifacts
+end_time: 1747438891050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c9485f0404f4aec9d48f53f9255a7bf
+run_name: abundant-fox-220
+run_uuid: 7c9485f0404f4aec9d48f53f9255a7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438884751
+status: 3
+tags: []
+user_id: runner
