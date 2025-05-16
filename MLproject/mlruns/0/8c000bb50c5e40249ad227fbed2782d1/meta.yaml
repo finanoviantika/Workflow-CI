@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8c000bb50c5e40249ad227fbed2782d1/artifacts
+end_time: 1747393949038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c000bb50c5e40249ad227fbed2782d1
+run_name: salty-conch-560
+run_uuid: 8c000bb50c5e40249ad227fbed2782d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747393942543
+status: 3
+tags: []
+user_id: runner
