@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d54c7a8db69047b6b81474c9efd8efdb/artifacts
+end_time: 1747398254522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54c7a8db69047b6b81474c9efd8efdb
+run_name: brawny-grouse-651
+run_uuid: d54c7a8db69047b6b81474c9efd8efdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747398248010
+status: 3
+tags: []
+user_id: runner
