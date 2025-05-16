@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e3f2683f8b34d11bcdf386452033fcf/artifacts
+end_time: 1747382275896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e3f2683f8b34d11bcdf386452033fcf
+run_name: wise-kite-118
+run_uuid: 4e3f2683f8b34d11bcdf386452033fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382268944
+status: 3
+tags: []
+user_id: runner
