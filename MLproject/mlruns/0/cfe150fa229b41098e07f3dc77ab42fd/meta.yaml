@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cfe150fa229b41098e07f3dc77ab42fd/artifacts
+end_time: 1747407172075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfe150fa229b41098e07f3dc77ab42fd
+run_name: useful-asp-664
+run_uuid: cfe150fa229b41098e07f3dc77ab42fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407165316
+status: 3
+tags: []
+user_id: runner
