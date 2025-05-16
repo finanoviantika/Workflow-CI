@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9808ef9389134093882142206b25394d/artifacts
+end_time: 1747436058978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9808ef9389134093882142206b25394d
+run_name: capricious-trout-174
+run_uuid: 9808ef9389134093882142206b25394d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436052336
+status: 3
+tags: []
+user_id: runner
