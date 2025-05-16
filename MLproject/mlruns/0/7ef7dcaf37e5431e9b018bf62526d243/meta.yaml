@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7ef7dcaf37e5431e9b018bf62526d243/artifacts
+end_time: 1747426680661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ef7dcaf37e5431e9b018bf62526d243
+run_name: sneaky-hawk-291
+run_uuid: 7ef7dcaf37e5431e9b018bf62526d243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747426673960
+status: 3
+tags: []
+user_id: runner
