@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f155497366c4f2e83278bafd5176f10/artifacts
+end_time: 1747435666169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f155497366c4f2e83278bafd5176f10
+run_name: omniscient-fly-865
+run_uuid: 7f155497366c4f2e83278bafd5176f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747435659947
+status: 3
+tags: []
+user_id: runner
