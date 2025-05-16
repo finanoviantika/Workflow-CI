@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b6f16dabb83c4090a24a6fedf518c9f2/artifacts
+end_time: 1747427752125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6f16dabb83c4090a24a6fedf518c9f2
+run_name: nervous-squirrel-336
+run_uuid: b6f16dabb83c4090a24a6fedf518c9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427745350
+status: 3
+tags: []
+user_id: runner
