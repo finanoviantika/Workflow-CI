@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7358073d66494c33a93c23e2b5650611/artifacts
+end_time: 1747412036242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7358073d66494c33a93c23e2b5650611
+run_name: honorable-flea-917
+run_uuid: 7358073d66494c33a93c23e2b5650611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412029911
+status: 3
+tags: []
+user_id: runner
