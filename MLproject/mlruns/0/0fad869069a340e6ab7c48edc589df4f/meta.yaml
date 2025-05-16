@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0fad869069a340e6ab7c48edc589df4f/artifacts
+end_time: 1747384235915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fad869069a340e6ab7c48edc589df4f
+run_name: orderly-colt-747
+run_uuid: 0fad869069a340e6ab7c48edc589df4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384229535
+status: 3
+tags: []
+user_id: runner
