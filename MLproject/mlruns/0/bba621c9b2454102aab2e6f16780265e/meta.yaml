@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bba621c9b2454102aab2e6f16780265e/artifacts
+end_time: 1747392193653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba621c9b2454102aab2e6f16780265e
+run_name: agreeable-croc-607
+run_uuid: bba621c9b2454102aab2e6f16780265e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747392187231
+status: 3
+tags: []
+user_id: runner
