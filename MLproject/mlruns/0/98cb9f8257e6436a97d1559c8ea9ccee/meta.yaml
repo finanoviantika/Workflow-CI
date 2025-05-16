@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/98cb9f8257e6436a97d1559c8ea9ccee/artifacts
+end_time: 1747405012133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98cb9f8257e6436a97d1559c8ea9ccee
+run_name: judicious-ram-138
+run_uuid: 98cb9f8257e6436a97d1559c8ea9ccee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747405005735
+status: 3
+tags: []
+user_id: runner
