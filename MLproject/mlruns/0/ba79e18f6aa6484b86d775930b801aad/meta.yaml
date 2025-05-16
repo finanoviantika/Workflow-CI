@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba79e18f6aa6484b86d775930b801aad/artifacts
+end_time: 1747363292462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba79e18f6aa6484b86d775930b801aad
+run_name: amusing-dolphin-726
+run_uuid: ba79e18f6aa6484b86d775930b801aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747363285774
+status: 3
+tags: []
+user_id: runner
