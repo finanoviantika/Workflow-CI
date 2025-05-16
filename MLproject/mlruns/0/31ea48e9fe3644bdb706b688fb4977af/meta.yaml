@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/31ea48e9fe3644bdb706b688fb4977af/artifacts
+end_time: 1747417487588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31ea48e9fe3644bdb706b688fb4977af
+run_name: adventurous-calf-448
+run_uuid: 31ea48e9fe3644bdb706b688fb4977af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747417480888
+status: 3
+tags: []
+user_id: runner
