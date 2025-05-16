@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/95b7303b4c094a4c8a6f82f1c02e7ce7/artifacts
+end_time: 1747373895834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b7303b4c094a4c8a6f82f1c02e7ce7
+run_name: sassy-asp-751
+run_uuid: 95b7303b4c094a4c8a6f82f1c02e7ce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373889243
+status: 3
+tags: []
+user_id: runner
