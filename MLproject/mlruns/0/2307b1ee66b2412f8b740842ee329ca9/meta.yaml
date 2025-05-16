@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2307b1ee66b2412f8b740842ee329ca9/artifacts
+end_time: 1747418863934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2307b1ee66b2412f8b740842ee329ca9
+run_name: merciful-stoat-653
+run_uuid: 2307b1ee66b2412f8b740842ee329ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747418857515
+status: 3
+tags: []
+user_id: runner
