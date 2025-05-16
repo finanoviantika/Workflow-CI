@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/167b4faa25ea450490b94cbf981edfa4/artifacts
+end_time: 1747432622516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 167b4faa25ea450490b94cbf981edfa4
+run_name: likeable-carp-47
+run_uuid: 167b4faa25ea450490b94cbf981edfa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747432615778
+status: 3
+tags: []
+user_id: runner
