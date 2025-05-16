@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a5c3c540003a43dcbac85c317bdeb5ad/artifacts
+end_time: 1747359070529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5c3c540003a43dcbac85c317bdeb5ad
+run_name: overjoyed-gull-137
+run_uuid: a5c3c540003a43dcbac85c317bdeb5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747359064184
+status: 3
+tags: []
+user_id: runner
