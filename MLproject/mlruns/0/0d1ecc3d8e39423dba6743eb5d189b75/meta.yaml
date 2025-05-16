@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0d1ecc3d8e39423dba6743eb5d189b75/artifacts
+end_time: 1747418572813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d1ecc3d8e39423dba6743eb5d189b75
+run_name: gaudy-koi-122
+run_uuid: 0d1ecc3d8e39423dba6743eb5d189b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747418566338
+status: 3
+tags: []
+user_id: runner
