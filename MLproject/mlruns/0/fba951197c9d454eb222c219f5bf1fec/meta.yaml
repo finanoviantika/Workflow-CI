@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fba951197c9d454eb222c219f5bf1fec/artifacts
+end_time: 1747390224061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fba951197c9d454eb222c219f5bf1fec
+run_name: masked-croc-724
+run_uuid: fba951197c9d454eb222c219f5bf1fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390217494
+status: 3
+tags: []
+user_id: runner
