@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8f8e8d26c05a4fb6a1980bbf5060b864/artifacts
+end_time: 1747439562207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f8e8d26c05a4fb6a1980bbf5060b864
+run_name: inquisitive-mole-348
+run_uuid: 8f8e8d26c05a4fb6a1980bbf5060b864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747439555799
+status: 3
+tags: []
+user_id: runner
