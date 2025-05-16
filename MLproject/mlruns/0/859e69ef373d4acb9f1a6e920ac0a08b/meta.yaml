@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/859e69ef373d4acb9f1a6e920ac0a08b/artifacts
+end_time: 1747418958139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 859e69ef373d4acb9f1a6e920ac0a08b
+run_name: resilient-hare-174
+run_uuid: 859e69ef373d4acb9f1a6e920ac0a08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747418951806
+status: 3
+tags: []
+user_id: runner
