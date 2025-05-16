@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c2e8eabd8c58407f974a6d8f6c8efe3d/artifacts
+end_time: 1747384823315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2e8eabd8c58407f974a6d8f6c8efe3d
+run_name: tasteful-crane-253
+run_uuid: c2e8eabd8c58407f974a6d8f6c8efe3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384816864
+status: 3
+tags: []
+user_id: runner
