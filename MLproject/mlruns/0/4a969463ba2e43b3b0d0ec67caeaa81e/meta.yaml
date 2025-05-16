@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4a969463ba2e43b3b0d0ec67caeaa81e/artifacts
+end_time: 1747370322548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a969463ba2e43b3b0d0ec67caeaa81e
+run_name: debonair-skink-344
+run_uuid: 4a969463ba2e43b3b0d0ec67caeaa81e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370315829
+status: 3
+tags: []
+user_id: runner
