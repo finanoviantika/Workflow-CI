@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/987341a6ee644b228b3fe75f6c1f45ed/artifacts
+end_time: 1747379274626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987341a6ee644b228b3fe75f6c1f45ed
+run_name: delightful-snipe-423
+run_uuid: 987341a6ee644b228b3fe75f6c1f45ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747379268123
+status: 3
+tags: []
+user_id: runner
