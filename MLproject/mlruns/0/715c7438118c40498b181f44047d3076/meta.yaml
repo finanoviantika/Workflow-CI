@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/715c7438118c40498b181f44047d3076/artifacts
+end_time: 1747438018653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 715c7438118c40498b181f44047d3076
+run_name: exultant-grub-45
+run_uuid: 715c7438118c40498b181f44047d3076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438012145
+status: 3
+tags: []
+user_id: runner
