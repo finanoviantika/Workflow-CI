@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/85d8f16a145b48b98e4825cf9ced3bfe/artifacts
+end_time: 1747421025627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85d8f16a145b48b98e4825cf9ced3bfe
+run_name: honorable-mink-657
+run_uuid: 85d8f16a145b48b98e4825cf9ced3bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421019182
+status: 3
+tags: []
+user_id: runner
