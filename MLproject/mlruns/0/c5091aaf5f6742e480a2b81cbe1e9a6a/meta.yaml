@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c5091aaf5f6742e480a2b81cbe1e9a6a/artifacts
+end_time: 1747367118702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5091aaf5f6742e480a2b81cbe1e9a6a
+run_name: unleashed-wasp-845
+run_uuid: c5091aaf5f6742e480a2b81cbe1e9a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367112193
+status: 3
+tags: []
+user_id: runner
