@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/494de364e4ec40d79a1bbfb3e7cf4784/artifacts
+end_time: 1747415297323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 494de364e4ec40d79a1bbfb3e7cf4784
+run_name: kindly-owl-946
+run_uuid: 494de364e4ec40d79a1bbfb3e7cf4784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747415291077
+status: 3
+tags: []
+user_id: runner
