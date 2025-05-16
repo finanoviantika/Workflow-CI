@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d9de608cf5af486182ccc69e37ef648d/artifacts
+end_time: 1747383262337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9de608cf5af486182ccc69e37ef648d
+run_name: intrigued-stag-117
+run_uuid: d9de608cf5af486182ccc69e37ef648d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747383255746
+status: 3
+tags: []
+user_id: runner
