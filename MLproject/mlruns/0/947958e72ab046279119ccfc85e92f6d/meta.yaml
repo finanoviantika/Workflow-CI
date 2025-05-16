@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/947958e72ab046279119ccfc85e92f6d/artifacts
+end_time: 1747426200637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 947958e72ab046279119ccfc85e92f6d
+run_name: painted-dove-445
+run_uuid: 947958e72ab046279119ccfc85e92f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747426194149
+status: 3
+tags: []
+user_id: runner
