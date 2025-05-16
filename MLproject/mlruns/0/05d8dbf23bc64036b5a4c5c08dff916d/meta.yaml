@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/05d8dbf23bc64036b5a4c5c08dff916d/artifacts
+end_time: 1747357138893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05d8dbf23bc64036b5a4c5c08dff916d
+run_name: righteous-finch-630
+run_uuid: 05d8dbf23bc64036b5a4c5c08dff916d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747357132561
+status: 3
+tags: []
+user_id: runner
