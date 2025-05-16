@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/575e33656b514c208914ec5ae6ed18fc/artifacts
+end_time: 1747371187222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 575e33656b514c208914ec5ae6ed18fc
+run_name: unique-fly-68
+run_uuid: 575e33656b514c208914ec5ae6ed18fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747371180123
+status: 3
+tags: []
+user_id: runner
