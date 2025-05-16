@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/46d3c55f09604467829802ebce255cc2/artifacts
+end_time: 1747360989712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d3c55f09604467829802ebce255cc2
+run_name: rumbling-fly-220
+run_uuid: 46d3c55f09604467829802ebce255cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747360983434
+status: 3
+tags: []
+user_id: runner
