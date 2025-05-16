@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eed2e74e735b4c6d9c95b420dfec976c/artifacts
+end_time: 1747377045942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eed2e74e735b4c6d9c95b420dfec976c
+run_name: merciful-shad-120
+run_uuid: eed2e74e735b4c6d9c95b420dfec976c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747377039576
+status: 3
+tags: []
+user_id: runner
