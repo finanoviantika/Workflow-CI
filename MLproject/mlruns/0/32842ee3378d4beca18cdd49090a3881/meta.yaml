@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/32842ee3378d4beca18cdd49090a3881/artifacts
+end_time: 1747434884861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32842ee3378d4beca18cdd49090a3881
+run_name: indecisive-moose-295
+run_uuid: 32842ee3378d4beca18cdd49090a3881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434878510
+status: 3
+tags: []
+user_id: runner
