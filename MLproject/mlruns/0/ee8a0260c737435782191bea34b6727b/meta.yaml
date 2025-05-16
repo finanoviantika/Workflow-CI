@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ee8a0260c737435782191bea34b6727b/artifacts
+end_time: 1747413102691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8a0260c737435782191bea34b6727b
+run_name: worried-finch-379
+run_uuid: ee8a0260c737435782191bea34b6727b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747413096427
+status: 3
+tags: []
+user_id: runner
