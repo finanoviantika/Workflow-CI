@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/031c0d61ddc64c5aaa0be58318bc0490/artifacts
+end_time: 1747368079132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 031c0d61ddc64c5aaa0be58318bc0490
+run_name: incongruous-bear-541
+run_uuid: 031c0d61ddc64c5aaa0be58318bc0490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747368072015
+status: 3
+tags: []
+user_id: runner
