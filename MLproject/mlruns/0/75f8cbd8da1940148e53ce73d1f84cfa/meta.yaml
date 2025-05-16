@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/75f8cbd8da1940148e53ce73d1f84cfa/artifacts
+end_time: 1747435762390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75f8cbd8da1940148e53ce73d1f84cfa
+run_name: thoughtful-koi-485
+run_uuid: 75f8cbd8da1940148e53ce73d1f84cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747435755936
+status: 3
+tags: []
+user_id: runner
