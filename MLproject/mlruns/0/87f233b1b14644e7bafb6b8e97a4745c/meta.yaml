@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/87f233b1b14644e7bafb6b8e97a4745c/artifacts
+end_time: 1747423189586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87f233b1b14644e7bafb6b8e97a4745c
+run_name: treasured-shrimp-895
+run_uuid: 87f233b1b14644e7bafb6b8e97a4745c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747423183178
+status: 3
+tags: []
+user_id: runner
