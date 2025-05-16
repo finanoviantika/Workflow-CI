@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/304a8fd28f02489881823b5eec4b2537/artifacts
+end_time: 1747353958187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 304a8fd28f02489881823b5eec4b2537
+run_name: defiant-eel-668
+run_uuid: 304a8fd28f02489881823b5eec4b2537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747353951771
+status: 3
+tags: []
+user_id: runner
