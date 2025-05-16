@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b3cbf0a683aa44c0b55fac403671e497/artifacts
+end_time: 1747391226269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3cbf0a683aa44c0b55fac403671e497
+run_name: receptive-shoat-871
+run_uuid: b3cbf0a683aa44c0b55fac403671e497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747391219654
+status: 3
+tags: []
+user_id: runner
