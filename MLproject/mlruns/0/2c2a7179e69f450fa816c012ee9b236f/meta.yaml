@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2c2a7179e69f450fa816c012ee9b236f/artifacts
+end_time: 1747366838959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c2a7179e69f450fa816c012ee9b236f
+run_name: mysterious-wren-689
+run_uuid: 2c2a7179e69f450fa816c012ee9b236f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747366832670
+status: 3
+tags: []
+user_id: runner
