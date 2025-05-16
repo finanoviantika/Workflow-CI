@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fa6074bc77fa4a1580d095a6fbf41be0/artifacts
+end_time: 1747394641867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa6074bc77fa4a1580d095a6fbf41be0
+run_name: righteous-gull-430
+run_uuid: fa6074bc77fa4a1580d095a6fbf41be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747394634847
+status: 3
+tags: []
+user_id: runner
