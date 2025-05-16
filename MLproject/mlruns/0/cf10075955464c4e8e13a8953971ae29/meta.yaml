@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf10075955464c4e8e13a8953971ae29/artifacts
+end_time: 1747429112829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf10075955464c4e8e13a8953971ae29
+run_name: clumsy-sponge-795
+run_uuid: cf10075955464c4e8e13a8953971ae29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747429106445
+status: 3
+tags: []
+user_id: runner
