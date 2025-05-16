@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dd590bf712a849b4a4aae7e9cd84547a/artifacts
+end_time: 1747380233040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd590bf712a849b4a4aae7e9cd84547a
+run_name: charming-boar-188
+run_uuid: dd590bf712a849b4a4aae7e9cd84547a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747380226491
+status: 3
+tags: []
+user_id: runner
