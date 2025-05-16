@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dffc09d48a2c4412a33d85e17cf05e58/artifacts
+end_time: 1747389723571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dffc09d48a2c4412a33d85e17cf05e58
+run_name: zealous-loon-864
+run_uuid: dffc09d48a2c4412a33d85e17cf05e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747389717019
+status: 3
+tags: []
+user_id: runner
