@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/26092cd1bbb8400a8a94fc433d6badc0/artifacts
+end_time: 1747375221341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26092cd1bbb8400a8a94fc433d6badc0
+run_name: whimsical-crab-580
+run_uuid: 26092cd1bbb8400a8a94fc433d6badc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375215065
+status: 3
+tags: []
+user_id: runner
