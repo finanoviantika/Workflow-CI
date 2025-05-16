@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b0b4374eaa9c44d992f13d026c4a6ffe/artifacts
+end_time: 1747354925910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0b4374eaa9c44d992f13d026c4a6ffe
+run_name: indecisive-hound-872
+run_uuid: b0b4374eaa9c44d992f13d026c4a6ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747354919435
+status: 3
+tags: []
+user_id: runner
