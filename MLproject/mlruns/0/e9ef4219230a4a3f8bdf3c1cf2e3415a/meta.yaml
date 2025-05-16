@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e9ef4219230a4a3f8bdf3c1cf2e3415a/artifacts
+end_time: 1747433015095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9ef4219230a4a3f8bdf3c1cf2e3415a
+run_name: serious-gnat-508
+run_uuid: e9ef4219230a4a3f8bdf3c1cf2e3415a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747433008766
+status: 3
+tags: []
+user_id: runner
