@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76605bc348dc4024bcdfe71900f462db/artifacts
+end_time: 1747397257373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76605bc348dc4024bcdfe71900f462db
+run_name: peaceful-stoat-316
+run_uuid: 76605bc348dc4024bcdfe71900f462db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397250810
+status: 3
+tags: []
+user_id: runner
