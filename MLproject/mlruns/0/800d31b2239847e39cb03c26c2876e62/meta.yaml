@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/800d31b2239847e39cb03c26c2876e62/artifacts
+end_time: 1747407568479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 800d31b2239847e39cb03c26c2876e62
+run_name: selective-stork-783
+run_uuid: 800d31b2239847e39cb03c26c2876e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407562051
+status: 3
+tags: []
+user_id: runner
