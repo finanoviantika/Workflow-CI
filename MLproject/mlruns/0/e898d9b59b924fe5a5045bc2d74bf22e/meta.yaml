@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e898d9b59b924fe5a5045bc2d74bf22e/artifacts
+end_time: 1747372128362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e898d9b59b924fe5a5045bc2d74bf22e
+run_name: delightful-wren-881
+run_uuid: e898d9b59b924fe5a5045bc2d74bf22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372121938
+status: 3
+tags: []
+user_id: runner
