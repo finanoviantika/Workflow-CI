@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8927b513170b4a11a7bf38086c55e3c5/artifacts
+end_time: 1747415901940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8927b513170b4a11a7bf38086c55e3c5
+run_name: nervous-boar-380
+run_uuid: 8927b513170b4a11a7bf38086c55e3c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747415895033
+status: 3
+tags: []
+user_id: runner
