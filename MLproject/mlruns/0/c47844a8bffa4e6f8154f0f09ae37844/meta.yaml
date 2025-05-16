@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c47844a8bffa4e6f8154f0f09ae37844/artifacts
+end_time: 1747409734716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c47844a8bffa4e6f8154f0f09ae37844
+run_name: tasteful-panda-0
+run_uuid: c47844a8bffa4e6f8154f0f09ae37844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747409728274
+status: 3
+tags: []
+user_id: runner
