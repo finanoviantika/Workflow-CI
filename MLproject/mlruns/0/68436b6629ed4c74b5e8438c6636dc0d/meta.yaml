@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/68436b6629ed4c74b5e8438c6636dc0d/artifacts
+end_time: 1747409232956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68436b6629ed4c74b5e8438c6636dc0d
+run_name: grandiose-jay-493
+run_uuid: 68436b6629ed4c74b5e8438c6636dc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747409226606
+status: 3
+tags: []
+user_id: runner
