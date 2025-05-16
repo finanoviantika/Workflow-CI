@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/57ba9004fda94418b7ad47ff3f6e3bd8/artifacts
+end_time: 1747388184910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57ba9004fda94418b7ad47ff3f6e3bd8
+run_name: judicious-elk-673
+run_uuid: 57ba9004fda94418b7ad47ff3f6e3bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747388178496
+status: 3
+tags: []
+user_id: runner
