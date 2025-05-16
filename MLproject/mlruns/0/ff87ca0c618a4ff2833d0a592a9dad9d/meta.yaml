@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff87ca0c618a4ff2833d0a592a9dad9d/artifacts
+end_time: 1747410606936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff87ca0c618a4ff2833d0a592a9dad9d
+run_name: welcoming-cat-74
+run_uuid: ff87ca0c618a4ff2833d0a592a9dad9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747410600117
+status: 3
+tags: []
+user_id: runner
