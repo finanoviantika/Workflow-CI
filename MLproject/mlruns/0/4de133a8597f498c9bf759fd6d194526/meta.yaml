@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4de133a8597f498c9bf759fd6d194526/artifacts
+end_time: 1747398943661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4de133a8597f498c9bf759fd6d194526
+run_name: delightful-snail-99
+run_uuid: 4de133a8597f498c9bf759fd6d194526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747398937250
+status: 3
+tags: []
+user_id: runner
