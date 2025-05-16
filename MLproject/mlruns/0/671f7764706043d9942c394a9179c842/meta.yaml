@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/671f7764706043d9942c394a9179c842/artifacts
+end_time: 1747416000645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 671f7764706043d9942c394a9179c842
+run_name: abrasive-bear-136
+run_uuid: 671f7764706043d9942c394a9179c842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747415994279
+status: 3
+tags: []
+user_id: runner
