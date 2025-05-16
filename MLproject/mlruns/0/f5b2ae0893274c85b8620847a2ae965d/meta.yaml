@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f5b2ae0893274c85b8620847a2ae965d/artifacts
+end_time: 1747404325549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5b2ae0893274c85b8620847a2ae965d
+run_name: incongruous-bat-912
+run_uuid: f5b2ae0893274c85b8620847a2ae965d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404318933
+status: 3
+tags: []
+user_id: runner
