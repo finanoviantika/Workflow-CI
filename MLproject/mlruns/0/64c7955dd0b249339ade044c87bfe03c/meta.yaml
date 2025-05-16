@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/64c7955dd0b249339ade044c87bfe03c/artifacts
+end_time: 1747374741764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c7955dd0b249339ade044c87bfe03c
+run_name: selective-grub-237
+run_uuid: 64c7955dd0b249339ade044c87bfe03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747374735425
+status: 3
+tags: []
+user_id: runner
