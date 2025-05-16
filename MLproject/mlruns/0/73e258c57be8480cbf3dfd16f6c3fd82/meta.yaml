@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/73e258c57be8480cbf3dfd16f6c3fd82/artifacts
+end_time: 1747390833768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73e258c57be8480cbf3dfd16f6c3fd82
+run_name: calm-chimp-420
+run_uuid: 73e258c57be8480cbf3dfd16f6c3fd82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390827454
+status: 3
+tags: []
+user_id: runner
