@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fc510cedd8f14402adc413245a2fe4ae/artifacts
+end_time: 1747362530563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc510cedd8f14402adc413245a2fe4ae
+run_name: bold-sow-583
+run_uuid: fc510cedd8f14402adc413245a2fe4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747362524247
+status: 3
+tags: []
+user_id: runner
