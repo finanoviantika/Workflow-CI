@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/83628734266240f6851ad218257f396b/artifacts
+end_time: 1747390421750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83628734266240f6851ad218257f396b
+run_name: serious-deer-252
+run_uuid: 83628734266240f6851ad218257f396b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390415457
+status: 3
+tags: []
+user_id: runner
