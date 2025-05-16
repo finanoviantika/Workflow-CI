@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f2a4873204de44ee8efcb13b54ca76b3/artifacts
+end_time: 1747421608851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2a4873204de44ee8efcb13b54ca76b3
+run_name: intelligent-auk-544
+run_uuid: f2a4873204de44ee8efcb13b54ca76b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421602318
+status: 3
+tags: []
+user_id: runner
