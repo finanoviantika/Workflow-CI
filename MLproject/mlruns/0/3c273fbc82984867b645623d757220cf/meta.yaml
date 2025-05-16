@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3c273fbc82984867b645623d757220cf/artifacts
+end_time: 1747403004705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c273fbc82984867b645623d757220cf
+run_name: delicate-yak-417
+run_uuid: 3c273fbc82984867b645623d757220cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747402997822
+status: 3
+tags: []
+user_id: runner
