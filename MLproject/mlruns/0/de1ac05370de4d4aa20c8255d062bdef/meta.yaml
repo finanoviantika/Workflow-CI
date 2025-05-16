@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/de1ac05370de4d4aa20c8255d062bdef/artifacts
+end_time: 1747370710508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de1ac05370de4d4aa20c8255d062bdef
+run_name: exultant-carp-678
+run_uuid: de1ac05370de4d4aa20c8255d062bdef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370703948
+status: 3
+tags: []
+user_id: runner
