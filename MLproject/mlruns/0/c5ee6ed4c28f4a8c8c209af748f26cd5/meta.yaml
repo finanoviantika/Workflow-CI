@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c5ee6ed4c28f4a8c8c209af748f26cd5/artifacts
+end_time: 1747373690931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5ee6ed4c28f4a8c8c209af748f26cd5
+run_name: intelligent-ram-253
+run_uuid: c5ee6ed4c28f4a8c8c209af748f26cd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373684190
+status: 3
+tags: []
+user_id: runner
