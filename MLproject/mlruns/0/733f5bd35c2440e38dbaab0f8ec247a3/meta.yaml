@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/733f5bd35c2440e38dbaab0f8ec247a3/artifacts
+end_time: 1747411092620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733f5bd35c2440e38dbaab0f8ec247a3
+run_name: upbeat-mule-640
+run_uuid: 733f5bd35c2440e38dbaab0f8ec247a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747411086123
+status: 3
+tags: []
+user_id: runner
