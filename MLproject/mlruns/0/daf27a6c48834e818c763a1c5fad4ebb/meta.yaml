@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/daf27a6c48834e818c763a1c5fad4ebb/artifacts
+end_time: 1747424253544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daf27a6c48834e818c763a1c5fad4ebb
+run_name: persistent-goose-586
+run_uuid: daf27a6c48834e818c763a1c5fad4ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424247267
+status: 3
+tags: []
+user_id: runner
