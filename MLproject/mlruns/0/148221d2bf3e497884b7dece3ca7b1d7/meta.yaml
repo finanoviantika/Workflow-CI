@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/148221d2bf3e497884b7dece3ca7b1d7/artifacts
+end_time: 1747425038638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 148221d2bf3e497884b7dece3ca7b1d7
+run_name: bittersweet-moth-756
+run_uuid: 148221d2bf3e497884b7dece3ca7b1d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747425032063
+status: 3
+tags: []
+user_id: runner
