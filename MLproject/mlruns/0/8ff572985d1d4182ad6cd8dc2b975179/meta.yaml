@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8ff572985d1d4182ad6cd8dc2b975179/artifacts
+end_time: 1747429406324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ff572985d1d4182ad6cd8dc2b975179
+run_name: clean-cub-448
+run_uuid: 8ff572985d1d4182ad6cd8dc2b975179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747429399927
+status: 3
+tags: []
+user_id: runner
