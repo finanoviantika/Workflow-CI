@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7f678b32ad814426b33c1061e24b3531/artifacts
+end_time: 1747412417770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f678b32ad814426b33c1061e24b3531
+run_name: stately-cow-927
+run_uuid: 7f678b32ad814426b33c1061e24b3531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412411456
+status: 3
+tags: []
+user_id: runner
