@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d2346d661adc4cbcbbe50eba72a635fc/artifacts
+end_time: 1747379557652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2346d661adc4cbcbbe50eba72a635fc
+run_name: whimsical-crow-72
+run_uuid: d2346d661adc4cbcbbe50eba72a635fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747379551298
+status: 3
+tags: []
+user_id: runner
