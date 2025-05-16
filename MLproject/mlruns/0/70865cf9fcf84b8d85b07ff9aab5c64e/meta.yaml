@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/70865cf9fcf84b8d85b07ff9aab5c64e/artifacts
+end_time: 1747395706050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70865cf9fcf84b8d85b07ff9aab5c64e
+run_name: rambunctious-sow-711
+run_uuid: 70865cf9fcf84b8d85b07ff9aab5c64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747395699518
+status: 3
+tags: []
+user_id: runner
