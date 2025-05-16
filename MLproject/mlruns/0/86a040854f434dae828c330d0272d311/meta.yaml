@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/86a040854f434dae828c330d0272d311/artifacts
+end_time: 1747401017538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86a040854f434dae828c330d0272d311
+run_name: grandiose-sponge-982
+run_uuid: 86a040854f434dae828c330d0272d311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747401010791
+status: 3
+tags: []
+user_id: runner
