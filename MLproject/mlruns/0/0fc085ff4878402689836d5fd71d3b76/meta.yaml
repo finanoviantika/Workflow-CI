@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0fc085ff4878402689836d5fd71d3b76/artifacts
+end_time: 1747430581018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fc085ff4878402689836d5fd71d3b76
+run_name: burly-swan-762
+run_uuid: 0fc085ff4878402689836d5fd71d3b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747430574710
+status: 3
+tags: []
+user_id: runner
