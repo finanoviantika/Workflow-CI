@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c79e41087e884d66841bf6562082a229/artifacts
+end_time: 1747379944323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c79e41087e884d66841bf6562082a229
+run_name: nosy-donkey-16
+run_uuid: c79e41087e884d66841bf6562082a229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747379937767
+status: 3
+tags: []
+user_id: runner
