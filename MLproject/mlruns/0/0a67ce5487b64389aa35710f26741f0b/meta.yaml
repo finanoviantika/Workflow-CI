@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0a67ce5487b64389aa35710f26741f0b/artifacts
+end_time: 1747386262745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a67ce5487b64389aa35710f26741f0b
+run_name: sincere-snake-30
+run_uuid: 0a67ce5487b64389aa35710f26741f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747386256291
+status: 3
+tags: []
+user_id: runner
