@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/42a2b7fffc4447cf9622afe05aa111cd/artifacts
+end_time: 1747408941769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42a2b7fffc4447cf9622afe05aa111cd
+run_name: flawless-snake-688
+run_uuid: 42a2b7fffc4447cf9622afe05aa111cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747408935266
+status: 3
+tags: []
+user_id: runner
