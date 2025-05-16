@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8a3e396b093b41bd856723c431233eb8/artifacts
+end_time: 1747437038533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a3e396b093b41bd856723c431233eb8
+run_name: handsome-dolphin-931
+run_uuid: 8a3e396b093b41bd856723c431233eb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747437032064
+status: 3
+tags: []
+user_id: runner
