@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/afdb068eba0a44a6b37ade81bfac620f/artifacts
+end_time: 1747407668645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afdb068eba0a44a6b37ade81bfac620f
+run_name: unique-koi-480
+run_uuid: afdb068eba0a44a6b37ade81bfac620f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407662196
+status: 3
+tags: []
+user_id: runner
