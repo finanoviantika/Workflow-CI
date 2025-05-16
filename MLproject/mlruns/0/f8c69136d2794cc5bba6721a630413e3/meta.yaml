@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f8c69136d2794cc5bba6721a630413e3/artifacts
+end_time: 1747389248229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8c69136d2794cc5bba6721a630413e3
+run_name: unruly-squirrel-64
+run_uuid: f8c69136d2794cc5bba6721a630413e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747389241825
+status: 3
+tags: []
+user_id: runner
