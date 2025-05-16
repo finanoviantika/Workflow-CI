@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2d7f0f41878f431ab8ae1117500ec171/artifacts
+end_time: 1747384136202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d7f0f41878f431ab8ae1117500ec171
+run_name: luminous-grub-363
+run_uuid: 2d7f0f41878f431ab8ae1117500ec171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384129637
+status: 3
+tags: []
+user_id: runner
