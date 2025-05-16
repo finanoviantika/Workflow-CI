@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a0f04d7a84784003a7877df9887b1963/artifacts
+end_time: 1747398655690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f04d7a84784003a7877df9887b1963
+run_name: victorious-lamb-700
+run_uuid: a0f04d7a84784003a7877df9887b1963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747398648918
+status: 3
+tags: []
+user_id: runner
