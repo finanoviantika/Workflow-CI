@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6e211c6f6b3a4f4fb4c62bb6c7a785bf/artifacts
+end_time: 1747428725596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e211c6f6b3a4f4fb4c62bb6c7a785bf
+run_name: bright-koi-372
+run_uuid: 6e211c6f6b3a4f4fb4c62bb6c7a785bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747428719082
+status: 3
+tags: []
+user_id: runner
