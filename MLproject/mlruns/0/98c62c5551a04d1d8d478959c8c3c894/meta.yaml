@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/98c62c5551a04d1d8d478959c8c3c894/artifacts
+end_time: 1747397358689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c62c5551a04d1d8d478959c8c3c894
+run_name: placid-mink-959
+run_uuid: 98c62c5551a04d1d8d478959c8c3c894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397352238
+status: 3
+tags: []
+user_id: runner
