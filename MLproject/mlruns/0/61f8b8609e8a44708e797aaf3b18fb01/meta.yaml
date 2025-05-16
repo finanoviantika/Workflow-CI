@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/61f8b8609e8a44708e797aaf3b18fb01/artifacts
+end_time: 1747367406822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61f8b8609e8a44708e797aaf3b18fb01
+run_name: tasteful-bat-243
+run_uuid: 61f8b8609e8a44708e797aaf3b18fb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367400464
+status: 3
+tags: []
+user_id: runner
