@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/082a6c66d0324a79a0373b339fffa9c2/artifacts
+end_time: 1747367885564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 082a6c66d0324a79a0373b339fffa9c2
+run_name: adaptable-skunk-582
+run_uuid: 082a6c66d0324a79a0373b339fffa9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367878545
+status: 3
+tags: []
+user_id: runner
