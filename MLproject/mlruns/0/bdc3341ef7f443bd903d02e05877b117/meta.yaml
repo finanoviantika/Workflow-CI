@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bdc3341ef7f443bd903d02e05877b117/artifacts
+end_time: 1747381311022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdc3341ef7f443bd903d02e05877b117
+run_name: valuable-pig-157
+run_uuid: bdc3341ef7f443bd903d02e05877b117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381304705
+status: 3
+tags: []
+user_id: runner
