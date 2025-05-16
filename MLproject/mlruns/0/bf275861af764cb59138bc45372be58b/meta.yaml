@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bf275861af764cb59138bc45372be58b/artifacts
+end_time: 1747378405212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf275861af764cb59138bc45372be58b
+run_name: honorable-duck-466
+run_uuid: bf275861af764cb59138bc45372be58b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747378398220
+status: 3
+tags: []
+user_id: runner
