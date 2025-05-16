@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ea0f4b3d03d44373b7e5c36140a769b5/artifacts
+end_time: 1747358498242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea0f4b3d03d44373b7e5c36140a769b5
+run_name: thoughtful-pig-284
+run_uuid: ea0f4b3d03d44373b7e5c36140a769b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747358491813
+status: 3
+tags: []
+user_id: runner
