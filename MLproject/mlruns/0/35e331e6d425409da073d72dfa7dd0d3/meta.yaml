@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/35e331e6d425409da073d72dfa7dd0d3/artifacts
+end_time: 1747370124491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35e331e6d425409da073d72dfa7dd0d3
+run_name: kindly-bear-848
+run_uuid: 35e331e6d425409da073d72dfa7dd0d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747370118093
+status: 3
+tags: []
+user_id: runner
