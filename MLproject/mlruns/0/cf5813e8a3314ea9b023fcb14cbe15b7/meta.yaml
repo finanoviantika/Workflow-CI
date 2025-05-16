@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cf5813e8a3314ea9b023fcb14cbe15b7/artifacts
+end_time: 1747430189139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf5813e8a3314ea9b023fcb14cbe15b7
+run_name: ambitious-toad-970
+run_uuid: cf5813e8a3314ea9b023fcb14cbe15b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747430182797
+status: 3
+tags: []
+user_id: runner
