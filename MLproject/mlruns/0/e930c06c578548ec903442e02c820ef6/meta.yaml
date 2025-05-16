@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e930c06c578548ec903442e02c820ef6/artifacts
+end_time: 1747413891105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e930c06c578548ec903442e02c820ef6
+run_name: gentle-shad-190
+run_uuid: e930c06c578548ec903442e02c820ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747413884755
+status: 3
+tags: []
+user_id: runner
