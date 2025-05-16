@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/62660cee0b86472f9c2e5197b045146c/artifacts
+end_time: 1747415398988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62660cee0b86472f9c2e5197b045146c
+run_name: luminous-bug-71
+run_uuid: 62660cee0b86472f9c2e5197b045146c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747415391924
+status: 3
+tags: []
+user_id: runner
