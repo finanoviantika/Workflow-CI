@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c983ccc7917043ff8506ef3e03549ecc/artifacts
+end_time: 1747412514632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c983ccc7917043ff8506ef3e03549ecc
+run_name: fortunate-fawn-212
+run_uuid: c983ccc7917043ff8506ef3e03549ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747412508268
+status: 3
+tags: []
+user_id: runner
