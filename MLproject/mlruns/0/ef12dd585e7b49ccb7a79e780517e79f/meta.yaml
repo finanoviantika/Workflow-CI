@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef12dd585e7b49ccb7a79e780517e79f/artifacts
+end_time: 1747403102160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef12dd585e7b49ccb7a79e780517e79f
+run_name: sassy-mare-22
+run_uuid: ef12dd585e7b49ccb7a79e780517e79f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747403095730
+status: 3
+tags: []
+user_id: runner
