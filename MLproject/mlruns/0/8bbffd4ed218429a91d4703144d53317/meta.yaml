@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8bbffd4ed218429a91d4703144d53317/artifacts
+end_time: 1747434097220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bbffd4ed218429a91d4703144d53317
+run_name: nervous-ox-518
+run_uuid: 8bbffd4ed218429a91d4703144d53317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747434090812
+status: 3
+tags: []
+user_id: runner
