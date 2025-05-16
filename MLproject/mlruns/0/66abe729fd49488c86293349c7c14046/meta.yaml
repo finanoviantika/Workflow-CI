@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/66abe729fd49488c86293349c7c14046/artifacts
+end_time: 1747419645843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66abe729fd49488c86293349c7c14046
+run_name: gaudy-carp-307
+run_uuid: 66abe729fd49488c86293349c7c14046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747419639487
+status: 3
+tags: []
+user_id: runner
