@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e9cfd2763ede4296b23dc44e5c65d078/artifacts
+end_time: 1747389052782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9cfd2763ede4296b23dc44e5c65d078
+run_name: learned-mink-517
+run_uuid: e9cfd2763ede4296b23dc44e5c65d078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747389046378
+status: 3
+tags: []
+user_id: runner
