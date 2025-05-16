@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8524be81a81e424faf4634f476fd6311/artifacts
+end_time: 1747362336673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8524be81a81e424faf4634f476fd6311
+run_name: treasured-foal-331
+run_uuid: 8524be81a81e424faf4634f476fd6311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747362330405
+status: 3
+tags: []
+user_id: runner
