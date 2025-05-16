@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef8e9074d43d43078a5ba0aa86071286/artifacts
+end_time: 1747399135907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef8e9074d43d43078a5ba0aa86071286
+run_name: loud-hound-790
+run_uuid: ef8e9074d43d43078a5ba0aa86071286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747399129530
+status: 3
+tags: []
+user_id: runner
