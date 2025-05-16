@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4277566ad36647c180863cca087849d1/artifacts
+end_time: 1747354049136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4277566ad36647c180863cca087849d1
+run_name: abundant-perch-949
+run_uuid: 4277566ad36647c180863cca087849d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747354042798
+status: 3
+tags: []
+user_id: runner
