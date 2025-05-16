@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e26dd473c158422f9ab9a73a81aabe86/artifacts
+end_time: 1747420334830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e26dd473c158422f9ab9a73a81aabe86
+run_name: capricious-shoat-426
+run_uuid: e26dd473c158422f9ab9a73a81aabe86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747420328410
+status: 3
+tags: []
+user_id: runner
