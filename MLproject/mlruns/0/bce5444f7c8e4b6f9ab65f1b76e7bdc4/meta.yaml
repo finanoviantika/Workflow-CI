@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bce5444f7c8e4b6f9ab65f1b76e7bdc4/artifacts
+end_time: 1747438505426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bce5444f7c8e4b6f9ab65f1b76e7bdc4
+run_name: whimsical-mouse-603
+run_uuid: bce5444f7c8e4b6f9ab65f1b76e7bdc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747438498615
+status: 3
+tags: []
+user_id: runner
