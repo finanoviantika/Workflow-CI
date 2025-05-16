@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1170e9239d44aa6ac8db13c3e4ca6e9/artifacts
+end_time: 1747378017542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1170e9239d44aa6ac8db13c3e4ca6e9
+run_name: mysterious-elk-786
+run_uuid: f1170e9239d44aa6ac8db13c3e4ca6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747378011157
+status: 3
+tags: []
+user_id: runner
