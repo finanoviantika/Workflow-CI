@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/73284cb45ce14915aaff893a52a6a2aa/artifacts
+end_time: 1747358112879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73284cb45ce14915aaff893a52a6a2aa
+run_name: upbeat-horse-519
+run_uuid: 73284cb45ce14915aaff893a52a6a2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747358106611
+status: 3
+tags: []
+user_id: runner
