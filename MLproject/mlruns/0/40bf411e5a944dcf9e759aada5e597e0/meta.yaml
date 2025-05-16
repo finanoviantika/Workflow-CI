@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/40bf411e5a944dcf9e759aada5e597e0/artifacts
+end_time: 1747400718070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40bf411e5a944dcf9e759aada5e597e0
+run_name: gaudy-goat-843
+run_uuid: 40bf411e5a944dcf9e759aada5e597e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400711344
+status: 3
+tags: []
+user_id: runner
