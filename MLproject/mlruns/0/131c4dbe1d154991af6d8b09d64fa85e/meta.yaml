@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/131c4dbe1d154991af6d8b09d64fa85e/artifacts
+end_time: 1747410410147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131c4dbe1d154991af6d8b09d64fa85e
+run_name: delicate-gull-113
+run_uuid: 131c4dbe1d154991af6d8b09d64fa85e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747410403739
+status: 3
+tags: []
+user_id: runner
