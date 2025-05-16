@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a6511cfb59ed41418904620ef7bfad24/artifacts
+end_time: 1747362144998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6511cfb59ed41418904620ef7bfad24
+run_name: clean-sloth-55
+run_uuid: a6511cfb59ed41418904620ef7bfad24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747362138554
+status: 3
+tags: []
+user_id: runner
