@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a130d864dcc34e0cbbb1186708750cf1/artifacts
+end_time: 1747382179021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a130d864dcc34e0cbbb1186708750cf1
+run_name: industrious-dove-686
+run_uuid: a130d864dcc34e0cbbb1186708750cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382172444
+status: 3
+tags: []
+user_id: runner
