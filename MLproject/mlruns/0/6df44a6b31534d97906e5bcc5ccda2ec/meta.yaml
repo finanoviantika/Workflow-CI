@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6df44a6b31534d97906e5bcc5ccda2ec/artifacts
+end_time: 1747402901753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df44a6b31534d97906e5bcc5ccda2ec
+run_name: selective-newt-938
+run_uuid: 6df44a6b31534d97906e5bcc5ccda2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747402895232
+status: 3
+tags: []
+user_id: runner
