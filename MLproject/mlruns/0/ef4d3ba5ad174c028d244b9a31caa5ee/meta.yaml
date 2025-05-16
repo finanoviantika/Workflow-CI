@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef4d3ba5ad174c028d244b9a31caa5ee/artifacts
+end_time: 1747393268407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef4d3ba5ad174c028d244b9a31caa5ee
+run_name: overjoyed-steed-139
+run_uuid: ef4d3ba5ad174c028d244b9a31caa5ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747393261898
+status: 3
+tags: []
+user_id: runner
