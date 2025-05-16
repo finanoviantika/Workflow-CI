@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e8386a97f2d1490aab483829c76f618f/artifacts
+end_time: 1747423381961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8386a97f2d1490aab483829c76f618f
+run_name: bold-lamb-895
+run_uuid: e8386a97f2d1490aab483829c76f618f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747423375618
+status: 3
+tags: []
+user_id: runner
