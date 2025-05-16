@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fdf8480c265f43838f9c0be3fe081530/artifacts
+end_time: 1747366651060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdf8480c265f43838f9c0be3fe081530
+run_name: lyrical-vole-608
+run_uuid: fdf8480c265f43838f9c0be3fe081530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747366644809
+status: 3
+tags: []
+user_id: runner
