@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/38c5d2b36a3a4110ab5d8766fee69d5b/artifacts
+end_time: 1747401322024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38c5d2b36a3a4110ab5d8766fee69d5b
+run_name: carefree-shrimp-196
+run_uuid: 38c5d2b36a3a4110ab5d8766fee69d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747401315501
+status: 3
+tags: []
+user_id: runner
