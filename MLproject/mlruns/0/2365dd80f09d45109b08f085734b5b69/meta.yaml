@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2365dd80f09d45109b08f085734b5b69/artifacts
+end_time: 1747374837544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2365dd80f09d45109b08f085734b5b69
+run_name: dapper-pug-932
+run_uuid: 2365dd80f09d45109b08f085734b5b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747374831007
+status: 3
+tags: []
+user_id: runner
