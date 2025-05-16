@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a4fe7cf0ea9647ae83371a613ebd4c39/artifacts
+end_time: 1747403911088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4fe7cf0ea9647ae83371a613ebd4c39
+run_name: bemused-pug-767
+run_uuid: a4fe7cf0ea9647ae83371a613ebd4c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747403903865
+status: 3
+tags: []
+user_id: runner
