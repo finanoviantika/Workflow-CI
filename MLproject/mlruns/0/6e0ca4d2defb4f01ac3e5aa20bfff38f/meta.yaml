@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6e0ca4d2defb4f01ac3e5aa20bfff38f/artifacts
+end_time: 1747372324601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e0ca4d2defb4f01ac3e5aa20bfff38f
+run_name: adorable-vole-904
+run_uuid: 6e0ca4d2defb4f01ac3e5aa20bfff38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372318303
+status: 3
+tags: []
+user_id: runner
