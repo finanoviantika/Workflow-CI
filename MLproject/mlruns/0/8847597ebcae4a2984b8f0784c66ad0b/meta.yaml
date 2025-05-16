@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8847597ebcae4a2984b8f0784c66ad0b/artifacts
+end_time: 1747375415438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8847597ebcae4a2984b8f0784c66ad0b
+run_name: amazing-foal-974
+run_uuid: 8847597ebcae4a2984b8f0784c66ad0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375408931
+status: 3
+tags: []
+user_id: runner
