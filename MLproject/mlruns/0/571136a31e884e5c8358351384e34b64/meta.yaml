@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/571136a31e884e5c8358351384e34b64/artifacts
+end_time: 1747421704448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 571136a31e884e5c8358351384e34b64
+run_name: calm-toad-785
+run_uuid: 571136a31e884e5c8358351384e34b64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421698111
+status: 3
+tags: []
+user_id: runner
