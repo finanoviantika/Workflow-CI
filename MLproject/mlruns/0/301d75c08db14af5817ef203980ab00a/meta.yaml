@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/301d75c08db14af5817ef203980ab00a/artifacts
+end_time: 1747367504335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 301d75c08db14af5817ef203980ab00a
+run_name: gifted-turtle-386
+run_uuid: 301d75c08db14af5817ef203980ab00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747367497821
+status: 3
+tags: []
+user_id: runner
