@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1f9e0bed394842b3800a2032efdf7505/artifacts
+end_time: 1747373110126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9e0bed394842b3800a2032efdf7505
+run_name: welcoming-goose-308
+run_uuid: 1f9e0bed394842b3800a2032efdf7505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373103545
+status: 3
+tags: []
+user_id: runner
