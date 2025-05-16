@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a4f5768c124b4a5799c8ddfdd132b5f5/artifacts
+end_time: 1747397657110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4f5768c124b4a5799c8ddfdd132b5f5
+run_name: silent-eel-506
+run_uuid: a4f5768c124b4a5799c8ddfdd132b5f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397650312
+status: 3
+tags: []
+user_id: runner
