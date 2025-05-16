@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7b5976e0d9064aa4a2d598c9ecc7bd69/artifacts
+end_time: 1747369927620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b5976e0d9064aa4a2d598c9ecc7bd69
+run_name: unequaled-hare-591
+run_uuid: 7b5976e0d9064aa4a2d598c9ecc7bd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747369921131
+status: 3
+tags: []
+user_id: runner
