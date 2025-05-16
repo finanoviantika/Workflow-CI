@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d9bd22f0660f4305b81f475576e6db87/artifacts
+end_time: 1747401116482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9bd22f0660f4305b81f475576e6db87
+run_name: capricious-vole-176
+run_uuid: d9bd22f0660f4305b81f475576e6db87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747401109800
+status: 3
+tags: []
+user_id: runner
