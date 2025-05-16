@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/58d617c94d364d67aecf85c4e21522e9/artifacts
+end_time: 1747413199733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d617c94d364d67aecf85c4e21522e9
+run_name: calm-auk-955
+run_uuid: 58d617c94d364d67aecf85c4e21522e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747413192863
+status: 3
+tags: []
+user_id: runner
