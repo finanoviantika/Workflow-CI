@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e88637d66be54264bcd63f3f6e19712b/artifacts
+end_time: 1747420532823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e88637d66be54264bcd63f3f6e19712b
+run_name: bustling-fowl-278
+run_uuid: e88637d66be54264bcd63f3f6e19712b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747420526317
+status: 3
+tags: []
+user_id: runner
