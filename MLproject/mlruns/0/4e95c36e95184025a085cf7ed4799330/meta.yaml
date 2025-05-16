@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e95c36e95184025a085cf7ed4799330/artifacts
+end_time: 1747361955684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e95c36e95184025a085cf7ed4799330
+run_name: amazing-bear-767
+run_uuid: 4e95c36e95184025a085cf7ed4799330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747361949187
+status: 3
+tags: []
+user_id: runner
