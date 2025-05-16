@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aacb8929a52f4394b2ccfe595541bfcf/artifacts
+end_time: 1747375884599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aacb8929a52f4394b2ccfe595541bfcf
+run_name: resilient-jay-511
+run_uuid: aacb8929a52f4394b2ccfe595541bfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375878225
+status: 3
+tags: []
+user_id: runner
