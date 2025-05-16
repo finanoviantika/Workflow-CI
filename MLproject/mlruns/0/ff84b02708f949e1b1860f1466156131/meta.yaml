@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff84b02708f949e1b1860f1466156131/artifacts
+end_time: 1747400117483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff84b02708f949e1b1860f1466156131
+run_name: skittish-mare-971
+run_uuid: ff84b02708f949e1b1860f1466156131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400111092
+status: 3
+tags: []
+user_id: runner
