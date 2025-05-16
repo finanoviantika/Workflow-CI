@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bea12672e5494897a7143a8b303d07a0/artifacts
+end_time: 1747396963616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea12672e5494897a7143a8b303d07a0
+run_name: lyrical-whale-695
+run_uuid: bea12672e5494897a7143a8b303d07a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747396957069
+status: 3
+tags: []
+user_id: runner
