@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e5af021746ed41b1a7b68412c8e0c17c/artifacts
+end_time: 1747384531762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5af021746ed41b1a7b68412c8e0c17c
+run_name: wistful-mouse-375
+run_uuid: e5af021746ed41b1a7b68412c8e0c17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747384525339
+status: 3
+tags: []
+user_id: runner
