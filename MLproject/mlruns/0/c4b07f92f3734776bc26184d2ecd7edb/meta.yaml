@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c4b07f92f3734776bc26184d2ecd7edb/artifacts
+end_time: 1747406290961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4b07f92f3734776bc26184d2ecd7edb
+run_name: overjoyed-stag-193
+run_uuid: c4b07f92f3734776bc26184d2ecd7edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747406284495
+status: 3
+tags: []
+user_id: runner
