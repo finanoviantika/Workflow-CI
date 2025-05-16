@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4222f649aa994b0b99092259ba634446/artifacts
+end_time: 1747403710728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4222f649aa994b0b99092259ba634446
+run_name: respected-mule-561
+run_uuid: 4222f649aa994b0b99092259ba634446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747403704393
+status: 3
+tags: []
+user_id: runner
