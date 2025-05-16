@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2b1b859cde2845b097739d8b92bca245/artifacts
+end_time: 1747417089831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b1b859cde2845b097739d8b92bca245
+run_name: youthful-bird-522
+run_uuid: 2b1b859cde2845b097739d8b92bca245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747417083306
+status: 3
+tags: []
+user_id: runner
