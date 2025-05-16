@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d1c7647d70bf4d23a954770d1a50aafc/artifacts
+end_time: 1747375602163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1c7647d70bf4d23a954770d1a50aafc
+run_name: awesome-hound-120
+run_uuid: d1c7647d70bf4d23a954770d1a50aafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375595553
+status: 3
+tags: []
+user_id: runner
