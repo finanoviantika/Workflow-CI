@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82e7e45fded44386948f5f33beb7940d/artifacts
+end_time: 1747400418933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82e7e45fded44386948f5f33beb7940d
+run_name: learned-croc-524
+run_uuid: 82e7e45fded44386948f5f33beb7940d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400412351
+status: 3
+tags: []
+user_id: runner
