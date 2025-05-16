@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78959272633e4044aa82b1952db0f9c4/artifacts
+end_time: 1747397457285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78959272633e4044aa82b1952db0f9c4
+run_name: defiant-jay-754
+run_uuid: 78959272633e4044aa82b1952db0f9c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747397450700
+status: 3
+tags: []
+user_id: runner
