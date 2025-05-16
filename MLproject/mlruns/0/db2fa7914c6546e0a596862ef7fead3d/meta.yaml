@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db2fa7914c6546e0a596862ef7fead3d/artifacts
+end_time: 1747400024485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db2fa7914c6546e0a596862ef7fead3d
+run_name: merciful-gull-870
+run_uuid: db2fa7914c6546e0a596862ef7fead3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747400018026
+status: 3
+tags: []
+user_id: runner
