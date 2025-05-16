@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6d4c8fa40d634d67b37219b78500b005/artifacts
+end_time: 1747381788839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d4c8fa40d634d67b37219b78500b005
+run_name: abundant-crow-715
+run_uuid: 6d4c8fa40d634d67b37219b78500b005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381782459
+status: 3
+tags: []
+user_id: runner
