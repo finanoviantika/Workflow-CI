@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3362f08abf6f46d1adf9cb8bb20bb247/artifacts
+end_time: 1747395609357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3362f08abf6f46d1adf9cb8bb20bb247
+run_name: loud-moth-512
+run_uuid: 3362f08abf6f46d1adf9cb8bb20bb247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747395602930
+status: 3
+tags: []
+user_id: runner
