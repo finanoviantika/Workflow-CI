@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/773fdcbf496645929825fb1198993220/artifacts
+end_time: 1747382762292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 773fdcbf496645929825fb1198993220
+run_name: sincere-kit-239
+run_uuid: 773fdcbf496645929825fb1198993220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382755415
+status: 3
+tags: []
+user_id: runner
