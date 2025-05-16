@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cde6509fa522443eb96b7d9f463b4c79/artifacts
+end_time: 1747404619096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde6509fa522443eb96b7d9f463b4c79
+run_name: colorful-moth-731
+run_uuid: cde6509fa522443eb96b7d9f463b4c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747404612456
+status: 3
+tags: []
+user_id: runner
