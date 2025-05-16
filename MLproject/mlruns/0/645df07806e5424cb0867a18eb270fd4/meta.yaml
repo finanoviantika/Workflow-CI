@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/645df07806e5424cb0867a18eb270fd4/artifacts
+end_time: 1747375793109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 645df07806e5424cb0867a18eb270fd4
+run_name: rumbling-owl-146
+run_uuid: 645df07806e5424cb0867a18eb270fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747375786250
+status: 3
+tags: []
+user_id: runner
