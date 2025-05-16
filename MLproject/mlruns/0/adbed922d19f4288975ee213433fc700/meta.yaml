@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/adbed922d19f4288975ee213433fc700/artifacts
+end_time: 1747357044901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adbed922d19f4288975ee213433fc700
+run_name: bouncy-ox-756
+run_uuid: adbed922d19f4288975ee213433fc700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747357038506
+status: 3
+tags: []
+user_id: runner
