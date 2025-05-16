@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/43479cf121164d3b8509ce188dd26160/artifacts
+end_time: 1747369831423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43479cf121164d3b8509ce188dd26160
+run_name: luxuriant-stag-797
+run_uuid: 43479cf121164d3b8509ce188dd26160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747369825178
+status: 3
+tags: []
+user_id: runner
