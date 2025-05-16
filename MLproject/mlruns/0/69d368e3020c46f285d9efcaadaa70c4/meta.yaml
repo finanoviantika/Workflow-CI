@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/69d368e3020c46f285d9efcaadaa70c4/artifacts
+end_time: 1747357434900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d368e3020c46f285d9efcaadaa70c4
+run_name: sincere-shrimp-202
+run_uuid: 69d368e3020c46f285d9efcaadaa70c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747357428317
+status: 3
+tags: []
+user_id: runner
