@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d0306071ed0642e78f1c06e43435ab8d/artifacts
+end_time: 1747388472780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0306071ed0642e78f1c06e43435ab8d
+run_name: mysterious-doe-308
+run_uuid: d0306071ed0642e78f1c06e43435ab8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747388466374
+status: 3
+tags: []
+user_id: runner
