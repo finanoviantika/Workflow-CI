@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac84049b67f84aea97133a54cebe9384/artifacts
+end_time: 1747356853946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac84049b67f84aea97133a54cebe9384
+run_name: aged-stork-37
+run_uuid: ac84049b67f84aea97133a54cebe9384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747356847544
+status: 3
+tags: []
+user_id: runner
