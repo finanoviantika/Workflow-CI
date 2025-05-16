@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a8b47934da6b45ce9368577ace0708ed/artifacts
+end_time: 1747407075090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8b47934da6b45ce9368577ace0708ed
+run_name: adventurous-stag-463
+run_uuid: a8b47934da6b45ce9368577ace0708ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747407068610
+status: 3
+tags: []
+user_id: runner
