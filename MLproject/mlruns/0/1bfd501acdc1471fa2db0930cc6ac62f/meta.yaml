@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1bfd501acdc1471fa2db0930cc6ac62f/artifacts
+end_time: 1747374933055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bfd501acdc1471fa2db0930cc6ac62f
+run_name: illustrious-ram-96
+run_uuid: 1bfd501acdc1471fa2db0930cc6ac62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747374926690
+status: 3
+tags: []
+user_id: runner
