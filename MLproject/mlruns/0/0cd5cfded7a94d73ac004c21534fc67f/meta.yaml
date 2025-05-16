@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0cd5cfded7a94d73ac004c21534fc67f/artifacts
+end_time: 1747409438663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd5cfded7a94d73ac004c21534fc67f
+run_name: debonair-moth-51
+run_uuid: 0cd5cfded7a94d73ac004c21534fc67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747409432121
+status: 3
+tags: []
+user_id: runner
