@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e054ff74ba4544d4be407f89f61a5f9b/artifacts
+end_time: 1747372821735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e054ff74ba4544d4be407f89f61a5f9b
+run_name: stately-squid-502
+run_uuid: e054ff74ba4544d4be407f89f61a5f9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372814631
+status: 3
+tags: []
+user_id: runner
