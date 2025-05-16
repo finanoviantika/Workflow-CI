@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e94f00dbd814260b4196bfbb34baadb/artifacts
+end_time: 1747422106898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e94f00dbd814260b4196bfbb34baadb
+run_name: indecisive-cow-922
+run_uuid: 4e94f00dbd814260b4196bfbb34baadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747422100031
+status: 3
+tags: []
+user_id: runner
