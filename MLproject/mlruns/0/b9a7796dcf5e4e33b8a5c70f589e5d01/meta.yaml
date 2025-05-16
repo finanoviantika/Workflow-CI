@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b9a7796dcf5e4e33b8a5c70f589e5d01/artifacts
+end_time: 1747413492277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9a7796dcf5e4e33b8a5c70f589e5d01
+run_name: treasured-swan-640
+run_uuid: b9a7796dcf5e4e33b8a5c70f589e5d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747413485777
+status: 3
+tags: []
+user_id: runner
