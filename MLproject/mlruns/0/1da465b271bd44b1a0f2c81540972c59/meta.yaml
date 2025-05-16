@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1da465b271bd44b1a0f2c81540972c59/artifacts
+end_time: 1747424159307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1da465b271bd44b1a0f2c81540972c59
+run_name: handsome-goose-857
+run_uuid: 1da465b271bd44b1a0f2c81540972c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747424152986
+status: 3
+tags: []
+user_id: runner
