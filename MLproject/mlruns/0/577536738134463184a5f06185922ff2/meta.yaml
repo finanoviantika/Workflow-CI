@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/577536738134463184a5f06185922ff2/artifacts
+end_time: 1747428046577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 577536738134463184a5f06185922ff2
+run_name: puzzled-bear-978
+run_uuid: 577536738134463184a5f06185922ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747428040034
+status: 3
+tags: []
+user_id: runner
