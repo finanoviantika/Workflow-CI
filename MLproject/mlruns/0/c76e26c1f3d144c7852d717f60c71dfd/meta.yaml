@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c76e26c1f3d144c7852d717f60c71dfd/artifacts
+end_time: 1747417682495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c76e26c1f3d144c7852d717f60c71dfd
+run_name: sassy-pig-962
+run_uuid: c76e26c1f3d144c7852d717f60c71dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747417675381
+status: 3
+tags: []
+user_id: runner
