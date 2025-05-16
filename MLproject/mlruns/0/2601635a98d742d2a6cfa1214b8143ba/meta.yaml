@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2601635a98d742d2a6cfa1214b8143ba/artifacts
+end_time: 1747436839895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2601635a98d742d2a6cfa1214b8143ba
+run_name: colorful-fly-717
+run_uuid: 2601635a98d742d2a6cfa1214b8143ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747436833427
+status: 3
+tags: []
+user_id: runner
