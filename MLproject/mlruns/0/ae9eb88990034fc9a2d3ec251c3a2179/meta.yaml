@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ae9eb88990034fc9a2d3ec251c3a2179/artifacts
+end_time: 1747427948684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae9eb88990034fc9a2d3ec251c3a2179
+run_name: zealous-seal-358
+run_uuid: ae9eb88990034fc9a2d3ec251c3a2179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747427942122
+status: 3
+tags: []
+user_id: runner
