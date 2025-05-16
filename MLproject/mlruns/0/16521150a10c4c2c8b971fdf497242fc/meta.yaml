@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/16521150a10c4c2c8b971fdf497242fc/artifacts
+end_time: 1747421906291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16521150a10c4c2c8b971fdf497242fc
+run_name: amusing-flea-34
+run_uuid: 16521150a10c4c2c8b971fdf497242fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747421899454
+status: 3
+tags: []
+user_id: runner
