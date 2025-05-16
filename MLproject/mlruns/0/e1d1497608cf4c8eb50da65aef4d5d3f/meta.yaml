@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e1d1497608cf4c8eb50da65aef4d5d3f/artifacts
+end_time: 1747373015240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d1497608cf4c8eb50da65aef4d5d3f
+run_name: respected-shark-44
+run_uuid: e1d1497608cf4c8eb50da65aef4d5d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747373008767
+status: 3
+tags: []
+user_id: runner
