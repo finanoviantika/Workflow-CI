@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0814841180fd431bb476c7425aeb1c7d/artifacts
+end_time: 1747414395935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0814841180fd431bb476c7425aeb1c7d
+run_name: salty-shad-128
+run_uuid: 0814841180fd431bb476c7425aeb1c7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414389557
+status: 3
+tags: []
+user_id: runner
