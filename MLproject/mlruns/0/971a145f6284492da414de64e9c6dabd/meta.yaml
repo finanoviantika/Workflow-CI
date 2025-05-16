@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/971a145f6284492da414de64e9c6dabd/artifacts
+end_time: 1747422208226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 971a145f6284492da414de64e9c6dabd
+run_name: sincere-snail-632
+run_uuid: 971a145f6284492da414de64e9c6dabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747422200879
+status: 3
+tags: []
+user_id: runner
