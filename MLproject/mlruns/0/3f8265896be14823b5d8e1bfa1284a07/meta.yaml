@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3f8265896be14823b5d8e1bfa1284a07/artifacts
+end_time: 1747395804984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f8265896be14823b5d8e1bfa1284a07
+run_name: zealous-stork-893
+run_uuid: 3f8265896be14823b5d8e1bfa1284a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747395798454
+status: 3
+tags: []
+user_id: runner
