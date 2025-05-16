@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f60de095f0214a66b92964f147f074b4/artifacts
+end_time: 1747372226087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f60de095f0214a66b92964f147f074b4
+run_name: polite-lark-269
+run_uuid: f60de095f0214a66b92964f147f074b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747372219746
+status: 3
+tags: []
+user_id: runner
