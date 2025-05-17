@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/20195dd1b8074d22a6f261c6ae035cac/artifacts
+end_time: 1747440140755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20195dd1b8074d22a6f261c6ae035cac
+run_name: marvelous-rat-322
+run_uuid: 20195dd1b8074d22a6f261c6ae035cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747440134399
+status: 3
+tags: []
+user_id: runner
