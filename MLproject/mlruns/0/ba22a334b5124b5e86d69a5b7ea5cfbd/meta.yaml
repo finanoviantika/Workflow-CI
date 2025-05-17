@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba22a334b5124b5e86d69a5b7ea5cfbd/artifacts
+end_time: 1747473923303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba22a334b5124b5e86d69a5b7ea5cfbd
+run_name: casual-sow-76
+run_uuid: ba22a334b5124b5e86d69a5b7ea5cfbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747473916620
+status: 3
+tags: []
+user_id: runner
