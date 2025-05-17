@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/684f5edd835c4393a1e8f17d844bbb30/artifacts
+end_time: 1747458324840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 684f5edd835c4393a1e8f17d844bbb30
+run_name: merciful-fawn-32
+run_uuid: 684f5edd835c4393a1e8f17d844bbb30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747458318456
+status: 3
+tags: []
+user_id: runner
