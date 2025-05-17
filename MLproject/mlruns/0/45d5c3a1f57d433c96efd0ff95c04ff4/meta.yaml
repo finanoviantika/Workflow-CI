@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45d5c3a1f57d433c96efd0ff95c04ff4/artifacts
+end_time: 1747484398852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45d5c3a1f57d433c96efd0ff95c04ff4
+run_name: abundant-hen-922
+run_uuid: 45d5c3a1f57d433c96efd0ff95c04ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747484392282
+status: 3
+tags: []
+user_id: runner
