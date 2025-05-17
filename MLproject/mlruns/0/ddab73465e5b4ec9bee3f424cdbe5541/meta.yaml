@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ddab73465e5b4ec9bee3f424cdbe5541/artifacts
+end_time: 1747440519538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddab73465e5b4ec9bee3f424cdbe5541
+run_name: traveling-sheep-340
+run_uuid: ddab73465e5b4ec9bee3f424cdbe5541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747440513203
+status: 3
+tags: []
+user_id: runner
