@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/13619b57c6124f2f8b0341c35ef0f635/artifacts
+end_time: 1747451987721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13619b57c6124f2f8b0341c35ef0f635
+run_name: thoughtful-conch-786
+run_uuid: 13619b57c6124f2f8b0341c35ef0f635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747451981399
+status: 3
+tags: []
+user_id: runner
