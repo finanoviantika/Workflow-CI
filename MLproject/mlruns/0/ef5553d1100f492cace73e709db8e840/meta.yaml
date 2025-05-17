@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ef5553d1100f492cace73e709db8e840/artifacts
+end_time: 1747460969183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef5553d1100f492cace73e709db8e840
+run_name: defiant-crow-557
+run_uuid: ef5553d1100f492cace73e709db8e840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747460962891
+status: 3
+tags: []
+user_id: runner
