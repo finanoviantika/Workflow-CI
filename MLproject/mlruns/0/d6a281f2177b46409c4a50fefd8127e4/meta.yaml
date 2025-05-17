@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d6a281f2177b46409c4a50fefd8127e4/artifacts
+end_time: 1747456876689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6a281f2177b46409c4a50fefd8127e4
+run_name: blushing-perch-250
+run_uuid: d6a281f2177b46409c4a50fefd8127e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747456870162
+status: 3
+tags: []
+user_id: runner
