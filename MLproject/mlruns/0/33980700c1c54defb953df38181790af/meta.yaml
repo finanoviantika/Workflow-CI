@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/33980700c1c54defb953df38181790af/artifacts
+end_time: 1747454743330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33980700c1c54defb953df38181790af
+run_name: handsome-grub-243
+run_uuid: 33980700c1c54defb953df38181790af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747454737062
+status: 3
+tags: []
+user_id: runner
