@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b97b9909c4ab45369f677dd7b407aa8d/artifacts
+end_time: 1747442801883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b97b9909c4ab45369f677dd7b407aa8d
+run_name: polite-mink-806
+run_uuid: b97b9909c4ab45369f677dd7b407aa8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747442795600
+status: 3
+tags: []
+user_id: runner
