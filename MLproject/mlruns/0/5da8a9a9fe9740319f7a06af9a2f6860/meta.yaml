@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5da8a9a9fe9740319f7a06af9a2f6860/artifacts
+end_time: 1747475477169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da8a9a9fe9740319f7a06af9a2f6860
+run_name: industrious-yak-665
+run_uuid: 5da8a9a9fe9740319f7a06af9a2f6860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747475470825
+status: 3
+tags: []
+user_id: runner
