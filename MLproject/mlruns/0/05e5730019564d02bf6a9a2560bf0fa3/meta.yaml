@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/05e5730019564d02bf6a9a2560bf0fa3/artifacts
+end_time: 1747462530486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e5730019564d02bf6a9a2560bf0fa3
+run_name: luxuriant-grub-963
+run_uuid: 05e5730019564d02bf6a9a2560bf0fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747462524260
+status: 3
+tags: []
+user_id: runner
