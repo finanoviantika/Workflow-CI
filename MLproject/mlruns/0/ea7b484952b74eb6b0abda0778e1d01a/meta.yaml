@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ea7b484952b74eb6b0abda0778e1d01a/artifacts
+end_time: 1747456581572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea7b484952b74eb6b0abda0778e1d01a
+run_name: enthused-calf-422
+run_uuid: ea7b484952b74eb6b0abda0778e1d01a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747456575199
+status: 3
+tags: []
+user_id: runner
