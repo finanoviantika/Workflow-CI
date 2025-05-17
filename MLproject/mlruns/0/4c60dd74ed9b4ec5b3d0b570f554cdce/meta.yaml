@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4c60dd74ed9b4ec5b3d0b570f554cdce/artifacts
+end_time: 1747442403796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c60dd74ed9b4ec5b3d0b570f554cdce
+run_name: victorious-slug-919
+run_uuid: 4c60dd74ed9b4ec5b3d0b570f554cdce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747442397389
+status: 3
+tags: []
+user_id: runner
