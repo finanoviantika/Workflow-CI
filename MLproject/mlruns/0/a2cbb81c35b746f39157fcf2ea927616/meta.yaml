@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a2cbb81c35b746f39157fcf2ea927616/artifacts
+end_time: 1747483286250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2cbb81c35b746f39157fcf2ea927616
+run_name: grandiose-lamb-162
+run_uuid: a2cbb81c35b746f39157fcf2ea927616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747483279986
+status: 3
+tags: []
+user_id: runner
