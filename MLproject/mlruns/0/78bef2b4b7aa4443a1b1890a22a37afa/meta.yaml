@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/78bef2b4b7aa4443a1b1890a22a37afa/artifacts
+end_time: 1747481694358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78bef2b4b7aa4443a1b1890a22a37afa
+run_name: valuable-kit-902
+run_uuid: 78bef2b4b7aa4443a1b1890a22a37afa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747481687941
+status: 3
+tags: []
+user_id: runner
