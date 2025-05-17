@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/28e40ac70bb44feb947b9f7d850aa12c/artifacts
+end_time: 1747471207519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e40ac70bb44feb947b9f7d850aa12c
+run_name: learned-squirrel-995
+run_uuid: 28e40ac70bb44feb947b9f7d850aa12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747471200919
+status: 3
+tags: []
+user_id: runner
