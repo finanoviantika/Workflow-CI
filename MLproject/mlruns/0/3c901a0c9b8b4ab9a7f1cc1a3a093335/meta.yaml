@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3c901a0c9b8b4ab9a7f1cc1a3a093335/artifacts
+end_time: 1747488309682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c901a0c9b8b4ab9a7f1cc1a3a093335
+run_name: bedecked-pug-426
+run_uuid: 3c901a0c9b8b4ab9a7f1cc1a3a093335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747488302920
+status: 3
+tags: []
+user_id: runner
