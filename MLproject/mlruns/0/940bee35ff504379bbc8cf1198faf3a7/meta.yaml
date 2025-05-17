@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/940bee35ff504379bbc8cf1198faf3a7/artifacts
+end_time: 1747441194340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 940bee35ff504379bbc8cf1198faf3a7
+run_name: nosy-skink-816
+run_uuid: 940bee35ff504379bbc8cf1198faf3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747441188117
+status: 3
+tags: []
+user_id: runner
