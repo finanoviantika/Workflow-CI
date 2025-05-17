@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e67ae32d5be74acc9399bcec67722bd6/artifacts
+end_time: 1747473729012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e67ae32d5be74acc9399bcec67722bd6
+run_name: tasteful-mole-441
+run_uuid: e67ae32d5be74acc9399bcec67722bd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747473722695
+status: 3
+tags: []
+user_id: runner
