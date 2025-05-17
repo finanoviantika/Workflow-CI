@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/135854c9615841d8b569f80e101d2d55/artifacts
+end_time: 1747489398624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 135854c9615841d8b569f80e101d2d55
+run_name: gentle-shark-963
+run_uuid: 135854c9615841d8b569f80e101d2d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747489392233
+status: 3
+tags: []
+user_id: runner
