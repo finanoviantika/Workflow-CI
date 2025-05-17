@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c96df55319de46ce8cf53afdaede45c8/artifacts
+end_time: 1747464412963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c96df55319de46ce8cf53afdaede45c8
+run_name: bemused-sloth-942
+run_uuid: c96df55319de46ce8cf53afdaede45c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747464405884
+status: 3
+tags: []
+user_id: runner
