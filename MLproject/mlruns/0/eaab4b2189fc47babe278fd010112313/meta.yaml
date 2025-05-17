@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eaab4b2189fc47babe278fd010112313/artifacts
+end_time: 1747473441925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaab4b2189fc47babe278fd010112313
+run_name: secretive-steed-820
+run_uuid: eaab4b2189fc47babe278fd010112313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747473435506
+status: 3
+tags: []
+user_id: runner
