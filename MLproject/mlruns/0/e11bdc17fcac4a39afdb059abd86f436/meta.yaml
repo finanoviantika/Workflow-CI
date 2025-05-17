@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e11bdc17fcac4a39afdb059abd86f436/artifacts
+end_time: 1747441598453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e11bdc17fcac4a39afdb059abd86f436
+run_name: hilarious-smelt-98
+run_uuid: e11bdc17fcac4a39afdb059abd86f436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747441591637
+status: 3
+tags: []
+user_id: runner
