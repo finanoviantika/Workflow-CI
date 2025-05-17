@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6c6d995adca3417cb2b9f1ff8002df1c/artifacts
+end_time: 1747441496759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c6d995adca3417cb2b9f1ff8002df1c
+run_name: unequaled-moose-827
+run_uuid: 6c6d995adca3417cb2b9f1ff8002df1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747441490105
+status: 3
+tags: []
+user_id: runner
