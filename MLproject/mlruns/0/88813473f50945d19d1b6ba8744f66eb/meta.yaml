@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/88813473f50945d19d1b6ba8744f66eb/artifacts
+end_time: 1747461074626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88813473f50945d19d1b6ba8744f66eb
+run_name: resilient-quail-24
+run_uuid: 88813473f50945d19d1b6ba8744f66eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747461067905
+status: 3
+tags: []
+user_id: runner
