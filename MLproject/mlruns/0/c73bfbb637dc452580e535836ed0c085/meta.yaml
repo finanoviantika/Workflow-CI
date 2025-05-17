@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c73bfbb637dc452580e535836ed0c085/artifacts
+end_time: 1747446211328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c73bfbb637dc452580e535836ed0c085
+run_name: mysterious-robin-435
+run_uuid: c73bfbb637dc452580e535836ed0c085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747446204862
+status: 3
+tags: []
+user_id: runner
