@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6912a1a6c45c439698cbee6bac998fea/artifacts
+end_time: 1747443766501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6912a1a6c45c439698cbee6bac998fea
+run_name: gregarious-crow-953
+run_uuid: 6912a1a6c45c439698cbee6bac998fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443760135
+status: 3
+tags: []
+user_id: runner
