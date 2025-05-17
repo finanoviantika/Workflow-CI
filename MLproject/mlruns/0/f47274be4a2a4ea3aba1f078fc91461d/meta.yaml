@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f47274be4a2a4ea3aba1f078fc91461d/artifacts
+end_time: 1747470426956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f47274be4a2a4ea3aba1f078fc91461d
+run_name: clumsy-hen-849
+run_uuid: f47274be4a2a4ea3aba1f078fc91461d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470420586
+status: 3
+tags: []
+user_id: runner
