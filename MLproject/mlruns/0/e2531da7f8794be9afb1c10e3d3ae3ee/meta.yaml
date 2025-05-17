@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e2531da7f8794be9afb1c10e3d3ae3ee/artifacts
+end_time: 1747491883656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2531da7f8794be9afb1c10e3d3ae3ee
+run_name: vaunted-flea-433
+run_uuid: e2531da7f8794be9afb1c10e3d3ae3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747491877373
+status: 3
+tags: []
+user_id: runner
