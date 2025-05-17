@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/793cdf58f8d04633ab352380ac5d3bd7/artifacts
+end_time: 1747454254059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 793cdf58f8d04633ab352380ac5d3bd7
+run_name: receptive-skink-885
+run_uuid: 793cdf58f8d04633ab352380ac5d3bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747454247268
+status: 3
+tags: []
+user_id: runner
