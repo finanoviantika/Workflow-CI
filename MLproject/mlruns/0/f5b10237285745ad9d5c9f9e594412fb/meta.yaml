@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f5b10237285745ad9d5c9f9e594412fb/artifacts
+end_time: 1747492682815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5b10237285745ad9d5c9f9e594412fb
+run_name: spiffy-colt-273
+run_uuid: f5b10237285745ad9d5c9f9e594412fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747492676083
+status: 3
+tags: []
+user_id: runner
