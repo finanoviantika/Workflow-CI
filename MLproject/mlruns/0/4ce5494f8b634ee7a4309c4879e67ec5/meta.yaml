@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4ce5494f8b634ee7a4309c4879e67ec5/artifacts
+end_time: 1747459596069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ce5494f8b634ee7a4309c4879e67ec5
+run_name: unleashed-carp-195
+run_uuid: 4ce5494f8b634ee7a4309c4879e67ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747459589683
+status: 3
+tags: []
+user_id: runner
