@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f403eb2aacaf45d89fb41224fbcba88f/artifacts
+end_time: 1747487126035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f403eb2aacaf45d89fb41224fbcba88f
+run_name: skittish-hen-850
+run_uuid: f403eb2aacaf45d89fb41224fbcba88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747487119653
+status: 3
+tags: []
+user_id: runner
