@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/600bbe7ba2094480b893742662acdfeb/artifacts
+end_time: 1747479558793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 600bbe7ba2094480b893742662acdfeb
+run_name: nebulous-cod-793
+run_uuid: 600bbe7ba2094480b893742662acdfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747479552316
+status: 3
+tags: []
+user_id: runner
