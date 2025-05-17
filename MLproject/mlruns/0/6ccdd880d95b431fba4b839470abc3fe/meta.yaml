@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6ccdd880d95b431fba4b839470abc3fe/artifacts
+end_time: 1747488712764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ccdd880d95b431fba4b839470abc3fe
+run_name: capricious-newt-338
+run_uuid: 6ccdd880d95b431fba4b839470abc3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747488705953
+status: 3
+tags: []
+user_id: runner
