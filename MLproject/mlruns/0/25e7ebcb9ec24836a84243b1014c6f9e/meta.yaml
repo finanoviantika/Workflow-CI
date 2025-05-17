@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25e7ebcb9ec24836a84243b1014c6f9e/artifacts
+end_time: 1747486623651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25e7ebcb9ec24836a84243b1014c6f9e
+run_name: tasteful-foal-304
+run_uuid: 25e7ebcb9ec24836a84243b1014c6f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747486617242
+status: 3
+tags: []
+user_id: runner
