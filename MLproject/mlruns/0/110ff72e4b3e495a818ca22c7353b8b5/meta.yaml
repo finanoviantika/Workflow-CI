@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/110ff72e4b3e495a818ca22c7353b8b5/artifacts
+end_time: 1747443576259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 110ff72e4b3e495a818ca22c7353b8b5
+run_name: silent-seal-303
+run_uuid: 110ff72e4b3e495a818ca22c7353b8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443569850
+status: 3
+tags: []
+user_id: runner
