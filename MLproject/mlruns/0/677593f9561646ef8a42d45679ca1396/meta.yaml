@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/677593f9561646ef8a42d45679ca1396/artifacts
+end_time: 1747481596812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 677593f9561646ef8a42d45679ca1396
+run_name: mysterious-fawn-164
+run_uuid: 677593f9561646ef8a42d45679ca1396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747481590408
+status: 3
+tags: []
+user_id: runner
