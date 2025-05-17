@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/258f9222180c4d60b920d2403ec09583/artifacts
+end_time: 1747451299696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 258f9222180c4d60b920d2403ec09583
+run_name: likeable-duck-305
+run_uuid: 258f9222180c4d60b920d2403ec09583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747451293093
+status: 3
+tags: []
+user_id: runner
