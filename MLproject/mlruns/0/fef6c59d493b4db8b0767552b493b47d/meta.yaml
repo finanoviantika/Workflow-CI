@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fef6c59d493b4db8b0767552b493b47d/artifacts
+end_time: 1747483488571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fef6c59d493b4db8b0767552b493b47d
+run_name: clean-gull-93
+run_uuid: fef6c59d493b4db8b0767552b493b47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747483481869
+status: 3
+tags: []
+user_id: runner
