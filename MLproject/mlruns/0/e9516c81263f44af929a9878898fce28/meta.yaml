@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e9516c81263f44af929a9878898fce28/artifacts
+end_time: 1747442210928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9516c81263f44af929a9878898fce28
+run_name: nosy-midge-159
+run_uuid: e9516c81263f44af929a9878898fce28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747442204571
+status: 3
+tags: []
+user_id: runner
