@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/82156de5d447400da8f455e8101ca2e4/artifacts
+end_time: 1747443288436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82156de5d447400da8f455e8101ca2e4
+run_name: peaceful-whale-654
+run_uuid: 82156de5d447400da8f455e8101ca2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443281671
+status: 3
+tags: []
+user_id: runner
