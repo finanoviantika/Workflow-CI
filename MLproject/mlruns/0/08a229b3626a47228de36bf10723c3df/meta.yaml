@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/08a229b3626a47228de36bf10723c3df/artifacts
+end_time: 1747469837624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08a229b3626a47228de36bf10723c3df
+run_name: placid-wolf-833
+run_uuid: 08a229b3626a47228de36bf10723c3df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469831239
+status: 3
+tags: []
+user_id: runner
