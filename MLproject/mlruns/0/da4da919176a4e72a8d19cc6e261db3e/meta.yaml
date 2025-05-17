@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da4da919176a4e72a8d19cc6e261db3e/artifacts
+end_time: 1747457067161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da4da919176a4e72a8d19cc6e261db3e
+run_name: resilient-rat-992
+run_uuid: da4da919176a4e72a8d19cc6e261db3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747457060728
+status: 3
+tags: []
+user_id: runner
