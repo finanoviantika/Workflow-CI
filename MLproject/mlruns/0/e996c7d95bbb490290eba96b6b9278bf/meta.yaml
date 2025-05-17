@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e996c7d95bbb490290eba96b6b9278bf/artifacts
+end_time: 1747455903786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e996c7d95bbb490290eba96b6b9278bf
+run_name: delicate-turtle-872
+run_uuid: e996c7d95bbb490290eba96b6b9278bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747455897412
+status: 3
+tags: []
+user_id: runner
