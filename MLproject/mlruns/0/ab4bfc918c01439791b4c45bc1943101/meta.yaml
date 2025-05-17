@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab4bfc918c01439791b4c45bc1943101/artifacts
+end_time: 1747463417768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab4bfc918c01439791b4c45bc1943101
+run_name: monumental-moth-279
+run_uuid: ab4bfc918c01439791b4c45bc1943101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747463411311
+status: 3
+tags: []
+user_id: runner
