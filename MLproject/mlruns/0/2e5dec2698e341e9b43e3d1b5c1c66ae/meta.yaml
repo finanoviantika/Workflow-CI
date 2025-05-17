@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2e5dec2698e341e9b43e3d1b5c1c66ae/artifacts
+end_time: 1747458820005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e5dec2698e341e9b43e3d1b5c1c66ae
+run_name: powerful-bat-838
+run_uuid: 2e5dec2698e341e9b43e3d1b5c1c66ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747458813727
+status: 3
+tags: []
+user_id: runner
