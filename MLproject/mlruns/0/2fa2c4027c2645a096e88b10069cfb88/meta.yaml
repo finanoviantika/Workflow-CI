@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2fa2c4027c2645a096e88b10069cfb88/artifacts
+end_time: 1747461467218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fa2c4027c2645a096e88b10069cfb88
+run_name: aged-snake-684
+run_uuid: 2fa2c4027c2645a096e88b10069cfb88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747461460865
+status: 3
+tags: []
+user_id: runner
