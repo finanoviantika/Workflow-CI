@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/906c2549d6ae43db8e97518ea41d28a5/artifacts
+end_time: 1747450996801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 906c2549d6ae43db8e97518ea41d28a5
+run_name: glamorous-wolf-328
+run_uuid: 906c2549d6ae43db8e97518ea41d28a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747450990660
+status: 3
+tags: []
+user_id: runner
