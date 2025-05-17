@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4fb785c1375c4b7d8f3329bcbabb02ff/artifacts
+end_time: 1747442009379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fb785c1375c4b7d8f3329bcbabb02ff
+run_name: debonair-hog-228
+run_uuid: 4fb785c1375c4b7d8f3329bcbabb02ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747442002741
+status: 3
+tags: []
+user_id: runner
