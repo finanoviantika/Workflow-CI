@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67847c275db245fe814795ff1f3fe1c2/artifacts
+end_time: 1747450497609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67847c275db245fe814795ff1f3fe1c2
+run_name: dashing-koi-523
+run_uuid: 67847c275db245fe814795ff1f3fe1c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747450491184
+status: 3
+tags: []
+user_id: runner
