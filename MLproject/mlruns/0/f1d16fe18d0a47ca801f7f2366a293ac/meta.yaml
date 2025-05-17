@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f1d16fe18d0a47ca801f7f2366a293ac/artifacts
+end_time: 1747448939709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1d16fe18d0a47ca801f7f2366a293ac
+run_name: agreeable-bear-187
+run_uuid: f1d16fe18d0a47ca801f7f2366a293ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747448933425
+status: 3
+tags: []
+user_id: runner
