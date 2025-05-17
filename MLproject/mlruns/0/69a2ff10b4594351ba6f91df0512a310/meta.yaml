@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/69a2ff10b4594351ba6f91df0512a310/artifacts
+end_time: 1747470727069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69a2ff10b4594351ba6f91df0512a310
+run_name: rogue-shrimp-845
+run_uuid: 69a2ff10b4594351ba6f91df0512a310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470720547
+status: 3
+tags: []
+user_id: runner
