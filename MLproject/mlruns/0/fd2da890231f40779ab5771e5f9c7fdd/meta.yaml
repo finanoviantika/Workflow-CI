@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fd2da890231f40779ab5771e5f9c7fdd/artifacts
+end_time: 1747462432490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2da890231f40779ab5771e5f9c7fdd
+run_name: caring-midge-506
+run_uuid: fd2da890231f40779ab5771e5f9c7fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747462426151
+status: 3
+tags: []
+user_id: runner
