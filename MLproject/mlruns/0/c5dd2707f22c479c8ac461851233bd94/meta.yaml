@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c5dd2707f22c479c8ac461851233bd94/artifacts
+end_time: 1747486216522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5dd2707f22c479c8ac461851233bd94
+run_name: respected-robin-463
+run_uuid: c5dd2707f22c479c8ac461851233bd94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747486210053
+status: 3
+tags: []
+user_id: runner
