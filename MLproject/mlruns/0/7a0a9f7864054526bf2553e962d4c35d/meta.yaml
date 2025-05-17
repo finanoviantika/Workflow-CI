@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7a0a9f7864054526bf2553e962d4c35d/artifacts
+end_time: 1747452669606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a0a9f7864054526bf2553e962d4c35d
+run_name: youthful-skunk-179
+run_uuid: 7a0a9f7864054526bf2553e962d4c35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747452663289
+status: 3
+tags: []
+user_id: runner
