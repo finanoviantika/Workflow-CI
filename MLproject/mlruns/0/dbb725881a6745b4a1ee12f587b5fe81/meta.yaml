@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dbb725881a6745b4a1ee12f587b5fe81/artifacts
+end_time: 1747451790627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb725881a6745b4a1ee12f587b5fe81
+run_name: crawling-smelt-760
+run_uuid: dbb725881a6745b4a1ee12f587b5fe81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747451784224
+status: 3
+tags: []
+user_id: runner
