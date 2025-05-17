@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1e1ab6a90fd54658b05a41e3366b0698/artifacts
+end_time: 1747465589903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e1ab6a90fd54658b05a41e3366b0698
+run_name: dashing-horse-424
+run_uuid: 1e1ab6a90fd54658b05a41e3366b0698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747465583546
+status: 3
+tags: []
+user_id: runner
