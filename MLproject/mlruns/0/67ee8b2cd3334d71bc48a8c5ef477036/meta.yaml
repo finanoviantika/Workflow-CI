@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67ee8b2cd3334d71bc48a8c5ef477036/artifacts
+end_time: 1747454551333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ee8b2cd3334d71bc48a8c5ef477036
+run_name: upset-worm-958
+run_uuid: 67ee8b2cd3334d71bc48a8c5ef477036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747454544098
+status: 3
+tags: []
+user_id: runner
