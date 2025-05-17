@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/516f331f9d4f4174bf9bda731e620d2f/artifacts
+end_time: 1747472770572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516f331f9d4f4174bf9bda731e620d2f
+run_name: dazzling-yak-264
+run_uuid: 516f331f9d4f4174bf9bda731e620d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472764088
+status: 3
+tags: []
+user_id: runner
