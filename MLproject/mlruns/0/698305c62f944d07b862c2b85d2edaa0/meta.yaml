@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/698305c62f944d07b862c2b85d2edaa0/artifacts
+end_time: 1747462240329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 698305c62f944d07b862c2b85d2edaa0
+run_name: useful-mole-278
+run_uuid: 698305c62f944d07b862c2b85d2edaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747462233604
+status: 3
+tags: []
+user_id: runner
