@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/339a10b2696a4e05bab3f792c3f0434a/artifacts
+end_time: 1747478787219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 339a10b2696a4e05bab3f792c3f0434a
+run_name: bald-fly-967
+run_uuid: 339a10b2696a4e05bab3f792c3f0434a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747478780802
+status: 3
+tags: []
+user_id: runner
