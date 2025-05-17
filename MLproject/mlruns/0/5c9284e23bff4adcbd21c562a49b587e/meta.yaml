@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5c9284e23bff4adcbd21c562a49b587e/artifacts
+end_time: 1747470032971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c9284e23bff4adcbd21c562a49b587e
+run_name: caring-loon-923
+run_uuid: 5c9284e23bff4adcbd21c562a49b587e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470026659
+status: 3
+tags: []
+user_id: runner
