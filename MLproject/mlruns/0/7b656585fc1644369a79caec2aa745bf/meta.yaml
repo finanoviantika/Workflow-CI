@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7b656585fc1644369a79caec2aa745bf/artifacts
+end_time: 1747443859470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b656585fc1644369a79caec2aa745bf
+run_name: adaptable-crane-362
+run_uuid: 7b656585fc1644369a79caec2aa745bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443853117
+status: 3
+tags: []
+user_id: runner
