@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4efb5b416f0a4bd19b3577ce4fda18e7/artifacts
+end_time: 1747465397758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4efb5b416f0a4bd19b3577ce4fda18e7
+run_name: rambunctious-yak-7
+run_uuid: 4efb5b416f0a4bd19b3577ce4fda18e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747465391395
+status: 3
+tags: []
+user_id: runner
