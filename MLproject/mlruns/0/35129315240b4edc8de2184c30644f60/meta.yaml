@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/35129315240b4edc8de2184c30644f60/artifacts
+end_time: 1747442897896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35129315240b4edc8de2184c30644f60
+run_name: upbeat-deer-594
+run_uuid: 35129315240b4edc8de2184c30644f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747442891479
+status: 3
+tags: []
+user_id: runner
