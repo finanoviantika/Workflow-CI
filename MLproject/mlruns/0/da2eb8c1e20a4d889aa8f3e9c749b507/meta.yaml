@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/da2eb8c1e20a4d889aa8f3e9c749b507/artifacts
+end_time: 1747489793468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2eb8c1e20a4d889aa8f3e9c749b507
+run_name: respected-crab-328
+run_uuid: da2eb8c1e20a4d889aa8f3e9c749b507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747489786939
+status: 3
+tags: []
+user_id: runner
