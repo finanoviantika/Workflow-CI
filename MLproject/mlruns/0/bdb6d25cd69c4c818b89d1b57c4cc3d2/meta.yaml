@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bdb6d25cd69c4c818b89d1b57c4cc3d2/artifacts
+end_time: 1747479950753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdb6d25cd69c4c818b89d1b57c4cc3d2
+run_name: sincere-fly-502
+run_uuid: bdb6d25cd69c4c818b89d1b57c4cc3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747479944351
+status: 3
+tags: []
+user_id: runner
