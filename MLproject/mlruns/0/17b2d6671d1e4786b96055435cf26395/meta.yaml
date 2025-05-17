@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/17b2d6671d1e4786b96055435cf26395/artifacts
+end_time: 1747482982489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b2d6671d1e4786b96055435cf26395
+run_name: serious-squirrel-75
+run_uuid: 17b2d6671d1e4786b96055435cf26395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747482975905
+status: 3
+tags: []
+user_id: runner
