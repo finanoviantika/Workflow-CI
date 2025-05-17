@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5063b593b7ee48f889b32e2d9418be4e/artifacts
+end_time: 1747491693194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5063b593b7ee48f889b32e2d9418be4e
+run_name: skillful-croc-822
+run_uuid: 5063b593b7ee48f889b32e2d9418be4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747491686766
+status: 3
+tags: []
+user_id: runner
