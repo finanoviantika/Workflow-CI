@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/01c04d2db4e14da3b6004be0340219f2/artifacts
+end_time: 1747452968497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01c04d2db4e14da3b6004be0340219f2
+run_name: treasured-rook-2
+run_uuid: 01c04d2db4e14da3b6004be0340219f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747452962078
+status: 3
+tags: []
+user_id: runner
