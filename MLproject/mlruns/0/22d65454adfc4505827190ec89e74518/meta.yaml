@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/22d65454adfc4505827190ec89e74518/artifacts
+end_time: 1747447874608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22d65454adfc4505827190ec89e74518
+run_name: rare-snail-23
+run_uuid: 22d65454adfc4505827190ec89e74518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447867155
+status: 3
+tags: []
+user_id: runner
