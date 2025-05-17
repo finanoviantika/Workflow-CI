@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f7f7af9e1d104038b773de45b0401763/artifacts
+end_time: 1747444844539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7f7af9e1d104038b773de45b0401763
+run_name: sedate-fawn-73
+run_uuid: f7f7af9e1d104038b773de45b0401763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444838094
+status: 3
+tags: []
+user_id: runner
