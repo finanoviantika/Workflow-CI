@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/327d651bddf3417c89c8cb845155dfbc/artifacts
+end_time: 1747461367734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 327d651bddf3417c89c8cb845155dfbc
+run_name: clean-snake-948
+run_uuid: 327d651bddf3417c89c8cb845155dfbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747461361386
+status: 3
+tags: []
+user_id: runner
