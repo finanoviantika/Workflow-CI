@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be76ef85428b4fa0b0f6e259f00d2cde/artifacts
+end_time: 1747466674286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be76ef85428b4fa0b0f6e259f00d2cde
+run_name: thoughtful-calf-435
+run_uuid: be76ef85428b4fa0b0f6e259f00d2cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747466667928
+status: 3
+tags: []
+user_id: runner
