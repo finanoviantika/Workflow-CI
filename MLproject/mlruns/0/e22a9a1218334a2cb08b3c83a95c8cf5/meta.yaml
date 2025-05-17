@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e22a9a1218334a2cb08b3c83a95c8cf5/artifacts
+end_time: 1747462044560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22a9a1218334a2cb08b3c83a95c8cf5
+run_name: unruly-whale-749
+run_uuid: e22a9a1218334a2cb08b3c83a95c8cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747462038212
+status: 3
+tags: []
+user_id: runner
