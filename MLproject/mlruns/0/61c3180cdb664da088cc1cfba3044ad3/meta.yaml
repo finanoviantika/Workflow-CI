@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/61c3180cdb664da088cc1cfba3044ad3/artifacts
+end_time: 1747475958888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61c3180cdb664da088cc1cfba3044ad3
+run_name: brawny-doe-753
+run_uuid: 61c3180cdb664da088cc1cfba3044ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747475952587
+status: 3
+tags: []
+user_id: runner
