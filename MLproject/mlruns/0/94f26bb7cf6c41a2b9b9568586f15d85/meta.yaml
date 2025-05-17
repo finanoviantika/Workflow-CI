@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/94f26bb7cf6c41a2b9b9568586f15d85/artifacts
+end_time: 1747483188050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f26bb7cf6c41a2b9b9568586f15d85
+run_name: worried-cow-963
+run_uuid: 94f26bb7cf6c41a2b9b9568586f15d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747483181445
+status: 3
+tags: []
+user_id: runner
