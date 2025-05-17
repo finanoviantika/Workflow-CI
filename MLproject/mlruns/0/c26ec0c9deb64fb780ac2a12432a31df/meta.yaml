@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c26ec0c9deb64fb780ac2a12432a31df/artifacts
+end_time: 1747466869417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c26ec0c9deb64fb780ac2a12432a31df
+run_name: suave-fox-383
+run_uuid: c26ec0c9deb64fb780ac2a12432a31df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747466862919
+status: 3
+tags: []
+user_id: runner
