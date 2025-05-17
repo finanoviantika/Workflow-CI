@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/441ebe3ee3d542e5bfa8754d8fda4d37/artifacts
+end_time: 1747477320943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 441ebe3ee3d542e5bfa8754d8fda4d37
+run_name: nebulous-shad-725
+run_uuid: 441ebe3ee3d542e5bfa8754d8fda4d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747477314574
+status: 3
+tags: []
+user_id: runner
