@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ed08183ebc7144fc83aa89e23965003e/artifacts
+end_time: 1747477915101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed08183ebc7144fc83aa89e23965003e
+run_name: resilient-toad-81
+run_uuid: ed08183ebc7144fc83aa89e23965003e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747477908775
+status: 3
+tags: []
+user_id: runner
