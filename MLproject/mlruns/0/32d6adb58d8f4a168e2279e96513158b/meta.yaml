@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/32d6adb58d8f4a168e2279e96513158b/artifacts
+end_time: 1747490786133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32d6adb58d8f4a168e2279e96513158b
+run_name: adventurous-fish-446
+run_uuid: 32d6adb58d8f4a168e2279e96513158b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747490779733
+status: 3
+tags: []
+user_id: runner
