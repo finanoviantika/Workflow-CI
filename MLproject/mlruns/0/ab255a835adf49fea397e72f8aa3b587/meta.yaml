@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ab255a835adf49fea397e72f8aa3b587/artifacts
+end_time: 1747450300423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab255a835adf49fea397e72f8aa3b587
+run_name: receptive-auk-912
+run_uuid: ab255a835adf49fea397e72f8aa3b587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747450294089
+status: 3
+tags: []
+user_id: runner
