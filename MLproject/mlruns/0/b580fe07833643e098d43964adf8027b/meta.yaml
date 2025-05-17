@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b580fe07833643e098d43964adf8027b/artifacts
+end_time: 1747460279015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b580fe07833643e098d43964adf8027b
+run_name: painted-wren-991
+run_uuid: b580fe07833643e098d43964adf8027b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747460272704
+status: 3
+tags: []
+user_id: runner
