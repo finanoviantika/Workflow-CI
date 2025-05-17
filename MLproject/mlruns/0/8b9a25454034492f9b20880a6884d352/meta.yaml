@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8b9a25454034492f9b20880a6884d352/artifacts
+end_time: 1747445233503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b9a25454034492f9b20880a6884d352
+run_name: inquisitive-dove-795
+run_uuid: 8b9a25454034492f9b20880a6884d352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747445227109
+status: 3
+tags: []
+user_id: runner
