@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cac3170c2be743f0b14d1547d2888090/artifacts
+end_time: 1747448650432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cac3170c2be743f0b14d1547d2888090
+run_name: indecisive-rook-730
+run_uuid: cac3170c2be743f0b14d1547d2888090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747448644139
+status: 3
+tags: []
+user_id: runner
