@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be01a81043a04976b288f2c2209ebf77/artifacts
+end_time: 1747469132787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be01a81043a04976b288f2c2209ebf77
+run_name: stylish-hound-500
+run_uuid: be01a81043a04976b288f2c2209ebf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469126090
+status: 3
+tags: []
+user_id: runner
