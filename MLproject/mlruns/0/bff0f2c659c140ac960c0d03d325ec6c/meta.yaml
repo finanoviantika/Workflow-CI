@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bff0f2c659c140ac960c0d03d325ec6c/artifacts
+end_time: 1747485705393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bff0f2c659c140ac960c0d03d325ec6c
+run_name: gifted-ram-194
+run_uuid: bff0f2c659c140ac960c0d03d325ec6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747485698836
+status: 3
+tags: []
+user_id: runner
