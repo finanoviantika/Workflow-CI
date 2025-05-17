@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c801d2eb05b2455f8e4d4bab92e75738/artifacts
+end_time: 1747477123590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c801d2eb05b2455f8e4d4bab92e75738
+run_name: calm-wasp-362
+run_uuid: c801d2eb05b2455f8e4d4bab92e75738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747477117137
+status: 3
+tags: []
+user_id: runner
