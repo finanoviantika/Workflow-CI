@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d607e315c3cc4dc88720c839909ecf25/artifacts
+end_time: 1747486523560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d607e315c3cc4dc88720c839909ecf25
+run_name: illustrious-sow-47
+run_uuid: d607e315c3cc4dc88720c839909ecf25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747486517003
+status: 3
+tags: []
+user_id: runner
