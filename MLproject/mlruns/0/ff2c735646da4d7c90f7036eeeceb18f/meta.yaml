@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ff2c735646da4d7c90f7036eeeceb18f/artifacts
+end_time: 1747447384894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff2c735646da4d7c90f7036eeeceb18f
+run_name: victorious-mouse-255
+run_uuid: ff2c735646da4d7c90f7036eeeceb18f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447378605
+status: 3
+tags: []
+user_id: runner
