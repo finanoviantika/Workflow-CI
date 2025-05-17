@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d7e7cc05ea5b43e498ab222d920d3cd9/artifacts
+end_time: 1747445523032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e7cc05ea5b43e498ab222d920d3cd9
+run_name: bedecked-quail-207
+run_uuid: d7e7cc05ea5b43e498ab222d920d3cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747445516796
+status: 3
+tags: []
+user_id: runner
