@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/838ee59da6c54175a91fca7b58387d6d/artifacts
+end_time: 1747472480507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 838ee59da6c54175a91fca7b58387d6d
+run_name: righteous-squid-468
+run_uuid: 838ee59da6c54175a91fca7b58387d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472474164
+status: 3
+tags: []
+user_id: runner
