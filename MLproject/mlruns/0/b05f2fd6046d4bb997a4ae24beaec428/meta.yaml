@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b05f2fd6046d4bb997a4ae24beaec428/artifacts
+end_time: 1747455127506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b05f2fd6046d4bb997a4ae24beaec428
+run_name: brawny-roo-540
+run_uuid: b05f2fd6046d4bb997a4ae24beaec428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747455121079
+status: 3
+tags: []
+user_id: runner
