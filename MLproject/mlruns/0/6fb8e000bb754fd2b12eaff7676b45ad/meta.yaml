@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6fb8e000bb754fd2b12eaff7676b45ad/artifacts
+end_time: 1747440808575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fb8e000bb754fd2b12eaff7676b45ad
+run_name: debonair-lynx-959
+run_uuid: 6fb8e000bb754fd2b12eaff7676b45ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747440802077
+status: 3
+tags: []
+user_id: runner
