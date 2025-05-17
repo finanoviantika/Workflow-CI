@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9523525a5c6943f9b77e5021ce70f999/artifacts
+end_time: 1747472579279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9523525a5c6943f9b77e5021ce70f999
+run_name: popular-newt-707
+run_uuid: 9523525a5c6943f9b77e5021ce70f999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472572875
+status: 3
+tags: []
+user_id: runner
