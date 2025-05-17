@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/9017794b2e6e4c9cb715649bd8f652d2/artifacts
+end_time: 1747467162664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9017794b2e6e4c9cb715649bd8f652d2
+run_name: resilient-colt-536
+run_uuid: 9017794b2e6e4c9cb715649bd8f652d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747467156082
+status: 3
+tags: []
+user_id: runner
