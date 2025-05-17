@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba9f27074b934b9bb7e8d6cae14393ae/artifacts
+end_time: 1747452379401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9f27074b934b9bb7e8d6cae14393ae
+run_name: fun-loon-394
+run_uuid: ba9f27074b934b9bb7e8d6cae14393ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747452373041
+status: 3
+tags: []
+user_id: runner
