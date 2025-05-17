@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fb3bdd7618cb460088ec1c5115336ec7/artifacts
+end_time: 1747478693957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb3bdd7618cb460088ec1c5115336ec7
+run_name: salty-sponge-616
+run_uuid: fb3bdd7618cb460088ec1c5115336ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747478687618
+status: 3
+tags: []
+user_id: runner
