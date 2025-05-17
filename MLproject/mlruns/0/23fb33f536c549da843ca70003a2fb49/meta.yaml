@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/23fb33f536c549da843ca70003a2fb49/artifacts
+end_time: 1747447190910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23fb33f536c549da843ca70003a2fb49
+run_name: incongruous-mule-16
+run_uuid: 23fb33f536c549da843ca70003a2fb49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447184647
+status: 3
+tags: []
+user_id: runner
