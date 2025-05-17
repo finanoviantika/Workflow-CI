@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e5d77ca97e2c41e6a7562b8e8ae45304/artifacts
+end_time: 1747487720667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5d77ca97e2c41e6a7562b8e8ae45304
+run_name: fearless-tern-255
+run_uuid: e5d77ca97e2c41e6a7562b8e8ae45304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747487714469
+status: 3
+tags: []
+user_id: runner
