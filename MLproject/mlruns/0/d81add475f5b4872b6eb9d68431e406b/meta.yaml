@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d81add475f5b4872b6eb9d68431e406b/artifacts
+end_time: 1747444938429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d81add475f5b4872b6eb9d68431e406b
+run_name: delicate-goat-648
+run_uuid: d81add475f5b4872b6eb9d68431e406b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444931961
+status: 3
+tags: []
+user_id: runner
