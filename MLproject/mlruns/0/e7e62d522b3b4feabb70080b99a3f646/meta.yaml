@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e7e62d522b3b4feabb70080b99a3f646/artifacts
+end_time: 1747472188281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7e62d522b3b4feabb70080b99a3f646
+run_name: unleashed-ox-818
+run_uuid: e7e62d522b3b4feabb70080b99a3f646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472181759
+status: 3
+tags: []
+user_id: runner
