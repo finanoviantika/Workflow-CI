@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/62986869e65d4ded8197b7ce55974a61/artifacts
+end_time: 1747481019305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62986869e65d4ded8197b7ce55974a61
+run_name: calm-crow-355
+run_uuid: 62986869e65d4ded8197b7ce55974a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747481012900
+status: 3
+tags: []
+user_id: runner
