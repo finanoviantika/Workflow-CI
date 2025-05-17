@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/035a8d92ce8a4a5697c9c112331e22d4/artifacts
+end_time: 1747486929818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 035a8d92ce8a4a5697c9c112331e22d4
+run_name: gregarious-quail-407
+run_uuid: 035a8d92ce8a4a5697c9c112331e22d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747486923397
+status: 3
+tags: []
+user_id: runner
