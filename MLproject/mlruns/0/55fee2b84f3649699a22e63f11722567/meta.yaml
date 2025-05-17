@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/55fee2b84f3649699a22e63f11722567/artifacts
+end_time: 1747470823938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55fee2b84f3649699a22e63f11722567
+run_name: brawny-ox-703
+run_uuid: 55fee2b84f3649699a22e63f11722567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470817502
+status: 3
+tags: []
+user_id: runner
