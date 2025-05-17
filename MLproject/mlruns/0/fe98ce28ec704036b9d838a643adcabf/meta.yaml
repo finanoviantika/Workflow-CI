@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fe98ce28ec704036b9d838a643adcabf/artifacts
+end_time: 1747467365239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe98ce28ec704036b9d838a643adcabf
+run_name: resilient-horse-689
+run_uuid: fe98ce28ec704036b9d838a643adcabf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747467358795
+status: 3
+tags: []
+user_id: runner
