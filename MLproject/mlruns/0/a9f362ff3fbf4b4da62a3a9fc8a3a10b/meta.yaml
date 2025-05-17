@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a9f362ff3fbf4b4da62a3a9fc8a3a10b/artifacts
+end_time: 1747468157202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9f362ff3fbf4b4da62a3a9fc8a3a10b
+run_name: salty-stork-830
+run_uuid: a9f362ff3fbf4b4da62a3a9fc8a3a10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747468150736
+status: 3
+tags: []
+user_id: runner
