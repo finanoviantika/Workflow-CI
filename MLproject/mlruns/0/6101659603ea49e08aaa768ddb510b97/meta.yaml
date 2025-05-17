@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6101659603ea49e08aaa768ddb510b97/artifacts
+end_time: 1747480337908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6101659603ea49e08aaa768ddb510b97
+run_name: ambitious-cub-181
+run_uuid: 6101659603ea49e08aaa768ddb510b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747480331539
+status: 3
+tags: []
+user_id: runner
