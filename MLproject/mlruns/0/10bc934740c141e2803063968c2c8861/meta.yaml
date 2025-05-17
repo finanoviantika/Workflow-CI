@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/10bc934740c141e2803063968c2c8861/artifacts
+end_time: 1747449142578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10bc934740c141e2803063968c2c8861
+run_name: selective-smelt-236
+run_uuid: 10bc934740c141e2803063968c2c8861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747449136237
+status: 3
+tags: []
+user_id: runner
