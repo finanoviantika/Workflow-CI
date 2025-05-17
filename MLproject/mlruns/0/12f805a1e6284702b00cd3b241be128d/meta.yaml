@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/12f805a1e6284702b00cd3b241be128d/artifacts
+end_time: 1747480826217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f805a1e6284702b00cd3b241be128d
+run_name: valuable-elk-598
+run_uuid: 12f805a1e6284702b00cd3b241be128d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747480819702
+status: 3
+tags: []
+user_id: runner
