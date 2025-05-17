@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/bd5730095e0847cd9dc400147c53930a/artifacts
+end_time: 1747449917321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5730095e0847cd9dc400147c53930a
+run_name: blushing-snail-408
+run_uuid: bd5730095e0847cd9dc400147c53930a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747449910799
+status: 3
+tags: []
+user_id: runner
