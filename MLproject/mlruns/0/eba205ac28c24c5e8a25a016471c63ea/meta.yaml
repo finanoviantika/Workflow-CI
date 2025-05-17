@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/eba205ac28c24c5e8a25a016471c63ea/artifacts
+end_time: 1747473159837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eba205ac28c24c5e8a25a016471c63ea
+run_name: crawling-grub-763
+run_uuid: eba205ac28c24c5e8a25a016471c63ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747473153365
+status: 3
+tags: []
+user_id: runner
