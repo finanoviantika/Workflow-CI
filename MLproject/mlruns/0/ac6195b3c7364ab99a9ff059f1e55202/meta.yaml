@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ac6195b3c7364ab99a9ff059f1e55202/artifacts
+end_time: 1747466771052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6195b3c7364ab99a9ff059f1e55202
+run_name: calm-lynx-893
+run_uuid: ac6195b3c7364ab99a9ff059f1e55202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747466764356
+status: 3
+tags: []
+user_id: runner
