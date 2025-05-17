@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4f308d2d9cf4d8e96971c08f1739ddb/artifacts
+end_time: 1747464611601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4f308d2d9cf4d8e96971c08f1739ddb
+run_name: colorful-newt-130
+run_uuid: f4f308d2d9cf4d8e96971c08f1739ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747464605173
+status: 3
+tags: []
+user_id: runner
