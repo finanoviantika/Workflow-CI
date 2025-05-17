@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/edc2022734f149828c0f4ae4dc4d1a24/artifacts
+end_time: 1747468831964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edc2022734f149828c0f4ae4dc4d1a24
+run_name: respected-bear-941
+run_uuid: edc2022734f149828c0f4ae4dc4d1a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747468825357
+status: 3
+tags: []
+user_id: runner
