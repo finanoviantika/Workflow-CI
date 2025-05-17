@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5112fb77ef8a4979bd1edc18ffeb22d2/artifacts
+end_time: 1747469031497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5112fb77ef8a4979bd1edc18ffeb22d2
+run_name: dashing-snipe-381
+run_uuid: 5112fb77ef8a4979bd1edc18ffeb22d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469025144
+status: 3
+tags: []
+user_id: runner
