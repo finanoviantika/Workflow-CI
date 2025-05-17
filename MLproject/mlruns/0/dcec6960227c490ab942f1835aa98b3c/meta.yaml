@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/dcec6960227c490ab942f1835aa98b3c/artifacts
+end_time: 1747449529246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcec6960227c490ab942f1835aa98b3c
+run_name: enthused-stoat-503
+run_uuid: dcec6960227c490ab942f1835aa98b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747449522952
+status: 3
+tags: []
+user_id: runner
