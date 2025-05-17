@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/adebb59655944118b7925db8b2d7f8c5/artifacts
+end_time: 1747441296731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adebb59655944118b7925db8b2d7f8c5
+run_name: amazing-zebra-576
+run_uuid: adebb59655944118b7925db8b2d7f8c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747441290269
+status: 3
+tags: []
+user_id: runner
