@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0065701d22b84d0da5aade12ce066fcd/artifacts
+end_time: 1747472672392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0065701d22b84d0da5aade12ce066fcd
+run_name: capable-koi-807
+run_uuid: 0065701d22b84d0da5aade12ce066fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472666082
+status: 3
+tags: []
+user_id: runner
