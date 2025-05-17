@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2b2649c14c2645fe87c6b42e7354974b/artifacts
+end_time: 1747470129096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2649c14c2645fe87c6b42e7354974b
+run_name: sedate-crane-406
+run_uuid: 2b2649c14c2645fe87c6b42e7354974b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470122725
+status: 3
+tags: []
+user_id: runner
