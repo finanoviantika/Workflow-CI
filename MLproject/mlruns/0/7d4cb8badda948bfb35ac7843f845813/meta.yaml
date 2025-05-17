@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7d4cb8badda948bfb35ac7843f845813/artifacts
+end_time: 1747460668108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d4cb8badda948bfb35ac7843f845813
+run_name: angry-gnat-888
+run_uuid: 7d4cb8badda948bfb35ac7843f845813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747460661738
+status: 3
+tags: []
+user_id: runner
