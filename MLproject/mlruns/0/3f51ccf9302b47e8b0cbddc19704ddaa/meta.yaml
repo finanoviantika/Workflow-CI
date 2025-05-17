@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3f51ccf9302b47e8b0cbddc19704ddaa/artifacts
+end_time: 1747463221054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f51ccf9302b47e8b0cbddc19704ddaa
+run_name: spiffy-bird-391
+run_uuid: 3f51ccf9302b47e8b0cbddc19704ddaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747463214618
+status: 3
+tags: []
+user_id: runner
