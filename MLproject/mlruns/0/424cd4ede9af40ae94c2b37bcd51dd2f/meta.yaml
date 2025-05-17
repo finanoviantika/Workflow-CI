@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/424cd4ede9af40ae94c2b37bcd51dd2f/artifacts
+end_time: 1747478012824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 424cd4ede9af40ae94c2b37bcd51dd2f
+run_name: amusing-ram-875
+run_uuid: 424cd4ede9af40ae94c2b37bcd51dd2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747478006424
+status: 3
+tags: []
+user_id: runner
