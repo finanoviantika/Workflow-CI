@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/3543dc1da24a45ae826af00254eed1e0/artifacts
+end_time: 1747449722564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3543dc1da24a45ae826af00254eed1e0
+run_name: unruly-hawk-946
+run_uuid: 3543dc1da24a45ae826af00254eed1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747449716091
+status: 3
+tags: []
+user_id: runner
