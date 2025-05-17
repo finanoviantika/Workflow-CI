@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0c68ecbe1ccb4701abea70d375ff96f2/artifacts
+end_time: 1747450600441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c68ecbe1ccb4701abea70d375ff96f2
+run_name: amazing-lark-778
+run_uuid: 0c68ecbe1ccb4701abea70d375ff96f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747450593640
+status: 3
+tags: []
+user_id: runner
