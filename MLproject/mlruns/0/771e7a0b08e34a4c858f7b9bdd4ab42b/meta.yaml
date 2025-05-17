@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/771e7a0b08e34a4c858f7b9bdd4ab42b/artifacts
+end_time: 1747443478101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 771e7a0b08e34a4c858f7b9bdd4ab42b
+run_name: shivering-colt-791
+run_uuid: 771e7a0b08e34a4c858f7b9bdd4ab42b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443471764
+status: 3
+tags: []
+user_id: runner
