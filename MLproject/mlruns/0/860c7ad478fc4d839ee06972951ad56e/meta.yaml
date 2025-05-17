@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/860c7ad478fc4d839ee06972951ad56e/artifacts
+end_time: 1747490888231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860c7ad478fc4d839ee06972951ad56e
+run_name: tasteful-hawk-226
+run_uuid: 860c7ad478fc4d839ee06972951ad56e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747490881829
+status: 3
+tags: []
+user_id: runner
