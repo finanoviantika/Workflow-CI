@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e6d958fed77141ddb8439ad522519ac3/artifacts
+end_time: 1747445427997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6d958fed77141ddb8439ad522519ac3
+run_name: nimble-croc-988
+run_uuid: e6d958fed77141ddb8439ad522519ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747445421676
+status: 3
+tags: []
+user_id: runner
