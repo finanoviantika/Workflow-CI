@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b1f2b69207b6461db51b4522e94129ac/artifacts
+end_time: 1747468445639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1f2b69207b6461db51b4522e94129ac
+run_name: charming-bat-215
+run_uuid: b1f2b69207b6461db51b4522e94129ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747468439167
+status: 3
+tags: []
+user_id: runner
