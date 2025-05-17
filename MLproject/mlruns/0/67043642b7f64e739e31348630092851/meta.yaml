@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/67043642b7f64e739e31348630092851/artifacts
+end_time: 1747490592559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67043642b7f64e739e31348630092851
+run_name: polite-gnat-767
+run_uuid: 67043642b7f64e739e31348630092851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747490586083
+status: 3
+tags: []
+user_id: runner
