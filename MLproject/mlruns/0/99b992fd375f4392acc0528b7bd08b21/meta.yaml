@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/99b992fd375f4392acc0528b7bd08b21/artifacts
+end_time: 1747463021200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99b992fd375f4392acc0528b7bd08b21
+run_name: likeable-tern-44
+run_uuid: 99b992fd375f4392acc0528b7bd08b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747463014797
+status: 3
+tags: []
+user_id: runner
