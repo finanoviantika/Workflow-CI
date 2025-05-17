@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f4d41d18987345d29e855e14f4cc9b39/artifacts
+end_time: 1747471604622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4d41d18987345d29e855e14f4cc9b39
+run_name: defiant-goose-455
+run_uuid: f4d41d18987345d29e855e14f4cc9b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747471597932
+status: 3
+tags: []
+user_id: runner
