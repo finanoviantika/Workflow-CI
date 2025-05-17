@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/acb462e3f9fc4d1bb1fccbf090e9d2f3/artifacts
+end_time: 1747492194085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb462e3f9fc4d1bb1fccbf090e9d2f3
+run_name: bedecked-grub-644
+run_uuid: acb462e3f9fc4d1bb1fccbf090e9d2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747492187495
+status: 3
+tags: []
+user_id: runner
