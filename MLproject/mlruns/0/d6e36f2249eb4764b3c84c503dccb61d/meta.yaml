@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d6e36f2249eb4764b3c84c503dccb61d/artifacts
+end_time: 1747481213224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6e36f2249eb4764b3c84c503dccb61d
+run_name: thoughtful-finch-803
+run_uuid: d6e36f2249eb4764b3c84c503dccb61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747481206803
+status: 3
+tags: []
+user_id: runner
