@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/be6ecd901d9b40288f50e482c7f7ceeb/artifacts
+end_time: 1747479855679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be6ecd901d9b40288f50e482c7f7ceeb
+run_name: smiling-hen-107
+run_uuid: be6ecd901d9b40288f50e482c7f7ceeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747479849247
+status: 3
+tags: []
+user_id: runner
