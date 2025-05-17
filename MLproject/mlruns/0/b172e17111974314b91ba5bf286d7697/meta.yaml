@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b172e17111974314b91ba5bf286d7697/artifacts
+end_time: 1747478884742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b172e17111974314b91ba5bf286d7697
+run_name: ambitious-loon-696
+run_uuid: b172e17111974314b91ba5bf286d7697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747478878151
+status: 3
+tags: []
+user_id: runner
