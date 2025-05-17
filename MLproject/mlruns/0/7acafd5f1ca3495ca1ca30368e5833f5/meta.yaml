@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/7acafd5f1ca3495ca1ca30368e5833f5/artifacts
+end_time: 1747451497228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7acafd5f1ca3495ca1ca30368e5833f5
+run_name: redolent-crow-47
+run_uuid: 7acafd5f1ca3495ca1ca30368e5833f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747451490868
+status: 3
+tags: []
+user_id: runner
