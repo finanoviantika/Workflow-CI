@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a469619a728a480aa6fd2be6cee3ed94/artifacts
+end_time: 1747443956039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a469619a728a480aa6fd2be6cee3ed94
+run_name: luminous-sheep-278
+run_uuid: a469619a728a480aa6fd2be6cee3ed94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747443949611
+status: 3
+tags: []
+user_id: runner
