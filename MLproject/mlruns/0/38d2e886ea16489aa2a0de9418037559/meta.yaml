@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/38d2e886ea16489aa2a0de9418037559/artifacts
+end_time: 1747460379436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38d2e886ea16489aa2a0de9418037559
+run_name: grandiose-skink-113
+run_uuid: 38d2e886ea16489aa2a0de9418037559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747460373055
+status: 3
+tags: []
+user_id: runner
