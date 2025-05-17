@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2ef786b793bc47bfa7899a6bb1354c32/artifacts
+end_time: 1747445033552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ef786b793bc47bfa7899a6bb1354c32
+run_name: bedecked-doe-651
+run_uuid: 2ef786b793bc47bfa7899a6bb1354c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747445027285
+status: 3
+tags: []
+user_id: runner
