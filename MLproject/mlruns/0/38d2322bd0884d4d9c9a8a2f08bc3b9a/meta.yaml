@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/38d2322bd0884d4d9c9a8a2f08bc3b9a/artifacts
+end_time: 1747458227665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38d2322bd0884d4d9c9a8a2f08bc3b9a
+run_name: victorious-owl-210
+run_uuid: 38d2322bd0884d4d9c9a8a2f08bc3b9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747458221369
+status: 3
+tags: []
+user_id: runner
