@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/884fa60ca68942d497c0ea0cf2cf5808/artifacts
+end_time: 1747466964040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 884fa60ca68942d497c0ea0cf2cf5808
+run_name: burly-crab-645
+run_uuid: 884fa60ca68942d497c0ea0cf2cf5808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747466957721
+status: 3
+tags: []
+user_id: runner
