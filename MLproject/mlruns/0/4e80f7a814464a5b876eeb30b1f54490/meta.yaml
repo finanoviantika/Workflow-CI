@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4e80f7a814464a5b876eeb30b1f54490/artifacts
+end_time: 1747464212724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e80f7a814464a5b876eeb30b1f54490
+run_name: angry-dolphin-457
+run_uuid: 4e80f7a814464a5b876eeb30b1f54490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747464206301
+status: 3
+tags: []
+user_id: runner
