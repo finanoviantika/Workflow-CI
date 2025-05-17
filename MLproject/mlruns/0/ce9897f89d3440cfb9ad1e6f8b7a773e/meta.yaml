@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ce9897f89d3440cfb9ad1e6f8b7a773e/artifacts
+end_time: 1747474596287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce9897f89d3440cfb9ad1e6f8b7a773e
+run_name: rumbling-sheep-776
+run_uuid: ce9897f89d3440cfb9ad1e6f8b7a773e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747474589799
+status: 3
+tags: []
+user_id: runner
