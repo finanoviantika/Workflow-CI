@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/30ae6420341a40579743bb91eb15a121/artifacts
+end_time: 1747469644029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30ae6420341a40579743bb91eb15a121
+run_name: delightful-shad-751
+run_uuid: 30ae6420341a40579743bb91eb15a121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469637465
+status: 3
+tags: []
+user_id: runner
