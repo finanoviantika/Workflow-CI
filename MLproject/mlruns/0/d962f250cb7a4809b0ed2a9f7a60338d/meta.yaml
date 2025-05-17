@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d962f250cb7a4809b0ed2a9f7a60338d/artifacts
+end_time: 1747486317843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d962f250cb7a4809b0ed2a9f7a60338d
+run_name: traveling-ant-130
+run_uuid: d962f250cb7a4809b0ed2a9f7a60338d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747486311122
+status: 3
+tags: []
+user_id: runner
