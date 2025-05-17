@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/db0011ef414844cab8ef34e01df1034b/artifacts
+end_time: 1747474212801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db0011ef414844cab8ef34e01df1034b
+run_name: unique-zebra-204
+run_uuid: db0011ef414844cab8ef34e01df1034b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747474206406
+status: 3
+tags: []
+user_id: runner
