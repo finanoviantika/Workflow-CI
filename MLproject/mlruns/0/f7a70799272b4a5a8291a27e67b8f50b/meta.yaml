@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f7a70799272b4a5a8291a27e67b8f50b/artifacts
+end_time: 1747476149300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7a70799272b4a5a8291a27e67b8f50b
+run_name: colorful-auk-240
+run_uuid: f7a70799272b4a5a8291a27e67b8f50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747476142907
+status: 3
+tags: []
+user_id: runner
