@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e0c65e5d4a5945a99911d7698f628f71/artifacts
+end_time: 1747479267243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0c65e5d4a5945a99911d7698f628f71
+run_name: trusting-snail-389
+run_uuid: e0c65e5d4a5945a99911d7698f628f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747479260978
+status: 3
+tags: []
+user_id: runner
