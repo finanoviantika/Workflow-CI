@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/41134808304a491e9f070b3403a582fe/artifacts
+end_time: 1747492484062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41134808304a491e9f070b3403a582fe
+run_name: bright-ant-833
+run_uuid: 41134808304a491e9f070b3403a582fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747492477718
+status: 3
+tags: []
+user_id: runner
