@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5ff9317aa4234c8faf4b7caa1974a483/artifacts
+end_time: 1747447572346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff9317aa4234c8faf4b7caa1974a483
+run_name: stately-calf-943
+run_uuid: 5ff9317aa4234c8faf4b7caa1974a483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447566048
+status: 3
+tags: []
+user_id: runner
