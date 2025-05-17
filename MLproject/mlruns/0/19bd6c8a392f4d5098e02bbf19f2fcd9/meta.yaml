@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/19bd6c8a392f4d5098e02bbf19f2fcd9/artifacts
+end_time: 1747452475069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19bd6c8a392f4d5098e02bbf19f2fcd9
+run_name: dazzling-duck-708
+run_uuid: 19bd6c8a392f4d5098e02bbf19f2fcd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747452468465
+status: 3
+tags: []
+user_id: runner
