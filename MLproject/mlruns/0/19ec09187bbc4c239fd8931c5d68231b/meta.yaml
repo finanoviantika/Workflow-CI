@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/19ec09187bbc4c239fd8931c5d68231b/artifacts
+end_time: 1747448171096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19ec09187bbc4c239fd8931c5d68231b
+run_name: intrigued-lamb-571
+run_uuid: 19ec09187bbc4c239fd8931c5d68231b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747448164591
+status: 3
+tags: []
+user_id: runner
