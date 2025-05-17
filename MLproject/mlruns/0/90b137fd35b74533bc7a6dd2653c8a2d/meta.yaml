@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/90b137fd35b74533bc7a6dd2653c8a2d/artifacts
+end_time: 1747482885940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90b137fd35b74533bc7a6dd2653c8a2d
+run_name: legendary-stoat-647
+run_uuid: 90b137fd35b74533bc7a6dd2653c8a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747482879429
+status: 3
+tags: []
+user_id: runner
