@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f338ce4745014879bc50f379cdb8dc98/artifacts
+end_time: 1747463618004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f338ce4745014879bc50f379cdb8dc98
+run_name: colorful-shrike-700
+run_uuid: f338ce4745014879bc50f379cdb8dc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747463611682
+status: 3
+tags: []
+user_id: runner
