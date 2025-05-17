@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ad1c58373c4248e68e6443b7527178d5/artifacts
+end_time: 1747447480519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad1c58373c4248e68e6443b7527178d5
+run_name: inquisitive-hare-988
+run_uuid: ad1c58373c4248e68e6443b7527178d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447474196
+status: 3
+tags: []
+user_id: runner
