@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/190499c782b145b4a8e434a16433cae5/artifacts
+end_time: 1747456678565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 190499c782b145b4a8e434a16433cae5
+run_name: judicious-pig-298
+run_uuid: 190499c782b145b4a8e434a16433cae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747456672154
+status: 3
+tags: []
+user_id: runner
