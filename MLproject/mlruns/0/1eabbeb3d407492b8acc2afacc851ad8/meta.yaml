@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1eabbeb3d407492b8acc2afacc851ad8/artifacts
+end_time: 1747480536016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eabbeb3d407492b8acc2afacc851ad8
+run_name: intrigued-mule-255
+run_uuid: 1eabbeb3d407492b8acc2afacc851ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747480529644
+status: 3
+tags: []
+user_id: runner
