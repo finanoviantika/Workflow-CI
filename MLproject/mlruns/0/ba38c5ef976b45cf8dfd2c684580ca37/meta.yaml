@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba38c5ef976b45cf8dfd2c684580ca37/artifacts
+end_time: 1747472867736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba38c5ef976b45cf8dfd2c684580ca37
+run_name: salty-yak-307
+run_uuid: ba38c5ef976b45cf8dfd2c684580ca37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747472861290
+status: 3
+tags: []
+user_id: runner
