@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1c73661827a94da59c86d4c5aba52499/artifacts
+end_time: 1747474019869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c73661827a94da59c86d4c5aba52499
+run_name: adorable-seal-949
+run_uuid: 1c73661827a94da59c86d4c5aba52499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747474013448
+status: 3
+tags: []
+user_id: runner
