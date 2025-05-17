@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d2b4e9fb92f0414dba11a5ec00dc366d/artifacts
+end_time: 1747479757481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2b4e9fb92f0414dba11a5ec00dc366d
+run_name: thundering-fish-746
+run_uuid: d2b4e9fb92f0414dba11a5ec00dc366d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747479751143
+status: 3
+tags: []
+user_id: runner
