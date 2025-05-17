@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/5ab73d5f27584ffaa0a6c37ab5510a40/artifacts
+end_time: 1747474987544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ab73d5f27584ffaa0a6c37ab5510a40
+run_name: aged-tern-347
+run_uuid: 5ab73d5f27584ffaa0a6c37ab5510a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747474981277
+status: 3
+tags: []
+user_id: runner
