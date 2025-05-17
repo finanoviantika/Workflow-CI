@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/726bd54d6e094521b72c677859aae8e3/artifacts
+end_time: 1747444744228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 726bd54d6e094521b72c677859aae8e3
+run_name: judicious-stag-373
+run_uuid: 726bd54d6e094521b72c677859aae8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444737867
+status: 3
+tags: []
+user_id: runner
