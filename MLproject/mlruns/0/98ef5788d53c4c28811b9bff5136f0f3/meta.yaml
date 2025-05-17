@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/98ef5788d53c4c28811b9bff5136f0f3/artifacts
+end_time: 1747490989781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98ef5788d53c4c28811b9bff5136f0f3
+run_name: defiant-mare-963
+run_uuid: 98ef5788d53c4c28811b9bff5136f0f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747490983338
+status: 3
+tags: []
+user_id: runner
