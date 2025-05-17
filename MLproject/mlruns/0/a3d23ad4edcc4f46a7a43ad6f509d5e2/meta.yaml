@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/a3d23ad4edcc4f46a7a43ad6f509d5e2/artifacts
+end_time: 1747456484494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3d23ad4edcc4f46a7a43ad6f509d5e2
+run_name: serious-sheep-186
+run_uuid: a3d23ad4edcc4f46a7a43ad6f509d5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747456478130
+status: 3
+tags: []
+user_id: runner
