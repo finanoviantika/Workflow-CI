@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/c00403c3b4b24b3a9189db73f4b3df46/artifacts
+end_time: 1747460870941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c00403c3b4b24b3a9189db73f4b3df46
+run_name: resilient-finch-874
+run_uuid: c00403c3b4b24b3a9189db73f4b3df46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747460864343
+status: 3
+tags: []
+user_id: runner
