@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/b1db0579c10a47e0823138c8754ad340/artifacts
+end_time: 1747466284843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1db0579c10a47e0823138c8754ad340
+run_name: mercurial-fly-421
+run_uuid: b1db0579c10a47e0823138c8754ad340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747466278373
+status: 3
+tags: []
+user_id: runner
