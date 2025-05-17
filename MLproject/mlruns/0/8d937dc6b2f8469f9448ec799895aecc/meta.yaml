@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8d937dc6b2f8469f9448ec799895aecc/artifacts
+end_time: 1747465105434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d937dc6b2f8469f9448ec799895aecc
+run_name: popular-koi-746
+run_uuid: 8d937dc6b2f8469f9448ec799895aecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747465098967
+status: 3
+tags: []
+user_id: runner
