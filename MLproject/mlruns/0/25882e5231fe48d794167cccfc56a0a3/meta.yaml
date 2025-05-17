@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/25882e5231fe48d794167cccfc56a0a3/artifacts
+end_time: 1747484604576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25882e5231fe48d794167cccfc56a0a3
+run_name: abundant-panda-565
+run_uuid: 25882e5231fe48d794167cccfc56a0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747484598177
+status: 3
+tags: []
+user_id: runner
