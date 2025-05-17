@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/f45e98aac9e94f26954f44504b32475a/artifacts
+end_time: 1747485004738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f45e98aac9e94f26954f44504b32475a
+run_name: selective-flea-337
+run_uuid: f45e98aac9e94f26954f44504b32475a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747484998258
+status: 3
+tags: []
+user_id: runner
