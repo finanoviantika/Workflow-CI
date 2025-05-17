@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/1e02adba6c4546adbc0443b63231d169/artifacts
+end_time: 1747491389135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e02adba6c4546adbc0443b63231d169
+run_name: masked-fox-281
+run_uuid: 1e02adba6c4546adbc0443b63231d169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747491382715
+status: 3
+tags: []
+user_id: runner
