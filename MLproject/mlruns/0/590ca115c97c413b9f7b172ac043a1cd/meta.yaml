@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/590ca115c97c413b9f7b172ac043a1cd/artifacts
+end_time: 1747457936626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 590ca115c97c413b9f7b172ac043a1cd
+run_name: shivering-snake-395
+run_uuid: 590ca115c97c413b9f7b172ac043a1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747457930031
+status: 3
+tags: []
+user_id: runner
