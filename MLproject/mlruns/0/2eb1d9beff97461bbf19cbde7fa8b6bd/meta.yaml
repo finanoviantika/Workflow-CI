@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2eb1d9beff97461bbf19cbde7fa8b6bd/artifacts
+end_time: 1747447763360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eb1d9beff97461bbf19cbde7fa8b6bd
+run_name: learned-bee-696
+run_uuid: 2eb1d9beff97461bbf19cbde7fa8b6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747447757100
+status: 3
+tags: []
+user_id: runner
