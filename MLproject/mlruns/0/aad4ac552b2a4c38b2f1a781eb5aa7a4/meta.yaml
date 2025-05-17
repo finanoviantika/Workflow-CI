@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/aad4ac552b2a4c38b2f1a781eb5aa7a4/artifacts
+end_time: 1747452286969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aad4ac552b2a4c38b2f1a781eb5aa7a4
+run_name: chill-hawk-166
+run_uuid: aad4ac552b2a4c38b2f1a781eb5aa7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747452280478
+status: 3
+tags: []
+user_id: runner
