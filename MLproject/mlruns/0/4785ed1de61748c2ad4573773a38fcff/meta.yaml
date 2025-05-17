@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4785ed1de61748c2ad4573773a38fcff/artifacts
+end_time: 1747470324981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4785ed1de61748c2ad4573773a38fcff
+run_name: selective-turtle-10
+run_uuid: 4785ed1de61748c2ad4573773a38fcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747470318622
+status: 3
+tags: []
+user_id: runner
