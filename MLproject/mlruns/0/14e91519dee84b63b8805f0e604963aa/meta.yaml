@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/14e91519dee84b63b8805f0e604963aa/artifacts
+end_time: 1747467066197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14e91519dee84b63b8805f0e604963aa
+run_name: stately-gnu-107
+run_uuid: 14e91519dee84b63b8805f0e604963aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747467059594
+status: 3
+tags: []
+user_id: runner
