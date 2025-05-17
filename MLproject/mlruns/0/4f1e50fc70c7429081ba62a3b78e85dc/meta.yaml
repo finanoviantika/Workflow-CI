@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4f1e50fc70c7429081ba62a3b78e85dc/artifacts
+end_time: 1747488810204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f1e50fc70c7429081ba62a3b78e85dc
+run_name: enchanting-snail-873
+run_uuid: 4f1e50fc70c7429081ba62a3b78e85dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747488803822
+status: 3
+tags: []
+user_id: runner
