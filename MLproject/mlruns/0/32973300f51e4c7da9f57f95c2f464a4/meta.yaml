@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/32973300f51e4c7da9f57f95c2f464a4/artifacts
+end_time: 1747471505432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32973300f51e4c7da9f57f95c2f464a4
+run_name: nebulous-squid-673
+run_uuid: 32973300f51e4c7da9f57f95c2f464a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747471499030
+status: 3
+tags: []
+user_id: runner
