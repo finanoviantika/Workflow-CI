@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6cfc732b365047639e4db1cec026652a/artifacts
+end_time: 1747455224925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cfc732b365047639e4db1cec026652a
+run_name: funny-koi-823
+run_uuid: 6cfc732b365047639e4db1cec026652a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747455218569
+status: 3
+tags: []
+user_id: runner
