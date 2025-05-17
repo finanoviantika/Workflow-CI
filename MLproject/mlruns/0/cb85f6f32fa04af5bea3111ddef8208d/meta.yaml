@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cb85f6f32fa04af5bea3111ddef8208d/artifacts
+end_time: 1747485902118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb85f6f32fa04af5bea3111ddef8208d
+run_name: incongruous-wren-10
+run_uuid: cb85f6f32fa04af5bea3111ddef8208d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747485895722
+status: 3
+tags: []
+user_id: runner
