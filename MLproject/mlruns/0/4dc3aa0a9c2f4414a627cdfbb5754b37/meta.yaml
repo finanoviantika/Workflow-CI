@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/4dc3aa0a9c2f4414a627cdfbb5754b37/artifacts
+end_time: 1747478399341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc3aa0a9c2f4414a627cdfbb5754b37
+run_name: amusing-squirrel-75
+run_uuid: 4dc3aa0a9c2f4414a627cdfbb5754b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747478392409
+status: 3
+tags: []
+user_id: runner
