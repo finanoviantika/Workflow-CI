@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fa9dc8788a9244aeaf8ebf29789193fb/artifacts
+end_time: 1747475283593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa9dc8788a9244aeaf8ebf29789193fb
+run_name: rogue-steed-756
+run_uuid: fa9dc8788a9244aeaf8ebf29789193fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747475277155
+status: 3
+tags: []
+user_id: runner
