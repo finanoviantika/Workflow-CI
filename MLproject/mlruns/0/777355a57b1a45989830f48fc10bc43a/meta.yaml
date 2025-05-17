@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/777355a57b1a45989830f48fc10bc43a/artifacts
+end_time: 1747488410717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 777355a57b1a45989830f48fc10bc43a
+run_name: languid-dolphin-748
+run_uuid: 777355a57b1a45989830f48fc10bc43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747488403673
+status: 3
+tags: []
+user_id: runner
