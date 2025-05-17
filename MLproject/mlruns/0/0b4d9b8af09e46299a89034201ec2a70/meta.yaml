@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/0b4d9b8af09e46299a89034201ec2a70/artifacts
+end_time: 1747440616254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b4d9b8af09e46299a89034201ec2a70
+run_name: stylish-gull-674
+run_uuid: 0b4d9b8af09e46299a89034201ec2a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747440609771
+status: 3
+tags: []
+user_id: runner
