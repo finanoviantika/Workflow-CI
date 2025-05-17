@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2a8f1726883d42cdbd3aa2048d1345dd/artifacts
+end_time: 1747464898858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a8f1726883d42cdbd3aa2048d1345dd
+run_name: glamorous-crane-958
+run_uuid: 2a8f1726883d42cdbd3aa2048d1345dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747464892402
+status: 3
+tags: []
+user_id: runner
