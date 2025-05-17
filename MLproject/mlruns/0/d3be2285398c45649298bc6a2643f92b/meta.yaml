@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/d3be2285398c45649298bc6a2643f92b/artifacts
+end_time: 1747469245748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3be2285398c45649298bc6a2643f92b
+run_name: omniscient-perch-161
+run_uuid: d3be2285398c45649298bc6a2643f92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469239387
+status: 3
+tags: []
+user_id: runner
