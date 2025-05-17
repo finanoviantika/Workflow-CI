@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/06cef96f1135435bb8320a32626ff79c/artifacts
+end_time: 1747453364266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06cef96f1135435bb8320a32626ff79c
+run_name: angry-cat-683
+run_uuid: 06cef96f1135435bb8320a32626ff79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747453357855
+status: 3
+tags: []
+user_id: runner
