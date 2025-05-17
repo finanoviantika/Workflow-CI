@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e7f02d6ecf1c46f59f3221c730889a60/artifacts
+end_time: 1747485805901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7f02d6ecf1c46f59f3221c730889a60
+run_name: lyrical-cub-564
+run_uuid: e7f02d6ecf1c46f59f3221c730889a60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747485799504
+status: 3
+tags: []
+user_id: runner
