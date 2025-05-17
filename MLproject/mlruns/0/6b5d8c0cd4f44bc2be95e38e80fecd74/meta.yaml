@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/6b5d8c0cd4f44bc2be95e38e80fecd74/artifacts
+end_time: 1747473064967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b5d8c0cd4f44bc2be95e38e80fecd74
+run_name: adorable-bug-382
+run_uuid: 6b5d8c0cd4f44bc2be95e38e80fecd74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747473058591
+status: 3
+tags: []
+user_id: runner
