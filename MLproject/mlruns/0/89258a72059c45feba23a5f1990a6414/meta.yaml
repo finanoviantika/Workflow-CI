@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/89258a72059c45feba23a5f1990a6414/artifacts
+end_time: 1747444053239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89258a72059c45feba23a5f1990a6414
+run_name: abundant-elk-618
+run_uuid: 89258a72059c45feba23a5f1990a6414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444046744
+status: 3
+tags: []
+user_id: runner
