@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/8f15b7067d124ea693616511ee83b755/artifacts
+end_time: 1747483786404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f15b7067d124ea693616511ee83b755
+run_name: treasured-fox-880
+run_uuid: 8f15b7067d124ea693616511ee83b755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747483779915
+status: 3
+tags: []
+user_id: runner
