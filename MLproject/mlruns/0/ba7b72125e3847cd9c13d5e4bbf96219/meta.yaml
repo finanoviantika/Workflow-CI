@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/ba7b72125e3847cd9c13d5e4bbf96219/artifacts
+end_time: 1747462334385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba7b72125e3847cd9c13d5e4bbf96219
+run_name: skillful-stork-713
+run_uuid: ba7b72125e3847cd9c13d5e4bbf96219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747462328044
+status: 3
+tags: []
+user_id: runner
