@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/04037353861048a396f0d441c6cf135a/artifacts
+end_time: 1747483688925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04037353861048a396f0d441c6cf135a
+run_name: gifted-ray-106
+run_uuid: 04037353861048a396f0d441c6cf135a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747483682311
+status: 3
+tags: []
+user_id: runner
