@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/76b49c318963488588c49203cc59658d/artifacts
+end_time: 1747477419196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76b49c318963488588c49203cc59658d
+run_name: adventurous-crab-407
+run_uuid: 76b49c318963488588c49203cc59658d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747477412765
+status: 3
+tags: []
+user_id: runner
