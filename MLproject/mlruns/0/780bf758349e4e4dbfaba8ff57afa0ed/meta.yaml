@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/780bf758349e4e4dbfaba8ff57afa0ed/artifacts
+end_time: 1747458423661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780bf758349e4e4dbfaba8ff57afa0ed
+run_name: puzzled-fox-822
+run_uuid: 780bf758349e4e4dbfaba8ff57afa0ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747458416712
+status: 3
+tags: []
+user_id: runner
