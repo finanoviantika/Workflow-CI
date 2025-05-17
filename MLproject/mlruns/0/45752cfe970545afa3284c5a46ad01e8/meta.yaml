@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/45752cfe970545afa3284c5a46ad01e8/artifacts
+end_time: 1747448460153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45752cfe970545afa3284c5a46ad01e8
+run_name: bemused-cub-23
+run_uuid: 45752cfe970545afa3284c5a46ad01e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747448453911
+status: 3
+tags: []
+user_id: runner
