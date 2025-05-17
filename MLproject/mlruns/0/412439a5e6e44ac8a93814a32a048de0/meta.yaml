@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/412439a5e6e44ac8a93814a32a048de0/artifacts
+end_time: 1747492583816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 412439a5e6e44ac8a93814a32a048de0
+run_name: capable-panda-629
+run_uuid: 412439a5e6e44ac8a93814a32a048de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747492577258
+status: 3
+tags: []
+user_id: runner
