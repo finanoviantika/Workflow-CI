@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/2e1b91640002428d9454390156f8bd14/artifacts
+end_time: 1747482391123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e1b91640002428d9454390156f8bd14
+run_name: fortunate-slug-598
+run_uuid: 2e1b91640002428d9454390156f8bd14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747482384997
+status: 3
+tags: []
+user_id: runner
