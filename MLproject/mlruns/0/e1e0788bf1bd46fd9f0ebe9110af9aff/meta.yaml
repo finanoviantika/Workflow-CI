@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/e1e0788bf1bd46fd9f0ebe9110af9aff/artifacts
+end_time: 1747454447823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1e0788bf1bd46fd9f0ebe9110af9aff
+run_name: upbeat-mink-396
+run_uuid: e1e0788bf1bd46fd9f0ebe9110af9aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747454441431
+status: 3
+tags: []
+user_id: runner
