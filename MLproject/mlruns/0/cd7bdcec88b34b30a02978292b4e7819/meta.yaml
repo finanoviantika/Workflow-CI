@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/cd7bdcec88b34b30a02978292b4e7819/artifacts
+end_time: 1747444149661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7bdcec88b34b30a02978292b4e7819
+run_name: trusting-fowl-460
+run_uuid: cd7bdcec88b34b30a02978292b4e7819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747444143206
+status: 3
+tags: []
+user_id: runner
