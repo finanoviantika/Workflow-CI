@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/fca270c6cfdc4a69b39cc9b950ac0781/artifacts
+end_time: 1747451690829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fca270c6cfdc4a69b39cc9b950ac0781
+run_name: clumsy-rat-458
+run_uuid: fca270c6cfdc4a69b39cc9b950ac0781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747451684450
+status: 3
+tags: []
+user_id: runner
