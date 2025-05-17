@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/23b2359b45134014adfb0a2538ceadef/artifacts
+end_time: 1747469547981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b2359b45134014adfb0a2538ceadef
+run_name: tasteful-cod-448
+run_uuid: 23b2359b45134014adfb0a2538ceadef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747469541635
+status: 3
+tags: []
+user_id: runner
