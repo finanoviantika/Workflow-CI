@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/af318916d263445abad4d911ce3c1d8e/artifacts
+end_time: 1747448073524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af318916d263445abad4d911ce3c1d8e
+run_name: awesome-crow-191
+run_uuid: af318916d263445abad4d911ce3c1d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747448067154
+status: 3
+tags: []
+user_id: runner
