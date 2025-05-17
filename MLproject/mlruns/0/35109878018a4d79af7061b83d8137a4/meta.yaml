@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLproject/mlruns/0/35109878018a4d79af7061b83d8137a4/artifacts
+end_time: 1747482194147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35109878018a4d79af7061b83d8137a4
+run_name: gentle-panda-50
+run_uuid: 35109878018a4d79af7061b83d8137a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747482187586
+status: 3
+tags: []
+user_id: runner
